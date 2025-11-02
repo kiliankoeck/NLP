@@ -6,9 +6,6 @@ from nltk.tokenize import sent_tokenize
 nltk.download('punkt')
 nltk.download('punkt_tab')
 
-
-
-
 input_dir = Path("../data/plain_text")
 output_dir = Path("../data/sentence_tokenized")
 

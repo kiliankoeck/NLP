@@ -1,0 +1,2196 @@
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 1
+# text = Hohes Haus!
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Hohes                Hohes                ADJ      ADJA     _      2      nk         _      _     
+2    Haus                 Haus                 NOUN     NN       _      0      ROOT       _      _     
+3    !                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 2
+# text = Ich eröffne die 726. Sitzung des Bundesrates.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    eröffne              eröffnen             VERB     VVFIN    _      0      ROOT       _      _     
+3    die                  der                  DET      ART      _      5      nk         _      _     
+4    726.                 726.                 ADJ      ADJA     _      5      nk         _      _     
+5    Sitzung              Sitzung              NOUN     NN       _      2      oa         _      _     
+6    des                  der                  DET      ART      _      7      nk         _      _     
+7    Bundesrates          Bundesrat            NOUN     NN       _      5      ag         _      _     
+8    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 3
+# text = Meine sehr geehrten Damen und Herren, ich möchte Sie alle herzlich willkommen heißen, besonders natürlich all jene, die heute feierlich zum ersten Mal hier im Bundesrat Platz genommen haben.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Meine                mein                 DET      PPOSAT   _      4      nk         _      _     
+2    sehr                 sehr                 ADV      ADV      _      3      mo         _      _     
+3    geehrten             geehrt               ADJ      ADJA     _      4      nk         _      _     
+4    Damen                Dame                 NOUN     NN       _      9      vo         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Herren               Herr                 NOUN     NN       _      5      cj         _      _     
+7    ,                    --                   PUNCT    $,       _      9      punct      _      _     
+8    ich                  ich                  PRON     PPER     _      9      sb         _      _     
+9    möchte               möchten              AUX      VMFIN    _      0      ROOT       _      _     
+10   Sie                  sie                  PRON     PPER     _      9      sb         _      _     
+11   alle                 aller                DET      PIS      _      9      mo         _      _     
+12   herzlich             herzlich             ADV      ADJD     _      13     mo         _      _     
+13   willkommen           willkommen           ADV      ADJD     _      14     mo         _      _     
+14   heißen               heißen               VERB     VVFIN    _      9      oc         _      _     
+15   ,                    --                   PUNCT    $,       _      14     punct      _      _     
+16   besonders            besonders            ADV      ADV      _      17     mo         _      _     
+17   natürlich            natürlich            ADV      ADV      _      14     mo         _      _     
+18   all                  all                  DET      PIAT     _      19     nk         _      _     
+19   jene                 jener                PRON     PDS      _      14     oa         _      _     
+20   ,                    --                   PUNCT    $,       _      19     punct      _      _     
+21   die                  der                  PRON     PRELS    _      32     sb         _      _     
+22   heute                heute                ADV      ADV      _      31     mo         _      _     
+23   feierlich            feierlich            ADV      ADJD     _      31     mo         _      _     
+24   zum                  zu                   ADP      APPRART  _      31     mo         _      _     
+25   ersten               erster               ADJ      ADJA     _      26     nk         _      _     
+26   Mal                  Mal                  NOUN     NN       _      24     nk         _      _     
+27   hier                 hier                 ADV      ADV      _      31     mo         _      _     
+28   im                   in                   ADP      APPRART  _      31     mo         _      _     
+29   Bundesrat            Bundesrat            NOUN     NN       _      28     nk         _      _     
+30   Platz                Platz                NOUN     NN       _      31     oa         _      _     
+31   genommen             nehmen               VERB     VVPP     _      32     oc         _      _     
+32   haben                haben                AUX      VAINF    _      19     rc         _      _     
+33   .                    --                   PUNCT    $.       _      9      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 4
+# text = Ich darf auch Gäste bei uns begrüßen, und zwar an vorderster Stelle den wiedergewählten Herrn Landtagspräsidenten aus dem Burgenland, Herrn Walter Prior.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    darf                 dürfen               AUX      VMFIN    _      0      ROOT       _      _     
+3    auch                 auch                 ADV      ADV      _      2      mo         _      _     
+4    Gäste                Gast                 NOUN     NN       _      7      oa         _      _     
+5    bei                  bei                  ADP      APPR     _      7      mo         _      _     
+6    uns                  uns                  PRON     PPER     _      5      nk         _      _     
+7    begrüßen             begrüßen             VERB     VVFIN    _      2      oc         _      _     
+8    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+9    und                  und                  CCONJ    KON      _      7      cd         _      _     
+10   zwar                 zwar                 ADV      ADV      _      11     mo         _      _     
+11   an                   an                   ADP      APPR     _      9      cj         _      _     
+12   vorderster           vorderer             ADJ      ADJA     _      13     nk         _      _     
+13   Stelle               Stelle               NOUN     NN       _      11     nk         _      _     
+14   den                  der                  DET      ART      _      16     nk         _      _     
+15   wiedergewählten      wiedergewählt        ADJ      ADJA     _      16     nk         _      _     
+16   Herrn                Herr                 NOUN     NN       _      2      oa         _      _     
+17   Landtagspräsidenten  Landtagspräsident    NOUN     NN       _      16     nk         _      _     
+18   aus                  aus                  ADP      APPR     _      16     mnr        _      _     
+19   dem                  der                  DET      ART      _      20     nk         _      _     
+20   Burgenland           Burgenland           NOUN     NN       _      18     nk         _      _     
+21   ,                    --                   PUNCT    $,       _      16     punct      _      _     
+22   Herrn                Herr                 NOUN     NN       _      16     app        _      _     
+23   Walter               Walter               PROPN    NE       _      24     pnc        _      _     
+24   Prior                Prior                PROPN    NE       _      22     nk         _      _     
+25   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 5
+# text = Herzlich willkommen bei uns!
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Herzlich             herzlich             ADV      ADJD     _      2      mo         _      _     
+2    willkommen           willkommen           ADV      ADJD     _      0      ROOT       _      _     
+3    bei                  bei                  ADP      APPR     _      2      mo         _      _     
+4    uns                  uns                  PRON     PPER     _      3      nk         _      _     
+5    !                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 6
+# text = Meinen Vorgänger als Präsident des Bundesrates, Herrn Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Meinen               meinen               DET      PPOSAT   _      2      nk         _      _     
+2    Vorgänger            Vorgänger            NOUN     NN       _      0      ROOT       _      _     
+3    als                  als                  ADP      APPR     _      2      mnr        _      _     
+4    Präsident            Präsident            NOUN     NN       _      3      nk         _      _     
+5    des                  der                  DET      ART      _      6      nk         _      _     
+6    Bundesrates          Bundesrat            NOUN     NN       _      4      ag         _      _     
+7    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+8    Herrn                Herr                 NOUN     NN       _      4      cj         _      _     
+9    Mag                  Mag                  AUX      VMFIN    _      8      nk         _      _     
+10   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 7
+# text = Georg Pehm, der nunmehr in den Burgenländischen Landtag eingezogen ist, möchte ich ebenfalls ganz herzlich willkommen heißen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Georg                Georg                PROPN    NE       _      2      pnc        _      _     
+2    Pehm                 Pehm                 PROPN    NE       _      13     sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    der                  der                  PRON     PRELS    _      11     sb         _      _     
+5    nunmehr              nunmehr              ADV      ADV      _      10     mo         _      _     
+6    in                   in                   ADP      APPR     _      10     mo         _      _     
+7    den                  der                  DET      ART      _      9      nk         _      _     
+8    Burgenländischen     Burgenländischen     ADJ      ADJA     _      9      nk         _      _     
+9    Landtag              Landtag              NOUN     NN       _      6      nk         _      _     
+10   eingezogen           einziehen            VERB     VVPP     _      11     oc         _      _     
+11   ist                  sein                 AUX      VAFIN    _      2      rc         _      _     
+12   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+13   möchte               möchten              AUX      VMFIN    _      0      ROOT       _      _     
+14   ich                  ich                  PRON     PPER     _      13     sb         _      _     
+15   ebenfalls            ebenfalls            ADV      ADV      _      19     mo         _      _     
+16   ganz                 ganz                 ADV      ADV      _      18     mo         _      _     
+17   herzlich             herzlich             ADV      ADJD     _      18     mo         _      _     
+18   willkommen           willkommen           ADV      ADJD     _      19     mo         _      _     
+19   heißen               heißen               VERB     VVINF    _      13     oc         _      _     
+20   .                    --                   PUNCT    $.       _      13     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 8
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 9
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 10
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 11
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 12
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 13
+# text = Das Amtliche Protokoll der 725. Sitzung des Bundesrates vom 13. Oktober 2005 ist aufgelegen, unbeanstandet geblieben und gilt daher als genehmigt.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Das                  der                  DET      ART      _      3      nk         _      _     
+2    Amtliche             amtlich              ADJ      ADJA     _      3      nk         _      _     
+3    Protokoll            Protokoll            NOUN     NN       _      13     sb         _      _     
+4    der                  der                  DET      ART      _      6      nk         _      _     
+5    725.                 725.                 ADJ      ADJA     _      6      nk         _      _     
+6    Sitzung              Sitzung              NOUN     NN       _      3      ag         _      _     
+7    des                  der                  DET      ART      _      8      nk         _      _     
+8    Bundesrates          Bundesrat            NOUN     NN       _      6      ag         _      _     
+9    vom                  von                  ADP      APPRART  _      6      mnr        _      _     
+10   13.                  13.                  ADJ      ADJA     _      11     nk         _      _     
+11   Oktober              Oktober              NOUN     NN       _      9      nk         _      _     
+12   2005                 2005                 NUM      CARD     _      11     nk         _      _     
+13   ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+14   aufgelegen           aufgelegen           VERB     VVPP     _      13     pd         _      _     
+15   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+16   unbeanstandet        unbeanstanden        VERB     VVPP     _      17     pd         _      _     
+17   geblieben            bleiben              VERB     VVPP     _      13     oc         _      _     
+18   und                  und                  CCONJ    KON      _      13     cd         _      _     
+19   gilt                 gelten               VERB     VVFIN    _      18     cj         _      _     
+20   daher                daher                ADV      PROAV    _      22     mo         _      _     
+21   als                  als                  ADP      APPR     _      22     mo         _      _     
+22   genehmigt            genehmigen           VERB     VVPP     _      19     oc         _      _     
+23   .                    --                   PUNCT    $.       _      13     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 14
+# text = Als verhindert gemeldet für die heutige Sitzung ist das Mitglied des Bundesrates Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Als                  als                  ADP      APPR     _      3      mo         _      _     
+2    verhindert           verhindern           ADV      ADJD     _      3      mo         _      _     
+3    gemeldet             melden               VERB     VVPP     _      8      mo         _      _     
+4    für                  für                  ADP      APPR     _      3      mo         _      _     
+5    die                  der                  DET      ART      _      7      nk         _      _     
+6    heutige              heutig               ADJ      ADJA     _      7      nk         _      _     
+7    Sitzung              Sitzung              NOUN     NN       _      4      nk         _      _     
+8    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+9    das                  der                  DET      ART      _      10     nk         _      _     
+10   Mitglied             Mitglied             NOUN     NN       _      8      sb         _      _     
+11   des                  der                  DET      ART      _      12     nk         _      _     
+12   Bundesrates          Bundesrat            NOUN     NN       _      10     ag         _      _     
+13   Mag                  mögen                PROPN    VMFIN    _      8      pd         _      _     
+14   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 15
+# text = John Gudenus.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    John                 John                 PROPN    NE       _      2      pnc        _      _     
+2    Gudenus              Gudenus              PROPN    NE       _      0      ROOT       _      _     
+3    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 16
+# text = Eingelangt sind ein Schreiben des Burgenländischen Landtages und ein Schreiben des Steiermärkischen Landtages betreffend die Wahl der Mitglieder des Bundesrates und ihrer Ersatzmitglieder.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Eingelangt           Eingelangt           VERB     ADV      _      2      pd         _      _     
+2    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+3    ein                  ein                  DET      ART      _      4      nk         _      _     
+4    Schreiben            Schreiben            NOUN     NN       _      2      pd         _      _     
+5    des                  der                  DET      ART      _      7      nk         _      _     
+6    Burgenländischen     burgenländisch       ADJ      ADJA     _      7      nk         _      _     
+7    Landtages            Landtag              NOUN     NN       _      4      ag         _      _     
+8    und                  und                  CCONJ    KON      _      4      cd         _      _     
+9    ein                  ein                  DET      ART      _      10     nk         _      _     
+10   Schreiben            Schreiben            NOUN     NN       _      8      cj         _      _     
+11   des                  der                  DET      ART      _      13     nk         _      _     
+12   Steiermärkischen     steiermärkisch       ADJ      ADJA     _      13     nk         _      _     
+13   Landtages            Landtag              NOUN     NN       _      10     ag         _      _     
+14   betreffend           betreffend           ADV      VVFIN    _      2      pd         _      _     
+15   die                  der                  DET      ART      _      16     nk         _      _     
+16   Wahl                 Wahl                 NOUN     NN       _      14     oa         _      _     
+17   der                  der                  DET      ART      _      18     nk         _      _     
+18   Mitglieder           Mitglied             NOUN     NN       _      16     ag         _      _     
+19   des                  der                  DET      ART      _      20     nk         _      _     
+20   Bundesrates          Bundesrat            NOUN     NN       _      18     ag         _      _     
+21   und                  und                  CCONJ    KON      _      20     cd         _      _     
+22   ihrer                ihr                  DET      PPOSAT   _      23     nk         _      _     
+23   Ersatzmitglieder     Ersatzmitglieder     NOUN     NN       _      21     cj         _      _     
+24   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 17
+# text = Hinsichtlich des Wortlautes dieser beiden Schreiben verweise ich gemäß § 41 Abs. 1 der Geschäftsordnung des Bundesrates auf die im Sitzungssaal verteilten Mitteilungen, die dem Stenographischen Protokoll dieser Sitzung angeschlossen werden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Hinsichtlich         hinsichtlich         ADP      APPR     _      7      mo         _      _     
+2    des                  der                  DET      ART      _      3      nk         _      _     
+3    Wortlautes           Wortlaut             NOUN     NN       _      1      nk         _      _     
+4    dieser               dieser               DET      PDAT     _      6      nk         _      _     
+5    beiden               beide                DET      PIAT     _      6      nk         _      _     
+6    Schreiben            Schreiben            NOUN     NN       _      3      ag         _      _     
+7    verweise             verweisen            VERB     ADV      _      0      ROOT       _      _     
+8    ich                  ich                  PRON     PPER     _      7      sb         _      _     
+9    gemäß                gemäß                ADP      APPR     _      7      mo         _      _     
+10   §                    §                    NOUN     NN       _      9      nk         _      _     
+11   41                   41                   NUM      CARD     _      10     nk         _      _     
+12   Abs.                 Abs.                 NOUN     NN       _      10     nk         _      _     
+13   1                    1                    NUM      CARD     _      12     nk         _      _     
+14   der                  der                  DET      ART      _      15     nk         _      _     
+15   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      10     ag         _      _     
+16   des                  der                  DET      ART      _      17     nk         _      _     
+17   Bundesrates          Bundesrat            NOUN     NN       _      15     ag         _      _     
+18   auf                  auf                  ADP      APPR     _      7      op         _      _     
+19   die                  der                  DET      ART      _      23     nk         _      _     
+20   im                   in                   ADP      APPRART  _      22     mo         _      _     
+21   Sitzungssaal         Sitzungssaal         NOUN     NN       _      20     nk         _      _     
+22   verteilten           verteilt             ADJ      ADJA     _      23     nk         _      _     
+23   Mitteilungen         Mitteilung           NOUN     NN       _      18     nk         _      _     
+24   ,                    --                   PUNCT    $,       _      23     punct      _      _     
+25   die                  der                  PRON     PRELS    _      32     sb         _      _     
+26   dem                  der                  DET      ART      _      28     nk         _      _     
+27   Stenographischen     stenographisch       ADJ      ADJA     _      28     nk         _      _     
+28   Protokoll            Protokoll            NOUN     NN       _      31     da         _      _     
+29   dieser               dieser               DET      PDAT     _      30     nk         _      _     
+30   Sitzung              Sitzung              NOUN     NN       _      28     ag         _      _     
+31   angeschlossen        anschließen          VERB     VVPP     _      32     oc         _      _     
+32   werden               werden               AUX      VAINF    _      23     rc         _      _     
+33   .                    --                   PUNCT    $.       _      7      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 18
+# text = Die schriftliche Mitteilung hat folgenden Wortlaut: Schreiben der Präsidenten des Burgenländischen und des Steiermärkischen Landtages betreffend Wahl der Mitglieder und Ersatzmitglieder des Bundesrates gemäß Art.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      3      nk         _      _     
+2    schriftliche         schriftlich          ADJ      ADJA     _      3      nk         _      _     
+3    Mitteilung           Mitteilung           NOUN     NN       _      4      sb         _      _     
+4    hat                  haben                VERB     VAFIN    _      0      ROOT       _      _     
+5    folgenden            folgend              ADJ      ADJA     _      6      nk         _      _     
+6    Wortlaut             Wortlaut             NOUN     NN       _      4      oa         _      _     
+7    :                    --                   PUNCT    $.       _      4      punct      _      _     
+8    Schreiben            schreiben            NOUN     NN       _      17     sb         _      _     
+9    der                  der                  DET      ART      _      10     nk         _      _     
+10   Präsidenten          Präsident            NOUN     NN       _      8      ag         _      _     
+11   des                  der                  DET      ART      _      12     nk         _      _     
+12   Burgenländischen     Burgenländisch       NOUN     NN       _      10     ag         _      _     
+13   und                  und                  CCONJ    KON      _      10     cd         _      _     
+14   des                  der                  DET      ART      _      16     nk         _      _     
+15   Steiermärkischen     steiermärkisch       ADJ      ADJA     _      16     nk         _      _     
+16   Landtages            Landtag              NOUN     NN       _      13     cj         _      _     
+17   betreffend           betreffend           ADV      VVFIN    _      4      cj         _      _     
+18   Wahl                 Wahl                 NOUN     NN       _      17     oa         _      _     
+19   der                  der                  DET      ART      _      20     nk         _      _     
+20   Mitglieder           Mitglied             NOUN     NN       _      18     ag         _      _     
+21   und                  und                  CCONJ    KON      _      20     cd         _      _     
+22   Ersatzmitglieder     Ersatzmitglieder     NOUN     NN       _      21     cj         _      _     
+23   des                  der                  DET      ART      _      24     nk         _      _     
+24   Bundesrates          Bundesrat            NOUN     NN       _      20     ag         _      _     
+25   gemäß                gemäß                ADP      APPR     _      17     mo         _      _     
+26   Art                  Art                  NOUN     NN       _      17     oa         _      _     
+27   .                    .                    NOUN     NN       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 19
+# text = 35 Abs. 1 und 2 B-VG: „Der Präsident Eisenstadt, 25. Oktober 2005 des Burgenländischen Landtages Tel. 02682/600-2442 E-Mail:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    35                   35                   NUM      CARD     _      2      nmc        _      _     
+2    Abs.                 Abs.                 NOUN     NN       _      0      ROOT       _      _     
+3    1                    1                    NUM      CARD     _      2      nk         _      _     
+4    und                  und                  CCONJ    KON      _      3      cd         _      _     
+5    2                    2                    NUM      CARD     _      6      nk         _      _     
+6    B-VG                 B-VG                 NOUN     NN       _      4      cj         _      _     
+7    :                    --                   PUNCT    $.       _      2      punct      _      _     
+8    „                    --                   PUNCT    $(       _      25     punct      _      _     
+9    Der                  der                  DET      ART      _      10     nk         _      _     
+10   Präsident            Präsident            NOUN     NN       _      25     sb         _      _     
+11   Eisenstadt           Eisenstadt           PROPN    NN       _      10     nk         _      _     
+12   ,                    --                   PUNCT    $,       _      10     punct      _      _     
+13   25.                  25.                  ADJ      ADJA     _      14     nk         _      _     
+14   Oktober              Oktober              NOUN     NN       _      10     par        _      _     
+15   2005                 2005                 NUM      CARD     _      14     nk         _      _     
+16   des                  der                  DET      ART      _      18     nk         _      _     
+17   Burgenländischen     burgenländisch       ADJ      ADJA     _      18     nk         _      _     
+18   Landtages            Landtag              NOUN     ADJA     _      10     ag         _      _     
+19   Tel.                 Tel.                 NOUN     NN       _      10     nk         _      _     
+20   02682                02682                NUM      CARD     _      19     nk         _      _     
+21   /                    --                   PUNCT    $(       _      22     punct      _      _     
+22   600                  600                  NUM      CARD     _      20     cj         _      _     
+23   -                    -                    PUNCT    $(       _      24     punct      _      _     
+24   2442                 2442                 NUM      CARD     _      25     nk         _      _     
+25   E-Mail               E-Mail               NOUN     NN       _      2      nk         _      _     
+26   :                    --                   PUNCT    $.       _      25     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 20
+# text = post@bgld-Iandtag.at Zahl: 1075-XIX.Gp.2005 Bundesräte, Wahl
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    post@bgld-Iandtag.at post@bgld-Iandtag.at PROPN    NE       _      2      nk         _      _     
+2    Zahl                 Zahl                 NOUN     NN       _      0      ROOT       _      _     
+3    :                    --                   PUNCT    $(       _      2      punct      _      _     
+4    1075-XIX.Gp.2005     1075-XIX.Gp.2005     NOUN     NE       _      5      nk         _      _     
+5    Bundesräte           bundesräte           NOUN     NN       _      2      par        _      _     
+6    ,                    --                   PUNCT    $,       _      5      punct      _      _     
+7    Wahl                 Wahl                 NOUN     NN       _      2      cj         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 21
+# text = An den Präsidenten des Bundesrates Parlament 1017 Wien
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    An                   an                   ADP      APPR     _      8      mo         _      _     
+2    den                  der                  DET      ART      _      3      nk         _      _     
+3    Präsidenten          Präsident            NOUN     NN       _      1      nk         _      _     
+4    des                  der                  DET      ART      _      5      nk         _      _     
+5    Bundesrates          Bundesrat            NOUN     NN       _      3      ag         _      _     
+6    Parlament            Parlament            NOUN     NN       _      5      nk         _      _     
+7    1017                 1017                 NUM      CARD     _      8      nk         _      _     
+8    Wien                 Wien                 PROPN    NE       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 22
+# text = Der Burgenländische Landtag hat in seiner 1. Sitzung der XIX.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Der                  der                  DET      ART      _      3      nk         _      _     
+2    Burgenländische      Burgenländische      ADJ      ADJA     _      3      nk         _      _     
+3    Landtag              Landtag              NOUN     NN       _      4      sb         _      _     
+4    hat                  haben                AUX      VAFIN    _      0      ROOT       _      _     
+5    in                   in                   ADP      APPR     _      4      mo         _      _     
+6    seiner               sein                 DET      PPOSAT   _      8      nk         _      _     
+7    1.                   1.                   ADJ      ADJA     _      8      nk         _      _     
+8    Sitzung              Sitzung              NOUN     NN       _      5      nk         _      _     
+9    der                  der                  DET      ART      _      10     nk         _      _     
+10   XIX                  XIX                  PROPN    NE       _      8      ag         _      _     
+11   .                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 23
+# text = Gesetzgebungsperiode am 25. Oktober 2005 gemäß
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Gesetzgebungsperiode Gesetzgebungsperiode NOUN     NN       _      0      ROOT       _      _     
+2    am                   an                   ADP      APPRART  _      1      mnr        _      _     
+3    25.                  25.                  ADJ      ADJA     _      4      nk         _      _     
+4    Oktober              Oktober              NOUN     NN       _      2      nk         _      _     
+5    2005                 2005                 NUM      CARD     _      4      nk         _      _     
+6    gemäß                gemäß                ADP      ADJD     _      1      mnr        _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 24
+# text = Artikel 35 B-VG als Vertreter des Landes im Bundesrat gewählt:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Artikel              Artikel              NOUN     NN       _      10     oa         _      _     
+2    35                   35                   NUM      CARD     _      3      nk         _      _     
+3    B-VG                 B-VG                 NOUN     NN       _      1      ag         _      _     
+4    als                  als                  ADP      APPR     _      10     mo         _      _     
+5    Vertreter            Vertreter            NOUN     NN       _      4      nk         _      _     
+6    des                  der                  DET      ART      _      7      nk         _      _     
+7    Landes               Land                 NOUN     NN       _      5      ag         _      _     
+8    im                   in                   ADP      APPRART  _      10     mo         _      _     
+9    Bundesrat            Bundesrat            NOUN     NN       _      8      nk         _      _     
+10   gewählt              wählen               VERB     VVPP     _      0      ROOT       _      _     
+11   :                    --                   PUNCT    $.       _      10     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 25
+# text = Mitglied: PREINER Erwin, geb. 1962, Lehrer, 7092 Winden am See, Franz Liszt Straße 11, SPÖ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mitglied             Mitglied             NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    PREINER              PREINER              PROPN    NE       _      4      pnc        _      _     
+4    Erwin                Erwin                PROPN    NE       _      1      rs         _      _     
+5    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+6    geb.                 geb.                 PROPN    NE       _      4      par        _      _     
+7    1962                 1962                 NUM      CARD     _      1      par        _      _     
+8    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+9    Lehrer               Lehrer               NOUN     NN       _      1      cj         _      _     
+10   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+11   7092                 7092                 NUM      CARD     _      12     nk         _      _     
+12   Winden               Winde                NOUN     NN       _      9      cj         _      _     
+13   am                   an                   ADP      APPRART  _      12     mnr        _      _     
+14   See                  See                  NOUN     NN       _      13     nk         _      _     
+15   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+16   Franz                Franz                PROPN    NE       _      17     pnc        _      _     
+17   Liszt                Liszt                PROPN    NE       _      1      app        _      _     
+18   Straße               Straße               NOUN     NN       _      1      par        _      _     
+19   11                   11                   NUM      CARD     _      18     nk         _      _     
+20   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+21   SPÖ                  SPÖ                  PROPN    NE       _      1      cj         _      _     
+22   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 26
+# text = Ersatzmitglied: GELBMANN Matthias, geb. 1948, 7163 Andau, Zwerggrabengasse 10, SPÖ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ersatzmitglied       Ersatzmitglied       NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    GELBMANN             GELBMANN             PROPN    NE       _      4      pnc        _      _     
+4    Matthias             Matthias             PROPN    NE       _      1      sb         _      _     
+5    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+6    geb.                 geb.                 VERB     NE       _      4      par        _      _     
+7    1948                 1948                 NUM      CARD     _      6      mo         _      _     
+8    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+9    7163                 7163                 NUM      CARD     _      10     pnc        _      _     
+10   Andau                Andau                PROPN    NE       _      4      par        _      _     
+11   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+12   Zwerggrabengasse     Zwerggrabengas       NOUN     NN       _      4      par        _      _     
+13   10                   10                   NUM      CARD     _      12     nk         _      _     
+14   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+15   SPÖ                  SPÖ                  PROPN    NE       _      4      app        _      _     
+16   ;                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 27
+# text = Mitglied: JANY Reinhard, geb. 1956, Landwirt, 7400 Unterschützen Nr. 91, ÖVP;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mitglied             Mitglied             NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    JANY                 JANY                 PROPN    NE       _      4      pnc        _      _     
+4    Reinhard             Reinhard             PROPN    NE       _      1      sb         _      _     
+5    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+6    geb.                 geb.                 VERB     VVPP     _      4      par        _      _     
+7    1956                 1956                 NUM      CARD     _      6      nk         _      _     
+8    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+9    Landwirt             Landwirt             NOUN     NN       _      4      cj         _      _     
+10   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+11   7400                 7400                 NUM      CARD     _      12     nk         _      _     
+12   Unterschützen        Unterschütze         NOUN     NN       _      9      cj         _      _     
+13   Nr.                  Nr.                  NOUN     NN       _      12     nk         _      _     
+14   91                   91                   NUM      CARD     _      13     nk         _      _     
+15   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+16   ÖVP                  ÖVP                  PROPN    NE       _      4      cj         _      _     
+17   ;                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 28
+# text = Ersatzmitglied: FASCHING Paul, geb. 1951, Landwirt, 7063 Oggau, Hauptstraße 124, ÖVP;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ersatzmitglied       Ersatzmitglied       NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    FASCHING             FASCHING             NOUN     NE       _      1      sb         _      _     
+4    Paul                 Paul                 PROPN    NE       _      3      nk         _      _     
+5    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+6    geb.                 geb.                 VERB     VVPP     _      3      par        _      _     
+7    1951                 1951                 NUM      CARD     _      6      mo         _      _     
+8    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+9    Landwirt             Landwirt             NOUN     NN       _      3      cj         _      _     
+10   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+11   7063                 7063                 NUM      CARD     _      12     nk         _      _     
+12   Oggau                Oggau                PROPN    NE       _      9      cj         _      _     
+13   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+14   Hauptstraße          Hauptstraße          NOUN     NN       _      3      par        _      _     
+15   124                  124                  NUM      CARD     _      14     nk         _      _     
+16   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+17   ÖVP                  ÖVP                  PROPN    NE       _      9      cj         _      _     
+18   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 29
+# text = Mitglied: SODL Wolfgang, geb. 1963, Nachrichtentechniker, 7534 Olbendorf, Tulmen 192, SPÖ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mitglied             Mitglied             NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    SODL                 SODL                 PROPN    NE       _      4      pnc        _      _     
+4    Wolfgang             Wolfgang             PROPN    NE       _      1      sb         _      _     
+5    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+6    geb.                 geb.                 VERB     ADJA     _      7      nmc        _      _     
+7    1963                 1963                 NUM      CARD     _      4      par        _      _     
+8    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+9    Nachrichtentechniker Nachrichtentechniker NOUN     NN       _      4      app        _      _     
+10   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+11   7534                 7534                 NUM      CARD     _      12     nk         _      _     
+12   Olbendorf            Olbendorf            PROPN    NN       _      4      par        _      _     
+13   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+14   Tulmen               Tulmen               NOUN     NN       _      4      cj         _      _     
+15   192                  192                  NUM      CARD     _      14     nk         _      _     
+16   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+17   SPÖ                  SPÖ                  PROPN    NE       _      4      app        _      _     
+18   ;                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 30
+# text = Ersatzmitglied :
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ersatzmitglied       Ersatzmitglied       NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 31
+# text = KNOR Vinzenz, geb. 1956, Lehrer, 7540 Güssing, Kasernenstraße 32, SPÖ Herr
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    KNOR                 KNOR                 PROPN    NE       _      2      pnc        _      _     
+2    Vinzenz              Vinzenz              NOUN     NE       _      0      ROOT       _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    geb.                 geb.                 VERB     VVPP     _      2      cj         _      _     
+5    1956                 1956                 NUM      CARD     _      4      nk         _      _     
+6    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+7    Lehrer               Lehrer               NOUN     NN       _      2      cj         _      _     
+8    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+9    7540                 7540                 NUM      CARD     _      10     nk         _      _     
+10   Güssing              Güssing              NOUN     NN       _      2      cj         _      _     
+11   ,                    --                   PUNCT    $,       _      2      punct      _      _     
+12   Kasernenstraße       Kasernenstraße       PROPN    NE       _      2      cj         _      _     
+13   32                   32                   NUM      CARD     _      12     nk         _      _     
+14   ,                    --                   PUNCT    $,       _      2      punct      _      _     
+15   SPÖ                  SPÖ                  PROPN    NE       _      2      cj         _      _     
+16   Herr                 Herr                 NOUN     NN       _      15     nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 32
+# text = Bundesrat
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Bundesrat            Bundesrat            NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 33
+# text = PREINER Erwin hat als erster Vertreter des Landes zu gelten.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    PREINER              PREINER              PROPN    NE       _      2      pnc        _      _     
+2    Erwin                Erwin                PROPN    NE       _      3      sb         _      _     
+3    hat                  haben                AUX      VAFIN    _      0      ROOT       _      _     
+4    als                  als                  ADP      APPR     _      10     mo         _      _     
+5    erster               erster               ADJ      ADJA     _      6      nk         _      _     
+6    Vertreter            Vertreter            NOUN     NN       _      4      nk         _      _     
+7    des                  der                  DET      ART      _      8      nk         _      _     
+8    Landes               Land                 NOUN     NN       _      6      ag         _      _     
+9    zu                   zu                   PART     PTKZU    _      10     pm         _      _     
+10   gelten               gelten               VERB     VVINF    _      3      oc         _      _     
+11   .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 34
+# text = Mit freundlichen Grüßen Walter Prior “ **
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mit                  mit                  ADP      APPR     _      0      ROOT       _      _     
+2    freundlichen         freundlich           ADJ      ADJA     _      5      nk         _      _     
+3    Grüßen               Grüßen               PROPN    NE       _      5      pnc        _      _     
+4    Walter               Walter               PROPN    NE       _      5      pnc        _      _     
+5    Prior                Prior                NOUN     NE       _      1      nk         _      _     
+6    “                    --                   PUNCT    $(       _      5      punct      _      _     
+7    *                    *                    NOUN     NN       _      1      nk         _      _     
+8    *                    *                    NOUN     NN       _      7      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 35
+# text = ***
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      punct      _      _     
+3    *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 36
+# text = „Siegfried Schrittwieser
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    „                    --                   PUNCT    $(       _      3      punct      _      _     
+2    Siegfried            Siegfried            PROPN    NE       _      3      pnc        _      _     
+3    Schrittwieser        Schrittwieser        PROPN    NE       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 37
+# text = Präsident des Steiermärkischen Landtages
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Präsident            Präsident            NOUN     NN       _      0      ROOT       _      _     
+2    des                  der                  DET      ART      _      4      nk         _      _     
+3    Steiermärkischen     steiermärkisch       ADJ      ADJA     _      4      nk         _      _     
+4    Landtages            Landtag              NOUN     NN       _      1      ag         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 38
+# text = Das Land Steiermark Herrn KR Peter Mitterer Präsident des Bundesrates Dr. Karl-Renner-Ring 3 A-1017 Wien Graz, am 27. Oktober 2005
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Das                  der                  DET      ART      _      2      nk         _      _     
+2    Land                 Land                 NOUN     NN       _      14     sb         _      _     
+3    Steiermark           Steiermark           PROPN    NE       _      2      nk         _      _     
+4    Herrn                Herr                 NOUN     NN       _      2      nk         _      _     
+5    KR                   KR                   PROPN    NE       _      4      nk         _      _     
+6    Peter                Peter                PROPN    NE       _      7      pnc        _      _     
+7    Mitterer             Mitterer             PROPN    NE       _      4      nk         _      _     
+8    Präsident            Präsident            NOUN     NN       _      2      nk         _      _     
+9    des                  der                  DET      ART      _      10     nk         _      _     
+10   Bundesrates          Bundesrat            NOUN     NN       _      8      ag         _      _     
+11   Dr.                  Dr.                  NOUN     NN       _      10     nk         _      _     
+12   Karl-Renner-Ring     Karl-Renner-Ring     PROPN    NE       _      10     nk         _      _     
+13   3                    3                    NUM      CARD     _      12     pnc        _      _     
+14   A-1017               A-1017               ADJ      ADJA     _      16     nk         _      _     
+15   Wien                 Wien                 PROPN    NE       _      16     pnc        _      _     
+16   Graz                 Graz                 PROPN    NE       _      0      ROOT       _      _     
+17   ,                    --                   PUNCT    $,       _      16     punct      _      _     
+18   am                   an                   ADP      APPRART  _      16     par        _      _     
+19   27.                  27.                  ADJ      ADJA     _      20     nk         _      _     
+20   Oktober              Oktober              NOUN     NN       _      18     nk         _      _     
+21   2005                 2005                 NUM      CARD     _      20     nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 39
+# text = Sehr geehrter Herr Präsident!
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Sehr                 sehr                 ADV      ADV      _      2      mo         _      _     
+2    geehrter             geehrt               ADJ      ADJA     _      3      nk         _      _     
+3    Herr                 Herr                 NOUN     NN       _      0      ROOT       _      _     
+4    Präsident            Präsident            NOUN     NN       _      3      nk         _      _     
+5    !                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 40
+# text = In der Sitzung des Steiermärkischen Landtages vom 25. Oktober 2005 wurde die Wahl der nachstehenden Bundesräte und Ersatzmitglieder vorgenommen: Bundesrats- mandate Name Mitglied Name Ersatzmitglied Partei 1 Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    In                   in                   ADP      APPR     _      19     mo         _      _     
+2    der                  der                  DET      ART      _      3      nk         _      _     
+3    Sitzung              Sitzung              NOUN     NN       _      1      nk         _      _     
+4    des                  der                  DET      ART      _      6      nk         _      _     
+5    Steiermärkischen     steiermärkisch       ADJ      ADJA     _      6      nk         _      _     
+6    Landtages            Landtag              NOUN     NN       _      3      ag         _      _     
+7    vom                  von                  ADP      APPRART  _      6      mnr        _      _     
+8    25.                  25.                  ADJ      ADJA     _      9      nk         _      _     
+9    Oktober              Oktober              NOUN     NN       _      7      nk         _      _     
+10   2005                 2005                 NUM      CARD     _      9      nk         _      _     
+11   wurde                werden               AUX      VAFIN    _      0      ROOT       _      _     
+12   die                  der                  DET      ART      _      13     nk         _      _     
+13   Wahl                 Wahl                 NOUN     NN       _      11     sb         _      _     
+14   der                  der                  DET      ART      _      16     nk         _      _     
+15   nachstehenden        nachstehend          ADJ      ADJA     _      16     nk         _      _     
+16   Bundesräte           Bundesrat            NOUN     NN       _      13     ag         _      _     
+17   und                  und                  CCONJ    KON      _      16     cd         _      _     
+18   Ersatzmitglieder     Ersatzmitglied       NOUN     NN       _      17     cj         _      _     
+19   vorgenommen          vornehmen            VERB     VVPP     _      11     oc         _      _     
+20   :                    --                   PUNCT    $.       _      11     punct      _      _     
+21   Bundesrats-          Bundesrat            X        TRUNC    _      23     nk         _      _     
+22   mandate              mandat               ADJ      ADJA     _      23     nk         _      _     
+23   Name                 Name                 NOUN     NN       _      29     sb         _      _     
+24   Mitglied             Mitglied             NOUN     NN       _      25     pnc        _      _     
+25   Name                 Name                 NOUN     NN       _      23     nk         _      _     
+26   Ersatzmitglied       Ersatzmitglied       PROPN    NE       _      27     pnc        _      _     
+27   Partei               Partei               NOUN     NN       _      23     nk         _      _     
+28   1                    1                    NUM      CARD     _      27     nk         _      _     
+29   Mag                  mögen                AUX      VMFIN    _      11     sb         _      _     
+30   .                    --                   PUNCT    $.       _      11     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 41
+# text = Wolfgang ERLITZ geb. : 15.2.1950 8130 Frohnleiten, Lindenweg 15 August ROTH
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wolfgang             Wolfgang             PROPN    NE       _      2      pnc        _      _     
+2    ERLITZ               ERLITZ               PROPN    NE       _      0      ROOT       _      _     
+3    geb.                 geb.                 ADV      NE       _      2      pnc        _      _     
+4    :                    --                   PUNCT    $.       _      2      punct      _      _     
+5    15.2.1950            15.2.1950            NUM      CARD     _      7      nk         _      _     
+6    8130                 8130                 NUM      CARD     _      7      nk         _      _     
+7    Frohnleiten          Frohnleite           NOUN     NN       _      2      app        _      _     
+8    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+9    Lindenweg            Lindenweg            NOUN     NN       _      7      cj         _      _     
+10   15                   15                   NUM      CARD     _      11     nk         _      _     
+11   August               August               NOUN     NN       _      7      mnr        _      _     
+12   ROTH                 ROTH                 PROPN    NE       _      11     nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 42
+# text = geb. : 4.1.1947 8151 Hitzendorf, Niederberg 9 SPÖ 2 Univ.Doz.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    geb.                 geb.                 ADV      NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    4.1.1947             4.1.1947             ADV      NE       _      5      pnc        _      _     
+4    8151                 8151                 NUM      CARD     _      5      pnc        _      _     
+5    Hitzendorf           Hitzendorf           PROPN    NE       _      1      rs         _      _     
+6    ,                    --                   PUNCT    $,       _      5      punct      _      _     
+7    Niederberg           Niederberg           PROPN    NE       _      9      nk         _      _     
+8    9                    9                    NUM      CARD     _      7      dep        _      _     
+9    SPÖ                  SPÖ                  PROPN    NE       _      5      app        _      _     
+10   2                    2                    NUM      CARD     _      9      pnc        _      _     
+11   Univ.                Univ.                NOUN     NN       _      1      mo         _      _     
+12   Doz                  Doz                  PROPN    NE       _      11     nk         _      _     
+13   .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 43
+# text = Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+2    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 44
+# text = Dr. Andreas SCHNIDER
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Dr.                  Dr.                  NOUN     NN       _      0      ROOT       _      _     
+2    Andreas              Andreas              PROPN    NE       _      3      pnc        _      _     
+3    SCHNIDER             SCHNIDER             PROPN    NE       _      1      nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 45
+# text = geb. :
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    geb.                 geb.                 ADV      NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 46
+# text = Die neu gewählten beziehungsweise wiedergewählten Mitglieder des Bundesrates sind im Haus anwesend.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      6      nk         _      _     
+2    neu                  neu                  ADV      ADJD     _      3      mo         _      _     
+3    gewählten            gewählt              ADJ      ADJA     _      6      nk         _      _     
+4    beziehungsweise      beziehungsweise      CCONJ    KON      _      3      cd         _      _     
+5    wiedergewählten      wiedergewählt        ADJ      ADJA     _      4      cj         _      _     
+6    Mitglieder           Mitglied             NOUN     NN       _      9      sb         _      _     
+7    des                  der                  DET      ART      _      8      nk         _      _     
+8    Bundesrates          Bundesrat            NOUN     NN       _      6      ag         _      _     
+9    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+10   im                   in                   ADP      APPRART  _      12     mo         _      _     
+11   Haus                 Haus                 NOUN     NN       _      10     nk         _      _     
+12   anwesend             anwesend             ADV      ADJD     _      9      pd         _      _     
+13   .                    --                   PUNCT    $.       _      9      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 47
+# text = Ich werde daher sogleich ihre Angelobung vornehmen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    werde                werden               AUX      VAFIN    _      0      ROOT       _      _     
+3    daher                daher                ADV      PROAV    _      7      mo         _      _     
+4    sogleich             sogleich             ADV      ADV      _      7      mo         _      _     
+5    ihre                 ihr                  DET      PPOSAT   _      6      nk         _      _     
+6    Angelobung           Angelobung           NOUN     NN       _      7      oa         _      _     
+7    vornehmen            vornehmen            VERB     VVFIN    _      2      oc         _      _     
+8    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 48
+# text = Nach Verlesung der Gelöbnisformel durch die Schriftführung wird die Angelobung mit den Worten „Ich gelobe“ zu leisten sein.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nach                 nach                 ADP      APPR     _      20     mo         _      _     
+2    Verlesung            Verlesung            NOUN     NN       _      1      nk         _      _     
+3    der                  der                  DET      ART      _      4      nk         _      _     
+4    Gelöbnisformel       Gelöbnisformel       NOUN     NN       _      2      ag         _      _     
+5    durch                durch                ADP      APPR     _      2      mnr        _      _     
+6    die                  der                  DET      ART      _      7      nk         _      _     
+7    Schriftführung       Schriftführung       NOUN     NN       _      5      nk         _      _     
+8    wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+9    die                  der                  DET      ART      _      10     nk         _      _     
+10   Angelobung           Angelobung           NOUN     NN       _      8      sb         _      _     
+11   mit                  mit                  ADP      APPR     _      10     mnr        _      _     
+12   den                  der                  DET      ART      _      13     nk         _      _     
+13   Worten               Wort                 NOUN     NN       _      11     nk         _      _     
+14   „                    --                   PUNCT    $(       _      16     punct      _      _     
+15   Ich                  ich                  PRON     PPER     _      16     sb         _      _     
+16   gelobe               geloben              VERB     VVFIN    _      13     nk         _      _     
+17   “                    --                   PUNCT    $(       _      16     punct      _      _     
+18   zu                   zu                   PART     PTKZU    _      19     pm         _      _     
+19   leisten              leisten              VERB     VVINF    _      20     oc         _      _     
+20   sein                 sein                 AUX      VAINF    _      8      oc         _      _     
+21   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 49
+# text = Ich ersuche die Schriftführerin um die Verlesung der Gelöbnisformel.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    ersuche              ersuchen             VERB     VVFIN    _      0      ROOT       _      _     
+3    die                  der                  DET      ART      _      4      nk         _      _     
+4    Schriftführerin      Schriftführerin      NOUN     NN       _      2      oa         _      _     
+5    um                   um                   ADP      APPR     _      4      mnr        _      _     
+6    die                  der                  DET      ART      _      7      nk         _      _     
+7    Verlesung            Verlesung            NOUN     NN       _      5      nk         _      _     
+8    der                  der                  DET      ART      _      9      nk         _      _     
+9    Gelöbnisformel       Gelöbnisformel       NOUN     NN       _      7      ag         _      _     
+10   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 50
+# text = „Sie werden geloben unverbrüchliche Treue der Republik Österreich, stete und volle Beobachtung der Verfassungsgesetze und aller anderen Gesetze sowie gewissenhafte Erfüllung Ihrer Pflichten.“
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    „                    --                   PUNCT    $(       _      3      punct      _      _     
+2    Sie                  sie                  PRON     PPER     _      3      sb         _      _     
+3    werden               werden               AUX      VAFIN    _      0      ROOT       _      _     
+4    geloben              geloben              ADV      ADJD     _      6      nk         _      _     
+5    unverbrüchliche      unverbrüchlich       ADJ      ADJA     _      6      nk         _      _     
+6    Treue                Treue                NOUN     NN       _      3      sb         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Republik             Republik             NOUN     NN       _      6      ag         _      _     
+9    Österreich           Österreich           PROPN    NE       _      8      nk         _      _     
+10   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+11   stete                sten                 VERB     VVFIN    _      14     nk         _      _     
+12   und                  und                  CCONJ    KON      _      11     cd         _      _     
+13   volle                voll                 ADJ      ADJA     _      12     cj         _      _     
+14   Beobachtung          Beobachtung          NOUN     NN       _      3      cj         _      _     
+15   der                  der                  DET      ART      _      16     nk         _      _     
+16   Verfassungsgesetze   Verfassungsgesetze   NOUN     NN       _      14     ag         _      _     
+17   und                  und                  CCONJ    KON      _      14     cd         _      _     
+18   aller                aller                DET      PIAT     _      20     nk         _      _     
+19   anderen              anderer              ADJ      ADJA     _      20     nk         _      _     
+20   Gesetze              Gesetz               NOUN     NN       _      17     cj         _      _     
+21   sowie                sowie                CCONJ    KON      _      20     cd         _      _     
+22   gewissenhafte        gewissenhaft         ADJ      ADJA     _      23     nk         _      _     
+23   Erfüllung            Erfüllung            NOUN     NN       _      21     cj         _      _     
+24   Ihrer                Ihr                  DET      PPOSAT   _      25     nk         _      _     
+25   Pflichten            Pflicht              NOUN     NN       _      23     ag         _      _     
+26   .                    --                   PUNCT    $.       _      3      punct      _      _     
+27   “                    --                   PUNCT    $(       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 51
+# text = Über Namensaufruf durch die Schriftführerin Sissy Roth-Halvax leisten die Bundesräte Dr. Karl-Heinz Dernoscheg , Thomas Einwallner , Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Über                 über                 ADP      APPR     _      8      mo         _      _     
+2    Namensaufruf         Namensaufruf         NOUN     NN       _      1      nk         _      _     
+3    durch                durch                ADP      APPR     _      2      mnr        _      _     
+4    die                  der                  DET      ART      _      5      nk         _      _     
+5    Schriftführerin      Schriftführerin      NOUN     NN       _      3      nk         _      _     
+6    Sissy                Sissy                PROPN    NE       _      7      pnc        _      _     
+7    Roth-Halvax          Roth-Halvax          PROPN    NE       _      5      nk         _      _     
+8    leisten              leisten              VERB     VVFIN    _      0      ROOT       _      _     
+9    die                  der                  DET      ART      _      10     nk         _      _     
+10   Bundesräte           Bundesrat            NOUN     NN       _      8      sb         _      _     
+11   Dr.                  Dr.                  NOUN     NN       _      10     nk         _      _     
+12   Karl-Heinz           Karl-Heinz           PROPN    NE       _      13     pnc        _      _     
+13   Dernoscheg           Dernoscheg           PROPN    NE       _      11     nk         _      _     
+14   ,                    --                   PUNCT    $,       _      10     punct      _      _     
+15   Thomas               Thomas               PROPN    NE       _      16     pnc        _      _     
+16   Einwallner           Einwallner           PROPN    NE       _      10     app        _      _     
+17   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+18   Mag                  mögen                AUX      VMFIN    _      8      oa         _      _     
+19   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 52
+# text = Wolfgang Erlitz , Waltraud Hladny , Reinhard Jany , Günther Kaltenbacher , Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wolfgang             Wolfgang             PROPN    NE       _      2      pnc        _      _     
+2    Erlitz               Erlitz               PROPN    NE       _      13     sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Waltraud             Waltraud             PROPN    NE       _      5      pnc        _      _     
+5    Hladny               Hladny               PROPN    NE       _      2      app        _      _     
+6    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+7    Reinhard             Reinhard             PROPN    NE       _      8      pnc        _      _     
+8    Jany                 Jany                 PROPN    NE       _      2      app        _      _     
+9    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+10   Günther              Günther              PROPN    NE       _      11     pnc        _      _     
+11   Kaltenbacher         Kaltenbacher         PROPN    NE       _      2      app        _      _     
+12   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+13   Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+14   .                    --                   PUNCT    $.       _      13     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 53
+# text = Gerald Klug , Günther Köberl , Maria Mosbacher , Erwin Preiner , Dr. Andreas Schnider sowie Wolfgang Sodl ihre Angelobung mit den Worten „Ich gelobe“.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Gerald               Gerald               PROPN    NE       _      2      pnc        _      _     
+2    Klug                 Klug                 PROPN    NE       _      26     sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Günther              Günther              PROPN    NE       _      5      pnc        _      _     
+5    Köberl               Köberl               PROPN    NE       _      2      app        _      _     
+6    ,                    --                   PUNCT    $,       _      5      punct      _      _     
+7    Maria                Maria                PROPN    NE       _      8      pnc        _      _     
+8    Mosbacher            Mosbacher            PROPN    NE       _      2      app        _      _     
+9    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+10   Erwin                Erwin                PROPN    NE       _      11     pnc        _      _     
+11   Preiner              Preiner              PROPN    NE       _      2      app        _      _     
+12   ,                    --                   PUNCT    $,       _      2      punct      _      _     
+13   Dr.                  Dr.                  NOUN     NN       _      2      app        _      _     
+14   Andreas              Andreas              PROPN    NE       _      15     pnc        _      _     
+15   Schnider             Schnider             PROPN    NE       _      13     nk         _      _     
+16   sowie                sowie                CCONJ    KON      _      13     cd         _      _     
+17   Wolfgang             Wolfgang             PROPN    NE       _      18     pnc        _      _     
+18   Sodl                 Sodl                 PROPN    NE       _      16     cj         _      _     
+19   ihre                 ihr                  DET      PPOSAT   _      20     nk         _      _     
+20   Angelobung           Angelobung           NOUN     NN       _      26     oa         _      _     
+21   mit                  mit                  ADP      APPR     _      20     mnr        _      _     
+22   den                  der                  DET      ART      _      23     nk         _      _     
+23   Worten               Wort                 NOUN     NN       _      21     nk         _      _     
+24   „                    --                   PUNCT    $(       _      25     punct      _      _     
+25   Ich                  ich                  PRON     PPER     _      26     sb         _      _     
+26   gelobe               geloben              VERB     VVFIN    _      0      ROOT       _      _     
+27   “                    --                   PUNCT    $(       _      26     punct      _      _     
+28   .                    --                   PUNCT    $.       _      26     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 54
+# text = **
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 55
+# text = ***
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      punct      _      _     
+3    *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 56
+# text = Präsident Peter Mitterer : Ich begrüße die neuen beziehungsweise die wiedergewählten Mitglieder des Bundesrates recht herzlich in unserer Mitte.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Präsident            Präsident            NOUN     NN       _      0      ROOT       _      _     
+2    Peter                Peter                PROPN    NE       _      3      pnc        _      _     
+3    Mitterer             Mitterer             PROPN    NE       _      1      nk         _      _     
+4    :                    --                   PUNCT    $.       _      1      punct      _      _     
+5    Ich                  ich                  PRON     PPER     _      6      sb         _      _     
+6    begrüße              begrüßen             VERB     VVFIN    _      1      rs         _      _     
+7    die                  der                  DET      ART      _      8      nk         _      _     
+8    neuen                neu                  ADJ      ADJA     _      12     nk         _      _     
+9    beziehungsweise      beziehungsweise      CCONJ    KON      _      8      cd         _      _     
+10   die                  der                  DET      ART      _      12     nk         _      _     
+11   wiedergewählten      wiedergewählt        ADJ      ADJA     _      12     nk         _      _     
+12   Mitglieder           Mitglied             NOUN     NN       _      6      oa         _      _     
+13   des                  der                  DET      ART      _      14     nk         _      _     
+14   Bundesrates          Bundesrat            NOUN     NN       _      12     ag         _      _     
+15   recht                recht                ADV      ADV      _      6      mo         _      _     
+16   herzlich             herzlich             ADV      ADJD     _      6      mo         _      _     
+17   in                   in                   ADP      APPR     _      6      mo         _      _     
+18   unserer              unser                DET      PPOSAT   _      19     nk         _      _     
+19   Mitte                Mitte                NOUN     NN       _      17     nk         _      _     
+20   .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Halvax
+# id = 57
+# text = Meine sehr geehrten Damen und Herren, ich möchte mich diesen Glückwünschen anschließen und hoffe auf eine gute Zusammenarbeit im Sinne einer guten Arbeit für die Bürgerinnen und Bürger der Republik Österreich.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Meine                mein                 DET      PPOSAT   _      4      nk         _      _     
+2    sehr                 sehr                 ADV      ADV      _      3      mo         _      _     
+3    geehrten             geehrt               ADJ      ADJA     _      4      nk         _      _     
+4    Damen                Dame                 NOUN     NN       _      9      vo         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Herren               Herr                 NOUN     NN       _      5      cj         _      _     
+7    ,                    --                   PUNCT    $,       _      9      punct      _      _     
+8    ich                  ich                  PRON     PPER     _      9      sb         _      _     
+9    möchte               möchten              AUX      VMFIN    _      0      ROOT       _      _     
+10   mich                 sich                 PRON     PRF      _      13     oa         _      _     
+11   diesen               dieser               DET      PDAT     _      12     nk         _      _     
+12   Glückwünschen        Glückwünschen        NOUN     NN       _      13     da         _      _     
+13   anschließen          anschließen          VERB     VVINF    _      9      oc         _      _     
+14   und                  und                  CCONJ    KON      _      9      cd         _      _     
+15   hoffe                hoffen               VERB     VVFIN    _      14     cj         _      _     
+16   auf                  auf                  ADP      APPR     _      15     op         _      _     
+17   eine                 ein                  DET      ART      _      19     nk         _      _     
+18   gute                 gut                  ADJ      ADJA     _      19     nk         _      _     
+19   Zusammenarbeit       Zusammenarbeit       NOUN     NN       _      16     nk         _      _     
+20   im                   in                   ADP      APPRART  _      19     mnr        _      _     
+21   Sinne                Sinn                 NOUN     NN       _      20     nk         _      _     
+22   einer                ein                  DET      ART      _      24     nk         _      _     
+23   guten                gut                  ADJ      ADJA     _      24     nk         _      _     
+24   Arbeit               Arbeit               NOUN     NN       _      21     ag         _      _     
+25   für                  für                  ADP      APPR     _      24     mnr        _      _     
+26   die                  der                  DET      ART      _      27     nk         _      _     
+27   Bürgerinnen          Bürgerin             NOUN     NN       _      25     nk         _      _     
+28   und                  und                  CCONJ    KON      _      27     cd         _      _     
+29   Bürger               Bürger               NOUN     NN       _      28     cj         _      _     
+30   der                  der                  DET      ART      _      31     nk         _      _     
+31   Republik             Republik             NOUN     NN       _      27     ag         _      _     
+32   Österreich           Österreich           PROPN    NE       _      31     nk         _      _     
+33   .                    --                   PUNCT    $.       _      9      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 58
+# text = Ich gebe bekannt, dass das Bundeskanzleramt über Entschließung des Bundespräsidenten Mitteilung gemacht hat, dass innerhalb des Zeitraumes vom 30. Oktober bis 3. November 2005 die Bundesministerin für Bildung, Wissenschaft und Kultur Elisabeth Gehrer durch die Bundesministerin für Auswärtige Angelegenheiten Dr. Ursula Plassnik und dass der Bundesminister für Land- und Forstwirtschaft, Umwelt- und Wasserwirtschaft Dipl.-Ing. Josef Pröll am 27. und 28. Oktober 2005 durch die Bundesministerin für Bildung, Wissenschaft und Kultur Elisabeth Gehrer und innerhalb des Zeitraumes vom 29. Oktober bis 3. November 2005 durch die Bundesministerin für Inneres Liese Prokop sowie dass die Bundesministerin für Inneres Liese Prokop innerhalb des Zeitraumes vom 6. bis 8. November 2005 durch die Bundesministerin für Bildung, Wissenschaft und Kultur Elisabeth Gehrer und dass der Bundesminister für Finanzen Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    gebe                 geben                VERB     VVFIN    _      0      ROOT       _      _     
+3    bekannt              bekannt              ADV      PTKVZ    _      2      svp        _      _     
+4    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+5    dass                 dass                 SCONJ    KOUS     _      14     cp         _      _     
+6    das                  der                  DET      ART      _      7      nk         _      _     
+7    Bundeskanzleramt     Bundeskanzleramt     NOUN     NN       _      14     sb         _      _     
+8    über                 über                 ADP      APPR     _      13     mo         _      _     
+9    Entschließung        Entschließung        NOUN     NN       _      8      nk         _      _     
+10   des                  der                  DET      ART      _      11     nk         _      _     
+11   Bundespräsidenten    Bundespräsident      NOUN     NN       _      9      ag         _      _     
+12   Mitteilung           Mitteilung           NOUN     NN       _      13     oa         _      _     
+13   gemacht              machen               VERB     VVPP     _      14     oc         _      _     
+14   hat                  haben                AUX      VAFIN    _      2      oc         _      _     
+15   ,                    --                   PUNCT    $,       _      14     punct      _      _     
+16   dass                 dass                 SCONJ    KOUS     _      28     cp         _      _     
+17   innerhalb            innerhalb            ADP      APPR     _      28     mo         _      _     
+18   des                  der                  DET      ART      _      19     nk         _      _     
+19   Zeitraumes           Zeitraum             NOUN     NN       _      17     nk         _      _     
+20   vom                  von                  ADP      APPRART  _      19     mnr        _      _     
+21   30.                  30.                  ADJ      ADJA     _      22     nk         _      _     
+22   Oktober              Oktober              NOUN     NN       _      20     nk         _      _     
+23   bis                  bis                  ADP      APPR     _      17     mo         _      _     
+24   3.                   3.                   ADJ      ADJA     _      25     nk         _      _     
+25   November             November             NOUN     NN       _      23     nk         _      _     
+26   2005                 2005                 NUM      CARD     _      25     nk         _      _     
+27   die                  der                  DET      ART      _      28     nk         _      _     
+28   Bundesministerin     Bundesministerin     NOUN     NN       _      14     dep        _      _     
+29   für                  für                  ADP      APPR     _      28     mnr        _      _     
+30   Bildung              Bildung              NOUN     NN       _      29     nk         _      _     
+31   ,                    --                   PUNCT    $,       _      30     punct      _      _     
+32   Wissenschaft         Wissenschaft         NOUN     NN       _      30     cj         _      _     
+33   und                  und                  CCONJ    KON      _      32     cd         _      _     
+34   Kultur               Kultur               NOUN     NN       _      33     cj         _      _     
+35   Elisabeth            Elisabeth            PROPN    NE       _      36     pnc        _      _     
+36   Gehrer               Gehrer               PROPN    NE       _      28     nk         _      _     
+37   durch                durch                ADP      APPR     _      28     mnr        _      _     
+38   die                  der                  DET      ART      _      39     nk         _      _     
+39   Bundesministerin     Bundesministerin     NOUN     NN       _      37     nk         _      _     
+40   für                  für                  ADP      APPR     _      39     mnr        _      _     
+41   Auswärtige           auswärtig            ADJ      ADJA     _      42     nk         _      _     
+42   Angelegenheiten      Angelegenheit        NOUN     NN       _      40     nk         _      _     
+43   Dr.                  Dr.                  NOUN     NN       _      37     nk         _      _     
+44   Ursula               Ursula               PROPN    NE       _      45     pnc        _      _     
+45   Plassnik             Plassnik             PROPN    NE       _      43     nk         _      _     
+46   und                  und                  CCONJ    KON      _      43     cd         _      _     
+47   dass                 dass                 SCONJ    KOUS     _      49     cp         _      _     
+48   der                  der                  DET      ART      _      49     nk         _      _     
+49   Bundesminister       Bundesminister       NOUN     NN       _      46     cj         _      _     
+50   für                  für                  ADP      APPR     _      49     mnr        _      _     
+51   Land-                Land                 X        TRUNC    _      52     cj         _      _     
+52   und                  und                  CCONJ    KON      _      53     cd         _      _     
+53   Forstwirtschaft      Forstwirtschaft      NOUN     NN       _      50     nk         _      _     
+54   ,                    --                   PUNCT    $,       _      53     punct      _      _     
+55   Umwelt-              Umwelt               X        TRUNC    _      56     cj         _      _     
+56   und                  und                  CCONJ    KON      _      57     cd         _      _     
+57   Wasserwirtschaft     Wasserwirtschaft     NOUN     NN       _      51     cj         _      _     
+58   Dipl.-Ing.           Dipl.-Ing.           PROPN    NE       _      60     pnc        _      _     
+59   Josef                Josef                PROPN    NE       _      60     pnc        _      _     
+60   Pröll                Pröll                PROPN    NE       _      49     nk         _      _     
+61   am                   an                   ADP      APPRART  _      49     mnr        _      _     
+62   27.                  27.                  ADJ      ADJA     _      65     nk         _      _     
+63   und                  und                  CCONJ    KON      _      62     cd         _      _     
+64   28.                  28.                  ADJ      ADJA     _      63     cj         _      _     
+65   Oktober              Oktober              NOUN     NN       _      61     nk         _      _     
+66   2005                 2005                 NUM      CARD     _      65     nk         _      _     
+67   durch                durch                ADP      APPR     _      49     mnr        _      _     
+68   die                  der                  DET      ART      _      69     nk         _      _     
+69   Bundesministerin     Bundesministerin     NOUN     NN       _      67     nk         _      _     
+70   für                  für                  ADP      APPR     _      69     mnr        _      _     
+71   Bildung              Bildung              NOUN     NN       _      70     nk         _      _     
+72   ,                    --                   PUNCT    $,       _      71     punct      _      _     
+73   Wissenschaft         Wissenschaft         NOUN     NN       _      71     cj         _      _     
+74   und                  und                  CCONJ    KON      _      73     cd         _      _     
+75   Kultur               Kultur               NOUN     NN       _      74     cj         _      _     
+76   Elisabeth            Elisabeth            PROPN    NE       _      77     pnc        _      _     
+77   Gehrer               Gehrer               PROPN    NE       _      69     nk         _      _     
+78   und                  und                  CCONJ    KON      _      67     cd         _      _     
+79   innerhalb            innerhalb            ADP      APPR     _      78     cj         _      _     
+80   des                  der                  DET      ART      _      81     nk         _      _     
+81   Zeitraumes           Zeitraum             NOUN     NN       _      79     nk         _      _     
+82   vom                  von                  ADP      APPRART  _      81     mnr        _      _     
+83   29.                  29.                  ADJ      ADJA     _      84     nk         _      _     
+84   Oktober              Oktober              NOUN     NN       _      82     nk         _      _     
+85   bis                  bis                  ADP      APPR     _      79     mo         _      _     
+86   3.                   3.                   ADJ      ADJA     _      87     nk         _      _     
+87   November             November             NOUN     NN       _      85     nk         _      _     
+88   2005                 2005                 NUM      CARD     _      87     nk         _      _     
+89   durch                durch                ADP      APPR     _      79     mo         _      _     
+90   die                  der                  DET      ART      _      91     nk         _      _     
+91   Bundesministerin     Bundesministerin     NOUN     NN       _      89     nk         _      _     
+92   für                  für                  ADP      APPR     _      91     mnr        _      _     
+93   Inneres              Innere               NOUN     NN       _      92     nk         _      _     
+94   Liese                Liese                NOUN     NN       _      93     nk         _      _     
+95   Prokop               Prokop               NOUN     NE       _      94     nk         _      _     
+96   sowie                sowie                CCONJ    KON      _      49     cd         _      _     
+97   dass                 dass                 SCONJ    KOUS     _      99     cp         _      _     
+98   die                  der                  DET      ART      _      99     nk         _      _     
+99   Bundesministerin     Bundesministerin     NOUN     NN       _      96     cj         _      _     
+100  für                  für                  ADP      APPR     _      99     mnr        _      _     
+101  Inneres              Innere               NOUN     NN       _      100    nk         _      _     
+102  Liese                Liese                NOUN     NN       _      99     nk         _      _     
+103  Prokop               Prokop               NOUN     NN       _      102    nk         _      _     
+104  innerhalb            innerhalb            ADP      APPR     _      102    mnr        _      _     
+105  des                  der                  DET      ART      _      106    nk         _      _     
+106  Zeitraumes           Zeitraum             NOUN     NN       _      104    nk         _      _     
+107  vom                  von                  ADP      APPRART  _      106    mnr        _      _     
+108  6.                   6.                   ADJ      CARD     _      107    nk         _      _     
+109  bis                  bis                  CCONJ    KON      _      104    nk         _      _     
+110  8.                   8.                   ADJ      ADJA     _      111    nk         _      _     
+111  November             November             NOUN     NN       _      109    nk         _      _     
+112  2005                 2005                 NUM      CARD     _      111    nk         _      _     
+113  durch                durch                ADP      APPR     _      99     mnr        _      _     
+114  die                  der                  DET      ART      _      115    nk         _      _     
+115  Bundesministerin     Bundesministerin     NOUN     NN       _      113    nk         _      _     
+116  für                  für                  ADP      APPR     _      115    mnr        _      _     
+117  Bildung              Bildung              NOUN     NN       _      116    nk         _      _     
+118  ,                    --                   PUNCT    $,       _      117    punct      _      _     
+119  Wissenschaft         Wissenschaft         NOUN     NN       _      117    cj         _      _     
+120  und                  und                  CCONJ    KON      _      119    cd         _      _     
+121  Kultur               Kultur               NOUN     NN       _      120    cj         _      _     
+122  Elisabeth            Elisabeth            PROPN    NE       _      123    pnc        _      _     
+123  Gehrer               Gehrer               PROPN    NE       _      115    nk         _      _     
+124  und                  und                  CCONJ    KON      _      99     cd         _      _     
+125  dass                 dass                 SCONJ    KOUS     _      130    cp         _      _     
+126  der                  der                  DET      ART      _      127    nk         _      _     
+127  Bundesminister       Bundesminister       NOUN     NN       _      130    sb         _      _     
+128  für                  für                  ADP      APPR     _      127    mnr        _      _     
+129  Finanzen             Finanz               NOUN     NN       _      128    nk         _      _     
+130  Mag                  mögen                AUX      VMFIN    _      124    cj         _      _     
+131  .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 59
+# text = Karl-Heinz Grasser innerhalb des Zeitraumes vom 25. Oktober bis 5. November 2005 durch den Staatssekretär für Finanzen Dr. Alfred Finz vertreten wird.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Karl-Heinz           Karl-Heinz           PROPN    NE       _      2      pnc        _      _     
+2    Grasser              Grasser              PROPN    NE       _      22     sb         _      _     
+3    innerhalb            innerhalb            ADP      APPR     _      2      mnr        _      _     
+4    des                  der                  DET      ART      _      5      nk         _      _     
+5    Zeitraumes           Zeitraum             NOUN     NN       _      3      nk         _      _     
+6    vom                  von                  ADP      APPRART  _      5      mnr        _      _     
+7    25.                  25.                  ADJ      ADJA     _      8      nk         _      _     
+8    Oktober              Oktober              NOUN     NN       _      6      nk         _      _     
+9    bis                  bis                  ADP      APPR     _      21     mo         _      _     
+10   5.                   5.                   ADJ      ADJA     _      11     nk         _      _     
+11   November             November             NOUN     NN       _      9      nk         _      _     
+12   2005                 2005                 NUM      CARD     _      11     nk         _      _     
+13   durch                durch                ADP      APPR     _      21     mo         _      _     
+14   den                  der                  DET      ART      _      15     nk         _      _     
+15   Staatssekretär       Staatssekretär       NOUN     NN       _      13     nk         _      _     
+16   für                  für                  ADP      APPR     _      15     mnr        _      _     
+17   Finanzen             Finanz               NOUN     NN       _      16     nk         _      _     
+18   Dr.                  Dr.                  NOUN     NN       _      13     nk         _      _     
+19   Alfred               Alfred               PROPN    NE       _      20     pnc        _      _     
+20   Finz                 Finz                 PROPN    NE       _      18     nk         _      _     
+21   vertreten            vertreten            VERB     VVPP     _      22     oc         _      _     
+22   wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+23   .                    --                   PUNCT    $.       _      22     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 60
+# text = Hinsichtlich der eingelangten, vervielfältigten und verteilten Anfragebeantwortung 2153/AB verweise ich auf die im Sitzungssaal verteilte Mitteilung gemäß § 41 Abs. 1 der Geschäftsordnung des Bundesrates, die dem Stenographischen Protokoll dieser Sitzung angeschlossen wird.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Hinsichtlich         hinsichtlich         ADP      APPR     _      12     mo         _      _     
+2    der                  der                  DET      ART      _      8      nk         _      _     
+3    eingelangten         eingelangten         ADJ      ADJA     _      8      nk         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    vervielfältigten     vervielfältigen      ADJ      ADJA     _      3      cj         _      _     
+6    und                  und                  CCONJ    KON      _      5      cd         _      _     
+7    verteilten           verteilt             ADJ      ADJA     _      6      cj         _      _     
+8    Anfragebeantwortung  Anfragebeantwortung  NOUN     NN       _      1      nk         _      _     
+9    2153                 2153                 NUM      CARD     _      8      nk         _      _     
+10   /                    --                   PUNCT    $(       _      9      punct      _      _     
+11   AB                   AB                   NOUN     NN       _      9      cj         _      _     
+12   verweise             verweisen            VERB     VVFIN    _      0      ROOT       _      _     
+13   ich                  ich                  PRON     PPER     _      12     sb         _      _     
+14   auf                  auf                  ADP      APPR     _      12     op         _      _     
+15   die                  der                  DET      ART      _      19     nk         _      _     
+16   im                   in                   ADP      APPRART  _      18     mo         _      _     
+17   Sitzungssaal         Sitzungssaal         NOUN     NN       _      16     nk         _      _     
+18   verteilte            verteilt             ADJ      ADJA     _      19     nk         _      _     
+19   Mitteilung           Mitteilung           NOUN     NN       _      14     nk         _      _     
+20   gemäß                gemäß                ADP      APPR     _      19     mnr        _      _     
+21   §                    §                    NOUN     NN       _      20     nk         _      _     
+22   41                   41                   NUM      CARD     _      21     nk         _      _     
+23   Abs.                 Abs.                 NOUN     NN       _      21     nk         _      _     
+24   1                    1                    NUM      CARD     _      23     nk         _      _     
+25   der                  der                  DET      ART      _      26     nk         _      _     
+26   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      21     ag         _      _     
+27   des                  der                  DET      ART      _      28     nk         _      _     
+28   Bundesrates          Bundesrat            NOUN     NN       _      26     ag         _      _     
+29   ,                    --                   PUNCT    $,       _      28     punct      _      _     
+30   die                  der                  PRON     PRELS    _      37     sb         _      _     
+31   dem                  der                  DET      ART      _      33     nk         _      _     
+32   Stenographischen     stenographisch       ADJ      ADJA     _      33     nk         _      _     
+33   Protokoll            Protokoll            NOUN     NN       _      36     da         _      _     
+34   dieser               dieser               DET      PDAT     _      35     nk         _      _     
+35   Sitzung              Sitzung              NOUN     NN       _      36     da         _      _     
+36   angeschlossen        anschließen          VERB     VVPP     _      37     oc         _      _     
+37   wird                 werden               AUX      VAFIN    _      28     rc         _      _     
+38   .                    --                   PUNCT    $.       _      12     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 61
+# text = Liste der Anfragebeantwortungen .
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Liste                Liste                NOUN     NN       _      0      ROOT       _      _     
+2    der                  der                  DET      ART      _      3      nk         _      _     
+3    Anfragebeantwortunge Anfragebeantwortung  NOUN     NN       _      1      ag         _      _     
+4    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 62
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 63
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 64
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 65
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 66
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NE       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 67
+# text = Den eingelangten Außenpolitischen Bericht 2004 der Bundesregierung habe ich dem Ausschuss für auswärtige Angelegenheiten zur weiteren geschäftsmäßigen Behandlung zugewiesen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Den                  der                  DET      ART      _      4      nk         _      _     
+2    eingelangten         eingelangt           ADJ      ADJA     _      4      nk         _      _     
+3    Außenpolitischen     Außenpolitischen     ADJ      ADJA     _      4      nk         _      _     
+4    Bericht              Bericht              NOUN     NN       _      19     oa         _      _     
+5    2004                 2004                 NUM      CARD     _      4      nk         _      _     
+6    der                  der                  DET      ART      _      7      nk         _      _     
+7    Bundesregierung      Bundesregierung      NOUN     NN       _      4      ag         _      _     
+8    habe                 haben                AUX      VAFIN    _      0      ROOT       _      _     
+9    ich                  ich                  PRON     PPER     _      8      sb         _      _     
+10   dem                  der                  DET      ART      _      11     nk         _      _     
+11   Ausschuss            Ausschuss            NOUN     NN       _      19     da         _      _     
+12   für                  für                  ADP      APPR     _      11     mnr        _      _     
+13   auswärtige           auswärtig            ADJ      ADJA     _      14     nk         _      _     
+14   Angelegenheiten      Angelegenheit        NOUN     NN       _      12     nk         _      _     
+15   zur                  zu                   ADP      APPRART  _      11     mnr        _      _     
+16   weiteren             weit                 ADJ      ADJA     _      18     nk         _      _     
+17   geschäftsmäßigen     geschäftsmäßig       ADJ      ADJA     _      18     nk         _      _     
+18   Behandlung           Behandlung           NOUN     NN       _      15     nk         _      _     
+19   zugewiesen           zugewiesen           VERB     VVPP     _      8      oc         _      _     
+20   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 68
+# text = Eingelangt und zugewiesen sind die Beschlüsse des Nationalrates vom 19. Oktober 2005 betreffend ein Zahnärztegesetz, ein Zahnärztekammergesetz, die 7. Ärztegesetznovelle, ein Zahnärztereform-Begleitgesetz, ein Bundesgesetz, mit dem das Gentechnikgesetz geändert wird, ein Zoonosengesetz, ein Ausbildungsgesetz Verbrauchergesundheit, ein Bundesgesetz, mit dem das Patentgesetz 1970 und das Gebrauchsmustergesetz geändert werden, ein Bundesgesetz, mit dem das Musterschutzgesetz 1990 und weitere Gesetze geändert werden, ein Bundesgesetz, mit dem das Arzneimittelgesetz und weitere Gesetze geändert werden, ein Sozialversicherungs-Änderungsgesetz 2005, ein Bundesgesetz, mit dem das Bundesgesetz über die Errichtung der Gesellschaft „Familie & Beruf Management GmbH“ erlassen sowie das Familienlastenausgleichsgesetz 1967 geändert wird, eine Postgesetznovelle 2005, einen Vertrag zur Änderung des Vertrages zwischen der Republik Österreich und dem Königreich der Niederlande über die Binnenschifffahrt, ein Bundesgesetz, mit dem das Telekommunikationsgesetz 2003 und das Bundesgesetz über Funkanlagen und Telekommunikationseinrichtungen geändert werden, eine 8. Führerscheingesetz-Novelle, ein Bundesgesetz, mit dem das Fremdenpolizeigesetz 2005 und weitere Gesetze geändert werden, ein Bundesgesetz, mit dem das Passgesetz 1992 geändert wird, ein Anlagenrechtsbereinigungs-Gesetz 2005, ein Bundesgesetz, mit dem die Gewerbeordnung 1994 geändert wird, ein Informationsweiterverwendungsgesetz, ein Bundesgesetz, mit dem das Vermessungsgesetz geändert wird, sowie die Beschlüsse des Nationalrates vom 20. Oktober 2005 betreffend ein Bundesgesetz, mit dem ein Zukunftsfonds-Gesetz und ein Stipendienstiftungs-Gesetz erlassen werden, ein Bundesgesetz, mit dem das Ziviltechnikergesetz 1993 geändert wird, der Bericht über die Tätigkeit der Volksanwaltschaft 2004, die Tätigkeitsberichte des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes über die Jahre 2003 und 2004, vorgelegt vom Bundeskanzler, die Berichte über die Lage der Tourismus- und Freizeitwirtschaft in Österreich 2003, über die Lage der Tourismus- und Freizeitwirtschaft in Österreich 2004, des Bundesministers für Wirtschaft und Arbeit an das österreichische Parlament zum EU-Arbeitsprogramm 2005 und der Mittelstandsbericht 2002/2003. *****
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Eingelangt           Eingelangt           VERB     VVFIN    _      4      pd         _      _     
+2    und                  und                  CCONJ    KON      _      1      cd         _      _     
+3    zugewiesen           zugewiesen           VERB     VVPP     _      2      cj         _      _     
+4    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+5    die                  der                  DET      ART      _      6      nk         _      _     
+6    Beschlüsse           Beschluß             NOUN     NN       _      4      sb         _      _     
+7    des                  der                  DET      ART      _      8      nk         _      _     
+8    Nationalrates        Nationalrat          NOUN     NN       _      6      ag         _      _     
+9    vom                  von                  ADP      APPRART  _      8      mnr        _      _     
+10   19.                  19.                  ADJ      ADJA     _      11     nk         _      _     
+11   Oktober              Oktober              NOUN     NN       _      9      nk         _      _     
+12   2005                 2005                 NUM      CARD     _      11     nk         _      _     
+13   betreffend           betreffend           ADV      ADJD     _      4      pd         _      _     
+14   ein                  ein                  DET      ART      _      15     nk         _      _     
+15   Zahnärztegesetz      Zahnärztegesetz      NOUN     NN       _      13     oa         _      _     
+16   ,                    --                   PUNCT    $,       _      15     punct      _      _     
+17   ein                  ein                  DET      ART      _      18     nk         _      _     
+18   Zahnärztekammergeset Zahnärztekammergeset NOUN     NN       _      15     cj         _      _     
+19   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+20   die                  der                  DET      ART      _      22     nk         _      _     
+21   7.                   7.                   ADJ      ADJA     _      22     nk         _      _     
+22   Ärztegesetznovelle   Ärztegesetznovelle   NOUN     NN       _      18     cj         _      _     
+23   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+24   ein                  ein                  DET      ART      _      25     nk         _      _     
+25   Zahnärztereform-Begl Zahnärztereform-Begl NOUN     NN       _      4      cj         _      _     
+26   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+27   ein                  ein                  DET      ART      _      28     nk         _      _     
+28   Bundesgesetz         Bundesgesetz         NOUN     NN       _      25     cj         _      _     
+29   ,                    --                   PUNCT    $,       _      28     punct      _      _     
+30   mit                  mit                  ADP      APPR     _      34     mo         _      _     
+31   dem                  der                  PRON     PRELS    _      30     nk         _      _     
+32   das                  der                  DET      ART      _      33     nk         _      _     
+33   Gentechnikgesetz     Gentechnikgesetz     NOUN     NN       _      35     sb         _      _     
+34   geändert             ändern               VERB     VVPP     _      35     oc         _      _     
+35   wird                 werden               AUX      VAFIN    _      28     rc         _      _     
+36   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+37   ein                  ein                  DET      ART      _      38     nk         _      _     
+38   Zoonosengesetz       Zoonosengesetz       NOUN     NN       _      25     cj         _      _     
+39   ,                    --                   PUNCT    $,       _      38     punct      _      _     
+40   ein                  ein                  DET      ART      _      41     nk         _      _     
+41   Ausbildungsgesetz    Ausbildungsgesetz    NOUN     NN       _      38     app        _      _     
+42   Verbrauchergesundhei Verbrauchergesundhei NOUN     NN       _      41     nk         _      _     
+43   ,                    --                   PUNCT    $,       _      38     punct      _      _     
+44   ein                  ein                  DET      ART      _      45     nk         _      _     
+45   Bundesgesetz         Bundesgesetz         NOUN     NN       _      38     app        _      _     
+46   ,                    --                   PUNCT    $,       _      45     punct      _      _     
+47   mit                  mit                  ADP      APPR     _      55     mo         _      _     
+48   dem                  der                  PRON     PRELS    _      47     nk         _      _     
+49   das                  der                  DET      ART      _      50     nk         _      _     
+50   Patentgesetz         Patentgesetz         NOUN     NN       _      56     sb         _      _     
+51   1970                 1970                 NUM      CARD     _      55     mo         _      _     
+52   und                  und                  CCONJ    KON      _      51     cd         _      _     
+53   das                  der                  DET      ART      _      54     nk         _      _     
+54   Gebrauchsmustergeset Gebrauchsmustergeset NOUN     NN       _      52     cj         _      _     
+55   geändert             ändern               VERB     VVPP     _      56     oc         _      _     
+56   werden               werden               AUX      VAINF    _      45     rc         _      _     
+57   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+58   ein                  ein                  DET      ART      _      59     nk         _      _     
+59   Bundesgesetz         Bundesgesetz         NOUN     NN       _      25     cj         _      _     
+60   ,                    --                   PUNCT    $,       _      59     punct      _      _     
+61   mit                  mit                  ADP      APPR     _      69     mo         _      _     
+62   dem                  der                  PRON     PRELS    _      61     nk         _      _     
+63   das                  der                  DET      ART      _      64     nk         _      _     
+64   Musterschutzgesetz   Musterschutzgesetz   NOUN     NN       _      70     sb         _      _     
+65   1990                 1990                 NUM      CARD     _      69     mo         _      _     
+66   und                  und                  CCONJ    KON      _      65     cd         _      _     
+67   weitere              weit                 ADJ      ADJA     _      68     nk         _      _     
+68   Gesetze              Gesetz               NOUN     NN       _      66     cj         _      _     
+69   geändert             ändern               VERB     VVPP     _      70     oc         _      _     
+70   werden               werden               AUX      VAINF    _      59     rc         _      _     
+71   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+72   ein                  ein                  DET      ART      _      73     nk         _      _     
+73   Bundesgesetz         Bundesgesetz         NOUN     NN       _      25     cj         _      _     
+74   ,                    --                   PUNCT    $,       _      73     punct      _      _     
+75   mit                  mit                  ADP      APPR     _      82     mo         _      _     
+76   dem                  der                  PRON     PRELS    _      75     nk         _      _     
+77   das                  der                  DET      ART      _      78     nk         _      _     
+78   Arzneimittelgesetz   Arzneimittelgesetz   NOUN     NN       _      83     sb         _      _     
+79   und                  und                  CCONJ    KON      _      78     cd         _      _     
+80   weitere              weit                 ADJ      ADJA     _      81     nk         _      _     
+81   Gesetze              Gesetz               NOUN     NN       _      79     cj         _      _     
+82   geändert             ändern               VERB     VVPP     _      83     oc         _      _     
+83   werden               werden               AUX      VAINF    _      73     rc         _      _     
+84   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+85   ein                  ein                  DET      ART      _      86     nk         _      _     
+86   Sozialversicherungs- Sozialversicherungs- NOUN     NN       _      4      cj         _      _     
+87   2005                 2005                 NUM      CARD     _      86     nk         _      _     
+88   ,                    --                   PUNCT    $,       _      86     punct      _      _     
+89   ein                  ein                  DET      ART      _      90     nk         _      _     
+90   Bundesgesetz         Bundesgesetz         NOUN     NN       _      86     cj         _      _     
+91   ,                    --                   PUNCT    $,       _      90     punct      _      _     
+92   mit                  mit                  ADP      APPR     _      95     mo         _      _     
+93   dem                  der                  PRON     PRELS    _      92     nk         _      _     
+94   das                  der                  DET      ART      _      95     nk         _      _     
+95   Bundesgesetz         Bundesgesetz         NOUN     NN       _      4      dep        _      _     
+96   über                 über                 ADP      APPR     _      108    op         _      _     
+97   die                  der                  DET      ART      _      98     nk         _      _     
+98   Errichtung           Errichtung           NOUN     NN       _      96     nk         _      _     
+99   der                  der                  DET      ART      _      100    nk         _      _     
+100  Gesellschaft         Gesellschaft         NOUN     NN       _      98     ag         _      _     
+101  „                    --                   PUNCT    $(       _      102    punct      _      _     
+102  Familie              Familie              NOUN     NN       _      106    nk         _      _     
+103  &                    &                    CCONJ    KON      _      102    cd         _      _     
+104  Beruf                Beruf                NOUN     NN       _      103    cj         _      _     
+105  Management           Management           NOUN     NN       _      106    nk         _      _     
+106  GmbH                 GmbH                 NOUN     NN       _      100    nk         _      _     
+107  “                    --                   PUNCT    $(       _      100    punct      _      _     
+108  erlassen             erlassen             VERB     VVINF    _      95     oc         _      _     
+109  sowie                sowie                CCONJ    KON      _      95     cd         _      _     
+110  das                  der                  DET      ART      _      111    nk         _      _     
+111  Familienlastenausgle Familienlastenausgle NOUN     NN       _      114    sb         _      _     
+112  1967                 1967                 NUM      CARD     _      113    mo         _      _     
+113  geändert             ändern               VERB     VVPP     _      114    oc         _      _     
+114  wird                 werden               AUX      VAFIN    _      109    cj         _      _     
+115  ,                    --                   PUNCT    $,       _      114    punct      _      _     
+116  eine                 ein                  DET      ART      _      117    nk         _      _     
+117  Postgesetznovelle    Postgesetznovelle    NOUN     NN       _      109    cj         _      _     
+118  2005                 2005                 NUM      CARD     _      117    nk         _      _     
+119  ,                    --                   PUNCT    $,       _      117    punct      _      _     
+120  einen                ein                  DET      ART      _      121    nk         _      _     
+121  Vertrag              Vertrag              NOUN     NN       _      117    app        _      _     
+122  zur                  zu                   ADP      APPRART  _      121    mnr        _      _     
+123  Änderung             Änderung             NOUN     NN       _      122    nk         _      _     
+124  des                  der                  DET      ART      _      125    nk         _      _     
+125  Vertrages            Vertrag              NOUN     NN       _      123    ag         _      _     
+126  zwischen             zwischen             ADP      APPR     _      125    mnr        _      _     
+127  der                  der                  DET      ART      _      128    nk         _      _     
+128  Republik             Republik             NOUN     NN       _      126    nk         _      _     
+129  Österreich           Österreich           PROPN    NE       _      128    nk         _      _     
+130  und                  und                  CCONJ    KON      _      128    cd         _      _     
+131  dem                  der                  DET      ART      _      132    nk         _      _     
+132  Königreich           Königreich           NOUN     NN       _      130    cj         _      _     
+133  der                  der                  DET      ART      _      134    nk         _      _     
+134  Niederlande          Niederlande          PROPN    NE       _      132    ag         _      _     
+135  über                 über                 ADP      APPR     _      121    mnr        _      _     
+136  die                  der                  DET      ART      _      137    nk         _      _     
+137  Binnenschifffahrt    Binnenschifffahrt    NOUN     NN       _      135    nk         _      _     
+138  ,                    --                   PUNCT    $,       _      121    punct      _      _     
+139  ein                  ein                  DET      ART      _      140    nk         _      _     
+140  Bundesgesetz         Bundesgesetz         NOUN     NN       _      121    cj         _      _     
+141  ,                    --                   PUNCT    $,       _      140    punct      _      _     
+142  mit                  mit                  ADP      APPR     _      154    mo         _      _     
+143  dem                  der                  PRON     PRELS    _      142    nk         _      _     
+144  das                  der                  DET      ART      _      145    nk         _      _     
+145  Telekommunikationsge Telekommunikationsge NOUN     NN       _      155    sb         _      _     
+146  2003                 2003                 NUM      CARD     _      145    nk         _      _     
+147  und                  und                  CCONJ    KON      _      145    cd         _      _     
+148  das                  der                  DET      ART      _      149    nk         _      _     
+149  Bundesgesetz         Bundesgesetz         NOUN     NN       _      147    cj         _      _     
+150  über                 über                 ADP      APPR     _      154    mo         _      _     
+151  Funkanlagen          Funkanlag            NOUN     NN       _      150    nk         _      _     
+152  und                  und                  CCONJ    KON      _      151    cd         _      _     
+153  Telekommunikationsei Telekommunikationsei NOUN     NN       _      152    cj         _      _     
+154  geändert             ändern               VERB     VVPP     _      155    oc         _      _     
+155  werden               werden               AUX      VAINF    _      140    rc         _      _     
+156  ,                    --                   PUNCT    $,       _      117    punct      _      _     
+157  eine                 ein                  DET      ART      _      159    nk         _      _     
+158  8.                   8.                   ADJ      ADJA     _      159    nk         _      _     
+159  Führerscheingesetz-N Führerscheingesetz-N NOUN     NN       _      117    app        _      _     
+160  ,                    --                   PUNCT    $,       _      117    punct      _      _     
+161  ein                  ein                  DET      ART      _      162    nk         _      _     
+162  Bundesgesetz         Bundesgesetz         NOUN     NN       _      117    app        _      _     
+163  ,                    --                   PUNCT    $,       _      162    punct      _      _     
+164  mit                  mit                  ADP      APPR     _      172    mo         _      _     
+165  dem                  der                  PRON     PRELS    _      164    nk         _      _     
+166  das                  der                  DET      ART      _      167    nk         _      _     
+167  Fremdenpolizeigesetz Fremdenpolizeigesetz NOUN     NN       _      173    sb         _      _     
+168  2005                 2005                 NUM      CARD     _      171    nk         _      _     
+169  und                  und                  CCONJ    KON      _      168    cd         _      _     
+170  weitere              weit                 ADJ      ADJA     _      169    cj         _      _     
+171  Gesetze              Gesetz               NOUN     NN       _      173    sb         _      _     
+172  geändert             ändern               VERB     VVPP     _      173    oc         _      _     
+173  werden               werden               AUX      VAINF    _      162    rc         _      _     
+174  ,                    --                   PUNCT    $,       _      117    punct      _      _     
+175  ein                  ein                  DET      ART      _      176    nk         _      _     
+176  Bundesgesetz         Bundesgesetz         NOUN     NN       _      117    cj         _      _     
+177  ,                    --                   PUNCT    $,       _      176    punct      _      _     
+178  mit                  mit                  ADP      APPR     _      183    mo         _      _     
+179  dem                  der                  PRON     PRELS    _      178    nk         _      _     
+180  das                  der                  DET      ART      _      181    nk         _      _     
+181  Passgesetz           Passgesetz           NOUN     NN       _      184    sb         _      _     
+182  1992                 1992                 NUM      CARD     _      181    nk         _      _     
+183  geändert             ändern               VERB     VVPP     _      184    oc         _      _     
+184  wird                 werden               AUX      VAFIN    _      176    rc         _      _     
+185  ,                    --                   PUNCT    $,       _      95     punct      _      _     
+186  ein                  ein                  DET      ART      _      187    nk         _      _     
+187  Anlagenrechtsbereini Anlagenrechtsbereini NOUN     NN       _      95     app        _      _     
+188  2005                 2005                 NUM      CARD     _      187    nk         _      _     
+189  ,                    --                   PUNCT    $,       _      187    punct      _      _     
+190  ein                  ein                  DET      ART      _      191    nk         _      _     
+191  Bundesgesetz         Bundesgesetz         NOUN     NN       _      187    cj         _      _     
+192  ,                    --                   PUNCT    $,       _      191    punct      _      _     
+193  mit                  mit                  ADP      APPR     _      198    mo         _      _     
+194  dem                  der                  PRON     PRELS    _      193    nk         _      _     
+195  die                  der                  DET      ART      _      196    nk         _      _     
+196  Gewerbeordnung       Gewerbeordnung       NOUN     NN       _      199    sb         _      _     
+197  1994                 1994                 NUM      CARD     _      198    mo         _      _     
+198  geändert             ändern               VERB     VVPP     _      199    oc         _      _     
+199  wird                 werden               AUX      VAFIN    _      191    rc         _      _     
+200  ,                    --                   PUNCT    $,       _      95     punct      _      _     
+201  ein                  ein                  DET      ART      _      202    nk         _      _     
+202  Informationsweiterve Informationsweiterve NOUN     NN       _      95     cj         _      _     
+203  ,                    --                   PUNCT    $,       _      95     punct      _      _     
+204  ein                  ein                  DET      ART      _      205    nk         _      _     
+205  Bundesgesetz         Bundesgesetz         NOUN     NN       _      95     app        _      _     
+206  ,                    --                   PUNCT    $,       _      205    punct      _      _     
+207  mit                  mit                  ADP      APPR     _      211    mo         _      _     
+208  dem                  der                  PRON     PRELS    _      207    nk         _      _     
+209  das                  der                  DET      ART      _      210    nk         _      _     
+210  Vermessungsgesetz    Vermessungsgesetz    NOUN     NN       _      212    sb         _      _     
+211  geändert             ändern               VERB     VVPP     _      212    oc         _      _     
+212  wird                 werden               AUX      VAFIN    _      205    rc         _      _     
+213  ,                    --                   PUNCT    $,       _      205    punct      _      _     
+214  sowie                sowie                CCONJ    KON      _      205    cd         _      _     
+215  die                  der                  DET      ART      _      216    nk         _      _     
+216  Beschlüsse           Beschluß             NOUN     NN       _      214    cj         _      _     
+217  des                  der                  DET      ART      _      218    nk         _      _     
+218  Nationalrates        Nationalrat          NOUN     NN       _      216    ag         _      _     
+219  vom                  von                  ADP      APPRART  _      218    mnr        _      _     
+220  20.                  20.                  ADJ      ADJA     _      221    nk         _      _     
+221  Oktober              Oktober              NOUN     NN       _      219    nk         _      _     
+222  2005                 2005                 NUM      CARD     _      221    nk         _      _     
+223  betreffend           betreffend           ADV      ADJD     _      225    mo         _      _     
+224  ein                  ein                  DET      ART      _      225    nk         _      _     
+225  Bundesgesetz         Bundesgesetz         NOUN     NN       _      95     par        _      _     
+226  ,                    --                   PUNCT    $,       _      225    punct      _      _     
+227  mit                  mit                  ADP      APPR     _      234    mo         _      _     
+228  dem                  der                  PRON     PRELS    _      227    nk         _      _     
+229  ein                  ein                  DET      ART      _      230    nk         _      _     
+230  Zukunftsfonds-Gesetz Zukunftsfonds-Gesetz NOUN     NN       _      235    sb         _      _     
+231  und                  und                  CCONJ    KON      _      230    cd         _      _     
+232  ein                  ein                  DET      ART      _      233    nk         _      _     
+233  Stipendienstiftungs- Stipendienstiftungs- NOUN     NN       _      231    cj         _      _     
+234  erlassen             erlassen             VERB     VVPP     _      235    oc         _      _     
+235  werden               werden               AUX      VAINF    _      225    rc         _      _     
+236  ,                    --                   PUNCT    $,       _      225    punct      _      _     
+237  ein                  ein                  DET      ART      _      238    nk         _      _     
+238  Bundesgesetz         Bundesgesetz         NOUN     NN       _      225    cj         _      _     
+239  ,                    --                   PUNCT    $,       _      238    punct      _      _     
+240  mit                  mit                  ADP      APPR     _      245    mo         _      _     
+241  dem                  der                  PRON     PRELS    _      240    nk         _      _     
+242  das                  der                  DET      ART      _      243    nk         _      _     
+243  Ziviltechnikergesetz Ziviltechnikergesetz NOUN     NN       _      246    sb         _      _     
+244  1993                 1993                 NUM      CARD     _      245    mo         _      _     
+245  geändert             ändern               VERB     VVPP     _      246    oc         _      _     
+246  wird                 werden               AUX      VAFIN    _      238    rc         _      _     
+247  ,                    --                   PUNCT    $,       _      238    punct      _      _     
+248  der                  der                  DET      ART      _      249    nk         _      _     
+249  Bericht              Bericht              NOUN     NN       _      238    cj         _      _     
+250  über                 über                 ADP      APPR     _      249    op         _      _     
+251  die                  der                  DET      ART      _      252    nk         _      _     
+252  Tätigkeit            Tätigkeit            NOUN     NN       _      250    nk         _      _     
+253  der                  der                  DET      ART      _      254    nk         _      _     
+254  Volksanwaltschaft    Volksanwaltschaft    NOUN     NN       _      252    ag         _      _     
+255  2004                 2004                 NUM      CARD     _      254    nk         _      _     
+256  ,                    --                   PUNCT    $,       _      249    punct      _      _     
+257  die                  der                  DET      ART      _      258    nk         _      _     
+258  Tätigkeitsberichte   Tätigkeitsbericht    NOUN     NN       _      249    cj         _      _     
+259  des                  der                  DET      ART      _      260    nk         _      _     
+260  Verwaltungsgerichtsh Verwaltungsgerichtsh NOUN     NN       _      258    ag         _      _     
+261  und                  und                  CCONJ    KON      _      260    cd         _      _     
+262  des                  der                  DET      ART      _      263    nk         _      _     
+263  Verfassungsgerichtsh Verfassungsgerichtsh NOUN     NN       _      261    cj         _      _     
+264  über                 über                 ADP      APPR     _      258    mnr        _      _     
+265  die                  der                  DET      ART      _      266    nk         _      _     
+266  Jahre                Jahr                 NOUN     NN       _      264    nk         _      _     
+267  2003                 2003                 NUM      CARD     _      266    nk         _      _     
+268  und                  und                  CCONJ    KON      _      267    cd         _      _     
+269  2004                 2004                 NUM      CARD     _      268    cj         _      _     
+270  ,                    --                   PUNCT    $,       _      238    punct      _      _     
+271  vorgelegt            vorlegen             VERB     VVPP     _      238    par        _      _     
+272  vom                  von                  ADP      APPRART  _      271    sbp        _      _     
+273  Bundeskanzler        Bundeskanzler        NOUN     NN       _      272    nk         _      _     
+274  ,                    --                   PUNCT    $,       _      238    punct      _      _     
+275  die                  der                  DET      ART      _      276    nk         _      _     
+276  Berichte             Bericht              NOUN     NN       _      238    cj         _      _     
+277  über                 über                 ADP      APPR     _      276    op         _      _     
+278  die                  der                  DET      ART      _      279    nk         _      _     
+279  Lage                 Lage                 NOUN     NN       _      277    nk         _      _     
+280  der                  der                  DET      ART      _      283    nk         _      _     
+281  Tourismus-           Tourismus            X        TRUNC    _      282    cj         _      _     
+282  und                  und                  CCONJ    KON      _      283    cd         _      _     
+283  Freizeitwirtschaft   Freizeitwirtschaft   NOUN     NN       _      279    ag         _      _     
+284  in                   in                   ADP      APPR     _      283    mnr        _      _     
+285  Österreich           Österreich           PROPN    NE       _      284    nk         _      _     
+286  2003                 2003                 NUM      CARD     _      277    nk         _      _     
+287  ,                    --                   PUNCT    $,       _      95     punct      _      _     
+288  über                 über                 ADP      APPR     _      95     mnr        _      _     
+289  die                  der                  DET      ART      _      290    nk         _      _     
+290  Lage                 Lage                 NOUN     NN       _      288    nk         _      _     
+291  der                  der                  DET      ART      _      294    nk         _      _     
+292  Tourismus-           Tourismus            X        TRUNC    _      293    cj         _      _     
+293  und                  und                  CCONJ    KON      _      294    cd         _      _     
+294  Freizeitwirtschaft   Freizeitwirtschaft   NOUN     NN       _      290    ag         _      _     
+295  in                   in                   ADP      APPR     _      294    mnr        _      _     
+296  Österreich           Österreich           PROPN    NE       _      295    nk         _      _     
+297  2004                 2004                 NUM      CARD     _      290    nk         _      _     
+298  ,                    --                   PUNCT    $,       _      290    punct      _      _     
+299  des                  der                  DET      ART      _      300    nk         _      _     
+300  Bundesministers      Bundesminister       NOUN     NN       _      290    cj         _      _     
+301  für                  für                  ADP      APPR     _      300    mnr        _      _     
+302  Wirtschaft           Wirtschaft           NOUN     NN       _      301    nk         _      _     
+303  und                  und                  CCONJ    KON      _      302    cd         _      _     
+304  Arbeit               Arbeit               NOUN     NN       _      303    cj         _      _     
+305  an                   an                   ADP      APPR     _      300    mnr        _      _     
+306  das                  der                  DET      ART      _      308    nk         _      _     
+307  österreichische      österreichisch       ADJ      ADJA     _      308    nk         _      _     
+308  Parlament            Parlament            NOUN     NN       _      305    nk         _      _     
+309  zum                  zu                   ADP      APPRART  _      290    mnr        _      _     
+310  EU-Arbeitsprogramm   EU-Arbeitsprogramm   NOUN     NN       _      309    nk         _      _     
+311  2005                 2005                 NUM      CARD     _      310    nk         _      _     
+312  und                  und                  CCONJ    KON      _      290    cd         _      _     
+313  der                  der                  DET      ART      _      314    nk         _      _     
+314  Mittelstandsbericht  Mittelstandsbericht  NOUN     NN       _      312    cj         _      _     
+315  2002                 2002                 NUM      CARD     _      314    nk         _      _     
+316  /                    --                   PUNCT    $(       _      314    punct      _      _     
+317  2003.                2003.                X        NN       _      95     nk         _      _     
+318  *                    *                    NOUN     NN       _      95     nk         _      _     
+319  *                    *                    NOUN     NN       _      318    nk         _      _     
+320  *                    *                    NOUN     NN       _      321    pnc        _      _     
+321  *                    *                    NOUN     NN       _      318    nk         _      _     
+322  *                    *                    NOUN     NN       _      95     nk         _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 69
+# text = Wird zur Tagesordnung das Wort gewünscht?
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+2    zur                  zu                   ADP      APPRART  _      6      mo         _      _     
+3    Tagesordnung         Tagesordnung         NOUN     NN       _      2      nk         _      _     
+4    das                  der                  DET      ART      _      5      nk         _      _     
+5    Wort                 Wort                 NOUN     NN       _      1      sb         _      _     
+6    gewünscht            wünschen             VERB     VVPP     _      1      oc         _      _     
+7    ?                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 70
+# text = – Dies ist nicht der Fall.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    –                    --                   PUNCT    $(       _      3      punct      _      _     
+2    Dies                 dieser               PRON     PDS      _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    nicht                nicht                PART     PTKNEG   _      3      ng         _      _     
+5    der                  der                  DET      ART      _      6      nk         _      _     
+6    Fall                 Fall                 NOUN     NN       _      3      pd         _      _     
+7    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 71
+# text = Wir gelangen zum einzigen Punkt der Tagesordnung: Wahl von Ausschüssen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wir                  wir                  PRON     PPER     _      2      sb         _      _     
+2    gelangen             gelangen             VERB     VVFIN    _      0      ROOT       _      _     
+3    zum                  zu                   ADP      APPRART  _      2      mo         _      _     
+4    einzigen             einzig               ADJ      ADJA     _      5      nk         _      _     
+5    Punkt                Punkt                NOUN     NN       _      3      nk         _      _     
+6    der                  der                  DET      ART      _      7      nk         _      _     
+7    Tagesordnung         Tagesordnung         NOUN     NN       _      5      ag         _      _     
+8    :                    --                   PUNCT    $.       _      2      punct      _      _     
+9    Wahl                 Wahl                 NOUN     NN       _      2      dep        _      _     
+10   von                  von                  ADP      APPR     _      9      pg         _      _     
+11   Ausschüssen          Ausschuß             NOUN     NN       _      10     nk         _      _     
+12   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 72
+# text = Auf Grund der Ergebnisse der steiermärkischen und der burgenländischen Landtagswahl ist die Wahl von Ausschüssen erforderlich geworden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Auf                  auf                  ADP      APPR     _      17     mo         _      _     
+2    Grund                Grund                NOUN     NN       _      1      nk         _      _     
+3    der                  der                  DET      ART      _      4      nk         _      _     
+4    Ergebnisse           Ergebnis             NOUN     NN       _      2      ag         _      _     
+5    der                  der                  DET      ART      _      6      nk         _      _     
+6    steiermärkischen     steiermärkisch       ADJ      ADJA     _      4      ag         _      _     
+7    und                  und                  CCONJ    KON      _      6      cd         _      _     
+8    der                  der                  DET      ART      _      10     nk         _      _     
+9    burgenländischen     burgenländisch       ADJ      ADJA     _      10     nk         _      _     
+10   Landtagswahl         Landtagswahl         NOUN     NN       _      7      cj         _      _     
+11   ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+12   die                  der                  DET      ART      _      13     nk         _      _     
+13   Wahl                 Wahl                 NOUN     NN       _      11     sb         _      _     
+14   von                  von                  ADP      APPR     _      13     pg         _      _     
+15   Ausschüssen          Ausschüsse           NOUN     NN       _      14     nk         _      _     
+16   erforderlich         erforderlich         ADV      ADJD     _      17     pd         _      _     
+17   geworden             werden               AUX      VAPP     _      11     oc         _      _     
+18   .                    --                   PUNCT    $.       _      11     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 73
+# text = Es liegt mir ein Antrag der Bundesräte Bieringer, Kone c ny, Schennach, Kolleginnen und Kollegen vor, gemäß § 13 Abs. 2 der Geschäftsordnung des Bundesrates den Ausschuss für Auswärtige Angelegenheiten, den Ausschuss für Bildung und Wissenschaft, den EU-Ausschuss, den Finanzausschuss, den Ausschuss für Frauenangelegenheiten, den Gesundheitsausschuss, den Ausschuss für innere Angelegenheiten, den Justizausschuss, den Kulturausschuss, den Landesverteidigungsausschuss, den Ausschuss für Land, Forst- und Wasserwirtschaft, den Ausschuss für soziale Sicherheit, Generationen und Konsumentenschutz, den Ausschuss für Sportangelegenheiten, den Umweltausschuss, den Ausschuss für Verfassung und Föderalismus, den Ausschuss für Verkehr, Innovation und Technologie, den Ausschuss für Wirtschaft und Arbeit, den Geschäftsordnungsausschuss und den Unvereinbarkeitsausschuss mit jeweils 14 Mitgliedern und Ersatzmitgliedern, wobei jeweils sieben Mitglieder und Ersatzmitglieder auf die SPÖ, jeweils sechs auf die ÖVP und ein Mitglied und Ersatzmitglied auf die grüne Fraktion entfallen, neu zu wählen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Es                   es                   PRON     PPER     _      2      sb         _      _     
+2    liegt                liegen               VERB     VVFIN    _      0      ROOT       _      _     
+3    mir                  mir                  PRON     PPER     _      2      da         _      _     
+4    ein                  ein                  DET      ART      _      5      nk         _      _     
+5    Antrag               Antrag               NOUN     NN       _      2      sb         _      _     
+6    der                  der                  DET      ART      _      7      nk         _      _     
+7    Bundesräte           Bundesrat            NOUN     NN       _      5      ag         _      _     
+8    Bieringer            Bieringer            PROPN    NE       _      7      nk         _      _     
+9    ,                    --                   PUNCT    $,       _      5      punct      _      _     
+10   Kone                 Kone                 PROPN    NE       _      5      cj         _      _     
+11   c                    c                    X        XY       _      10     mo         _      _     
+12   ny                   ny                   PROPN    NE       _      10     mo         _      _     
+13   ,                    --                   PUNCT    $,       _      10     punct      _      _     
+14   Schennach            Schennach            NOUN     NN       _      10     cj         _      _     
+15   ,                    --                   PUNCT    $,       _      5      punct      _      _     
+16   Kolleginnen          Kollegin             NOUN     NN       _      5      cj         _      _     
+17   und                  und                  CCONJ    KON      _      16     cd         _      _     
+18   Kollegen             Kollege              NOUN     NN       _      17     cj         _      _     
+19   vor                  vor                  ADP      PTKVZ    _      2      svp        _      _     
+20   ,                    --                   PUNCT    $,       _      2      punct      _      _     
+21   gemäß                gemäß                ADV      ADJD     _      2      mo         _      _     
+22   §                    §                    NOUN     NN       _      21     nk         _      _     
+23   13                   13                   NUM      CARD     _      22     nk         _      _     
+24   Abs.                 Abs.                 NOUN     NN       _      22     nk         _      _     
+25   2                    2                    NUM      CARD     _      24     nk         _      _     
+26   der                  der                  DET      ART      _      27     nk         _      _     
+27   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      22     ag         _      _     
+28   des                  der                  DET      ART      _      29     nk         _      _     
+29   Bundesrates          Bundesrat            NOUN     NN       _      27     ag         _      _     
+30   den                  der                  DET      ART      _      31     nk         _      _     
+31   Ausschuss            Ausschuss            NOUN     NE       _      21     oa         _      _     
+32   für                  für                  ADP      APPR     _      31     mnr        _      _     
+33   Auswärtige           auswärtig            ADJ      ADJA     _      34     nk         _      _     
+34   Angelegenheiten      Angelegenheit        NOUN     NN       _      32     nk         _      _     
+35   ,                    --                   PUNCT    $,       _      34     punct      _      _     
+36   den                  der                  DET      ART      _      37     nk         _      _     
+37   Ausschuss            Ausschuss            NOUN     NE       _      31     cj         _      _     
+38   für                  für                  ADP      APPR     _      37     mnr        _      _     
+39   Bildung              Bildung              NOUN     NN       _      38     nk         _      _     
+40   und                  und                  CCONJ    KON      _      39     cd         _      _     
+41   Wissenschaft         Wissenschaft         NOUN     NN       _      40     cj         _      _     
+42   ,                    --                   PUNCT    $,       _      37     punct      _      _     
+43   den                  der                  DET      ART      _      44     nk         _      _     
+44   EU-Ausschuss         EU-Ausschuss         PROPN    NE       _      37     app        _      _     
+45   ,                    --                   PUNCT    $,       _      31     punct      _      _     
+46   den                  der                  DET      ART      _      47     nk         _      _     
+47   Finanzausschuss      Finanzausschuss      PROPN    NE       _      31     cj         _      _     
+48   ,                    --                   PUNCT    $,       _      31     punct      _      _     
+49   den                  der                  DET      ART      _      50     nk         _      _     
+50   Ausschuss            Ausschuss            NOUN     NE       _      31     cj         _      _     
+51   für                  für                  ADP      APPR     _      50     mnr        _      _     
+52   Frauenangelegenheite Frauenangelegenheit  NOUN     NN       _      51     nk         _      _     
+53   ,                    --                   PUNCT    $,       _      52     punct      _      _     
+54   den                  der                  DET      ART      _      55     nk         _      _     
+55   Gesundheitsausschuss Gesundheitsausschuss PROPN    NE       _      52     cj         _      _     
+56   ,                    --                   PUNCT    $,       _      50     punct      _      _     
+57   den                  der                  DET      ART      _      58     nk         _      _     
+58   Ausschuss            Ausschuss            NOUN     NE       _      50     cj         _      _     
+59   für                  für                  ADP      APPR     _      58     mnr        _      _     
+60   innere               innerer              ADJ      ADJA     _      61     nk         _      _     
+61   Angelegenheiten      Angelegenheit        NOUN     NN       _      59     nk         _      _     
+62   ,                    --                   PUNCT    $,       _      61     punct      _      _     
+63   den                  der                  DET      ART      _      64     nk         _      _     
+64   Justizausschuss      Justizausschuss      PROPN    NE       _      61     app        _      _     
+65   ,                    --                   PUNCT    $,       _      61     punct      _      _     
+66   den                  der                  DET      ART      _      67     nk         _      _     
+67   Kulturausschuss      Kulturausschuss      PROPN    NN       _      61     app        _      _     
+68   ,                    --                   PUNCT    $,       _      67     punct      _      _     
+69   den                  der                  DET      ART      _      70     nk         _      _     
+70   Landesverteidigungsa Landesverteidigungsa PROPN    NE       _      67     app        _      _     
+71   ,                    --                   PUNCT    $,       _      67     punct      _      _     
+72   den                  der                  DET      ART      _      73     nk         _      _     
+73   Ausschuss            Ausschuss            NOUN     NE       _      67     app        _      _     
+74   für                  für                  ADP      APPR     _      73     mnr        _      _     
+75   Land                 Land                 NOUN     NN       _      74     nk         _      _     
+76   ,                    --                   PUNCT    $,       _      75     punct      _      _     
+77   Forst-               Forst                X        TRUNC    _      78     cj         _      _     
+78   und                  und                  CCONJ    KON      _      79     cd         _      _     
+79   Wasserwirtschaft     Wasserwirtschaft     NOUN     NN       _      75     cj         _      _     
+80   ,                    --                   PUNCT    $,       _      31     punct      _      _     
+81   den                  der                  DET      ART      _      82     nk         _      _     
+82   Ausschuss            Ausschuss            NOUN     NE       _      31     cj         _      _     
+83   für                  für                  ADP      APPR     _      82     mnr        _      _     
+84   soziale              sozial               ADJ      ADJA     _      85     nk         _      _     
+85   Sicherheit           Sicherheit           NOUN     NN       _      83     nk         _      _     
+86   ,                    --                   PUNCT    $,       _      85     punct      _      _     
+87   Generationen         Generation           NOUN     NN       _      85     cj         _      _     
+88   und                  und                  CCONJ    KON      _      87     cd         _      _     
+89   Konsumentenschutz    Konsumentenschutz    NOUN     NN       _      88     cj         _      _     
+90   ,                    --                   PUNCT    $,       _      82     punct      _      _     
+91   den                  der                  DET      ART      _      92     nk         _      _     
+92   Ausschuss            Ausschuss            NOUN     NE       _      31     cj         _      _     
+93   für                  für                  ADP      APPR     _      92     mnr        _      _     
+94   Sportangelegenheiten Sportangelegenheit   NOUN     NN       _      93     nk         _      _     
+95   ,                    --                   PUNCT    $,       _      94     punct      _      _     
+96   den                  der                  DET      ART      _      97     nk         _      _     
+97   Umweltausschuss      Umweltausschuss      NOUN     NE       _      94     cj         _      _     
+98   ,                    --                   PUNCT    $,       _      94     punct      _      _     
+99   den                  der                  DET      ART      _      100    nk         _      _     
+100  Ausschuss            Ausschuss            NOUN     NE       _      94     cj         _      _     
+101  für                  für                  ADP      APPR     _      100    mnr        _      _     
+102  Verfassung           Verfassung           NOUN     NN       _      101    nk         _      _     
+103  und                  und                  CCONJ    KON      _      102    cd         _      _     
+104  Föderalismus         Föderalismus         NOUN     NN       _      103    cj         _      _     
+105  ,                    --                   PUNCT    $,       _      94     punct      _      _     
+106  den                  der                  DET      ART      _      107    nk         _      _     
+107  Ausschuss            Ausschuss            NOUN     NE       _      92     cj         _      _     
+108  für                  für                  ADP      APPR     _      107    mnr        _      _     
+109  Verkehr              Verkehr              NOUN     NN       _      108    nk         _      _     
+110  ,                    --                   PUNCT    $,       _      109    punct      _      _     
+111  Innovation           Innovation           NOUN     NN       _      109    cj         _      _     
+112  und                  und                  CCONJ    KON      _      111    cd         _      _     
+113  Technologie          Technologie          NOUN     NN       _      112    cj         _      _     
+114  ,                    --                   PUNCT    $,       _      31     punct      _      _     
+115  den                  der                  DET      ART      _      116    nk         _      _     
+116  Ausschuss            Ausschuss            NOUN     NE       _      31     cj         _      _     
+117  für                  für                  ADP      APPR     _      116    mnr        _      _     
+118  Wirtschaft           Wirtschaft           NOUN     NN       _      117    nk         _      _     
+119  und                  und                  CCONJ    KON      _      118    cd         _      _     
+120  Arbeit               Arbeit               NOUN     NN       _      119    cj         _      _     
+121  ,                    --                   PUNCT    $,       _      31     punct      _      _     
+122  den                  der                  DET      ART      _      123    nk         _      _     
+123  Geschäftsordnungsaus Geschäftsordnungsaus NOUN     NE       _      31     cj         _      _     
+124  und                  und                  CCONJ    KON      _      123    cd         _      _     
+125  den                  der                  DET      ART      _      126    nk         _      _     
+126  Unvereinbarkeitsauss Unvereinbarkeitsauss NOUN     NN       _      124    cj         _      _     
+127  mit                  mit                  ADP      APPR     _      126    mnr        _      _     
+128  jeweils              jeweils              ADV      ADV      _      129    mo         _      _     
+129  14                   14                   NUM      CARD     _      130    nk         _      _     
+130  Mitgliedern          Mitglied             NOUN     NN       _      127    nk         _      _     
+131  und                  und                  CCONJ    KON      _      130    cd         _      _     
+132  Ersatzmitgliedern    Ersatzmitglieder     NOUN     NN       _      131    cj         _      _     
+133  ,                    --                   PUNCT    $,       _      2      punct      _      _     
+134  wobei                wobei                SCONJ    PWAV     _      158    mo         _      _     
+135  jeweils              jeweils              ADV      ADV      _      136    mo         _      _     
+136  sieben               sieben               NUM      CARD     _      137    nk         _      _     
+137  Mitglieder           Mitglied             NOUN     NN       _      158    sb         _      _     
+138  und                  und                  CCONJ    KON      _      137    cd         _      _     
+139  Ersatzmitglieder     Ersatzmitglied       NOUN     NN       _      138    cj         _      _     
+140  auf                  auf                  ADP      APPR     _      137    mnr        _      _     
+141  die                  der                  DET      ART      _      142    nk         _      _     
+142  SPÖ                  SPÖ                  PROPN    NE       _      140    nk         _      _     
+143  ,                    --                   PUNCT    $,       _      158    punct      _      _     
+144  jeweils              jeweils              ADV      ADV      _      145    mo         _      _     
+145  sechs                sechs                NUM      CARD     _      158    mo         _      _     
+146  auf                  auf                  ADP      APPR     _      145    mo         _      _     
+147  die                  der                  DET      ART      _      148    nk         _      _     
+148  ÖVP                  ÖVP                  PROPN    NE       _      146    nk         _      _     
+149  und                  und                  CCONJ    KON      _      145    cd         _      _     
+150  ein                  ein                  DET      ART      _      151    nk         _      _     
+151  Mitglied             Mitglied             NOUN     NN       _      149    cj         _      _     
+152  und                  und                  CCONJ    KON      _      151    cd         _      _     
+153  Ersatzmitglied       Ersatzmitglied       NOUN     NN       _      152    cj         _      _     
+154  auf                  auf                  ADP      APPR     _      151    mnr        _      _     
+155  die                  der                  DET      ART      _      157    nk         _      _     
+156  grüne                grün                 ADJ      ADJA     _      157    nk         _      _     
+157  Fraktion             Fraktion             NOUN     NN       _      154    nk         _      _     
+158  entfallen            entfallen            VERB     VVFIN    _      2      mo         _      _     
+159  ,                    --                   PUNCT    $,       _      158    punct      _      _     
+160  neu                  neu                  ADV      ADJD     _      162    mo         _      _     
+161  zu                   zu                   PART     PTKZU    _      162    pm         _      _     
+162  wählen               wählen               VERB     VVINF    _      158    oc         _      _     
+163  .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 74
+# text = Ich bitte jene Bundesrätinnen und Bundesräte, die dem vorliegenden Antrag ihre Zustimmung geben, um ein Handzeichen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    bitte                bitte                VERB     VVFIN    _      0      ROOT       _      _     
+3    jene                 jener                DET      PDAT     _      4      nk         _      _     
+4    Bundesrätinnen       Bundesrätinn         NOUN     NN       _      2      oa         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Bundesräte           Bundesrat            NOUN     NN       _      5      cj         _      _     
+7    ,                    --                   PUNCT    $,       _      4      punct      _      _     
+8    die                  der                  PRON     PRELS    _      14     sb         _      _     
+9    dem                  der                  DET      ART      _      11     nk         _      _     
+10   vorliegenden         vorliegend           ADJ      ADJA     _      11     nk         _      _     
+11   Antrag               Antrag               NOUN     NN       _      14     da         _      _     
+12   ihre                 ihr                  DET      PPOSAT   _      13     nk         _      _     
+13   Zustimmung           Zustimmung           NOUN     NN       _      14     oa         _      _     
+14   geben                geben                VERB     VVINF    _      4      rc         _      _     
+15   ,                    --                   PUNCT    $,       _      14     punct      _      _     
+16   um                   um                   SCONJ    KOUI     _      2      op         _      _     
+17   ein                  ein                  DET      ART      _      18     nk         _      _     
+18   Handzeichen          Handzeichen          NOUN     NN       _      16     nk         _      _     
+19   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 75
+# text = – Das ist Stimmeneinhelligkeit.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    –                    --                   PUNCT    $(       _      3      punct      _      _     
+2    Das                  der                  PRON     PDS      _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    Stimmeneinhelligkeit Stimmeneinhelligkeit NOUN     NN       _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 76
+# text = Die genannten Ausschüsse sind somit gemäß § 13 Abs. 1 der Geschäftsordnung neu gewählt.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      3      nk         _      _     
+2    genannten            genannt              ADJ      ADJA     _      3      nk         _      _     
+3    Ausschüsse           Ausschuß             NOUN     NN       _      4      sb         _      _     
+4    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+5    somit                somit                ADV      ADV      _      4      mo         _      _     
+6    gemäß                gemäß                ADP      APPR     _      14     mo         _      _     
+7    §                    §                    NOUN     NN       _      6      nk         _      _     
+8    13                   13                   NUM      CARD     _      7      nk         _      _     
+9    Abs.                 Abs.                 NOUN     NN       _      7      nk         _      _     
+10   1                    1                    NUM      CARD     _      9      nk         _      _     
+11   der                  der                  DET      ART      _      12     nk         _      _     
+12   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      7      ag         _      _     
+13   neu                  neu                  ADV      ADJD     _      14     mo         _      _     
+14   gewählt              wählen               VERB     VVPP     _      4      oc         _      _     
+15   .                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 77
+# text = Im Sinne des § 13 Abs. 3 der Geschäftsordnung des Bundesrates sind die von den Fraktionen auf sie entfallenden Ausschussmitglieder und Ersatzmitglieder schriftlich namhaft zu machen;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Im                   in                   ADP      APPRART  _      26     mo         _      _     
+2    Sinne                Sinn                 NOUN     NN       _      1      nk         _      _     
+3    des                  der                  DET      ART      _      4      nk         _      _     
+4    §                    §                    NOUN     NN       _      2      ag         _      _     
+5    13                   13                   NUM      CARD     _      4      nk         _      _     
+6    Abs.                 Abs.                 NOUN     NN       _      4      nk         _      _     
+7    3                    3                    NUM      CARD     _      6      nk         _      _     
+8    der                  der                  DET      ART      _      9      nk         _      _     
+9    Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      4      ag         _      _     
+10   des                  der                  DET      ART      _      11     nk         _      _     
+11   Bundesrates          Bundesrat            NOUN     NN       _      9      ag         _      _     
+12   sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+13   die                  der                  DET      ART      _      20     nk         _      _     
+14   von                  von                  ADP      APPR     _      19     sbp        _      _     
+15   den                  der                  DET      ART      _      16     nk         _      _     
+16   Fraktionen           Fraktion             NOUN     NN       _      14     nk         _      _     
+17   auf                  auf                  ADP      APPR     _      19     mo         _      _     
+18   sie                  sie                  PRON     PPER     _      17     nk         _      _     
+19   entfallenden         entfallend           ADJ      ADJA     _      20     nk         _      _     
+20   Ausschussmitglieder  Ausschussmitglieder  NOUN     NN       _      12     sb         _      _     
+21   und                  und                  CCONJ    KON      _      20     cd         _      _     
+22   Ersatzmitglieder     Ersatzmitglied       NOUN     NN       _      21     cj         _      _     
+23   schriftlich          schriftlich          ADV      ADJD     _      24     mo         _      _     
+24   namhaft              namhaft              ADV      ADJD     _      26     mo         _      _     
+25   zu                   zu                   PART     PTKZU    _      26     pm         _      _     
+26   machen               machen               VERB     VVINF    _      12     oc         _      _     
+27   ;                    --                   PUNCT    $.       _      12     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 78
+# text = diese gelten damit als gewählt.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    diese                dieser               PRON     PDS      _      2      sb         _      _     
+2    gelten               gelten               VERB     VVFIN    _      0      ROOT       _      _     
+3    damit                damit                ADV      PROAV    _      2      mo         _      _     
+4    als                  als                  SCONJ    APPR     _      2      mo         _      _     
+5    gewählt              wählen               VERB     VVPP     _      4      nk         _      _     
+6    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 79
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 80
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 81
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 82
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 83
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 84
+# text = Die Tagesordnung ist erschöpft.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      2      nk         _      _     
+2    Tagesordnung         Tagesordnung         NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    erschöpft            erschöpfen           VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 85
+# text = Es sind keine Anfragen eingelangt.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Es                   es                   PRON     PPER     _      2      ph         _      _     
+2    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+3    keine                kein                 DET      PIAT     _      4      nk         _      _     
+4    Anfragen             Anfrage              NOUN     NN       _      2      sb         _      _     
+5    eingelangt           eingelangt           VERB     VVFIN    _      2      oc         _      _     
+6    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 86
+# text = Ich weise noch darauf hin, dass jene Ausschüsse, die zur Vorberatung der Verhandlungsgegenstände der 727. Sitzung des Bundesrates für heute Nachmittag einberufen wurden, jeweils vor Eingang in die Tagesordnung konstituiert werden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    weise                weisen               VERB     VVFIN    _      0      ROOT       _      _     
+3    noch                 noch                 ADV      ADV      _      2      mo         _      _     
+4    darauf               darauf               ADV      PROAV    _      2      op         _      _     
+5    hin                  hin                  ADV      PTKVZ    _      2      svp        _      _     
+6    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+7    dass                 dass                 SCONJ    KOUS     _      34     cp         _      _     
+8    jene                 jener                DET      PDAT     _      9      nk         _      _     
+9    Ausschüsse           Ausschüs             NOUN     NN       _      34     sb         _      _     
+10   ,                    --                   PUNCT    $,       _      9      punct      _      _     
+11   die                  der                  PRON     PRELS    _      25     sb         _      _     
+12   zur                  zu                   ADP      APPRART  _      24     mo         _      _     
+13   Vorberatung          Vorberatung          NOUN     NN       _      12     nk         _      _     
+14   der                  der                  DET      ART      _      15     nk         _      _     
+15   Verhandlungsgegenstä Verhandlungsgegensta NOUN     NN       _      13     ag         _      _     
+16   der                  der                  DET      ART      _      18     nk         _      _     
+17   727.                 727.                 ADJ      ADJA     _      18     nk         _      _     
+18   Sitzung              Sitzung              NOUN     NN       _      15     ag         _      _     
+19   des                  der                  DET      ART      _      20     nk         _      _     
+20   Bundesrates          Bundesrat            NOUN     NN       _      18     ag         _      _     
+21   für                  für                  ADP      APPR     _      20     mnr        _      _     
+22   heute                heute                ADV      ADV      _      23     nk         _      _     
+23   Nachmittag           Nachmittag           NOUN     NN       _      21     nk         _      _     
+24   einberufen           einberufen           VERB     VVPP     _      25     oc         _      _     
+25   wurden               werden               AUX      VAFIN    _      9      rc         _      _     
+26   ,                    --                   PUNCT    $,       _      34     punct      _      _     
+27   jeweils              jeweils              ADV      ADV      _      28     mo         _      _     
+28   vor                  vor                  ADP      APPR     _      33     mo         _      _     
+29   Eingang              Eingang              NOUN     NN       _      28     nk         _      _     
+30   in                   in                   ADP      APPR     _      29     mnr        _      _     
+31   die                  der                  DET      ART      _      32     nk         _      _     
+32   Tagesordnung         Tagesordnung         NOUN     NN       _      30     nk         _      _     
+33   konstituiert         konstituieren        VERB     VVPP     _      34     oc         _      _     
+34   werden               werden               AUX      VAINF    _      4      re         _      _     
+35   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 87
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 88
+# text = **
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 89
+# text = **
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NE       _      1      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 90
+# text = Die Einberufung der 727. Sitzung des Bundesrates, für die als Sitzungstermin Freitag, der 4. November 2005, 9 Uhr, in Aussicht genommen wurde, erfolgt auf schriftlichem Wege.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      2      nk         _      _     
+2    Einberufung          Einberufung          NOUN     NN       _      28     sb         _      _     
+3    der                  der                  DET      ART      _      5      nk         _      _     
+4    727.                 727.                 ADJ      ADJA     _      5      nk         _      _     
+5    Sitzung              Sitzung              NOUN     NN       _      2      ag         _      _     
+6    des                  der                  DET      ART      _      7      nk         _      _     
+7    Bundesrates          Bundesrat            NOUN     NN       _      5      ag         _      _     
+8    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+9    für                  für                  ADP      APPR     _      25     mo         _      _     
+10   die                  der                  PRON     PRELS    _      9      nk         _      _     
+11   als                  als                  ADP      APPR     _      25     mo         _      _     
+12   Sitzungstermin       Sitzungstermin       NOUN     NN       _      11     nk         _      _     
+13   Freitag              Freitag              NOUN     NN       _      12     nk         _      _     
+14   ,                    --                   PUNCT    $,       _      12     punct      _      _     
+15   der                  der                  DET      ART      _      17     nk         _      _     
+16   4.                   4.                   ADJ      ADJA     _      17     nk         _      _     
+17   November             November             NOUN     NN       _      12     app        _      _     
+18   2005                 2005                 NUM      CARD     _      17     nk         _      _     
+19   ,                    --                   PUNCT    $,       _      17     punct      _      _     
+20   9                    9                    NUM      CARD     _      21     nk         _      _     
+21   Uhr                  Uhr                  NOUN     NN       _      17     app        _      _     
+22   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+23   in                   in                   ADP      APPR     _      25     cvc        _      _     
+24   Aussicht             Aussicht             NOUN     NN       _      23     nk         _      _     
+25   genommen             nehmen               VERB     VVPP     _      26     oc         _      _     
+26   wurde                werden               AUX      VAFIN    _      2      rc         _      _     
+27   ,                    --                   PUNCT    $,       _      28     punct      _      _     
+28   erfolgt              erfolgen             VERB     VVFIN    _      0      ROOT       _      _     
+29   auf                  auf                  ADP      APPR     _      28     mo         _      _     
+30   schriftlichem        schriftlich          ADJ      ADJA     _      31     nk         _      _     
+31   Wege                 Weg                  NOUN     NN       _      29     nk         _      _     
+32   .                    --                   PUNCT    $.       _      28     punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Mitterer
+# id = 91
+# text = Diese Sitzung ist geschlossen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Diese                dieser               DET      PDAT     _      2      nk         _      _     
+2    Sitzung              Sitzung              NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    geschlossen          schließen            VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXII_BRSITZ_726.txt
+# speaker = Sitzung
+# id = 92
+# text = []
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    [                    [                    NOUN     NN       _      0      ROOT       _      _     
+2    ]                    ]                    NOUN     NE       _      1      nk         _      _     
+

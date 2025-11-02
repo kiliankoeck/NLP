@@ -1,0 +1,500 @@
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 1
+# text = Die Sitzung ist eröffnet.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      2      nk         _      _     
+2    Sitzung              Sitzung              NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    eröffnet             eröffnen             VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 2
+# text = Als verhindert gemeldet sind die Abgeordneten Dr. Wittmann, Dr. Huainigg, Dr. Grünewald, Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Als                  als                  SCONJ    APPR     _      3      mo         _      _     
+2    verhindert           verhindern           ADV      ADJD     _      3      mo         _      _     
+3    gemeldet             melden               VERB     VVPP     _      4      oc         _      _     
+4    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+5    die                  der                  DET      ART      _      6      nk         _      _     
+6    Abgeordneten         abgeordneter         NOUN     NN       _      4      sb         _      _     
+7    Dr.                  Dr.                  NOUN     NN       _      6      nk         _      _     
+8    Wittmann             Wittmann             PROPN    NE       _      6      nk         _      _     
+9    ,                    --                   PUNCT    $,       _      8      punct      _      _     
+10   Dr.                  Dr.                  NOUN     NN       _      8      cj         _      _     
+11   Huainigg             Huainigg             PROPN    NE       _      10     nk         _      _     
+12   ,                    --                   PUNCT    $,       _      8      punct      _      _     
+13   Dr.                  Dr.                  NOUN     NN       _      8      app        _      _     
+14   Grünewald            Grünewald            PROPN    NE       _      13     nk         _      _     
+15   ,                    --                   PUNCT    $,       _      16     punct      _      _     
+16   Mag                  mögen                AUX      VMFIN    _      4      pd         _      _     
+17   .                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 3
+# text = Schatz, Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Schatz               Schatz               NOUN     NN       _      3      sb         _      _     
+2    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+3    Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+4    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 4
+# text = Dr.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Dr.                  Dr.                  NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 5
+# text = Zinggl und Ing. Hofer.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Zinggl               Zinggl               VERB     VVPP     _      0      ROOT       _      _     
+2    und                  und                  CCONJ    KON      _      1      cd         _      _     
+3    Ing.                 Ing.                 PROPN    NE       _      4      pnc        _      _     
+4    Hofer                Hofer                PROPN    NE       _      2      cj         _      _     
+5    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 6
+# text = Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Hinsichtlich         hinsichtlich         ADP      APPR     _      8      mo         _      _     
+2    der                  der                  DET      ART      _      4      nk         _      _     
+3    eingelangten         eingelangt           ADJ      ADJA     _      4      nk         _      _     
+4    Verhandlungsgegenstä Verhandlungsgegensta NOUN     NN       _      1      nk         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    deren                der                  PRON     PDS      _      7      ag         _      _     
+7    Zuweisungen          Zuweisung            NOUN     NN       _      5      cj         _      _     
+8    verweise             verweisen            VERB     VVFIN    _      0      ROOT       _      _     
+9    ich                  ich                  PRON     PPER     _      8      sb         _      _     
+10   gemäß                gemäß                ADP      APPR     _      8      mo         _      _     
+11   §                    §                    NOUN     NN       _      10     nk         _      _     
+12   23                   23                   NUM      CARD     _      11     nk         _      _     
+13   Abs.                 Abs.                 NOUN     NN       _      11     nk         _      _     
+14   4                    4                    NUM      CARD     _      13     nk         _      _     
+15   der                  der                  DET      ART      _      16     nk         _      _     
+16   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      11     ag         _      _     
+17   auf                  auf                  ADP      APPR     _      8      op         _      _     
+18   die                  der                  DET      ART      _      22     nk         _      _     
+19   im                   in                   ADP      APPRART  _      21     mo         _      _     
+20   Sitzungssaal         Sitzungssaal         NOUN     NN       _      19     nk         _      _     
+21   verteilte            verteilt             ADJ      ADJA     _      22     nk         _      _     
+22   Mitteilung           Mitteilung           NOUN     NN       _      17     nk         _      _     
+23   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 7
+# text = Die schriftliche Mitteilung hat folgenden Wortlaut:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      3      nk         _      _     
+2    schriftliche         schriftlich          ADJ      ADJA     _      3      nk         _      _     
+3    Mitteilung           Mitteilung           NOUN     NN       _      4      sb         _      _     
+4    hat                  haben                VERB     VAFIN    _      0      ROOT       _      _     
+5    folgenden            folgend              ADJ      ADJA     _      6      nk         _      _     
+6    Wortlaut             Wortlaut             NOUN     NN       _      4      oa         _      _     
+7    :                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 8
+# text = Zuweisungen in dieser Sitzung: zur Vorberatung: Ausschuss für Arbeit und Soziales: Sozialrechts-Änderungsgesetz 2007 – SRÄG 2007 , Bundesgesetz, mit dem Bestimmungen über die Betreuung von Personen in privaten Haushalten erlassen werden und mit dem die Gewerbeordnung 1994 geändert wird , Bundesgesetz, mit dem das Bundespflegegeldgesetz geändert wird , Bundesgesetz, mit dem das Allgemeine Sozialversicherungsgesetz, das Gewerbliche Sozialversicherungsgesetz, das Bauern-Sozialversicherungsgesetz und das Beamten-Kranken- und Unfallversicherungsgesetz geändert werden ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Zuweisungen          Zuweisung            NOUN     NN       _      0      ROOT       _      _     
+2    in                   in                   ADP      APPR     _      1      mnr        _      _     
+3    dieser               dieser               DET      PDAT     _      4      nk         _      _     
+4    Sitzung              Sitzung              NOUN     NN       _      2      nk         _      _     
+5    :                    --                   PUNCT    $.       _      1      punct      _      _     
+6    zur                  zu                   ADP      APPRART  _      1      mnr        _      _     
+7    Vorberatung          Vorberatung          NOUN     NN       _      6      nk         _      _     
+8    :                    --                   PUNCT    $.       _      1      punct      _      _     
+9    Ausschuss            Ausschuss            PROPN    NE       _      1      pd         _      _     
+10   für                  für                  ADP      APPR     _      9      mnr        _      _     
+11   Arbeit               Arbeit               NOUN     NN       _      10     nk         _      _     
+12   und                  und                  CCONJ    KON      _      11     cd         _      _     
+13   Soziales             soziale              NOUN     NN       _      12     cj         _      _     
+14   :                    --                   PUNCT    $.       _      1      punct      _      _     
+15   Sozialrechts-Änderun Sozialrechts-Änderun NOUN     NE       _      1      par        _      _     
+16   2007                 2007                 NUM      CARD     _      15     nk         _      _     
+17   –                    --                   PUNCT    $(       _      15     punct      _      _     
+18   SRÄG                 SRÄG                 PROPN    NE       _      15     cj         _      _     
+19   2007                 2007                 NUM      CARD     _      1      par        _      _     
+20   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+21   Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      cj         _      _     
+22   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+23   mit                  mit                  ADP      APPR     _      34     mo         _      _     
+24   dem                  der                  DET      ART      _      25     nk         _      _     
+25   Bestimmungen         Bestimmung           NOUN     NN       _      23     nk         _      _     
+26   über                 über                 ADP      APPR     _      25     mnr        _      _     
+27   die                  der                  DET      ART      _      28     nk         _      _     
+28   Betreuung            Betreuung            NOUN     NN       _      26     nk         _      _     
+29   von                  von                  ADP      APPR     _      28     pg         _      _     
+30   Personen             Person               NOUN     NN       _      29     nk         _      _     
+31   in                   in                   ADP      APPR     _      30     mnr        _      _     
+32   privaten             privat               ADJ      ADJA     _      33     nk         _      _     
+33   Haushalten           Haushalt             NOUN     NN       _      31     nk         _      _     
+34   erlassen             erlassen             VERB     VVPP     _      35     oc         _      _     
+35   werden               werden               AUX      VAFIN    _      1      oc         _      _     
+36   und                  und                  CCONJ    KON      _      35     cd         _      _     
+37   mit                  mit                  ADP      APPR     _      42     mo         _      _     
+38   dem                  der                  PRON     PRELS    _      37     nk         _      _     
+39   die                  der                  DET      ART      _      40     nk         _      _     
+40   Gewerbeordnung       Gewerbeordnung       NOUN     NN       _      43     sb         _      _     
+41   1994                 1994                 NUM      CARD     _      42     mo         _      _     
+42   geändert             ändern               VERB     VVPP     _      43     oc         _      _     
+43   wird                 werden               AUX      VAFIN    _      36     cj         _      _     
+44   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+45   Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      cj         _      _     
+46   ,                    --                   PUNCT    $,       _      45     punct      _      _     
+47   mit                  mit                  ADP      APPR     _      51     mo         _      _     
+48   dem                  der                  PRON     PRELS    _      47     nk         _      _     
+49   das                  der                  DET      ART      _      50     nk         _      _     
+50   Bundespflegegeldgese Bundespflegegeldgese NOUN     NN       _      52     sb         _      _     
+51   geändert             ändern               VERB     VVPP     _      52     oc         _      _     
+52   wird                 werden               AUX      VAFIN    _      45     rc         _      _     
+53   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+54   Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      cj         _      _     
+55   ,                    --                   PUNCT    $,       _      54     punct      _      _     
+56   mit                  mit                  ADP      APPR     _      73     mo         _      _     
+57   dem                  der                  PRON     PRELS    _      56     nk         _      _     
+58   das                  der                  DET      ART      _      60     nk         _      _     
+59   Allgemeine           allgemein            ADJ      ADJA     _      60     nk         _      _     
+60   Sozialversicherungsg Sozialversicherungsg NOUN     NN       _      74     sb         _      _     
+61   ,                    --                   PUNCT    $,       _      60     punct      _      _     
+62   das                  der                  DET      ART      _      64     nk         _      _     
+63   Gewerbliche          Gewerbliche          ADJ      ADJA     _      64     nk         _      _     
+64   Sozialversicherungsg Sozialversicherungsg NOUN     NN       _      60     cj         _      _     
+65   ,                    --                   PUNCT    $,       _      60     punct      _      _     
+66   das                  der                  DET      ART      _      67     nk         _      _     
+67   Bauern-Sozialversich Bauern-Sozialversich NOUN     NN       _      60     cj         _      _     
+68   und                  und                  CCONJ    KON      _      67     cd         _      _     
+69   das                  der                  DET      ART      _      72     nk         _      _     
+70   Beamten-Kranken-     Beamten-Kranke       X        TRUNC    _      71     cj         _      _     
+71   und                  und                  CCONJ    KON      _      72     cd         _      _     
+72   Unfallversicherungsg Unfallversicherungsg NOUN     NN       _      68     cj         _      _     
+73   geändert             ändern               VERB     VVPP     _      74     oc         _      _     
+74   werden               werden               AUX      VAINF    _      54     rc         _      _     
+75   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 9
+# text = Familienausschuss: Jugendwohlfahrtsgesetz-Novelle 2007 ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Familienausschuss    Familienausschuss    PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Jugendwohlfahrtsgese Jugendwohlfahrtsgese PROPN    NE       _      1      sb         _      _     
+4    2007                 2007                 NUM      CARD     _      3      nk         _      _     
+5    ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 10
+# text = Finanzausschuss: Bundesgesetz, mit dem ein Bundesgesetz über die Entschädigung von Verkehrsopfern erlassen wird sowie das Kraftfahrzeug-Haftpflichtversicherungsgesetz 1994, das Eisenbahn- und Kraftfahrzeughaftpflichtgesetz, das Gaswirtschaftsgesetz, das Kraftfahrgesetz 1967, das Reichshaftpflichtgesetz, das Rohrleitungsgesetz, das Versicherungsaufsichtsgesetz und das Bundesgesetz über internationales Versicherungsvertragsrecht für den Europäischen Wirtschaftsraum geändert werden , Bundesgesetz, mit dem das Finanzstrafgesetz geändert wird – Finanzstrafgesetz-Novelle 2007 ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Finanzausschuss      Finanzausschuss      NOUN     NN       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      pd         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    mit                  mit                  ADP      APPR     _      14     mo         _      _     
+6    dem                  der                  PRON     PRELS    _      5      nk         _      _     
+7    ein                  ein                  DET      ART      _      8      nk         _      _     
+8    Bundesgesetz         Bundesgesetz         NOUN     NN       _      15     sb         _      _     
+9    über                 über                 ADP      APPR     _      14     mo         _      _     
+10   die                  der                  DET      ART      _      11     nk         _      _     
+11   Entschädigung        Entschädigung        NOUN     NN       _      9      nk         _      _     
+12   von                  von                  ADP      APPR     _      11     pg         _      _     
+13   Verkehrsopfern       Verkehrsopfer        NOUN     NN       _      12     nk         _      _     
+14   erlassen             erlassen             VERB     VVPP     _      15     oc         _      _     
+15   wird                 werden               AUX      VAFIN    _      3      rc         _      _     
+16   sowie                sowie                CCONJ    KON      _      15     cd         _      _     
+17   das                  der                  DET      ART      _      18     nk         _      _     
+18   Kraftfahrzeug-Haftpf Kraftfahrzeug-Haftpf NOUN     NN       _      16     cj         _      _     
+19   1994                 1994                 NUM      CARD     _      18     nk         _      _     
+20   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+21   das                  der                  DET      ART      _      24     nk         _      _     
+22   Eisenbahn-           Eisenbahn            X        TRUNC    _      23     cj         _      _     
+23   und                  und                  CCONJ    KON      _      24     cd         _      _     
+24   Kraftfahrzeughaftpfl Kraftfahrzeughaftpfl NOUN     NN       _      18     app        _      _     
+25   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+26   das                  der                  DET      ART      _      27     nk         _      _     
+27   Gaswirtschaftsgesetz Gaswirtschaftsgesetz NOUN     NN       _      18     app        _      _     
+28   ,                    --                   PUNCT    $,       _      27     punct      _      _     
+29   das                  der                  DET      ART      _      30     nk         _      _     
+30   Kraftfahrgesetz      Kraftfahrgesetz      NOUN     NN       _      27     app        _      _     
+31   1967                 1967                 NUM      CARD     _      30     nk         _      _     
+32   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+33   das                  der                  DET      ART      _      34     nk         _      _     
+34   Reichshaftpflichtges Reichshaftpflichtges NOUN     NN       _      18     app        _      _     
+35   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+36   das                  der                  DET      ART      _      37     nk         _      _     
+37   Rohrleitungsgesetz   Rohrleitungsgesetz   NOUN     NN       _      18     app        _      _     
+38   ,                    --                   PUNCT    $,       _      37     punct      _      _     
+39   das                  der                  DET      ART      _      40     nk         _      _     
+40   Versicherungsaufsich Versicherungsaufsich NOUN     NN       _      37     cj         _      _     
+41   und                  und                  CCONJ    KON      _      40     cd         _      _     
+42   das                  der                  DET      ART      _      43     nk         _      _     
+43   Bundesgesetz         Bundesgesetz         NOUN     NN       _      41     cj         _      _     
+44   über                 über                 ADP      APPR     _      51     mo         _      _     
+45   internationales      international        ADJ      ADJA     _      46     nk         _      _     
+46   Versicherungsvertrag Versicherungsvertrag NOUN     NN       _      44     nk         _      _     
+47   für                  für                  ADP      APPR     _      46     mnr        _      _     
+48   den                  der                  DET      ART      _      50     nk         _      _     
+49   Europäischen         europäisch           ADJ      ADJA     _      50     nk         _      _     
+50   Wirtschaftsraum      Wirtschaftsraum      NOUN     NN       _      47     nk         _      _     
+51   geändert             ändern               VERB     VVPP     _      52     oc         _      _     
+52   werden               werden               AUX      VAINF    _      37     oc         _      _     
+53   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+54   Bundesgesetz         Bundesgesetz         NOUN     NN       _      18     app        _      _     
+55   ,                    --                   PUNCT    $,       _      54     punct      _      _     
+56   mit                  mit                  ADP      APPR     _      60     mo         _      _     
+57   dem                  der                  PRON     PRELS    _      56     nk         _      _     
+58   das                  der                  DET      ART      _      59     nk         _      _     
+59   Finanzstrafgesetz    Finanzstrafgesetz    NOUN     NN       _      61     sb         _      _     
+60   geändert             ändern               VERB     VVPP     _      61     oc         _      _     
+61   wird                 werden               AUX      VAFIN    _      54     rc         _      _     
+62   –                    --                   PUNCT    $(       _      63     punct      _      _     
+63   Finanzstrafgesetz-No Finanzstrafgesetz-No NOUN     NN       _      54     cj         _      _     
+64   2007                 2007                 NUM      CARD     _      1      oc         _      _     
+65   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 11
+# text = Umweltausschuss: Bundesgesetz, mit dem das Abfallwirtschaftsgesetz 2002 geändert wird , Nationalrat, XXIII.GP Bundesgesetz über die Errichtung des Klima- und Energiefonds – Klima- und Energiefondsgesetz ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Umweltausschuss      Umweltausschuss      PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      rs         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    mit                  mit                  ADP      APPR     _      10     mo         _      _     
+6    dem                  der                  PRON     PRELS    _      5      nk         _      _     
+7    das                  der                  DET      ART      _      8      nk         _      _     
+8    Abfallwirtschaftsges Abfallwirtschaftsges NOUN     NN       _      11     sb         _      _     
+9    2002                 2002                 NUM      CARD     _      8      nk         _      _     
+10   geändert             ändern               VERB     VVPP     _      11     oc         _      _     
+11   wird                 werden               AUX      VAFIN    _      3      rc         _      _     
+12   ,                    --                   PUNCT    $,       _      11     punct      _      _     
+13   Nationalrat          Nationalrat          NOUN     NN       _      3      cj         _      _     
+14   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+15   XXIII.GP             XXIII.GP             PROPN    NE       _      16     pnc        _      _     
+16   Bundesgesetz         Bundesgesetz         NOUN     NN       _      13     cj         _      _     
+17   über                 über                 ADP      APPR     _      16     mnr        _      _     
+18   die                  der                  DET      ART      _      19     nk         _      _     
+19   Errichtung           Errichtung           NOUN     NN       _      17     nk         _      _     
+20   des                  der                  DET      ART      _      23     nk         _      _     
+21   Klima-               Klima                X        TRUNC    _      22     cj         _      _     
+22   und                  und                  CCONJ    KON      _      23     cd         _      _     
+23   Energiefonds         Energiefond          NOUN     NN       _      19     ag         _      _     
+24   –                    --                   PUNCT    $(       _      23     punct      _      _     
+25   Klima-               Klima                X        TRUNC    _      26     cj         _      _     
+26   und                  und                  CCONJ    KON      _      27     cd         _      _     
+27   Energiefondsgesetz   Energiefondsgesetz   NOUN     NN       _      23     app        _      _     
+28   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 12
+# text = Verfassungsausschuss:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Verfassungsausschuss Verfassungsausschuss PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 13
+# text = Wahlrechtsänderungsgesetz 2007 , Bundesverfassungsgesetz, mit dem das Bundes-Verfassungsgesetz geändert wird ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wahlrechtsänderungsg Wahlrechtsänderungsg NOUN     NN       _      0      ROOT       _      _     
+2    2007                 2007                 NUM      CARD     _      1      nk         _      _     
+3    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+4    Bundesverfassungsges Bundesverfassungsges NOUN     NN       _      1      cj         _      _     
+5    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+6    mit                  mit                  ADP      APPR     _      10     mo         _      _     
+7    dem                  der                  PRON     PRELS    _      6      nk         _      _     
+8    das                  der                  DET      ART      _      9      nk         _      _     
+9    Bundes-Verfassungsge Bundes-Verfassungsge NOUN     NN       _      11     sb         _      _     
+10   geändert             ändern               VERB     VVPP     _      11     oc         _      _     
+11   wird                 werden               AUX      VAFIN    _      1      rc         _      _     
+12   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 14
+# text = Ausschuss für Wirtschaft und Industrie: Bundesgesetz, mit dem das Bauarbeitenkoordinationsgesetz geändert wird , Forschungs- und Wirtschaftsförderungsrechtsnovelle 2007 ;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ausschuss            Ausschuss            PROPN    NE       _      0      ROOT       _      _     
+2    für                  für                  ADP      APPR     _      1      mnr        _      _     
+3    Wirtschaft           Wirtschaft           NOUN     NN       _      2      nk         _      _     
+4    und                  und                  CCONJ    KON      _      3      cd         _      _     
+5    Industrie            Industrie            NOUN     NN       _      4      cj         _      _     
+6    :                    --                   PUNCT    $.       _      1      punct      _      _     
+7    Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      app        _      _     
+8    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+9    mit                  mit                  ADP      APPR     _      13     mo         _      _     
+10   dem                  der                  PRON     PRELS    _      9      nk         _      _     
+11   das                  der                  DET      ART      _      12     nk         _      _     
+12   Bauarbeitenkoordinat Bauarbeitenkoordinat NOUN     NN       _      14     sb         _      _     
+13   geändert             ändern               VERB     VVPP     _      14     oc         _      _     
+14   wird                 werden               AUX      VAFIN    _      7      rc         _      _     
+15   ,                    --                   PUNCT    $,       _      7      punct      _      _     
+16   Forschungs-          Forschung            X        TRUNC    _      17     cj         _      _     
+17   und                  und                  CCONJ    KON      _      18     cd         _      _     
+18   Wirtschaftsförderung Wirtschaftsförderung NOUN     NN       _      7      par        _      _     
+19   2007                 2007                 NUM      CARD     _      18     nk         _      _     
+20   ;                    --                   PUNCT    $.       _      7      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 15
+# text = Wissenschaftsausschuss: Bundesgesetz, mit dem das Studienförderungsgesetz 1992 geändert wird , Bundesgesetz, mit dem das Hochschülerinnen- und Hochschülerschaftsgesetz 1998 geändert wird , Bundesgesetz, mit dem das Bundesgesetz, mit dem ein Fonds zur Förderung der Errichtung einer Fakultät für Bauingenieurwesen und Architektur an der Universität Innsbruck geschaffen wird, aufgehoben wird .
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wissenschaftsausschu Wissenschaftsausschu PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      rs         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    mit                  mit                  ADP      APPR     _      10     mo         _      _     
+6    dem                  der                  PRON     PRELS    _      5      nk         _      _     
+7    das                  der                  DET      ART      _      8      nk         _      _     
+8    Studienförderungsges Studienförderungsges NOUN     NN       _      11     sb         _      _     
+9    1992                 1992                 NUM      CARD     _      10     mo         _      _     
+10   geändert             ändern               VERB     VVPP     _      11     oc         _      _     
+11   wird                 werden               AUX      VAFIN    _      3      rc         _      _     
+12   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+13   Bundesgesetz         Bundesgesetz         NOUN     NN       _      3      cj         _      _     
+14   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+15   mit                  mit                  ADP      APPR     _      22     mo         _      _     
+16   dem                  der                  PRON     PRELS    _      15     nk         _      _     
+17   das                  der                  DET      ART      _      20     nk         _      _     
+18   Hochschülerinnen-    Hochschülerinne      X        TRUNC    _      19     cj         _      _     
+19   und                  und                  CCONJ    KON      _      20     cd         _      _     
+20   Hochschülerschaftsge Hochschülerschaftsge NOUN     NN       _      23     sb         _      _     
+21   1998                 1998                 NUM      CARD     _      22     mo         _      _     
+22   geändert             ändern               VERB     VVPP     _      23     oc         _      _     
+23   wird                 werden               AUX      VAFIN    _      13     rc         _      _     
+24   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+25   Bundesgesetz         Bundesgesetz         NOUN     NN       _      3      cj         _      _     
+26   ,                    --                   PUNCT    $,       _      25     punct      _      _     
+27   mit                  mit                  ADP      APPR     _      53     mo         _      _     
+28   dem                  der                  PRON     PRELS    _      27     nk         _      _     
+29   das                  der                  DET      ART      _      30     nk         _      _     
+30   Bundesgesetz         Bundesgesetz         NOUN     NN       _      54     sb         _      _     
+31   ,                    --                   PUNCT    $,       _      30     punct      _      _     
+32   mit                  mit                  ADP      APPR     _      50     mo         _      _     
+33   dem                  der                  PRON     PRELS    _      32     nk         _      _     
+34   ein                  ein                  DET      ART      _      35     nk         _      _     
+35   Fonds                Fonds                NOUN     NN       _      51     sb         _      _     
+36   zur                  zu                   ADP      APPRART  _      35     mnr        _      _     
+37   Förderung            Förderung            NOUN     NN       _      36     nk         _      _     
+38   der                  der                  DET      ART      _      39     nk         _      _     
+39   Errichtung           Errichtung           NOUN     NN       _      37     ag         _      _     
+40   einer                ein                  DET      ART      _      41     nk         _      _     
+41   Fakultät             Fakultät             NOUN     NN       _      39     ag         _      _     
+42   für                  für                  ADP      APPR     _      41     mnr        _      _     
+43   Bauingenieurwesen    Bauingenieurwese     NOUN     NN       _      42     nk         _      _     
+44   und                  und                  CCONJ    KON      _      43     cd         _      _     
+45   Architektur          Architektur          NOUN     NN       _      44     cj         _      _     
+46   an                   an                   ADP      APPR     _      43     mnr        _      _     
+47   der                  der                  DET      ART      _      48     nk         _      _     
+48   Universität          Universität          NOUN     NN       _      46     nk         _      _     
+49   Innsbruck            Innsbruck            PROPN    NE       _      48     nk         _      _     
+50   geschaffen           schaffen             VERB     VVPP     _      51     oc         _      _     
+51   wird                 werden               AUX      VAFIN    _      30     rc         _      _     
+52   ,                    --                   PUNCT    $,       _      53     punct      _      _     
+53   aufgehoben           aufheben             VERB     VVPP     _      54     oc         _      _     
+54   wird                 werden               AUX      VAFIN    _      25     rc         _      _     
+55   .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 16
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 17
+# text = ****
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      punct      _      _     
+3    *                    *                    NOUN     NN       _      1      par        _      _     
+4    *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 18
+# text = Präsidentin Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Präsidentin          Präsidentin          NOUN     NN       _      0      ROOT       _      _     
+2    Mag                  mögen                PROPN    NE       _      1      nk         _      _     
+3    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 19
+# text = Barbara Prammer : Die nächste Sitzung des Nationalrates, die für Dienstag, den 5. Juni 2007, 9 Uhr, in Aussicht genommen ist, wird auf schriftlichem Wege einberufen werden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Barbara              Barbara              PROPN    NE       _      2      pnc        _      _     
+2    Prammer              Prammer              PROPN    NE       _      27     sb         _      _     
+3    :                    --                   PUNCT    $.       _      27     punct      _      _     
+4    Die                  der                  DET      ART      _      6      nk         _      _     
+5    nächste              nächster             ADJ      ADJA     _      6      nk         _      _     
+6    Sitzung              Sitzung              NOUN     NN       _      27     sb         _      _     
+7    des                  der                  DET      ART      _      8      nk         _      _     
+8    Nationalrates        Nationalrat          NOUN     NN       _      6      ag         _      _     
+9    ,                    --                   PUNCT    $,       _      8      punct      _      _     
+10   die                  der                  PRON     PRELS    _      25     sb         _      _     
+11   für                  für                  ADP      APPR     _      24     mo         _      _     
+12   Dienstag             Dienstag             NOUN     NN       _      11     nk         _      _     
+13   ,                    --                   PUNCT    $,       _      12     punct      _      _     
+14   den                  der                  DET      ART      _      16     nk         _      _     
+15   5.                   5.                   ADJ      ADJA     _      16     nk         _      _     
+16   Juni                 Juni                 NOUN     NN       _      12     app        _      _     
+17   2007                 2007                 NUM      CARD     _      16     nk         _      _     
+18   ,                    --                   PUNCT    $,       _      16     punct      _      _     
+19   9                    9                    NUM      CARD     _      20     nk         _      _     
+20   Uhr                  Uhr                  NOUN     NN       _      16     app        _      _     
+21   ,                    --                   PUNCT    $,       _      24     punct      _      _     
+22   in                   in                   ADP      APPR     _      24     cvc        _      _     
+23   Aussicht             Aussicht             NOUN     NN       _      22     nk         _      _     
+24   genommen             nehmen               VERB     VVPP     _      25     oc         _      _     
+25   ist                  sein                 AUX      VAFIN    _      8      rc         _      _     
+26   ,                    --                   PUNCT    $,       _      27     punct      _      _     
+27   wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+28   auf                  auf                  ADP      APPR     _      31     mo         _      _     
+29   schriftlichem        schriftlich          DET      ADJA     _      30     nk         _      _     
+30   Wege                 Weg                  NOUN     NN       _      28     nk         _      _     
+31   einberufen           einberufen           VERB     VVPP     _      32     oc         _      _     
+32   werden               werden               AUX      VAINF    _      27     oc         _      _     
+33   .                    --                   PUNCT    $.       _      27     punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 20
+# text = Ich danke Ihnen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    danke                danken               VERB     VVFIN    _      0      ROOT       _      _     
+3    Ihnen                ihnen                PRON     PPER     _      2      da         _      _     
+4    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXIII_NRSITZ_23.txt
+# speaker = Prammer
+# id = 21
+# text = Die Sitzung ist geschlossen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      2      nk         _      _     
+2    Sitzung              Sitzung              NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    geschlossen          schließen            VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+

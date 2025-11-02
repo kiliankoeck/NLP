@@ -1,0 +1,1297 @@
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 1
+# text = Ich eröffne die 36. Sitzung des Nationalrates.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    eröffne              eröffnen             VERB     VVFIN    _      0      ROOT       _      _     
+3    die                  der                  DET      ART      _      5      nk         _      _     
+4    36.                  36.                  ADJ      ADJA     _      5      nk         _      _     
+5    Sitzung              Sitzung              NOUN     NN       _      2      oa         _      _     
+6    des                  der                  DET      ART      _      7      nk         _      _     
+7    Nationalrates        Nationalrat          NOUN     NN       _      5      ag         _      _     
+8    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 2
+# text = Als verhindert gemeldet sind die Abgeordneten Einwallner, Murauer, Haidlmayr, Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Als                  als                  ADP      APPR     _      4      mo         _      _     
+2    verhindert           verhindern           ADV      ADJD     _      3      mo         _      _     
+3    gemeldet             melden               VERB     VVPP     _      1      nk         _      _     
+4    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+5    die                  der                  DET      ART      _      6      nk         _      _     
+6    Abgeordneten         abgeordneter         NOUN     NN       _      4      sb         _      _     
+7    Einwallner           Einwallner           NOUN     NN       _      6      nk         _      _     
+8    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+9    Murauer              Murauer              NOUN     NN       _      7      cj         _      _     
+10   ,                    --                   PUNCT    $,       _      7      punct      _      _     
+11   Haidlmayr            Haidlmayr            NOUN     NN       _      9      cj         _      _     
+12   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+13   Mag                  mögen                AUX      VMFIN    _      4      pd         _      _     
+14   .                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 3
+# text = Lunacek und Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Lunacek              Lunacek              PROPN    NE       _      0      ROOT       _      _     
+2    und                  und                  CCONJ    KON      _      1      cd         _      _     
+3    Mag                  mögen                PROPN    VMFIN    _      2      cj         _      _     
+4    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 4
+# text = Darmann.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Darmann              Darmann              NOUN     NN       _      0      ROOT       _      _     
+2    .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 5
+# text = Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Hinsichtlich         hinsichtlich         ADP      APPR     _      8      mo         _      _     
+2    der                  der                  DET      ART      _      4      nk         _      _     
+3    eingelangten         eingelangt           ADJ      ADJA     _      4      nk         _      _     
+4    Verhandlungsgegenstä Verhandlungsgegensta NOUN     NN       _      1      nk         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    deren                der                  PRON     PDS      _      7      ag         _      _     
+7    Zuweisungen          Zuweisung            NOUN     NN       _      5      cj         _      _     
+8    verweise             verweisen            VERB     VVFIN    _      0      ROOT       _      _     
+9    ich                  ich                  PRON     PPER     _      8      sb         _      _     
+10   gemäß                gemäß                ADP      APPR     _      8      mo         _      _     
+11   §                    §                    NOUN     NN       _      10     nk         _      _     
+12   23                   23                   NUM      CARD     _      11     nk         _      _     
+13   Abs.                 Abs.                 NOUN     NN       _      11     nk         _      _     
+14   4                    4                    NUM      CARD     _      13     nk         _      _     
+15   der                  der                  DET      ART      _      16     nk         _      _     
+16   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      11     ag         _      _     
+17   auf                  auf                  ADP      APPR     _      8      op         _      _     
+18   die                  der                  DET      ART      _      22     nk         _      _     
+19   im                   in                   ADP      APPRART  _      21     mo         _      _     
+20   Sitzungssaal         Sitzungssaal         NOUN     NN       _      19     nk         _      _     
+21   verteilte            verteilt             ADJ      ADJA     _      22     nk         _      _     
+22   Mitteilung           Mitteilung           NOUN     NN       _      17     nk         _      _     
+23   .                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 6
+# text = Die schriftliche Mitteilung hat folgenden Wortlaut:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      3      nk         _      _     
+2    schriftliche         schriftlich          ADJ      ADJA     _      3      nk         _      _     
+3    Mitteilung           Mitteilung           NOUN     NN       _      4      sb         _      _     
+4    hat                  haben                VERB     VAFIN    _      0      ROOT       _      _     
+5    folgenden            folgend              ADJ      ADJA     _      6      nk         _      _     
+6    Wortlaut             Wortlaut             NOUN     NN       _      4      oa         _      _     
+7    :                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 7
+# text = Zuweisungen in dieser Sitzung: zur Vorberatung: Ausschuss für Arbeit und Soziales: Antrag 435/A der Abgeordneten Ing. Peter Westenthaler, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem ein Heizkostenausgleichsfonds eingerichtet wird , Antrag 441/A der Abgeordneten Ing. Norbert Hofer, Kolleginnen und Kollegen betreffend gerechte Berücksichtigung von Kindererziehungszeiten;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Zuweisungen          Zuweisung            NOUN     NN       _      28     sb         _      _     
+2    in                   in                   ADP      APPR     _      1      mnr        _      _     
+3    dieser               dieser               DET      PDAT     _      4      nk         _      _     
+4    Sitzung              Sitzung              NOUN     NN       _      2      nk         _      _     
+5    :                    --                   PUNCT    $.       _      1      punct      _      _     
+6    zur                  zu                   ADP      APPRART  _      1      mnr        _      _     
+7    Vorberatung          Vorberatung          NOUN     NN       _      6      nk         _      _     
+8    :                    --                   PUNCT    $.       _      1      punct      _      _     
+9    Ausschuss            Ausschuss            PROPN    NE       _      1      pd         _      _     
+10   für                  für                  ADP      APPR     _      9      mnr        _      _     
+11   Arbeit               Arbeit               NOUN     NN       _      10     nk         _      _     
+12   und                  und                  CCONJ    KON      _      11     cd         _      _     
+13   Soziales             soziale              NOUN     NN       _      12     cj         _      _     
+14   :                    --                   PUNCT    $.       _      1      punct      _      _     
+15   Antrag               Antrag               NOUN     NN       _      1      nk         _      _     
+16   435                  435                  NUM      CARD     _      18     nk         _      _     
+17   /                    --                   PUNCT    $(       _      18     punct      _      _     
+18   A                    A                    NOUN     NN       _      15     nk         _      _     
+19   der                  der                  DET      ART      _      20     nk         _      _     
+20   Abgeordneten         abgeordneter         NOUN     NN       _      15     ag         _      _     
+21   Ing.                 Ing.                 PROPN    NE       _      23     pnc        _      _     
+22   Peter                Peter                PROPN    NE       _      23     pnc        _      _     
+23   Westenthaler         Westenthaler         PROPN    NE       _      20     nk         _      _     
+24   ,                    --                   PUNCT    $,       _      23     punct      _      _     
+25   Kolleginnen          Kollegin             NOUN     NN       _      23     cj         _      _     
+26   und                  und                  CCONJ    KON      _      25     cd         _      _     
+27   Kollegen             Kollege              NOUN     NN       _      26     cj         _      _     
+28   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+29   ein                  ein                  DET      ART      _      30     nk         _      _     
+30   Bundesgesetz         Bundesgesetz         NOUN     NN       _      28     oa         _      _     
+31   ,                    --                   PUNCT    $,       _      30     punct      _      _     
+32   mit                  mit                  ADP      APPR     _      36     mo         _      _     
+33   dem                  der                  PRON     PRELS    _      32     nk         _      _     
+34   ein                  ein                  DET      ART      _      35     nk         _      _     
+35   Heizkostenausgleichs Heizkostenausgleichs NOUN     NN       _      37     sb         _      _     
+36   eingerichtet         einrichten           VERB     VVPP     _      37     oc         _      _     
+37   wird                 werden               AUX      VAFIN    _      30     rc         _      _     
+38   ,                    --                   PUNCT    $,       _      37     punct      _      _     
+39   Antrag               Antrag               NOUN     NN       _      54     nk         _      _     
+40   441                  441                  NUM      CARD     _      42     nk         _      _     
+41   /                    --                   PUNCT    $(       _      42     punct      _      _     
+42   A                    A                    NOUN     NN       _      39     nk         _      _     
+43   der                  der                  DET      ART      _      44     nk         _      _     
+44   Abgeordneten         abgeordneter         NOUN     NN       _      39     ag         _      _     
+45   Ing.                 Ing.                 PROPN    NE       _      47     pnc        _      _     
+46   Norbert              Norbert              PROPN    NE       _      47     pnc        _      _     
+47   Hofer                Hofer                PROPN    NE       _      44     nk         _      _     
+48   ,                    --                   PUNCT    $,       _      39     punct      _      _     
+49   Kolleginnen          Kollegin             NOUN     NN       _      39     cj         _      _     
+50   und                  und                  CCONJ    KON      _      49     cd         _      _     
+51   Kollegen             Kollege              NOUN     NN       _      50     cj         _      _     
+52   betreffend           betreffend           ADV      ADJD     _      53     mo         _      _     
+53   gerechte             gerecht              ADJ      ADJA     _      54     nk         _      _     
+54   Berücksichtigung     Berücksichtigung     NOUN     NN       _      28     oa         _      _     
+55   von                  von                  ADP      APPR     _      54     pg         _      _     
+56   Kindererziehungszeit Kindererziehungszeit NOUN     NN       _      55     nk         _      _     
+57   ;                    --                   PUNCT    $.       _      28     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 8
+# text = Außenpolitischer Ausschuss: Antrag 428/A der Abgeordneten Heinz-Christian Strache, Kolleginnen und Kollegen betreffend Verhandlungen der Bundesregierung auf europäischer Ebene zur Verhinderung einer Verschärfung der europäischen Waffenrechts-Richtlinie, Antrag 429/A der Abgeordneten Heinz-Christian Strache, Kolleginnen und Kollegen betreffend Verurteilung des türkischen Völkermordes an den Armeniern durch die Bundesregierung, Antrag 430/A der Abgeordneten Dr. Reinhard Eugen Bösch, Kolleginnen und Kollegen betreffend Verhandlungen der Bundesregierung auf europäischer Ebene zur Erreichung einer restriktiveren Einwanderungspolitik und einem Ausbau der EU-Agentur FRONTEX, Antrag 431/A der Abgeordneten Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Außenpolitischer     außenpolitisch       NOUN     NN       _      16     sb         _      _     
+2    Ausschuss            Ausschuss            PROPN    NE       _      1      nk         _      _     
+3    :                    --                   PUNCT    $.       _      1      punct      _      _     
+4    Antrag               Antrag               NOUN     NN       _      1      nk         _      _     
+5    428                  428                  NUM      CARD     _      7      pnc        _      _     
+6    /                    --                   PUNCT    $(       _      7      punct      _      _     
+7    A                    A                    NOUN     NN       _      4      nk         _      _     
+8    der                  der                  DET      ART      _      9      nk         _      _     
+9    Abgeordneten         abgeordneter         NOUN     NN       _      4      ag         _      _     
+10   Heinz-Christian      Heinz-Christian      PROPN    NE       _      11     pnc        _      _     
+11   Strache              Strache              PROPN    NE       _      9      nk         _      _     
+12   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+13   Kolleginnen          Kollegin             NOUN     NN       _      4      cj         _      _     
+14   und                  und                  CCONJ    KON      _      13     cd         _      _     
+15   Kollegen             Kollege              NOUN     NN       _      14     cj         _      _     
+16   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+17   Verhandlungen        Verhandlung          NOUN     NN       _      43     oa         _      _     
+18   der                  der                  DET      ART      _      19     nk         _      _     
+19   Bundesregierung      Bundesregierung      NOUN     NN       _      17     ag         _      _     
+20   auf                  auf                  ADP      APPR     _      17     mnr        _      _     
+21   europäischer         europäisch           ADJ      ADJA     _      22     nk         _      _     
+22   Ebene                Ebene                NOUN     NN       _      20     nk         _      _     
+23   zur                  zu                   ADP      APPRART  _      17     mnr        _      _     
+24   Verhinderung         Verhinderung         NOUN     NN       _      23     nk         _      _     
+25   einer                ein                  DET      ART      _      26     nk         _      _     
+26   Verschärfung         Verschärfung         NOUN     NN       _      24     ag         _      _     
+27   der                  der                  DET      ART      _      29     nk         _      _     
+28   europäischen         europäisch           ADJ      ADJA     _      29     nk         _      _     
+29   Waffenrechts-Richtli Waffenrechts-Richtli NOUN     NN       _      26     ag         _      _     
+30   ,                    --                   PUNCT    $,       _      26     punct      _      _     
+31   Antrag               Antrag               NOUN     NN       _      26     par        _      _     
+32   429                  429                  NUM      CARD     _      34     nk         _      _     
+33   /                    --                   PUNCT    $(       _      34     punct      _      _     
+34   A                    A                    NOUN     NN       _      31     nk         _      _     
+35   der                  der                  DET      ART      _      36     nk         _      _     
+36   Abgeordneten         abgeordneter         NOUN     NN       _      34     ag         _      _     
+37   Heinz-Christian      Heinz-Christian      PROPN    NE       _      38     pnc        _      _     
+38   Strache              Strache              PROPN    NE       _      36     nk         _      _     
+39   ,                    --                   PUNCT    $,       _      31     punct      _      _     
+40   Kolleginnen          Kollegin             NOUN     NN       _      31     cj         _      _     
+41   und                  und                  CCONJ    KON      _      40     cd         _      _     
+42   Kollegen             Kollege              NOUN     NN       _      41     cj         _      _     
+43   betreffend           betreffend           ADV      ADJD     _      16     mo         _      _     
+44   Verurteilung         Verurteilung         NOUN     NN       _      43     oa         _      _     
+45   des                  der                  DET      ART      _      47     nk         _      _     
+46   türkischen           türkisch             ADJ      ADJA     _      47     nk         _      _     
+47   Völkermordes         Völkermord           NOUN     NN       _      44     ag         _      _     
+48   an                   an                   ADP      APPR     _      47     mnr        _      _     
+49   den                  der                  DET      ART      _      50     nk         _      _     
+50   Armeniern            Armenier             NOUN     NN       _      48     nk         _      _     
+51   durch                durch                ADP      APPR     _      43     mo         _      _     
+52   die                  der                  DET      ART      _      53     nk         _      _     
+53   Bundesregierung      Bundesregierung      NOUN     NN       _      51     nk         _      _     
+54   ,                    --                   PUNCT    $,       _      53     punct      _      _     
+55   Antrag               Antrag               NOUN     NN       _      53     cj         _      _     
+56   430                  430                  NUM      CARD     _      58     nk         _      _     
+57   /                    --                   PUNCT    $(       _      58     punct      _      _     
+58   A                    A                    NOUN     NN       _      55     nk         _      _     
+59   der                  der                  DET      ART      _      60     nk         _      _     
+60   Abgeordneten         abgeordneter         NOUN     NN       _      55     ag         _      _     
+61   Dr.                  Dr.                  NOUN     NN       _      60     nk         _      _     
+62   Reinhard             Reinhard             PROPN    NE       _      64     pnc        _      _     
+63   Eugen                Eugen                PROPN    NE       _      64     pnc        _      _     
+64   Bösch                Bösch                PROPN    NE       _      61     nk         _      _     
+65   ,                    --                   PUNCT    $,       _      53     punct      _      _     
+66   Kolleginnen          Kollegin             NOUN     NN       _      53     cj         _      _     
+67   und                  und                  CCONJ    KON      _      66     cd         _      _     
+68   Kollegen             Kollege              NOUN     NN       _      67     cj         _      _     
+69   betreffend           betreffend           ADV      ADJD     _      43     mo         _      _     
+70   Verhandlungen        Verhandlung          NOUN     NN       _      16     oa         _      _     
+71   der                  der                  DET      ART      _      72     nk         _      _     
+72   Bundesregierung      Bundesregierung      NOUN     NN       _      70     ag         _      _     
+73   auf                  auf                  ADP      APPR     _      70     mnr        _      _     
+74   europäischer         europäisch           ADJ      ADJA     _      75     nk         _      _     
+75   Ebene                Ebene                NOUN     NN       _      73     nk         _      _     
+76   zur                  zu                   ADP      APPRART  _      16     mo         _      _     
+77   Erreichung           Erreichung           NOUN     NN       _      76     nk         _      _     
+78   einer                ein                  DET      ART      _      80     nk         _      _     
+79   restriktiveren       restriktiver         ADJ      ADJA     _      80     nk         _      _     
+80   Einwanderungspolitik Einwanderungspolitik NOUN     NN       _      77     ag         _      _     
+81   und                  und                  CCONJ    KON      _      80     cd         _      _     
+82   einem                ein                  DET      ART      _      83     nk         _      _     
+83   Ausbau               Ausbau               NOUN     NN       _      81     cj         _      _     
+84   der                  der                  DET      ART      _      85     nk         _      _     
+85   EU-Agentur           EU-Agentur           NOUN     NN       _      83     ag         _      _     
+86   FRONTEX              FRONTEX              PROPN    NE       _      85     nk         _      _     
+87   ,                    --                   PUNCT    $,       _      77     punct      _      _     
+88   Antrag               Antrag               NOUN     NN       _      77     nk         _      _     
+89   431                  431                  NUM      CARD     _      91     nk         _      _     
+90   /                    --                   PUNCT    $(       _      91     punct      _      _     
+91   A                    A                    NOUN     NN       _      88     nk         _      _     
+92   der                  der                  DET      ART      _      93     nk         _      _     
+93   Abgeordneten         abgeordneter         NOUN     NN       _      88     ag         _      _     
+94   Mag                  mögen                AUX      VMFIN    _      93     nk         _      _     
+95   .                    --                   PUNCT    $.       _      16     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 9
+# text = Dr. Manfred Haimbuchner, Kolleginnen und Kollegen betreffend Verurteilung durch die österreichische Bundesregierung der Unantastbarkeitserklärung der Benes-Dekrete durch das slowakische Parlament, sowie die Aufhebung der Benes-Dekrete durch die Slowakei;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Dr.                  Dr.                  NOUN     NN       _      8      sb         _      _     
+2    Manfred              Manfred              PROPN    NE       _      3      pnc        _      _     
+3    Haimbuchner          Haimbuchner          PROPN    NE       _      1      nk         _      _     
+4    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+5    Kolleginnen          Kollegin             NOUN     NN       _      1      cj         _      _     
+6    und                  und                  CCONJ    KON      _      5      cd         _      _     
+7    Kollegen             Kollege              NOUN     NN       _      6      cj         _      _     
+8    betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+9    Verurteilung         Verurteilung         NOUN     NN       _      8      oa         _      _     
+10   durch                durch                ADP      APPR     _      9      mnr        _      _     
+11   die                  der                  DET      ART      _      13     nk         _      _     
+12   österreichische      österreichisch       ADJ      ADJA     _      13     nk         _      _     
+13   Bundesregierung      Bundesregierung      NOUN     NN       _      10     nk         _      _     
+14   der                  der                  DET      ART      _      15     nk         _      _     
+15   Unantastbarkeitserkl Unantastbarkeitserkl NOUN     NN       _      13     ag         _      _     
+16   der                  der                  DET      ART      _      17     nk         _      _     
+17   Benes-Dekrete        Benes-Dekrete        NOUN     NN       _      15     ag         _      _     
+18   durch                durch                ADP      APPR     _      9      mnr        _      _     
+19   das                  der                  DET      ART      _      21     nk         _      _     
+20   slowakische          slowakisch           ADJ      ADJA     _      21     nk         _      _     
+21   Parlament            Parlament            NOUN     NN       _      18     nk         _      _     
+22   ,                    --                   PUNCT    $,       _      8      punct      _      _     
+23   sowie                sowie                CCONJ    KON      _      8      cd         _      _     
+24   die                  der                  DET      ART      _      25     nk         _      _     
+25   Aufhebung            Aufhebung            NOUN     NN       _      23     cj         _      _     
+26   der                  der                  DET      ART      _      27     nk         _      _     
+27   Benes-Dekrete        Benes-Dekrete        NOUN     NN       _      25     ag         _      _     
+28   durch                durch                ADP      APPR     _      25     mnr        _      _     
+29   die                  der                  DET      ART      _      30     nk         _      _     
+30   Slowakei             Slowakei             PROPN    NE       _      28     nk         _      _     
+31   ;                    --                   PUNCT    $.       _      8      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 10
+# text = Familienausschuss: Antrag 421/A der Abgeordneten Barbara Zwerschitz, Kolleginnen und Kollegen betreffend inhaltliche Schwerpunkte im Rahmen der Novellierung des Jugendwohlfahrtsgesetzes, Nationalrat, XXIII.GP Antrag 422/A der Abgeordneten Barbara Zwerschitz, Kolleginnen und Kollegen betreffend die Abgabe der „Pille danach“ an Schulen, Antrag 442/A der Abgeordneten Heinz-Christian Strache, Kolleginnen und Kollegen betreffend Abschaffung der Zuverdienstgrenze im Kinderbetreuungsgeldgesetz;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Familienausschuss    Familienausschuss    PROPN    NE       _      15     sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      rs         _      _     
+4    421                  421                  NUM      CARD     _      3      nk         _      _     
+5    /                    --                   PUNCT    $(       _      3      punct      _      _     
+6    A                    --                   NOUN     NN       _      3      cj         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      3      ag         _      _     
+9    Barbara              Barbara              PROPN    NE       _      10     pnc        _      _     
+10   Zwerschitz           Zwerschitz           PROPN    NE       _      8      nk         _      _     
+11   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+12   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+13   und                  und                  CCONJ    KON      _      12     cd         _      _     
+14   Kollegen             Kollege              NOUN     NN       _      13     cj         _      _     
+15   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+16   inhaltliche          inhaltlich           ADJ      ADJA     _      17     nk         _      _     
+17   Schwerpunkte         Schwerpunkt          NOUN     NN       _      15     oa         _      _     
+18   im                   in                   ADP      APPRART  _      17     mnr        _      _     
+19   Rahmen               Rahmen               NOUN     NN       _      18     nk         _      _     
+20   der                  der                  DET      ART      _      21     nk         _      _     
+21   Novellierung         Novellierung         NOUN     NN       _      19     ag         _      _     
+22   des                  der                  DET      ART      _      23     nk         _      _     
+23   Jugendwohlfahrtsgese Jugendwohlfahrtsgese NOUN     NN       _      21     ag         _      _     
+24   ,                    --                   PUNCT    $,       _      21     punct      _      _     
+25   Nationalrat          Nationalrat          NOUN     NN       _      21     cj         _      _     
+26   ,                    --                   PUNCT    $,       _      19     punct      _      _     
+27   XXIII.GP             XXIII.GP             PROPN    NE       _      28     nk         _      _     
+28   Antrag               Antrag               NOUN     NN       _      19     app        _      _     
+29   422                  422                  NUM      CARD     _      31     nk         _      _     
+30   /                    --                   PUNCT    $(       _      31     punct      _      _     
+31   A                    A                    NOUN     NN       _      28     nk         _      _     
+32   der                  der                  DET      ART      _      33     nk         _      _     
+33   Abgeordneten         abgeordneter         NOUN     NN       _      28     ag         _      _     
+34   Barbara              Barbara              PROPN    NE       _      35     pnc        _      _     
+35   Zwerschitz           Zwerschitz           PROPN    NE       _      33     nk         _      _     
+36   ,                    --                   PUNCT    $,       _      35     punct      _      _     
+37   Kolleginnen          Kollegin             NOUN     NN       _      35     cj         _      _     
+38   und                  und                  CCONJ    KON      _      37     cd         _      _     
+39   Kollegen             Kollege              NOUN     NN       _      38     cj         _      _     
+40   betreffend           betreffend           VERB     VVFIN    _      15     mo         _      _     
+41   die                  der                  DET      ART      _      42     nk         _      _     
+42   Abgabe               Abgabe               NOUN     NN       _      40     oa         _      _     
+43   der                  der                  DET      ART      _      45     nk         _      _     
+44   „                    --                   PUNCT    $(       _      45     punct      _      _     
+45   Pille                Pille                NOUN     NN       _      42     ag         _      _     
+46   danach               danach               ADV      PROAV    _      40     mo         _      _     
+47   “                    --                   PUNCT    $(       _      40     punct      _      _     
+48   an                   an                   ADP      APPR     _      40     mo         _      _     
+49   Schulen              Schule               NOUN     NN       _      48     nk         _      _     
+50   ,                    --                   PUNCT    $,       _      49     punct      _      _     
+51   Antrag               Antrag               NOUN     NN       _      49     cj         _      _     
+52   442                  442                  NUM      CARD     _      54     nk         _      _     
+53   /                    --                   PUNCT    $(       _      54     punct      _      _     
+54   A                    A                    NOUN     NN       _      51     nk         _      _     
+55   der                  der                  DET      ART      _      56     nk         _      _     
+56   Abgeordneten         abgeordneter         NOUN     NN       _      51     ag         _      _     
+57   Heinz-Christian      Heinz-Christian      PROPN    NE       _      58     pnc        _      _     
+58   Strache              Strache              PROPN    NE       _      56     nk         _      _     
+59   ,                    --                   PUNCT    $,       _      49     punct      _      _     
+60   Kolleginnen          Kollegin             NOUN     NN       _      51     cj         _      _     
+61   und                  und                  CCONJ    KON      _      60     cd         _      _     
+62   Kollegen             Kollege              NOUN     NN       _      61     cj         _      _     
+63   betreffend           betreffend           ADV      ADJD     _      15     mo         _      _     
+64   Abschaffung          Abschaffung          NOUN     NN       _      15     oa         _      _     
+65   der                  der                  DET      ART      _      66     nk         _      _     
+66   Zuverdienstgrenze    Zuverdienstgrenze    NOUN     NN       _      64     ag         _      _     
+67   im                   in                   ADP      APPRART  _      15     mo         _      _     
+68   Kinderbetreuungsgeld Kinderbetreuungsgeld NOUN     NN       _      67     nk         _      _     
+69   ;                    --                   PUNCT    $.       _      15     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 11
+# text = Finanzausschuss: Antrag 412/A der Abgeordneten Bernhard Themessl, Kolleginnen und Kollegen betreffend Zweckwidmung der Mineralölsteuer, Antrag 437/A der Abgeordneten Josef Bucher, Kolleginnen und Kollegen betreffend Beteiligung der Mitarbeiter am Unternehmensgewinn, Antrag 440/A der Abgeordneten Barbara Rosenkranz, Kolleginnen und Kollegen betreffend Inflationsanpassung der österreichischen Familienleistungen, Antrag 443/A der Abgeordneten Barbara Rosenkranz, Kolleginnen und Kollegen betreffend Einführung eines „Familiensteuersplitting-Modells“;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Finanzausschuss      Finanzausschuss      NOUN     NN       _      51     sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      15     sb         _      _     
+4    412                  412                  NUM      CARD     _      6      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      3      ag         _      _     
+9    Bernhard             Bernhard             PROPN    NE       _      10     pnc        _      _     
+10   Themessl             Themessl             PROPN    NE       _      8      nk         _      _     
+11   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+12   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+13   und                  und                  CCONJ    KON      _      12     cd         _      _     
+14   Kollegen             Kollege              NOUN     NN       _      13     cj         _      _     
+15   betreffend           betreffend           ADV      ADJD     _      1      pd         _      _     
+16   Zweckwidmung         Zweckwidmung         NOUN     NN       _      15     oa         _      _     
+17   der                  der                  DET      ART      _      18     nk         _      _     
+18   Mineralölsteuer      Mineralölsteuer      NOUN     NN       _      16     ag         _      _     
+19   ,                    --                   PUNCT    $,       _      16     punct      _      _     
+20   Antrag               Antrag               NOUN     NN       _      1      nk         _      _     
+21   437                  437                  NUM      CARD     _      23     nk         _      _     
+22   /                    --                   PUNCT    $(       _      23     punct      _      _     
+23   A                    A                    NOUN     NN       _      12     cj         _      _     
+24   der                  der                  DET      ART      _      25     nk         _      _     
+25   Abgeordneten         abgeordneter         NOUN     NN       _      23     ag         _      _     
+26   Josef                Josef                PROPN    NE       _      27     pnc        _      _     
+27   Bucher               Bucher               PROPN    NE       _      25     nk         _      _     
+28   ,                    --                   PUNCT    $,       _      1      punct      _      _     
+29   Kolleginnen          Kollegin             NOUN     NN       _      32     sb         _      _     
+30   und                  und                  CCONJ    KON      _      29     cd         _      _     
+31   Kollegen             Kollege              NOUN     NN       _      30     cj         _      _     
+32   betreffend           betreffend           ADV      ADJD     _      1      pd         _      _     
+33   Beteiligung          Beteiligung          NOUN     NN       _      32     oa         _      _     
+34   der                  der                  DET      ART      _      35     nk         _      _     
+35   Mitarbeiter          Mitarbeiter          NOUN     NN       _      33     ag         _      _     
+36   am                   an                   ADP      APPRART  _      33     op         _      _     
+37   Unternehmensgewinn   Unternehmensgewinn   NOUN     NN       _      36     nk         _      _     
+38   ,                    --                   PUNCT    $,       _      33     punct      _      _     
+39   Antrag               Antrag               NOUN     NN       _      51     sb         _      _     
+40   440                  440                  NUM      CARD     _      42     nk         _      _     
+41   /                    --                   PUNCT    $(       _      42     punct      _      _     
+42   A                    --                   NOUN     NN       _      39     nk         _      _     
+43   der                  der                  DET      ART      _      44     nk         _      _     
+44   Abgeordneten         abgeordneter         NOUN     NN       _      39     ag         _      _     
+45   Barbara              Barbara              PROPN    NE       _      46     pnc        _      _     
+46   Rosenkranz           Rosenkranz           PROPN    NE       _      44     nk         _      _     
+47   ,                    --                   PUNCT    $,       _      44     punct      _      _     
+48   Kolleginnen          Kollegin             NOUN     NN       _      44     cj         _      _     
+49   und                  und                  CCONJ    KON      _      48     cd         _      _     
+50   Kollegen             Kollege              NOUN     NN       _      49     cj         _      _     
+51   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+52   Inflationsanpassung  Inflationsanpassung  NOUN     NN       _      51     oa         _      _     
+53   der                  der                  DET      ART      _      55     nk         _      _     
+54   österreichischen     österreichisch       ADJ      ADJA     _      55     nk         _      _     
+55   Familienleistungen   Familienleistung     NOUN     NN       _      52     ag         _      _     
+56   ,                    --                   PUNCT    $,       _      52     punct      _      _     
+57   Antrag               Antrag               NOUN     NN       _      52     par        _      _     
+58   443                  443                  NUM      CARD     _      60     nk         _      _     
+59   /                    --                   PUNCT    $(       _      60     punct      _      _     
+60   A                    A                    NOUN     NN       _      57     nk         _      _     
+61   der                  der                  DET      ART      _      62     nk         _      _     
+62   Abgeordneten         abgeordneter         NOUN     NN       _      60     ag         _      _     
+63   Barbara              Barbara              PROPN    NE       _      64     pnc        _      _     
+64   Rosenkranz           Rosenkranz           PROPN    NE       _      62     nk         _      _     
+65   ,                    --                   PUNCT    $,       _      57     punct      _      _     
+66   Kolleginnen          Kollegin             NOUN     NN       _      57     cj         _      _     
+67   und                  und                  CCONJ    KON      _      66     cd         _      _     
+68   Kollegen             Kollege              NOUN     NN       _      67     cj         _      _     
+69   betreffend           betreffend           ADV      ADJD     _      51     mo         _      _     
+70   Einführung           Einführung           NOUN     NN       _      51     oa         _      _     
+71   eines                ein                  DET      ART      _      73     nk         _      _     
+72   „                    --                   PUNCT    $(       _      73     punct      _      _     
+73   Familiensteuersplitt Familiensteuersplitt NOUN     NN       _      70     ag         _      _     
+74   “                    --                   PUNCT    $(       _      73     punct      _      _     
+75   ;                    --                   PUNCT    $.       _      51     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 12
+# text = Gesundheitsausschuss: Antrag 418/A der Abgeordneten Dipl.-Ing. Dr. Wolfgang Pirklhuber, Kolleginnen und Kollegen betreffend Aktionsplan für gesunde Ernährung und Bewegung, Antrag 425/A der Abgeordneten Dr. Dagmar Belakowitsch-Jenewein, Kolleginnen und Kollegen betreffend elektronische Gesundheitskarte mit Lichtbild;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Gesundheitsausschuss Gesundheitsausschuss PROPN    NE       _      17     sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      par        _      _     
+4    418                  418                  NUM      CARD     _      6      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      6      ag         _      _     
+9    Dipl.-Ing.           Dipl.-Ing.           PROPN    NN       _      8      nk         _      _     
+10   Dr.                  Dr.                  NOUN     NN       _      1      par        _      _     
+11   Wolfgang             Wolfgang             PROPN    NE       _      12     pnc        _      _     
+12   Pirklhuber           Pirklhuber           PROPN    NE       _      10     nk         _      _     
+13   ,                    --                   PUNCT    $,       _      10     punct      _      _     
+14   Kolleginnen          Kollegin             NOUN     NN       _      10     cj         _      _     
+15   und                  und                  CCONJ    KON      _      14     cd         _      _     
+16   Kollegen             Kollege              NOUN     NN       _      15     cj         _      _     
+17   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+18   Aktionsplan          Aktionsplan          NOUN     NN       _      17     oa         _      _     
+19   für                  für                  ADP      APPR     _      18     mnr        _      _     
+20   gesunde              gesund               ADJ      ADJA     _      21     nk         _      _     
+21   Ernährung            Ernährung            NOUN     NN       _      19     nk         _      _     
+22   und                  und                  CCONJ    KON      _      21     cd         _      _     
+23   Bewegung             Bewegung             NOUN     NN       _      22     cj         _      _     
+24   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+25   Antrag               Antrag               NOUN     NN       _      18     cj         _      _     
+26   425                  425                  NUM      CARD     _      28     nk         _      _     
+27   /                    --                   PUNCT    $(       _      28     punct      _      _     
+28   A                    A                    NOUN     NN       _      25     nk         _      _     
+29   der                  der                  DET      ART      _      30     nk         _      _     
+30   Abgeordneten         abgeordneter         NOUN     NN       _      25     ag         _      _     
+31   Dr.                  Dr.                  NOUN     NN       _      30     nk         _      _     
+32   Dagmar               Dagmar               PROPN    NE       _      33     pnc        _      _     
+33   Belakowitsch-Jenewei Belakowitsch-Jenewei PROPN    NN       _      17     oa         _      _     
+34   ,                    --                   PUNCT    $,       _      33     punct      _      _     
+35   Kolleginnen          Kollegin             NOUN     NN       _      33     cj         _      _     
+36   und                  und                  CCONJ    KON      _      35     cd         _      _     
+37   Kollegen             Kollege              NOUN     NN       _      36     cj         _      _     
+38   betreffend           betreffend           ADV      ADJD     _      17     mo         _      _     
+39   elektronische        elektronisch         ADJ      ADJA     _      40     nk         _      _     
+40   Gesundheitskarte     Gesundheitskart      NOUN     NN       _      17     oa         _      _     
+41   mit                  mit                  ADP      APPR     _      40     mnr        _      _     
+42   Lichtbild            Lichtbild            PROPN    NN       _      41     nk         _      _     
+43   ;                    --                   PUNCT    $.       _      17     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 13
+# text = Gleichbehandlungsausschuss: Antrag 420/A der Abgeordneten Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Gleichbehandlungsaus Gleichbehandlungsaus PROPN    NE       _      9      sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      sb         _      _     
+4    420                  420                  NUM      CARD     _      6      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      6      ag         _      _     
+9    Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+10   .                    --                   PUNCT    $.       _      9      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 14
+# text = Brigid Weinzinger, Kolleginnen und Kollegen betreffend gesetzlicher Änderungsbedarf betreffend Sexarbeit;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Brigid               Brigid               PROPN    NE       _      2      pnc        _      _     
+2    Weinzinger           Weinzinger           PROPN    NE       _      7      sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Kolleginnen          Kollegin             NOUN     NN       _      2      cj         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Kollegen             Kollege              NOUN     NN       _      5      cj         _      _     
+7    betreffend           betreffend           ADV      ADJD     _      10     mo         _      _     
+8    gesetzlicher         gesetzlich           ADJ      ADJA     _      9      nk         _      _     
+9    Änderungsbedarf      Änderungsbedarf      NOUN     NN       _      7      oa         _      _     
+10   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+11   Sexarbeit            Sexarbeit            NOUN     NN       _      10     oa         _      _     
+12   ;                    --                   PUNCT    $.       _      10     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 15
+# text = Ausschuss für innere Angelegenheiten: Antrag 419/A der Abgeordneten Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ausschuss            Ausschuss            PROPN    NE       _      12     sb         _      _     
+2    für                  für                  ADP      APPR     _      1      mnr        _      _     
+3    innere               innerer              ADJ      ADJA     _      4      nk         _      _     
+4    Angelegenheiten      Angelegenheit        NOUN     NN       _      2      nk         _      _     
+5    :                    --                   PUNCT    $.       _      1      punct      _      _     
+6    Antrag               Antrag               NOUN     NN       _      1      cj         _      _     
+7    419                  419                  NUM      CARD     _      9      nk         _      _     
+8    /                    --                   PUNCT    $(       _      9      punct      _      _     
+9    A                    A                    NOUN     NN       _      6      nk         _      _     
+10   der                  der                  DET      ART      _      11     nk         _      _     
+11   Abgeordneten         abgeordneter         NOUN     NN       _      9      ag         _      _     
+12   Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+13   .                    --                   PUNCT    $.       _      12     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 16
+# text = Brigid Weinzinger, Kolleginnen und Kollegen betreffend Abschaffung des § 115 Fremdenpolizeigesetz, Antrag 427/A der Abgeordneten Heinz-Christian Strache, Kolleginnen und Kollegen betreffend ein Bundesgesetz mit dem das Bundesgesetz über das polizeiliche Meldewesen , BGBl.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Brigid               Brigid               PROPN    NE       _      2      pnc        _      _     
+2    Weinzinger           Weinzinger           PROPN    NE       _      7      sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Kolleginnen          Kollegin             NOUN     NN       _      2      cj         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Kollegen             Kollege              NOUN     NN       _      5      cj         _      _     
+7    betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+8    Abschaffung          Abschaffung          NOUN     NN       _      7      oa         _      _     
+9    des                  der                  DET      ART      _      10     nk         _      _     
+10   §                    §                    NOUN     NN       _      8      ag         _      _     
+11   115                  115                  NUM      CARD     _      12     nk         _      _     
+12   Fremdenpolizeigesetz Fremdenpolizeigesetz NOUN     NN       _      10     nk         _      _     
+13   ,                    --                   PUNCT    $,       _      8      punct      _      _     
+14   Antrag               Antrag               NOUN     NN       _      8      cj         _      _     
+15   427                  427                  NUM      CARD     _      17     nk         _      _     
+16   /                    --                   PUNCT    $(       _      17     punct      _      _     
+17   A                    A                    NOUN     NN       _      14     nk         _      _     
+18   der                  der                  DET      ART      _      19     nk         _      _     
+19   Abgeordneten         abgeordneter         NOUN     NN       _      17     ag         _      _     
+20   Heinz-Christian      Heinz-Christian      PROPN    NE       _      21     pnc        _      _     
+21   Strache              Strache              PROPN    NE       _      19     nk         _      _     
+22   ,                    --                   PUNCT    $,       _      14     punct      _      _     
+23   Kolleginnen          Kollegin             NOUN     NN       _      14     cj         _      _     
+24   und                  und                  CCONJ    KON      _      23     cd         _      _     
+25   Kollegen             Kollege              NOUN     NN       _      24     cj         _      _     
+26   betreffend           betreffend           ADV      ADJD     _      7      mo         _      _     
+27   ein                  ein                  DET      ART      _      28     nk         _      _     
+28   Bundesgesetz         Bundesgesetz         NOUN     NN       _      26     oa         _      _     
+29   mit                  mit                  ADP      APPR     _      28     mnr        _      _     
+30   dem                  der                  PRON     PRELS    _      29     nk         _      _     
+31   das                  der                  DET      ART      _      32     nk         _      _     
+32   Bundesgesetz         Bundesgesetz         NOUN     NN       _      7      oa         _      _     
+33   über                 über                 ADP      APPR     _      32     mnr        _      _     
+34   das                  der                  DET      ART      _      36     nk         _      _     
+35   polizeiliche         polizeilich          ADJ      ADJA     _      36     nk         _      _     
+36   Meldewesen           Meldewese            NOUN     NN       _      33     nk         _      _     
+37   ,                    --                   PUNCT    $,       _      36     punct      _      _     
+38   BGBl                 BGBl                 PROPN    NE       _      36     cj         _      _     
+39   .                    --                   PUNCT    $.       _      7      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 17
+# text = Nr. 9/1992, geändert wird;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nr.                  Nr.                  NOUN     NN       _      7      sb         _      _     
+2    9                    9                    NUM      CARD     _      1      nk         _      _     
+3    /                    --                   PUNCT    $(       _      1      punct      _      _     
+4    1992                 1992                 NUM      CARD     _      1      nk         _      _     
+5    ,                    --                   PUNCT    $,       _      6      punct      _      _     
+6    geändert             ändern               VERB     VVPP     _      7      oc         _      _     
+7    wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+8    ;                    --                   PUNCT    $.       _      7      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 18
+# text = Justizausschuss: Antrag 410/A der Abgeordneten Dr. Peter Fichtenbauer, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundesgesetz über die Beschwerde an den Obersten Gerichtshof wegen Verletzung des Grundrechts auf persönliche Freiheit , BGBl.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Justizausschuss      Justizausschuss      PROPN    NE       _      16     sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      rs         _      _     
+4    410                  410                  NUM      CARD     _      6      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      3      ag         _      _     
+9    Dr.                  Dr.                  NOUN     NN       _      8      nk         _      _     
+10   Peter                Peter                PROPN    NE       _      11     pnc        _      _     
+11   Fichtenbauer         Fichtenbauer         PROPN    NE       _      9      nk         _      _     
+12   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+13   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+14   und                  und                  CCONJ    KON      _      13     cd         _      _     
+15   Kollegen             Kollege              NOUN     NN       _      14     cj         _      _     
+16   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+17   ein                  ein                  DET      ART      _      18     nk         _      _     
+18   Bundesgesetz         Bundesgesetz         NOUN     NN       _      16     oa         _      _     
+19   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+20   mit                  mit                  ADP      APPR     _      23     mo         _      _     
+21   dem                  der                  PRON     PRELS    _      20     nk         _      _     
+22   das                  der                  DET      ART      _      23     nk         _      _     
+23   Bundesgesetz         Bundesgesetz         NOUN     NN       _      18     rc         _      _     
+24   über                 über                 ADP      APPR     _      23     mnr        _      _     
+25   die                  der                  DET      ART      _      26     nk         _      _     
+26   Beschwerde           Beschwerde           NOUN     NN       _      24     nk         _      _     
+27   an                   an                   ADP      APPR     _      26     mnr        _      _     
+28   den                  der                  DET      ART      _      30     nk         _      _     
+29   Obersten             oberer               ADJ      ADJA     _      30     nk         _      _     
+30   Gerichtshof          Gerichtshof          NOUN     NN       _      27     nk         _      _     
+31   wegen                wegen                ADP      APPR     _      30     mnr        _      _     
+32   Verletzung           Verletzung           NOUN     NN       _      31     nk         _      _     
+33   des                  der                  DET      ART      _      34     nk         _      _     
+34   Grundrechts          Grundrecht           NOUN     NN       _      32     ag         _      _     
+35   auf                  auf                  ADP      APPR     _      23     mnr        _      _     
+36   persönliche          persönlich           ADJ      ADJA     _      37     nk         _      _     
+37   Freiheit             Freiheit             NOUN     NN       _      35     nk         _      _     
+38   ,                    --                   PUNCT    $,       _      37     punct      _      _     
+39   BGBl                 BGBl                 PROPN    NE       _      37     cj         _      _     
+40   .                    --                   PUNCT    $.       _      16     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 19
+# text = Nr. 864/1992, geändert wird, Antrag 413/A der Abgeordneten Ing. Peter Westenthaler, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Strafgesetzbuch geändert wird;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nr.                  Nr.                  NOUN     NN       _      7      sb         _      _     
+2    864                  864                  NUM      CARD     _      1      nk         _      _     
+3    /                    --                   PUNCT    $(       _      2      punct      _      _     
+4    1992                 1992                 NUM      CARD     _      2      cj         _      _     
+5    ,                    --                   PUNCT    $,       _      6      punct      _      _     
+6    geändert             ändern               VERB     VVPP     _      7      oc         _      _     
+7    wird                 werden               AUX      VAFIN    _      22     sb         _      _     
+8    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+9    Antrag               Antrag               NOUN     NN       _      7      sb         _      _     
+10   413                  413                  NUM      CARD     _      12     pnc        _      _     
+11   /                    --                   PUNCT    $(       _      12     punct      _      _     
+12   A                    A                    NOUN     NN       _      9      nk         _      _     
+13   der                  der                  DET      ART      _      14     nk         _      _     
+14   Abgeordneten         abgeordneter         NOUN     NN       _      12     ag         _      _     
+15   Ing.                 Ing.                 PROPN    NE       _      17     pnc        _      _     
+16   Peter                Peter                PROPN    NE       _      17     pnc        _      _     
+17   Westenthaler         Westenthaler         PROPN    NE       _      14     nk         _      _     
+18   ,                    --                   PUNCT    $,       _      17     punct      _      _     
+19   Kolleginnen          Kollegin             NOUN     NN       _      17     cj         _      _     
+20   und                  und                  CCONJ    KON      _      19     cd         _      _     
+21   Kollegen             Kollege              NOUN     NN       _      20     cj         _      _     
+22   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+23   ein                  ein                  DET      ART      _      24     nk         _      _     
+24   Bundesgesetz         Bundesgesetz         NOUN     NN       _      22     oa         _      _     
+25   ,                    --                   PUNCT    $,       _      24     punct      _      _     
+26   mit                  mit                  ADP      APPR     _      30     mo         _      _     
+27   dem                  der                  PRON     PRELS    _      26     nk         _      _     
+28   das                  der                  DET      ART      _      29     nk         _      _     
+29   Strafgesetzbuch      Strafgesetzbuch      NOUN     NN       _      31     sb         _      _     
+30   geändert             ändern               VERB     VVPP     _      31     oc         _      _     
+31   wird                 werden               AUX      VAFIN    _      24     rc         _      _     
+32   ;                    --                   PUNCT    $.       _      22     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 20
+# text = Kulturausschuss: Antrag 433/A der Abgeordneten Veit Schalle, Kolleginnen und Kollegen betreffend rasche Einführung der Museumsgratisbesuchstage, Antrag 445/A der Abgeordneten Dr. Gerhard Kurzmann, Kolleginnen und Kollegen betreffend Förderung und Erhalt der deutschen Sprache in ihrer Rolle als zentrales kulturstiftendes Element;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Kulturausschuss      Kulturausschuss      PROPN    NE       _      17     nk         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      par        _      _     
+4    433                  433                  NUM      CARD     _      3      nk         _      _     
+5    /                    --                   PUNCT    $(       _      3      punct      _      _     
+6    A                    --                   NOUN     NN       _      3      cj         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      3      ag         _      _     
+9    Veit                 Veit                 PROPN    NE       _      10     pnc        _      _     
+10   Schalle              Schalle              PROPN    NE       _      8      nk         _      _     
+11   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+12   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+13   und                  und                  CCONJ    KON      _      12     cd         _      _     
+14   Kollegen             Kollege              NOUN     NN       _      13     cj         _      _     
+15   betreffend           betreffend           ADV      ADJD     _      16     mo         _      _     
+16   rasche               rasch                ADJ      ADJA     _      17     nk         _      _     
+17   Einführung           Einführung           NOUN     NN       _      34     sb         _      _     
+18   der                  der                  DET      ART      _      19     nk         _      _     
+19   Museumsgratisbesuchs Museumsgratisbesuchs NOUN     NN       _      17     ag         _      _     
+20   ,                    --                   PUNCT    $,       _      17     punct      _      _     
+21   Antrag               Antrag               NOUN     NN       _      17     app        _      _     
+22   445                  445                  NUM      CARD     _      24     nk         _      _     
+23   /                    --                   PUNCT    $(       _      24     punct      _      _     
+24   A                    A                    NOUN     NN       _      21     nk         _      _     
+25   der                  der                  DET      ART      _      26     nk         _      _     
+26   Abgeordneten         abgeordneter         NOUN     NN       _      21     ag         _      _     
+27   Dr.                  Dr.                  NOUN     NN       _      26     nk         _      _     
+28   Gerhard              Gerhard              PROPN    NE       _      29     pnc        _      _     
+29   Kurzmann             Kurzmann             PROPN    NE       _      27     nk         _      _     
+30   ,                    --                   PUNCT    $,       _      21     punct      _      _     
+31   Kolleginnen          Kollegin             NOUN     NN       _      21     cj         _      _     
+32   und                  und                  CCONJ    KON      _      31     cd         _      _     
+33   Kollegen             Kollege              NOUN     NN       _      32     cj         _      _     
+34   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+35   Förderung            Förderung            NOUN     NN       _      34     oa         _      _     
+36   und                  und                  CCONJ    KON      _      35     cd         _      _     
+37   Erhalt               Erhalt               NOUN     NN       _      36     cj         _      _     
+38   der                  der                  DET      ART      _      40     nk         _      _     
+39   deutschen            deutsch              ADJ      ADJA     _      40     nk         _      _     
+40   Sprache              Sprache              NOUN     NN       _      35     ag         _      _     
+41   in                   in                   ADP      APPR     _      34     mo         _      _     
+42   ihrer                ihr                  DET      PPOSAT   _      43     nk         _      _     
+43   Rolle                Rolle                NOUN     NN       _      41     nk         _      _     
+44   als                  als                  ADP      APPR     _      43     mnr        _      _     
+45   zentrales            zentral              ADJ      ADJA     _      47     nk         _      _     
+46   kulturstiftendes     kulturstiftend       ADJ      ADJA     _      47     nk         _      _     
+47   Element              Element              NOUN     NN       _      44     nk         _      _     
+48   ;                    --                   PUNCT    $.       _      34     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 21
+# text = Landesverteidigungsausschuss: Antrag 415/A der Abgeordneten Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Landesverteidigungsa Landesverteidigungsa PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      9      sb         _      _     
+4    415                  415                  NUM      CARD     _      6      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      6      ag         _      _     
+9    Mag                  mögen                AUX      VMFIN    _      1      rs         _      _     
+10   .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 22
+# text = Gernot Darmann, Kolleginnen und Kollegen betreffend
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Gernot               Gernot               PROPN    NE       _      2      nk         _      _     
+2    Darmann              Darmann              PROPN    NE       _      7      sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Kolleginnen          Kollegin             NOUN     NN       _      2      cj         _      _     
+5    und                  und                  CCONJ    KON      _      4      cd         _      _     
+6    Kollegen             Kollege              NOUN     NN       _      5      cj         _      _     
+7    betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 23
+# text = Ankauf von drei zusätzlichen Black-Hawk Hubschraubern durch das BMLV;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ankauf               Ankauf               NOUN     NN       _      0      ROOT       _      _     
+2    von                  von                  ADP      APPR     _      1      pg         _      _     
+3    drei                 drei                 NUM      CARD     _      5      nk         _      _     
+4    zusätzlichen         zusätzlich           ADJ      ADJA     _      5      nk         _      _     
+5    Black-Hawk           Black-Hawk           NOUN     NN       _      2      nk         _      _     
+6    Hubschraubern        Hubschrauber         NOUN     NN       _      5      nk         _      _     
+7    durch                durch                ADP      APPR     _      1      mnr        _      _     
+8    das                  der                  DET      ART      _      9      nk         _      _     
+9    BMLV                 BMLV                 PROPN    NE       _      7      nk         _      _     
+10   ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 24
+# text = Nationalrat, XXIII.GP Ausschuss für Land- und Forstwirtschaft: Antrag 432/A der Abgeordneten Dipl.-Ing. Karlheinz Klement, MAS, Kolleginnen und Kollegen betreffend Holzmobilisierung;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nationalrat          Nationalrat          NOUN     NN       _      25     sb         _      _     
+2    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+3    XXIII.GP             XXIII.GP             PROPN    NE       _      4      pnc        _      _     
+4    Ausschuss            Ausschuss            PROPN    NE       _      1      cj         _      _     
+5    für                  für                  ADP      APPR     _      4      mnr        _      _     
+6    Land-                Land                 X        TRUNC    _      7      cj         _      _     
+7    und                  und                  CCONJ    KON      _      8      cd         _      _     
+8    Forstwirtschaft      Forstwirtschaft      NOUN     NN       _      5      nk         _      _     
+9    :                    --                   PUNCT    $.       _      1      punct      _      _     
+10   Antrag               Antrag               NOUN     NN       _      1      nk         _      _     
+11   432                  432                  NUM      CARD     _      13     nk         _      _     
+12   /                    --                   PUNCT    $(       _      13     punct      _      _     
+13   A                    A                    NOUN     NN       _      10     nk         _      _     
+14   der                  der                  DET      ART      _      15     nk         _      _     
+15   Abgeordneten         abgeordneter         NOUN     NN       _      10     ag         _      _     
+16   Dipl.-Ing.           Dipl.-Ing.           PROPN    NE       _      18     pnc        _      _     
+17   Karlheinz            Karlheinz            PROPN    NE       _      18     pnc        _      _     
+18   Klement              Klement              PROPN    NE       _      15     nk         _      _     
+19   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+20   MAS                  MAS                  PROPN    NE       _      18     cj         _      _     
+21   ,                    --                   PUNCT    $,       _      10     punct      _      _     
+22   Kolleginnen          Kollegin             NOUN     NN       _      20     cj         _      _     
+23   und                  und                  CCONJ    KON      _      22     cd         _      _     
+24   Kollegen             Kollege              NOUN     NN       _      23     cj         _      _     
+25   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+26   Holzmobilisierung    Holzmobilisierung    NOUN     NN       _      25     oa         _      _     
+27   ;                    --                   PUNCT    $.       _      25     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 25
+# text = Umweltausschuss:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Umweltausschuss      Umweltausschuss      PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 26
+# text = Antrag 409/A der Abgeordneten Karlheinz Kopf, Kolleginnen und Kollegen betreffend
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Antrag               Antrag               NOUN     NN       _      13     oa         _      _     
+2    409                  409                  NUM      CARD     _      4      pnc        _      _     
+3    /                    --                   PUNCT    $(       _      4      punct      _      _     
+4    A                    --                   NOUN     NN       _      1      nk         _      _     
+5    der                  der                  DET      ART      _      6      nk         _      _     
+6    Abgeordneten         abgeordneter         NOUN     NN       _      1      ag         _      _     
+7    Karlheinz            Karlheinz            PROPN    NE       _      8      pnc        _      _     
+8    Kopf                 Kopf                 PROPN    NE       _      6      nk         _      _     
+9    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+10   Kolleginnen          Kollegin             NOUN     NN       _      1      cj         _      _     
+11   und                  und                  CCONJ    KON      _      10     cd         _      _     
+12   Kollegen             Kollege              NOUN     NN       _      11     cj         _      _     
+13   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 27
+# text = Österreichisches Klimapaket: „Die Zukunft in unseren Händen – 21 Maßnahmen für den Klimaschutz des 21. Jahrhunderts zur Reduktion von 21 Millionen Tonnen CO 2 “, Antrag 411/A der Abgeordneten Ing. Norbert Hofer, Kolleginnen und Kollegen betreffend Transatlantic Free Trade Area;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Österreichisches     Österreichisches     ADJ      ADJA     _      2      nk         _      _     
+2    Klimapaket           Klimapaket           NOUN     NN       _      0      ROOT       _      _     
+3    :                    --                   PUNCT    $.       _      2      punct      _      _     
+4    „                    --                   PUNCT    $(       _      42     punct      _      _     
+5    Die                  der                  DET      ART      _      6      nk         _      _     
+6    Zukunft              Zukunft              NOUN     NN       _      42     sb         _      _     
+7    in                   in                   ADP      APPR     _      6      mnr        _      _     
+8    unseren              unser                DET      PPOSAT   _      9      nk         _      _     
+9    Händen               Hand                 NOUN     NN       _      7      nk         _      _     
+10   –                    --                   PUNCT    $(       _      6      punct      _      _     
+11   21                   21                   NUM      CARD     _      12     nk         _      _     
+12   Maßnahmen            Maßnahme             NOUN     NN       _      6      cj         _      _     
+13   für                  für                  ADP      APPR     _      12     mnr        _      _     
+14   den                  der                  DET      ART      _      15     nk         _      _     
+15   Klimaschutz          Klimaschutz          NOUN     NN       _      13     nk         _      _     
+16   des                  der                  DET      ART      _      18     nk         _      _     
+17   21.                  21.                  ADJ      ADJA     _      18     nk         _      _     
+18   Jahrhunderts         Jahrhundert          NOUN     NN       _      15     ag         _      _     
+19   zur                  zu                   ADP      APPRART  _      12     mnr        _      _     
+20   Reduktion            Reduktion            NOUN     NN       _      19     nk         _      _     
+21   von                  von                  ADP      APPR     _      20     mnr        _      _     
+22   21                   21                   NUM      CARD     _      23     nmc        _      _     
+23   Millionen            Million              NOUN     NN       _      21     nk         _      _     
+24   Tonnen               Tonne                NOUN     NN       _      23     nk         _      _     
+25   CO                   CO                   NOUN     NN       _      23     nk         _      _     
+26   2                    2                    NUM      CARD     _      25     nk         _      _     
+27   “                    --                   PUNCT    $(       _      12     punct      _      _     
+28   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+29   Antrag               Antrag               NOUN     NN       _      6      app        _      _     
+30   411                  411                  NUM      CARD     _      32     nk         _      _     
+31   /                    --                   PUNCT    $(       _      32     punct      _      _     
+32   A                    A                    NOUN     NN       _      29     nk         _      _     
+33   der                  der                  DET      ART      _      34     nk         _      _     
+34   Abgeordneten         abgeordneter         NOUN     NN       _      29     ag         _      _     
+35   Ing.                 Ing.                 PROPN    NE       _      37     pnc        _      _     
+36   Norbert              Norbert              PROPN    NE       _      37     pnc        _      _     
+37   Hofer                Hofer                PROPN    NE       _      34     nk         _      _     
+38   ,                    --                   PUNCT    $,       _      29     punct      _      _     
+39   Kolleginnen          Kollegin             NOUN     NN       _      29     cj         _      _     
+40   und                  und                  CCONJ    KON      _      39     cd         _      _     
+41   Kollegen             Kollege              NOUN     NN       _      40     cj         _      _     
+42   betreffend           betreffend           VERB     VVFIN    _      2      rs         _      _     
+43   Transatlantic        Transatlantic        PROPN    NE       _      46     pnc        _      _     
+44   Free                 Free                 X        FM       _      46     pnc        _      _     
+45   Trade                Trade                PROPN    NE       _      46     pnc        _      _     
+46   Area                 Area                 PROPN    NE       _      42     oa         _      _     
+47   ;                    --                   PUNCT    $.       _      42     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 28
+# text = Verfassungsausschuss: Antrag 407/A der Abgeordneten Heinz-Christian Strache, Kolleginnen und Kollegen betreffend Verhalten des Bundeskanzlers im Zuge der Verhandlungen über einen „Vertrag zur Änderung des Vertrags über die Europäische Union und des Vertrags über die Gründung der Europäischen Gemeinschaft“ am Europäischen Rat am 18. und 19. Oktober 2007;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Verfassungsausschuss Verfassungsausschuss PROPN    NE       _      15     sb         _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      app        _      _     
+4    407                  407                  NUM      CARD     _      6      pnc        _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      6      ag         _      _     
+9    Heinz-Christian      Heinz-Christian      PROPN    NE       _      10     pnc        _      _     
+10   Strache              Strache              PROPN    NE       _      8      nk         _      _     
+11   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+12   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+13   und                  und                  CCONJ    KON      _      12     cd         _      _     
+14   Kollegen             Kollege              NOUN     NN       _      13     cj         _      _     
+15   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+16   Verhalten            verhalten            NOUN     NN       _      15     oa         _      _     
+17   des                  der                  DET      ART      _      18     nk         _      _     
+18   Bundeskanzlers       Bundeskanzler        NOUN     NN       _      16     ag         _      _     
+19   im                   in                   ADP      APPRART  _      15     mo         _      _     
+20   Zuge                 Zug                  NOUN     NN       _      19     nk         _      _     
+21   der                  der                  DET      ART      _      22     nk         _      _     
+22   Verhandlungen        Verhandlung          NOUN     NN       _      20     ag         _      _     
+23   über                 über                 ADP      APPR     _      22     op         _      _     
+24   einen                ein                  DET      ART      _      26     nk         _      _     
+25   „                    --                   PUNCT    $(       _      26     punct      _      _     
+26   Vertrag              Vertrag              NOUN     NN       _      23     nk         _      _     
+27   zur                  zu                   ADP      APPRART  _      26     mnr        _      _     
+28   Änderung             Änderung             NOUN     NN       _      27     nk         _      _     
+29   des                  der                  DET      ART      _      30     nk         _      _     
+30   Vertrags             Vertrag              NOUN     NN       _      28     ag         _      _     
+31   über                 über                 ADP      APPR     _      30     mnr        _      _     
+32   die                  der                  DET      ART      _      34     nk         _      _     
+33   Europäische          europäisch           ADJ      ADJA     _      34     nk         _      _     
+34   Union                Union                NOUN     NN       _      31     nk         _      _     
+35   und                  und                  CCONJ    KON      _      34     cd         _      _     
+36   des                  der                  DET      ART      _      37     nk         _      _     
+37   Vertrags             Vertrag              NOUN     NN       _      35     cj         _      _     
+38   über                 über                 ADP      APPR     _      37     mnr        _      _     
+39   die                  der                  DET      ART      _      40     nk         _      _     
+40   Gründung             Gründung             NOUN     NN       _      38     nk         _      _     
+41   der                  der                  DET      ART      _      43     nk         _      _     
+42   Europäischen         europäisch           ADJ      ADJA     _      43     nk         _      _     
+43   Gemeinschaft         Gemeinschaft         NOUN     NN       _      40     ag         _      _     
+44   “                    --                   PUNCT    $(       _      26     punct      _      _     
+45   am                   an                   ADP      APPRART  _      26     mnr        _      _     
+46   Europäischen         europäisch           ADJ      ADJA     _      47     nk         _      _     
+47   Rat                  Rat                  NOUN     NN       _      45     nk         _      _     
+48   am                   an                   ADP      APPRART  _      47     mnr        _      _     
+49   18.                  18.                  ADJ      ADJA     _      52     nk         _      _     
+50   und                  und                  CCONJ    KON      _      49     cd         _      _     
+51   19.                  19.                  ADJ      ADJA     _      50     cj         _      _     
+52   Oktober              Oktober              NOUN     NN       _      48     nk         _      _     
+53   2007                 2007                 NUM      CARD     _      52     nk         _      _     
+54   ;                    --                   PUNCT    $.       _      15     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 29
+# text = Verkehrsausschuss: Antrag 426/A der Abgeordneten Harald Vilimsky, Kolleginnen und Kollegen betref- fend ein Bundesgesetz, mit dem das Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden , BGBl.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Verkehrsausschuss    Verkehrsausschuss    PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Antrag               Antrag               NOUN     NN       _      1      par        _      _     
+4    426                  426                  NUM      CARD     _      3      nk         _      _     
+5    /                    --                   PUNCT    $(       _      6      punct      _      _     
+6    A                    A                    NOUN     NN       _      3      nk         _      _     
+7    der                  der                  DET      ART      _      8      nk         _      _     
+8    Abgeordneten         abgeordneter         NOUN     NN       _      6      ag         _      _     
+9    Harald               Harald               PROPN    NE       _      10     pnc        _      _     
+10   Vilimsky             Vilimsky             PROPN    NE       _      8      nk         _      _     
+11   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+12   Kolleginnen          Kollegin             NOUN     NN       _      3      cj         _      _     
+13   und                  und                  CCONJ    KON      _      12     cd         _      _     
+14   Kollegen             Kollege              NOUN     NN       _      13     cj         _      _     
+15   betref-              betref-              ADV      ADJD     _      16     mo         _      _     
+16   fend                 fend                 ADV      ADJD     _      1      mo         _      _     
+17   ein                  ein                  DET      ART      _      18     nk         _      _     
+18   Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      sb         _      _     
+19   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+20   mit                  mit                  ADP      APPR     _      35     mo         _      _     
+21   dem                  der                  PRON     PRELS    _      20     nk         _      _     
+22   das                  der                  DET      ART      _      23     nk         _      _     
+23   Bundesgesetz         Bundesgesetz         NOUN     NN       _      36     sb         _      _     
+24   vom                  von                  ADP      APPRART  _      23     mnr        _      _     
+25   6.                   6.                   ADJ      ADJA     _      26     nk         _      _     
+26   Juli                 Juli                 NOUN     NN       _      24     nk         _      _     
+27   1960                 1960                 NUM      CARD     _      26     nk         _      _     
+28   ,                    --                   PUNCT    $,       _      23     punct      _      _     
+29   mit                  mit                  ADP      APPR     _      35     mo         _      _     
+30   dem                  der                  DET      ART      _      31     nk         _      _     
+31   Vorschriften         Vorschrift           NOUN     NN       _      29     nk         _      _     
+32   über                 über                 ADP      APPR     _      31     mnr        _      _     
+33   die                  der                  DET      ART      _      34     nk         _      _     
+34   Straßenpolizei       Straßenpolizei       NOUN     NN       _      32     nk         _      _     
+35   erlassen             erlassen             VERB     VVPP     _      36     oc         _      _     
+36   werden               werden               AUX      VAINF    _      18     rc         _      _     
+37   ,                    --                   PUNCT    $,       _      18     punct      _      _     
+38   BGBl                 BGBl                 PROPN    NE       _      18     cj         _      _     
+39   .                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 30
+# text = Nr. 159/1960, geändert wird;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nr.                  Nr.                  NOUN     NN       _      0      ROOT       _      _     
+2    159                  159                  NUM      CARD     _      1      nk         _      _     
+3    /                    --                   PUNCT    $(       _      2      punct      _      _     
+4    1960                 1960                 NUM      CARD     _      1      nk         _      _     
+5    ,                    --                   PUNCT    $,       _      6      punct      _      _     
+6    geändert             ändern               VERB     VVPP     _      7      oc         _      _     
+7    wird                 werden               AUX      VAFIN    _      1      rc         _      _     
+8    ;                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 31
+# text = Ausschuss für Wirtschaft und Industrie: Antrag 424/A der Abgeordneten Dr. Ruperta Lichtenecker, Kolleginnen und Kollegen betreffend der Totalreform des Ökostromgesetzes, Antrag 434/A der Abgeordneten Veit Schalle, Kolleginnen und Kollegen betreffend Angleichung der Entlassungstatbestände von Arbeitnehmern, Antrag 444/A der Abgeordneten Ing. Norbert Hofer, Kolleginnen und Kollegen betreffend Ökostromgesetz;
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ausschuss            Ausschuss            PROPN    NE       _      20     sb         _      _     
+2    für                  für                  ADP      APPR     _      1      mnr        _      _     
+3    Wirtschaft           Wirtschaft           NOUN     NN       _      2      nk         _      _     
+4    und                  und                  CCONJ    KON      _      3      cd         _      _     
+5    Industrie            Industrie            NOUN     NN       _      4      cj         _      _     
+6    :                    --                   PUNCT    $.       _      1      punct      _      _     
+7    Antrag               Antrag               NOUN     NN       _      1      par        _      _     
+8    424                  424                  NUM      CARD     _      10     nk         _      _     
+9    /                    --                   PUNCT    $(       _      10     punct      _      _     
+10   A                    A                    NOUN     NN       _      7      nk         _      _     
+11   der                  der                  DET      ART      _      12     nk         _      _     
+12   Abgeordneten         abgeordneter         NOUN     NN       _      10     ag         _      _     
+13   Dr.                  Dr.                  NOUN     NN       _      12     nk         _      _     
+14   Ruperta              Ruperta              PROPN    NE       _      15     pnc        _      _     
+15   Lichtenecker         Lichtenecker         PROPN    NE       _      13     nk         _      _     
+16   ,                    --                   PUNCT    $,       _      7      punct      _      _     
+17   Kolleginnen          Kollegin             NOUN     NN       _      7      cj         _      _     
+18   und                  und                  CCONJ    KON      _      17     cd         _      _     
+19   Kollegen             Kollege              NOUN     NN       _      18     cj         _      _     
+20   betreffend           betreffend           ADV      ADJD     _      0      ROOT       _      _     
+21   der                  der                  DET      ART      _      22     nk         _      _     
+22   Totalreform          Totalreform          NOUN     NN       _      20     da         _      _     
+23   des                  der                  DET      ART      _      24     nk         _      _     
+24   Ökostromgesetzes     Ökostromgesetz       NOUN     NN       _      22     ag         _      _     
+25   ,                    --                   PUNCT    $,       _      22     punct      _      _     
+26   Antrag               Antrag               NOUN     NN       _      22     cj         _      _     
+27   434                  434                  NUM      CARD     _      29     nk         _      _     
+28   /                    --                   PUNCT    $(       _      29     punct      _      _     
+29   A                    --                   NOUN     NN       _      26     nk         _      _     
+30   der                  der                  DET      ART      _      31     nk         _      _     
+31   Abgeordneten         abgeordneter         NOUN     NN       _      26     ag         _      _     
+32   Veit                 Veit                 PROPN    NE       _      33     pnc        _      _     
+33   Schalle              Schalle              PROPN    NE       _      31     nk         _      _     
+34   ,                    --                   PUNCT    $,       _      26     punct      _      _     
+35   Kolleginnen          Kollegin             NOUN     NN       _      26     cj         _      _     
+36   und                  und                  CCONJ    KON      _      35     cd         _      _     
+37   Kollegen             Kollege              NOUN     NN       _      36     cj         _      _     
+38   betreffend           betreffend           ADV      ADJD     _      20     mo         _      _     
+39   Angleichung          Angleichung          NOUN     NN       _      58     sb         _      _     
+40   der                  der                  DET      ART      _      41     nk         _      _     
+41   Entlassungstatbestän Entlassungstatbestän NOUN     NN       _      39     ag         _      _     
+42   von                  von                  ADP      APPR     _      41     pg         _      _     
+43   Arbeitnehmern        Arbeitnehmer         NOUN     NN       _      42     nk         _      _     
+44   ,                    --                   PUNCT    $,       _      43     punct      _      _     
+45   Antrag               Antrag               NOUN     NN       _      43     par        _      _     
+46   444                  444                  NUM      CARD     _      48     nk         _      _     
+47   /                    --                   PUNCT    $(       _      48     punct      _      _     
+48   A                    A                    NOUN     NN       _      45     nk         _      _     
+49   der                  der                  DET      ART      _      50     nk         _      _     
+50   Abgeordneten         abgeordneter         NOUN     NN       _      45     ag         _      _     
+51   Ing.                 Ing.                 PROPN    NE       _      53     pnc        _      _     
+52   Norbert              Norbert              PROPN    NE       _      53     pnc        _      _     
+53   Hofer                Hofer                PROPN    NE       _      50     nk         _      _     
+54   ,                    --                   PUNCT    $,       _      43     punct      _      _     
+55   Kolleginnen          Kollegin             NOUN     NN       _      43     cj         _      _     
+56   und                  und                  CCONJ    KON      _      55     cd         _      _     
+57   Kollegen             Kollege              NOUN     NN       _      56     cj         _      _     
+58   betreffend           betreffend           ADV      VVFIN    _      20     mo         _      _     
+59   Ökostromgesetz       Ökostromgesetz       NOUN     NN       _      58     oa         _      _     
+60   ;                    --                   PUNCT    $.       _      58     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 32
+# text = Wissenschaftsausschuss: Bundesgesetz, mit dem das Universitätsgesetz 2002 geändert wird , Abkommen zwischen der Regierung der Republik Österreich und der Regierung der Republik
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Wissenschaftsausschu Wissenschaftsausschu PROPN    NE       _      0      ROOT       _      _     
+2    :                    --                   PUNCT    $.       _      1      punct      _      _     
+3    Bundesgesetz         Bundesgesetz         NOUN     NN       _      1      rs         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    mit                  mit                  ADP      APPR     _      10     mo         _      _     
+6    dem                  der                  PRON     PRELS    _      5      nk         _      _     
+7    das                  der                  DET      ART      _      8      nk         _      _     
+8    Universitätsgesetz   Universitätsgesetz   NOUN     NN       _      11     sb         _      _     
+9    2002                 2002                 NUM      CARD     _      8      nk         _      _     
+10   geändert             ändern               VERB     VVPP     _      11     oc         _      _     
+11   wird                 werden               AUX      VAFIN    _      3      rc         _      _     
+12   ,                    --                   PUNCT    $,       _      3      punct      _      _     
+13   Abkommen             Abkommen             NOUN     NN       _      3      cj         _      _     
+14   zwischen             zwischen             ADP      APPR     _      13     mnr        _      _     
+15   der                  der                  DET      ART      _      16     nk         _      _     
+16   Regierung            Regierung            NOUN     NN       _      14     nk         _      _     
+17   der                  der                  DET      ART      _      18     nk         _      _     
+18   Republik             Republik             NOUN     NN       _      16     ag         _      _     
+19   Österreich           Österreich           PROPN    NE       _      18     nk         _      _     
+20   und                  und                  CCONJ    KON      _      18     cd         _      _     
+21   der                  der                  DET      ART      _      22     nk         _      _     
+22   Regierung            Regierung            NOUN     NN       _      20     cj         _      _     
+23   der                  der                  DET      ART      _      24     nk         _      _     
+24   Republik             Republik             NOUN     NN       _      22     ag         _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 33
+# text = Mazedonien über wissenschaftlich-technische Zusammenarbeit , Antrag 408/A der Abgeordneten Dr. Gertrude Brinek, Josef Broukal, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Fachhochschul-Studiengesetz geändert wird, Antrag 416/A der Abgeordneten Dr. Kurt Grünewald, Kolleginnen und Kollegen betreffend Anpassung der Studienbeihilfe an die Inflation, Antrag 417/A der Abgeordneten Dr. Kurt Grünewald, Kolleginnen und Kollegen betreffend zusätzliches Toleranzsemester für StudienbeihilfenempfängerInnen, Antrag 423/A der Abgeordneten Dr. Kurt Grünewald, Kolleginnen und Kollegen betreffend Anhebung der Altersgrenzen für StipendienbezieherInnen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Mazedonien           Mazedonium           NOUN     NN       _      22     sb         _      _     
+2    über                 über                 ADP      APPR     _      1      mnr        _      _     
+3    wissenschaftlich-tec wissenschaftlich-tec ADJ      ADJA     _      4      nk         _      _     
+4    Zusammenarbeit       Zusammenarbeit       NOUN     NN       _      2      nk         _      _     
+5    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+6    Antrag               Antrag               NOUN     NN       _      1      app        _      _     
+7    408                  408                  NUM      CARD     _      9      nk         _      _     
+8    /                    --                   PUNCT    $(       _      9      punct      _      _     
+9    A                    A                    NOUN     NN       _      6      nk         _      _     
+10   der                  der                  DET      ART      _      11     nk         _      _     
+11   Abgeordneten         abgeordneter         NOUN     NN       _      9      ag         _      _     
+12   Dr.                  Dr.                  NOUN     NN       _      11     nk         _      _     
+13   Gertrude             Gertrude             PROPN    NE       _      14     pnc        _      _     
+14   Brinek               Brinek               PROPN    NE       _      12     nk         _      _     
+15   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+16   Josef                Josef                PROPN    NE       _      17     pnc        _      _     
+17   Broukal              Broukal              PROPN    NE       _      6      cj         _      _     
+18   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+19   Kolleginnen          Kollegin             NOUN     NN       _      6      cj         _      _     
+20   und                  und                  CCONJ    KON      _      19     cd         _      _     
+21   Kollegen             Kollege              NOUN     NN       _      20     cj         _      _     
+22   betreffend           betreffend           ADV      VVFIN    _      0      ROOT       _      _     
+23   ein                  ein                  DET      ART      _      24     nk         _      _     
+24   Bundesgesetz         Bundesgesetz         NOUN     NN       _      22     oa         _      _     
+25   ,                    --                   PUNCT    $,       _      24     punct      _      _     
+26   mit                  mit                  ADP      APPR     _      30     mo         _      _     
+27   dem                  der                  PRON     PRELS    _      26     nk         _      _     
+28   das                  der                  DET      ART      _      29     nk         _      _     
+29   Fachhochschul-Studie Fachhochschul-Studie NOUN     NN       _      31     sb         _      _     
+30   geändert             ändern               VERB     VVPP     _      31     oc         _      _     
+31   wird                 werden               AUX      VAFIN    _      69     nk         _      _     
+32   ,                    --                   PUNCT    $,       _      31     punct      _      _     
+33   Antrag               Antrag               NOUN     NN       _      31     sb         _      _     
+34   416                  416                  NUM      CARD     _      36     nk         _      _     
+35   /                    --                   PUNCT    $(       _      36     punct      _      _     
+36   A                    A                    NOUN     NN       _      33     nk         _      _     
+37   der                  der                  DET      ART      _      38     nk         _      _     
+38   Abgeordneten         abgeordneter         NOUN     NN       _      33     ag         _      _     
+39   Dr.                  Dr.                  NOUN     NN       _      38     nk         _      _     
+40   Kurt                 Kurt                 PROPN    NE       _      41     pnc        _      _     
+41   Grünewald            Grünewald            PROPN    NE       _      39     nk         _      _     
+42   ,                    --                   PUNCT    $,       _      33     punct      _      _     
+43   Kolleginnen          Kollegin             NOUN     NN       _      33     cj         _      _     
+44   und                  und                  CCONJ    KON      _      43     cd         _      _     
+45   Kollegen             Kollege              NOUN     NN       _      44     cj         _      _     
+46   betreffend           betreffend           ADV      ADJD     _      30     mo         _      _     
+47   Anpassung            Anpassung            NOUN     NN       _      46     oa         _      _     
+48   der                  der                  DET      ART      _      49     nk         _      _     
+49   Studienbeihilfe      Studienbeihilfe      NOUN     NN       _      47     ag         _      _     
+50   an                   an                   ADP      APPR     _      47     mnr        _      _     
+51   die                  der                  DET      ART      _      52     nk         _      _     
+52   Inflation            Inflation            NOUN     NN       _      50     nk         _      _     
+53   ,                    --                   PUNCT    $,       _      52     punct      _      _     
+54   Antrag               Antrag               NOUN     NN       _      52     cj         _      _     
+55   417                  417                  NUM      CARD     _      57     nk         _      _     
+56   /                    --                   PUNCT    $(       _      57     punct      _      _     
+57   A                    A                    NOUN     NN       _      54     nk         _      _     
+58   der                  der                  DET      ART      _      59     nk         _      _     
+59   Abgeordneten         abgeordneter         NOUN     NN       _      54     ag         _      _     
+60   Dr.                  Dr.                  NOUN     NN       _      59     nk         _      _     
+61   Kurt                 Kurt                 PROPN    NE       _      62     pnc        _      _     
+62   Grünewald            Grünewald            PROPN    NE       _      60     nk         _      _     
+63   ,                    --                   PUNCT    $,       _      52     punct      _      _     
+64   Kolleginnen          Kollegin             NOUN     NN       _      52     cj         _      _     
+65   und                  und                  CCONJ    KON      _      64     cd         _      _     
+66   Kollegen             Kollege              NOUN     NN       _      65     cj         _      _     
+67   betreffend           betreffend           ADV      ADJD     _      46     mo         _      _     
+68   zusätzliches         zusätzlich           ADJ      ADJA     _      69     nk         _      _     
+69   Toleranzsemester     Toleranzsemester     NOUN     NN       _      22     oa         _      _     
+70   für                  für                  ADP      APPR     _      69     mnr        _      _     
+71   Studienbeihilfenempf Studienbeihilfenempf NOUN     NN       _      70     nk         _      _     
+72   ,                    --                   PUNCT    $,       _      71     punct      _      _     
+73   Antrag               Antrag               NOUN     NN       _      71     cj         _      _     
+74   423                  423                  NUM      CARD     _      73     nk         _      _     
+75   /                    --                   PUNCT    $(       _      76     punct      _      _     
+76   A                    A                    NOUN     NN       _      73     cj         _      _     
+77   der                  der                  DET      ART      _      78     nk         _      _     
+78   Abgeordneten         abgeordneter         NOUN     NN       _      73     ag         _      _     
+79   Dr.                  Dr.                  NOUN     NN       _      78     nk         _      _     
+80   Kurt                 Kurt                 PROPN    NE       _      81     pnc        _      _     
+81   Grünewald            Grünewald            PROPN    NE       _      79     nk         _      _     
+82   ,                    --                   PUNCT    $,       _      71     punct      _      _     
+83   Kolleginnen          Kollegin             NOUN     NN       _      71     cj         _      _     
+84   und                  und                  CCONJ    KON      _      83     cd         _      _     
+85   Kollegen             Kollege              NOUN     NN       _      84     cj         _      _     
+86   betreffend           betreffend           ADV      VVFIN    _      22     mo         _      _     
+87   Anhebung             Anhebung             NOUN     NN       _      86     oa         _      _     
+88   der                  der                  DET      ART      _      89     nk         _      _     
+89   Altersgrenzen        Altersgrenz          NOUN     NN       _      87     ag         _      _     
+90   für                  für                  ADP      APPR     _      89     mnr        _      _     
+91   StipendienbezieherIn StipendienbezieherIn NOUN     NN       _      90     nk         _      _     
+92   .                    --                   PUNCT    $.       _      22     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 34
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 35
+# text = *
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 36
+# text = ***
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    *                    *                    NOUN     NN       _      0      ROOT       _      _     
+2    *                    *                    NOUN     NN       _      1      punct      _      _     
+3    *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 37
+# text = Nationalrat, XXIII.GP Präsident Dr. Michael Spindelegger : Die nächste Sitzung des Nationalrates, die für Donnerstag, 8. November 2007, 9 Uhr in Aussicht genommen ist, wird auf schriftlichem Wege einberufen werden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Nationalrat          Nationalrat          NOUN     NN       _      30     sb         _      _     
+2    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+3    XXIII.GP             XXIII.GP             PROPN    NE       _      4      nk         _      _     
+4    Präsident            Präsident            NOUN     NN       _      1      cj         _      _     
+5    Dr.                  Dr.                  NOUN     NN       _      4      nk         _      _     
+6    Michael              Michael              PROPN    NE       _      7      pnc        _      _     
+7    Spindelegger         Spindelegger         PROPN    NE       _      5      nk         _      _     
+8    :                    --                   PUNCT    $.       _      1      punct      _      _     
+9    Die                  der                  DET      ART      _      11     nk         _      _     
+10   nächste              nächster             ADJ      ADJA     _      11     nk         _      _     
+11   Sitzung              Sitzung              NOUN     NN       _      30     sb         _      _     
+12   des                  der                  DET      ART      _      13     nk         _      _     
+13   Nationalrates        Nationalrat          NOUN     NN       _      11     ag         _      _     
+14   ,                    --                   PUNCT    $,       _      11     punct      _      _     
+15   die                  der                  PRON     PRELS    _      28     sb         _      _     
+16   für                  für                  ADP      APPR     _      27     mo         _      _     
+17   Donnerstag           Donnerstag           NOUN     NN       _      16     nk         _      _     
+18   ,                    --                   PUNCT    $,       _      17     punct      _      _     
+19   8.                   8.                   ADJ      ADJA     _      20     nk         _      _     
+20   November             November             NOUN     NN       _      16     nk         _      _     
+21   2007                 2007                 NUM      CARD     _      20     nk         _      _     
+22   ,                    --                   PUNCT    $,       _      20     punct      _      _     
+23   9                    9                    NUM      CARD     _      24     nk         _      _     
+24   Uhr                  Uhr                  NOUN     NN       _      20     cj         _      _     
+25   in                   in                   ADP      APPR     _      27     cvc        _      _     
+26   Aussicht             Aussicht             NOUN     NN       _      25     nk         _      _     
+27   genommen             nehmen               VERB     VVPP     _      28     oc         _      _     
+28   ist                  sein                 AUX      VAFIN    _      11     rc         _      _     
+29   ,                    --                   PUNCT    $,       _      30     punct      _      _     
+30   wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+31   auf                  auf                  ADP      APPR     _      34     mo         _      _     
+32   schriftlichem        schriftlich          DET      ADJA     _      33     nk         _      _     
+33   Wege                 Weg                  NOUN     NN       _      31     nk         _      _     
+34   einberufen           einberufen           VERB     VVPP     _      35     oc         _      _     
+35   werden               werden               AUX      VAINF    _      30     oc         _      _     
+36   .                    --                   PUNCT    $.       _      30     punct      _      _     
+
+# file = XXIII_NRSITZ_36.txt
+# speaker = Spindelegger
+# id = 38
+# text = Diese Sitzung ist geschlossen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Diese                dieser               DET      PDAT     _      2      nk         _      _     
+2    Sitzung              Sitzung              NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    geschlossen          schließen            VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+
