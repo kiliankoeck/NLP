@@ -1,0 +1,6 @@
+For this milestone, we first fetched the raw plain text protocols of the austrian parliament's API with the help of chatGPT. 
+
+We then inspedted the data and thought about which data is relevant for the next steps. We decided that we want to keep the speakers and the speech text. 
+We then had to think about how to extract that data only, and came up with the regex patterns used in the python file called "extract_text.py". 
+
+Once we had that cleaned data, we used the sparcy library to create the final connl-u files. 
