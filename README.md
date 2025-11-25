@@ -54,7 +54,7 @@ run the run_preprocessing.sh script. It performs four steps
 The final CoNLL-U files are stored under ```/data/connlu```
 
 ### Data Splitting: 
-Splitting the CoNLL-U files into training, testing, and validation sets (```/preprocessing/split_data.py```)
+Splitting the CoNLL-U files into training, testing, and validation sets (```/split_data/split_data.py```)
 
 The final train/test/validation sets are store under ```/data/splits```
 
