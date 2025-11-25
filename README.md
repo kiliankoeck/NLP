@@ -13,6 +13,8 @@ In this project, we attempt to implement NER of several types of named entities 
   fetch_records.py
   tokenize_sentences.py
   connlu.py
+
+/split_data/
   split_data.py
 
 /data/
@@ -20,7 +22,7 @@ In this project, we attempt to implement NER of several types of named entities 
   /plain_text/              # cleaned plain-text speeches
   /sentence_tokenized/      # tokenized sentences for each speaker 
   /conllu/                  # final CoNLL-U output
-  /splits/                  # create train, test, and validation set of the oNLL-U files
+  /splits/                  # create train, test, and validation set of the CoNLL-U files
     /test/
     /train/
     /val/
@@ -48,10 +50,13 @@ run the run_preprocessing.sh script. It performs four steps
 1. Fetching data (```/preprocessing/fetch_records.py```)
 2. Cleaning raw txt files and tokenize sentences (```/preprocessing/tokenize_sentences.py```)
 3. Formatting the data in CoNLL-U Format (```/preprocessing/connlu.py```)
-4. Splitting the CoNLL-U files into training, testing, and validation sets (```/preprocessing/split_data.py```)
 
 The final CoNLL-U files are stored under ```/data/connlu```
-And the final train/test/validation sets are store under ```/data/splits```
+
+### Data Splitting: 
+Splitting the CoNLL-U files into training, testing, and validation sets (```/preprocessing/split_data.py```)
+
+The final train/test/validation sets are store under ```/data/splits```
 
 ## Project Description 
 
@@ -72,5 +77,7 @@ This step results in txt files of the form
 
 Once we had that cleaned data, we then used the spaCy library in the script ```conllu.py``` to create the final CoNLL-U files, which consists of word lines for each word of a sentence. 
 Each word line in turn gives information about this particular word, most notably the lemma or stem, and part of speech tags.
+
+### Splitting the Data
 
 We then split the data into training (79%), testing (15%), and validation (15%) sets for model training and evaluation. The ```split_data.py``` script used the ```train_test_split``` function from the scikit-learn library to preform the randomized splits into the data subsets. The script stores the resulting sets under the ```/data/splits/``` directory ready to be used in the training and evaluation of our models. 
