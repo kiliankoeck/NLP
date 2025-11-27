@@ -1,14 +1,13 @@
 import spacy
-from conllu import parse_incr
 from pathlib import Path
 
-nlp = spacy.load("en_core_web_sm")
-nlp.max_length = 3000000 # not a smart solution
+nlp = spacy.load("de_core_news_md")
+nlp.max_length = 3000000 # not a smart solution but it works
 input_folder =Path("./data/conllu")
 output_folder = Path("./spacy_results")
 output_folder.mkdir(exist_ok=True)
 
-TARGETS = {"PERSON","ORG","GPE"}
+TARGETS = {"PER","ORG","LOC"}
 
 # gets plaintext from conllu format for pretrained spacy
 def get_plain_from_conllu(file):
