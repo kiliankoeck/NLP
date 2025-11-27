@@ -51,10 +51,7 @@ for file_path in input_dir.glob("*.txt"):
                 out_f.write(f"# id = {id}\n")
                 out_f.write(f"# text = {sentence.text.strip()}\n")
 
-                pretty_header_cols = [
-                    header[:w].ljust(w) for header, w in zip(HEADER_COLS, CONLLU_WIDTHS)
-                ]
-                out_f.write(" ".join(pretty_header_cols) + "\n")
+                out_f.write("\t".join(HEADER_COLS) + "\n")
 
                 for i, token in enumerate(sentence, start=1):
                     ID = str(i)
@@ -66,7 +63,7 @@ for file_path in input_dir.glob("*.txt"):
                     HEAD = token.head.i - sentence.start + 1 if token.head != token else 0
                     DEPREL = token.dep_
                     DEPS = "_"
-                    MISC = "_"
+                    MISC = f"start_char={token.idx}|end_char={token.idx + len(token)}"
 
                     cols = [
                         ID,
@@ -81,10 +78,6 @@ for file_path in input_dir.glob("*.txt"):
                         MISC,
                     ]
 
-                    pretty_cols = [
-                        col[:w].ljust(w) for col, w in zip(cols, CONLLU_WIDTHS)
-                    ]
-
-                    out_f.write(" ".join(pretty_cols) + "\n")
+                    out_f.write("\t".join(cols) + "\n")
                 out_f.write("\n")
 
