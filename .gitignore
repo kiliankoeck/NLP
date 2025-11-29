@@ -2,18 +2,13 @@
 .venv
 
 data/raw_html
-data/plain_text
 data/sentence_tokenized
 data/conllu
+
 data/splits
 
-milestone_1/data/sentence_tokenized
-milestone_1/data/conllu
-milestone_1/data/plain_text
-
-milestone_1/testing_data/sentence_tokenized
-milestone_1/testing_data/conllu
-milestone_1/testing_data/plain_text
+testing_data/sentence_tokenized
+testing_data/conllu
 
 downloads
 data/raw_xmi

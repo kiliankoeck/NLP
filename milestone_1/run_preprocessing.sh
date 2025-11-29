@@ -4,17 +4,22 @@ cd ./preprocessing || exit
 
 echo "Starting Preprocessing"
 
-# Fetch Records - comment out if unwanted
-#printf  "[1/3] Fetching Records\n"
-#python fetch_records.py
-printf "Skipping [1/3] Fetch\n"
-
-# Clean plain txt files into sentence tokenized speeches
+#XMI parsing 
 printf "\n==================================\n"
-printf  "[2/3] Cleaning plain txt files\n"
-python tokenize_sentences.py
+printf  "[1/4] Parsing the xmi files to JSON\n"
+python xmi_parser.py
+
+#Convert xmi to plain txt files
+printf "\n==================================\n"
+printf  "[2/4] Converting to plain txt files\n"
+python xmi_to_plain_text.py
+
+# Clean plain text files
+printf "\n==================================\n"
+printf  "[3/4] Cleaning plain txt files\n"
+python clean_plain_text.py
 
 # Format Records into CoNLL-U Format
 printf "\n==================================\n"
-printf  "[3/3] Format records in CoNLL-U Format\n"
-python conllu.py
+printf  "[4/4] Format records in CoNLL-U Format\n"
+python conllu_formatter.py
