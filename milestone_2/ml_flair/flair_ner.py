@@ -3,7 +3,7 @@ from flair.models import SequenceTagger
 from pathlib import Path
 import json
 
-from milestone_2.entities import Entity
+from ..entities import Entity
 
 #tagger = SequenceTagger.load("flair/ner-german")
 tagger = SequenceTagger.load("flair/ner-german-large")

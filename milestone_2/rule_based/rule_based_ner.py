@@ -8,7 +8,7 @@ from spacy.language import Language
 from spacy.pipeline import EntityRuler
 from spacy.tokens import Doc
 
-from milestone_2.entities import Entity
+from ..entities import Entity
 
 
 class RuleBasedNER:
@@ -200,6 +200,8 @@ class RuleBasedNER:
         return result
 
 
+    #TODO: store and load if already available
+    #TODO: fix issue where normal words are tagged as person or locations
     def _build_gazetteers(self):
         if self._verbose:
             print("RULEBASED_NER: building gazetteers...")

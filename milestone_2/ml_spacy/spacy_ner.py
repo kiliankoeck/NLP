@@ -1,7 +1,7 @@
 import spacy
-from pathlib import Path
 
-from milestone_2.entities import Entity
+from ..entities import Entity
+from spacy.language import Language
 
 TARGETS = {"PER","ORG","LOC"}
 
@@ -16,6 +16,6 @@ class SpacyNer:
         results: list[Entity] = []
         for ent in doc.ents:
             if ent.label_ in TARGETS:
-                results.append(Entity(ent.text, ent.label_, ent.start, ent.end))
+                results.append(Entity(ent.text, ent.label_, ent.start_char, ent.end_char))
 
         return results
