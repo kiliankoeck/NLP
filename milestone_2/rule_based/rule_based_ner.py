@@ -8,6 +8,8 @@ from spacy.language import Language
 from spacy.pipeline import EntityRuler
 from spacy.tokens import Doc
 
+from milestone_2.entities import Entity
+
 
 class RuleBasedNER:
 
@@ -374,7 +376,7 @@ class RuleBasedNER:
         return nlp
 
 
-    def annotate(self, text: str) -> List[Dict[str, str]]:
+    def annotate(self, text: str) -> list[Entity]:
 
         if self._verbose:
             print(f"RULEBASED_NER: annotating text of length {len(text)}")
@@ -383,10 +385,11 @@ class RuleBasedNER:
         if self._verbose:
             print(f"RULEBASED_NER: found {len(spans)} entities")
 
-        entities: List[Dict[str, str]] = []
+        entities: List[Entity] = []
         for start, end, label in spans:
             span_text = text[start:end]
-            entities.append({"text": span_text, "label": label})
+
+            entities.append(Entity(span_text, label, start, end))
 
         return entities
 
