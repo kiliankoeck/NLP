@@ -10,24 +10,35 @@ In this project, we attempt to implement NER of several types of named entities 
 
 ```
 /preprocessing/
-  fetch_records.py
-  tokenize_sentences.py
-  connlu.py
+  xmi_parser.py
+  xmi_to_plain_text.py
+  clean_plain_text.py
+  conllu_formatter.py
 
 /split_data/
   split_data.py
 
 /data/
-  /raw_html/                # downloaded HTML protocols
+  /raw_xmi/                 # raw xmi files from gerparcor
+  /raw_json/                # xmi parsed to JSON
   /plain_text/              # cleaned plain-text speeches
-  /sentence_tokenized/      # tokenized sentences for each speaker 
   /conllu/                  # final CoNLL-U output
-  /splits/                  # create train, test, and validation set of the CoNLL-U files
+
+  /test_set/                # test set xmi data
+  /test_set_conllu/         # test set conllu data
+  /test_set_json/           # test set JSON data
+  /test_set_txt/            # test set plain text
+
+  /splits/                  # train, test, and validation sets of the CoNLL-U files
     /test/
     /train/
     /val/
 
+/downloads/                 #contains the raw .tar file from gerparcor
+
 README.md
+download_corpus.sh
+sample_corpus.sh
 requirements.txt
 run_preprocessing.sh
 setup_env.sh
@@ -46,20 +57,19 @@ source .venv/Scripts/activate
 ```
 
 ### Preprocessing: 
-run the run_preprocessing.sh script. It performs four steps 
-1. Fetching data (```/preprocessing/fetch_records.py```)
-2. Cleaning raw txt files and tokenize sentences (```/preprocessing/tokenize_sentences.py```)
-3. Formatting the data in CoNLL-U Format (```/preprocessing/connlu.py```)
+(not working yet, need to run individually) run the run_preprocessing.sh script. It performs four steps:
+1. Parsing the XMI files from the downloads folder (from gerparcor) (```/preprocessing/xmi_parser.py```)
+2. Extracting the raw text files  (```/preprocessing/xmi_to_plain_text.py```)
+3. Cleaning the raw text files  (```/preprocessing/clean_plain_text.py```)
+4. Formatting the data in CoNLL-U Format (```/preprocessing/conllu_formatter.py```)
 
 The final CoNLL-U files are stored under ```/data/connlu```
 
 ### Data Splitting: 
 Splitting the CoNLL-U files into training, testing, and validation sets (```/split_data/split_data.py```)
-
 The final train/test/validation sets are store under ```/data/splits```
 
-## Project Description 
-
+## MILESTONE 1:
 ### Preprocessing
 
 For this milestone, we first fetched the raw plain text protocols of the Austrian Parliament's API using the ```/fetch_records.py``` script which was created with the help of chatGPT. 
@@ -78,6 +88,14 @@ This step results in txt files of the form
 Once we had that cleaned data, we then used the spaCy library in the script ```conllu.py``` to create the final CoNLL-U files, which consists of word lines for each word of a sentence. 
 Each word line in turn gives information about this particular word, most notably the lemma or stem, and part of speech tags.
 
+## MILESTONE 2:
+### Preprocessing
+For this milestone, we changed the data gathering a preprocessing. We first fetched the raw xmi protocols from GerParCor using the ```/download_corpus.sh``` script which was created with the help of chatGPT.  It loads all stenographic records form the parliaments open data platform. The documentation of the API can be found under http://lrec2022.gerparcor.texttechnologylab.org/. The .tar files downaloaded are stored under ```/downloads```. The raw xmi files downloaded (are also renamed for standardization) and stored under The original .tar files downaloaded are stored under ```/data/raw_xmi```.
+
+The ```xmi_parser.py``` script then parses the raw xmi files using xml.etree.elementtree (https://docs.python.org/3/library/xml.etree.elementtree.html) to transform the xmi into simple json files (stored under ```/data/plain_text```). This extracts the original NER tags in the documents. Then the ```conllu_formatter.py``` script converts json into the CoNLL-U format with teh NER tags stored under ```/data/conllu```. We have the NER tags in BIO format, and we will be inspecting persons (PER), Organizations (ORG), and locations (LOC).
+
+To get the plain text, ```xmi_to_plain_text.py``` is run and stores the plain text under ```/data/plain_text```. We found that there were weird characters extracted here and used a cleaning helper script to ensure the text was formatted properly, ```clean_plain_text.py``` and stored under ```/data/plain_text``` (overwrites the weird characters).
+
 ### Splitting the Data
 
-We then split the data into training (79%), testing (15%), and validation (15%) sets for model training and evaluation. The ```split_data.py``` script used the ```train_test_split``` function from the scikit-learn library to preform the randomized splits into the data subsets. The script stores the resulting sets under the ```/data/splits/``` directory ready to be used in the training and evaluation of our models. 
+We created a script that can possibly be used for future model creation/evaluation. It splits the data into training (70%), testing (15%), and validation (15%) sets. The ```split_data.py``` script used the ```train_test_split``` function from the scikit-learn library to preform the randomized splits into the data subsets. The script stores the resulting sets under the ```/data/splits/``` directory ready to be used in the training and evaluation of our models. 
