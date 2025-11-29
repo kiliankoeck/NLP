@@ -2,6 +2,8 @@ import os
 from pathlib import Path
 
 from milestone_2.entities import Entity
+from milestone_2.ml_flair.flair_ner import FlairNer
+from milestone_2.ml_spacy.spacy_ner import SpacyNer
 from milestone_2.preprocessing_gerparcor.xmi_parser import XmiParser
 from milestone_2.rule_based.rule_based_ner import RuleBasedNER
 
@@ -21,6 +23,8 @@ def main():
 
     xmi_parser = XmiParser()
     rule_based_ner = initialize_rulebased_ner()
+    flair_ner = FlairNer()
+    spacy_ner = SpacyNer()
 
     files = [gerparcor_dir] if os.path.isfile(gerparcor_dir) else [os.path.join(gerparcor_dir, f) for f in
                                                                    os.listdir(gerparcor_dir) if f.endswith(".xmi")]
@@ -36,8 +40,12 @@ def main():
 
             # Also a list of {text: string, label: string, begin: int, end: int}
             rule_based_res: list[Entity] = rule_based_ner.annotate(plain_text)
+            flair_res: list[Entity] = flair_ner.annotate(plain_text)
+            spacy_res: list[Entity] = spacy_ner.annotate(plain_text)
 
-            evaluate(ground_truth, rule_based_res)
+            evaluation_rule_based = evaluate(ground_truth, rule_based_res)
+            evaluation_flair = evaluate(ground_truth, flair_res)
+            evaluation_spacy = evaluate(ground_truth, spacy_res)
 
             #TODO: correct filename (kilian)
             save_results(rule_based_res, f.name + "rule_based_ner.json")

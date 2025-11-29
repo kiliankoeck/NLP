@@ -1,0 +1,21 @@
+import spacy
+from pathlib import Path
+
+from milestone_2.entities import Entity
+
+TARGETS = {"PER","ORG","LOC"}
+
+class SpacyNer:
+    def __init__(self):
+        self._nlp = spacy.load("de_core_news_md")
+        self._nlp.max_length = 3000000 # not a smart solution but it works
+        return
+
+    def annotate(self, text: str) -> list[Entity]:
+        doc = self._nlp(text)
+        results: list[Entity] = []
+        for ent in doc.ents:
+            if ent.label_ in TARGETS:
+                results.append(Entity(ent.text, ent.label_, ent.start, ent.end))
+
+        return results
