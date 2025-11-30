@@ -1,10 +1,4 @@
-"""
-Extracts text, tokens, and bio tags from XMI files
-
-** input and output folders are for the test set
-** need to change that for the full dataset
-"""
-
+import gzip
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -25,9 +19,18 @@ class XmiParser:
     def _ns(self, tag, prefix):
         return f".//{{{NS[prefix]}}}{tag}"
 
+    def _parse_tree(self, xmi_path: Path) -> ET.ElementTree:
+        with xmi_path.open("rb") as fh:
+            magic = fh.read(2)
+            fh.seek(0)
+            if magic == b"\x1f\x8b":
+                with gzip.open(fh, "rb") as gfh:
+                    return ET.parse(gfh)
+            else:
+                return ET.parse(fh)
 
     def parse(self, xmi_path: Path):
-        tree = ET.parse(xmi_path)
+        tree = self._parse_tree(xmi_path)
         root = tree.getroot()
 
         # raw text

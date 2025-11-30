@@ -61,11 +61,10 @@ def main():
     if RAW_XMI_DIR.is_file():
         files = [RAW_XMI_DIR]
     else:
-        files = [p for p in RAW_XMI_DIR.glob("*.xmi")]
+        files = [p for p in RAW_XMI_DIR.iterdir() if p.is_file()]
 
     logger.info(f"loaded {len(files)} files")
 
-    score_rows = []
 
     for i, f in enumerate(files):
         logger.info("Processing file {}/{}".format(i+1, len(files)))
@@ -79,85 +78,15 @@ def main():
             ground_truth: list[Entity] = [Entity(**e) if isinstance(e, dict) else e for e in gerparcor_data["entities"]]
 
             predictions_by_model: dict[str, list[Entity]] = {}
-            eval_by_model: dict[str, dict] = {}
             for model_name, annotator in models.items():
                 preds = annotator(plain_text)
                 predictions_by_model[model_name] = preds
-                eval_result = evaluate(ground_truth, preds)
-                eval_by_model[model_name] = eval_result
-                score_rows.append(make_score_row(f.name, model_name, eval_result))
 
             save_entities_for_doc(f, ground_truth, predictions_by_model)
 
         except Exception as e:
             logger.exception(f"Error parsing file {f}")
 
-    logger.info("Saving results")
-    scores_csv = RESULTS_DIR / "scores.csv"
-    base_fields = ["filename", "model", "macro_f1"]
-    metric_fields = [f"{m}_{lab}" for lab in TARGETS for m in METRIC_NAMES]
-    fieldnames = base_fields + metric_fields
-
-    with open(scores_csv, "w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(score_rows)
-
-    logger.info("Done")
-
-
-def evaluate(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
-    gt = {(e.label, e.start, e.end) for e in ground_truth}
-    pred = {(e.label, e.start, e.end) for e in predictions}
-
-    metrics = {}
-    precision = {}
-    recall = {}
-    f1_score = {}
-    mean_f1 = 0.0
-
-    tp, fp, fn = 0.0, 0.0, 0.0
-
-    for lab in TARGETS:
-        tp = len({(x, y, z) for (x, y, z) in (pred & gt) if x == lab})
-        fp = len({(x, y, z) for (x, y, z) in (pred - gt) if x == lab})
-        fn = len({(x, y, z) for (x, y, z) in (gt - pred) if x == lab})
-
-        precision[lab] = tp / (tp + fp) if fp + tp != 0 else 0.0
-        recall[lab] = tp / (tp + fn) if tp + fn != 0 else 0.0
-
-        num = 2 * precision[lab] * recall[lab]
-        denom = precision[lab] + recall[lab]
-        f1_score[lab] = num / denom if denom != 0 else 0.0
-        mean_f1 += f1_score[lab]
-
-        metrics[lab] = {"TP": tp, "FP": fp, "FN": fn,
-                        "precision": precision[lab],
-                        "recall": recall[lab],
-                        "f1": f1_score[lab]}
-
-    macro_f1 = mean_f1 / len(TARGETS)
-
-    return {
-        "macro_f1": macro_f1,
-        "per_label": metrics,
-    }
-
-def make_score_row(filename: str, model_name: str, eval_result: dict) -> dict:
-    row = {
-        "filename": filename,
-        "model": model_name,
-        "macro_f1": eval_result["macro_f1"],
-    }
-
-    per_label = eval_result["per_label"]  # dict[label] -> metrics dict
-
-    for label, stats in per_label.items():
-        for metric_name in METRIC_NAMES:
-            key = f"{metric_name}_{label}"   # e.g. "TP_LOC", "precision_PER"
-            row[key] = stats.get(metric_name, 0.0)
-
-    return row
 
 def save_entities_for_doc(doc_path: Path,
                           ground_truth: list[Entity],
