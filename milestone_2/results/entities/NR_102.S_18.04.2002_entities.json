@@ -1,0 +1,1037 @@
+{
+  "filename": "NR_102.S_18.04.2002.xmi",
+  "ground_truth": [
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "LOC",
+      "start": 44,
+      "end": 70
+    },
+    {
+      "text": "Gesetzgebungsperiode",
+      "label": "PER",
+      "start": 88,
+      "end": 108
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 187,
+      "end": 203
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "LOC",
+      "start": 231,
+      "end": 257
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nDonnerstag",
+      "label": "PER",
+      "start": 274,
+      "end": 306
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 868,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 913,
+      "end": 940
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "Loos",
+      "label": "PER",
+      "start": 1047,
+      "end": 1051
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 1053,
+      "end": 1060
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 1194,
+      "end": 1199
+    },
+    {
+      "text": "Hermann B",
+      "label": "PER",
+      "start": 1417,
+      "end": 1426
+    },
+    {
+      "text": "Stummvoll",
+      "label": "PER",
+      "start": 1452,
+      "end": 1461
+    },
+    {
+      "text": "BAO",
+      "label": "ORG",
+      "start": 1596,
+      "end": 1599
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1899,
+      "end": 1911
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1912,
+      "end": 1915
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1921,
+      "end": 1942
+    },
+    {
+      "text": "Harald Ofner",
+      "label": "PER",
+      "start": 1948,
+      "end": 1960
+    },
+    {
+      "text": "Ober",
+      "label": "LOC",
+      "start": 2060,
+      "end": 2064
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2084
+    },
+    {
+      "text": "Tirol",
+      "label": "LOC",
+      "start": 2089,
+      "end": 2094
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2146,
+      "end": 2147
+    },
+    {
+      "text": "Hermann B",
+      "label": "PER",
+      "start": 2166,
+      "end": 2175
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2184,
+      "end": 2197
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2199,
+      "end": 2202
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2204,
+      "end": 2216
+    },
+    {
+      "text": "Stadt Salzburg",
+      "label": "LOC",
+      "start": 2286,
+      "end": 2300
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2354,
+      "end": 2355
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2361,
+      "end": 2373
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 2374,
+      "end": 2393
+    },
+    {
+      "text": "Rieder Stadions",
+      "label": "LOC",
+      "start": 2442,
+      "end": 2457
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2475,
+      "end": 2502
+    },
+    {
+      "text": "Abgeordneten Dr. Madeleine",
+      "label": "ORG",
+      "start": 2758,
+      "end": 2784
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2908,
+      "end": 2919
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2974,
+      "end": 3001
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3043,
+      "end": 3055
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3056,
+      "end": 3059
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3061,
+      "end": 3079
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3295,
+      "end": 3307
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3308,
+      "end": 3311
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3313,
+      "end": 3327
+    },
+    {
+      "text": "Sudan",
+      "label": "LOC",
+      "start": 3432,
+      "end": 3437
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 3498,
+      "end": 3509
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3642,
+      "end": 3654
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3659,
+      "end": 3676
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 3825,
+      "end": 3838
+    },
+    {
+      "text": "Gesetzesvorschl",
+      "label": "PER",
+      "start": 4112,
+      "end": 4127
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4135,
+      "end": 4147
+    },
+    {
+      "text": "4-L1.1",
+      "label": "PER",
+      "start": 4339,
+      "end": 4345
+    },
+    {
+      "text": "Digitale Publikationen",
+      "label": "ORG",
+      "start": 4368,
+      "end": 4390
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 231,
+      "end": 244
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PERS",
+      "start": 868,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PERS",
+      "start": 913,
+      "end": 940
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "Gatterer",
+      "label": "PERS",
+      "start": 1037,
+      "end": 1045
+    },
+    {
+      "text": "Loos",
+      "label": "LOC",
+      "start": 1047,
+      "end": 1051
+    },
+    {
+      "text": "Murauer",
+      "label": "PERS",
+      "start": 1053,
+      "end": 1060
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1065,
+      "end": 1068
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PERS",
+      "start": 1069,
+      "end": 1081
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PERS",
+      "start": 1417,
+      "end": 1433
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1441,
+      "end": 1444
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PERS",
+      "start": 1445,
+      "end": 1461
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PERS",
+      "start": 1912,
+      "end": 1942
+    },
+    {
+      "text": "Dr. Harald Ofner",
+      "label": "PERS",
+      "start": 1944,
+      "end": 1960
+    },
+    {
+      "text": "Oberösterreich",
+      "label": "LOC",
+      "start": 2060,
+      "end": 2074
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2084
+    },
+    {
+      "text": "Tirol",
+      "label": "LOC",
+      "start": 2089,
+      "end": 2094
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PERS",
+      "start": 2166,
+      "end": 2182
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PERS",
+      "start": 2184,
+      "end": 2197
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PERS",
+      "start": 2199,
+      "end": 2216
+    },
+    {
+      "text": "Stadt",
+      "label": "LOC",
+      "start": 2286,
+      "end": 2291
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2292,
+      "end": 2300
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PERS",
+      "start": 2374,
+      "end": 2393
+    },
+    {
+      "text": "Neubau",
+      "label": "LOC",
+      "start": 2431,
+      "end": 2437
+    },
+    {
+      "text": "Rieder",
+      "label": "PERS",
+      "start": 2442,
+      "end": 2448
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PERS",
+      "start": 2475,
+      "end": 2502
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2580,
+      "end": 2583
+    },
+    {
+      "text": "Gusenbauer",
+      "label": "PERS",
+      "start": 2584,
+      "end": 2594
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2771,
+      "end": 2774
+    },
+    {
+      "text": "Madeleine",
+      "label": "PERS",
+      "start": 2775,
+      "end": 2784
+    },
+    {
+      "text": "Petrovic",
+      "label": "PERS",
+      "start": 2785,
+      "end": 2793
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2908,
+      "end": 2919
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PERS",
+      "start": 2974,
+      "end": 3001
+    },
+    {
+      "text": "Mag. Christine Muttonen",
+      "label": "PERS",
+      "start": 3056,
+      "end": 3079
+    },
+    {
+      "text": "Lage",
+      "label": "LOC",
+      "start": 3192,
+      "end": 3196
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PERS",
+      "start": 3308,
+      "end": 3327
+    },
+    {
+      "text": "Sudan",
+      "label": "LOC",
+      "start": 3432,
+      "end": 3437
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PERS",
+      "start": 3498,
+      "end": 3509
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PERS",
+      "start": 3655,
+      "end": 3676
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3825,
+      "end": 3838
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 3866,
+      "end": 3869
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 258,
+      "end": 268
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 879,
+      "end": 895
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 924,
+      "end": 940
+    },
+    {
+      "text": "Gatterer",
+      "label": "PER",
+      "start": 1037,
+      "end": 1045
+    },
+    {
+      "text": "Loos",
+      "label": "PER",
+      "start": 1047,
+      "end": 1051
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 1053,
+      "end": 1060
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 1069,
+      "end": 1081
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1417,
+      "end": 1433
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 1445,
+      "end": 1461
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1921,
+      "end": 1942
+    },
+    {
+      "text": "Harald Ofner",
+      "label": "PER",
+      "start": 1948,
+      "end": 1960
+    },
+    {
+      "text": "Oberösterreich",
+      "label": "LOC",
+      "start": 2060,
+      "end": 2074
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2084
+    },
+    {
+      "text": "Tirol",
+      "label": "LOC",
+      "start": 2089,
+      "end": 2094
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2166,
+      "end": 2182
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2184,
+      "end": 2197
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2204,
+      "end": 2216
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2292,
+      "end": 2300
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 2374,
+      "end": 2393
+    },
+    {
+      "text": "Rieder Stadions",
+      "label": "LOC",
+      "start": 2442,
+      "end": 2457
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2486,
+      "end": 2502
+    },
+    {
+      "text": "Gusenbauer",
+      "label": "PER",
+      "start": 2584,
+      "end": 2594
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2775,
+      "end": 2793
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2985,
+      "end": 3001
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3061,
+      "end": 3079
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 3231,
+      "end": 3241
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3313,
+      "end": 3327
+    },
+    {
+      "text": "Sudan",
+      "label": "LOC",
+      "start": 3432,
+      "end": 3437
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 3498,
+      "end": 3509
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3659,
+      "end": 3676
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 4353,
+      "end": 4367
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4368,
+      "end": 4395
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 231,
+      "end": 268
+    },
+    {
+      "text": "....................................................................................................",
+      "label": "LOC",
+      "start": 552,
+      "end": 652
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 868,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 913,
+      "end": 940
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 963,
+      "end": 976
+    },
+    {
+      "text": "Gatterer",
+      "label": "PER",
+      "start": 1037,
+      "end": 1045
+    },
+    {
+      "text": "Loos",
+      "label": "PER",
+      "start": 1047,
+      "end": 1051
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 1053,
+      "end": 1060
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1065,
+      "end": 1081
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1417,
+      "end": 1433
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 1435,
+      "end": 1439
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 1445,
+      "end": 1461
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1899,
+      "end": 1911
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1921,
+      "end": 1942
+    },
+    {
+      "text": "Harald Ofner",
+      "label": "PER",
+      "start": 1948,
+      "end": 1960
+    },
+    {
+      "text": "Bezirksgerichten",
+      "label": "LOC",
+      "start": 2040,
+      "end": 2056
+    },
+    {
+      "text": "Oberösterreich",
+      "label": "LOC",
+      "start": 2060,
+      "end": 2074
+    },
+    {
+      "text": "Salzburg",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2084
+    },
+    {
+      "text": "Tirol",
+      "label": "LOC",
+      "start": 2089,
+      "end": 2094
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2146,
+      "end": 2147
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2166,
+      "end": 2182
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2184,
+      "end": 2197
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2204,
+      "end": 2216
+    },
+    {
+      "text": "Stadt Salzburg",
+      "label": "LOC",
+      "start": 2286,
+      "end": 2300
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2354,
+      "end": 2355
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 2374,
+      "end": 2393
+    },
+    {
+      "text": "Rieder Stadions",
+      "label": "LOC",
+      "start": 2442,
+      "end": 2457
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2475,
+      "end": 2502
+    },
+    {
+      "text": "Dr. Gusenbauer",
+      "label": "PER",
+      "start": 2580,
+      "end": 2594
+    },
+    {
+      "text": "Dr. Madeleine\nPetrovic",
+      "label": "PER",
+      "start": 2771,
+      "end": 2793
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2908,
+      "end": 2919
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2974,
+      "end": 3001
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3061,
+      "end": 3079
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 3231,
+      "end": 3241
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3295,
+      "end": 3307
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3313,
+      "end": 3327
+    },
+    {
+      "text": "Bürgerkriegsland Sudan",
+      "label": "LOC",
+      "start": 3415,
+      "end": 3437
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 3498,
+      "end": 3509
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3655,
+      "end": 3676
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3825,
+      "end": 3838
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4368,
+      "end": 4395
+    }
+  ]
+}

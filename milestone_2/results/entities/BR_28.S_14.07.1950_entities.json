@@ -1,0 +1,65 @@
+{
+  "filename": "BR_28.S_14.07.1950.xmi",
+  "ground_truth": [
+    {
+      "text": "DEUTSCHER",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "BUNDESRAT",
+      "label": "LOC",
+      "start": 10,
+      "end": 19
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 102,
+      "end": 106
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 10,
+      "end": 19
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 87,
+      "end": 98
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 102,
+      "end": 106
+    },
+    {
+      "text": "Juli",
+      "label": "LOC",
+      "start": 114,
+      "end": 118
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 102,
+      "end": 106
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 102,
+      "end": 106
+    }
+  ]
+}

@@ -1,0 +1,2903 @@
+{
+  "filename": "NR_100.S_22.04.2021.xmi",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 77,
+      "end": 103
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nGro",
+      "label": "PER",
+      "start": 149,
+      "end": 174
+    },
+    {
+      "text": "Redoutensaal\n\n",
+      "label": "PER",
+      "start": 178,
+      "end": 192
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 195,
+      "end": 211
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "LOC",
+      "start": 239,
+      "end": 265
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nDonnerstag",
+      "label": "PER",
+      "start": 284,
+      "end": 316
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 574,
+      "end": 586
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 587,
+      "end": 590
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 706,
+      "end": 707
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 713,
+      "end": 725
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 726,
+      "end": 729
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 890,
+      "end": 903
+    },
+    {
+      "text": "Bericht",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Abgeordneten Ing. Josef Hechenberger",
+      "label": "ORG",
+      "start": 1799,
+      "end": 1835
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1868,
+      "end": 1870
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1934,
+      "end": 1946
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2052,
+      "end": 2063
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2184,
+      "end": 2187
+    },
+    {
+      "text": "Karin Greiner",
+      "label": "PER",
+      "start": 2189,
+      "end": 2202
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2357,
+      "end": 2367
+    },
+    {
+      "text": "MA MLS",
+      "label": "PER",
+      "start": 2369,
+      "end": 2375
+    },
+    {
+      "text": "Abgeordneten Ing. Mag",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2538
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2701,
+      "end": 2713
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2714,
+      "end": 2717
+    },
+    {
+      "text": "Verena Nussbaum",
+      "label": "PER",
+      "start": 2719,
+      "end": 2734
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2876,
+      "end": 2888
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2889,
+      "end": 2901
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3043,
+      "end": 3055
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3056,
+      "end": 3059
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3061,
+      "end": 3075
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3229
+    },
+    {
+      "text": "Julia Elisabeth Herr",
+      "label": "PER",
+      "start": 3230,
+      "end": 3250
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3392,
+      "end": 3404
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3405,
+      "end": 3408
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3410,
+      "end": 3424
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3566,
+      "end": 3578
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3579,
+      "end": 3582
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3584,
+      "end": 3598
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3740,
+      "end": 3752
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3753,
+      "end": 3763
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3905,
+      "end": 3917
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3923,
+      "end": 3937
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4079,
+      "end": 4091
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4092,
+      "end": 4095
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 4097,
+      "end": 4114
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4162,
+      "end": 4173
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4274,
+      "end": 4277
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4279,
+      "end": 4295
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4313,
+      "end": 4316
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4318,
+      "end": 4334
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 4366,
+      "end": 4379
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4423,
+      "end": 4435
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4436,
+      "end": 4439
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4441,
+      "end": 4456
+    },
+    {
+      "text": "Ing. Josef",
+      "label": "PER",
+      "start": 4458,
+      "end": 4468
+    },
+    {
+      "text": "Eva-Maria Himmelbauer",
+      "label": "PER",
+      "start": 4483,
+      "end": 4504
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 4506,
+      "end": 4509
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 4511,
+      "end": 4527
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4529,
+      "end": 4539
+    },
+    {
+      "text": "MA MLS",
+      "label": "PER",
+      "start": 4541,
+      "end": 4547
+    },
+    {
+      "text": "Jan Krainer",
+      "label": "PER",
+      "start": 4553,
+      "end": 4564
+    },
+    {
+      "text": "Maximilian Lercher",
+      "label": "PER",
+      "start": 4566,
+      "end": 4584
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 4592,
+      "end": 4595
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 4597,
+      "end": 4609
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 4614,
+      "end": 4630
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4666,
+      "end": 4669
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4671,
+      "end": 4687
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 4800,
+      "end": 4805
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 4983,
+      "end": 4985
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5101,
+      "end": 5102
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5121,
+      "end": 5136
+    },
+    {
+      "text": "Schutzma",
+      "label": "PER",
+      "start": 5213,
+      "end": 5221
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5285,
+      "end": 5286
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5305,
+      "end": 5320
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5433,
+      "end": 5445
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 5446,
+      "end": 5469
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5681,
+      "end": 5682
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5701,
+      "end": 5716
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5813,
+      "end": 5814
+    },
+    {
+      "text": "Heike Grebien",
+      "label": "PER",
+      "start": 5833,
+      "end": 5846
+    },
+    {
+      "text": "Kira Gr",
+      "label": "PER",
+      "start": 5848,
+      "end": 5855
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5986,
+      "end": 5987
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5993,
+      "end": 6005
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 6006,
+      "end": 6029
+    },
+    {
+      "text": "Krisenbew",
+      "label": "ORG",
+      "start": 6111,
+      "end": 6120
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 6147,
+      "end": 6159
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PER",
+      "start": 6160,
+      "end": 6176
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 6178,
+      "end": 6196
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6327,
+      "end": 6328
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 6334,
+      "end": 6346
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 6351,
+      "end": 6370
+    },
+    {
+      "text": "Kammerbeitr",
+      "label": "LOC",
+      "start": 6480,
+      "end": 6491
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 6552,
+      "end": 6563
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 6586,
+      "end": 6589
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 6591,
+      "end": 6607
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6640,
+      "end": 6641
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 6660,
+      "end": 6672
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6795,
+      "end": 6796
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6815,
+      "end": 6828
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6920,
+      "end": 6921
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6940,
+      "end": 6953
+    },
+    {
+      "text": "NoVA",
+      "label": "ORG",
+      "start": 7029,
+      "end": 7033
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7075,
+      "end": 7087
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PER",
+      "start": 7088,
+      "end": 7104
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 7106,
+      "end": 7124
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7295,
+      "end": 7296
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7302,
+      "end": 7314
+    },
+    {
+      "text": "Sabine Schatz",
+      "label": "PER",
+      "start": 7315,
+      "end": 7328
+    },
+    {
+      "text": "Online-Formular",
+      "label": "LOC",
+      "start": 7366,
+      "end": 7381
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7436,
+      "end": 7448
+    },
+    {
+      "text": "r Konsumentenschutz",
+      "label": "PER",
+      "start": 7679,
+      "end": 7698
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7714,
+      "end": 7715
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7721,
+      "end": 7733
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 7734,
+      "end": 7737
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7739,
+      "end": 7756
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7881,
+      "end": 7882
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7888,
+      "end": 7900
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 7901,
+      "end": 7904
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7906,
+      "end": 7923
+    },
+    {
+      "text": "Gro",
+      "label": "LOC",
+      "start": 8014,
+      "end": 8017
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 8089,
+      "end": 8095
+    },
+    {
+      "text": "Gemeinden",
+      "label": "LOC",
+      "start": 8112,
+      "end": 8121
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 8152,
+      "end": 8153
+    },
+    {
+      "text": "Christoph Zarits",
+      "label": "PER",
+      "start": 8172,
+      "end": 8188
+    },
+    {
+      "text": "Agnes Sirkka Prammer",
+      "label": "PER",
+      "start": 8195,
+      "end": 8215
+    },
+    {
+      "text": "Maximilian K",
+      "label": "PER",
+      "start": 8217,
+      "end": 8229
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 8246,
+      "end": 8260
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 8396,
+      "end": 8397
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 8416,
+      "end": 8428
+    },
+    {
+      "text": "Bundesreparaturbonus",
+      "label": "PER",
+      "start": 8466,
+      "end": 8486
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 8527,
+      "end": 8539
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 8540,
+      "end": 8543
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8716
+    },
+    {
+      "text": "Covid-19-Pandemie\n",
+      "label": "ORG",
+      "start": 8804,
+      "end": 8822
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 9011,
+      "end": 9014
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9016,
+      "end": 9032
+    },
+    {
+      "text": "Bundesminister fü",
+      "label": "ORG",
+      "start": 9193,
+      "end": 9210
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 9288,
+      "end": 9291
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9293,
+      "end": 9309
+    },
+    {
+      "text": "A\n",
+      "label": "LOC",
+      "start": 9357,
+      "end": 9359
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 9403,
+      "end": 9404
+    },
+    {
+      "text": "r Konsumentenschutz",
+      "label": "PER",
+      "start": 9422,
+      "end": 9441
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 9498,
+      "end": 9501
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9503,
+      "end": 9519
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 9715,
+      "end": 9716
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 9800,
+      "end": 9805
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PER",
+      "start": 9959,
+      "end": 9970
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 10068,
+      "end": 10069
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 10220,
+      "end": 10223
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 10225,
+      "end": 10241
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 10267,
+      "end": 10280
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 10586,
+      "end": 10590
+    },
+    {
+      "text": "https://www.parlament.gv.at/siegel\n\n",
+      "label": "PER",
+      "start": 10786,
+      "end": 10822
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 77,
+      "end": 90
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PERS",
+      "start": 587,
+      "end": 608
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PERS",
+      "start": 726,
+      "end": 747
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 890,
+      "end": 903
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 909,
+      "end": 920
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 942,
+      "end": 952
+    },
+    {
+      "text": "setzen",
+      "label": "LOC",
+      "start": 1080,
+      "end": 1086
+    },
+    {
+      "text": "Kunst",
+      "label": "PERS",
+      "start": 1637,
+      "end": 1642
+    },
+    {
+      "text": "Ing. Josef Hechenberger",
+      "label": "PERS",
+      "start": 1812,
+      "end": 1835
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1947,
+      "end": 1950
+    },
+    {
+      "text": "Johannes",
+      "label": "PERS",
+      "start": 1951,
+      "end": 1959
+    },
+    {
+      "text": "Margreiter",
+      "label": "PERS",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2052,
+      "end": 2063
+    },
+    {
+      "text": "Mag. Karin Greiner",
+      "label": "PERS",
+      "start": 2184,
+      "end": 2202
+    },
+    {
+      "text": "Petra Bayr, MA MLS",
+      "label": "PERS",
+      "start": 2357,
+      "end": 2375
+    },
+    {
+      "text": "Ing. Mag. Volker Reifenberger",
+      "label": "PERS",
+      "start": 2530,
+      "end": 2559
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 2714,
+      "end": 2718
+    },
+    {
+      "text": "Verena Nussbaum",
+      "label": "PERS",
+      "start": 2719,
+      "end": 2734
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PERS",
+      "start": 2889,
+      "end": 2901
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PERS",
+      "start": 3056,
+      "end": 3075
+    },
+    {
+      "text": "Julia Elisabeth Herr",
+      "label": "PERS",
+      "start": 3230,
+      "end": 3250
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PERS",
+      "start": 3405,
+      "end": 3424
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PERS",
+      "start": 3579,
+      "end": 3598
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PERS",
+      "start": 3753,
+      "end": 3763
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PERS",
+      "start": 3918,
+      "end": 3937
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PERS",
+      "start": 4092,
+      "end": 4114
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4162,
+      "end": 4173
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 4274,
+      "end": 4295
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 4313,
+      "end": 4334
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4366,
+      "end": 4379
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PERS",
+      "start": 4436,
+      "end": 4456
+    },
+    {
+      "text": "Ing.",
+      "label": "PERS",
+      "start": 4458,
+      "end": 4462
+    },
+    {
+      "text": "Josef",
+      "label": "PERS",
+      "start": 4463,
+      "end": 4468
+    },
+    {
+      "text": "Hechenberger",
+      "label": "PERS",
+      "start": 4469,
+      "end": 4481
+    },
+    {
+      "text": "Eva-Maria Himmelbauer, BSc",
+      "label": "PERS",
+      "start": 4483,
+      "end": 4509
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PERS",
+      "start": 4511,
+      "end": 4527
+    },
+    {
+      "text": "Petra Bayr, MA MLS",
+      "label": "PERS",
+      "start": 4529,
+      "end": 4547
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PERS",
+      "start": 4549,
+      "end": 4564
+    },
+    {
+      "text": "Maximilian Lercher",
+      "label": "PERS",
+      "start": 4566,
+      "end": 4584
+    },
+    {
+      "text": "MMag. DDr. Hubert Fuchs",
+      "label": "PERS",
+      "start": 4586,
+      "end": 4609
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PERS",
+      "start": 4614,
+      "end": 4630
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 4666,
+      "end": 4687
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PERS",
+      "start": 5121,
+      "end": 5136
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PERS",
+      "start": 5305,
+      "end": 5320
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PERS",
+      "start": 5446,
+      "end": 5469
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PERS",
+      "start": 5701,
+      "end": 5716
+    },
+    {
+      "text": "Heike Grebien",
+      "label": "PERS",
+      "start": 5833,
+      "end": 5846
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PERS",
+      "start": 5848,
+      "end": 5861
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PERS",
+      "start": 6006,
+      "end": 6029
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PERS",
+      "start": 6160,
+      "end": 6176
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PERS",
+      "start": 6178,
+      "end": 6196
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PERS",
+      "start": 6347,
+      "end": 6370
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 6552,
+      "end": 6563
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 6586,
+      "end": 6607
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PERS",
+      "start": 6660,
+      "end": 6672
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PERS",
+      "start": 6815,
+      "end": 6828
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PERS",
+      "start": 6940,
+      "end": 6953
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PERS",
+      "start": 7088,
+      "end": 7104
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PERS",
+      "start": 7106,
+      "end": 7124
+    },
+    {
+      "text": "Sabine Schatz",
+      "label": "PERS",
+      "start": 7315,
+      "end": 7328
+    },
+    {
+      "text": "Dr. Johannes Margreiter",
+      "label": "PERS",
+      "start": 7449,
+      "end": 7472
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 7553,
+      "end": 7556
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PERS",
+      "start": 7734,
+      "end": 7756
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PERS",
+      "start": 7901,
+      "end": 7923
+    },
+    {
+      "text": "Christoph Zarits",
+      "label": "PERS",
+      "start": 8172,
+      "end": 8188
+    },
+    {
+      "text": "Mag. Agnes Sirkka Prammer",
+      "label": "PERS",
+      "start": 8190,
+      "end": 8215
+    },
+    {
+      "text": "Maximilian Köllner, MA",
+      "label": "PERS",
+      "start": 8217,
+      "end": 8239
+    },
+    {
+      "text": "Mag. Yannick Shetty",
+      "label": "PERS",
+      "start": 8241,
+      "end": 8260
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PERS",
+      "start": 8416,
+      "end": 8428
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PERS",
+      "start": 8540,
+      "end": 8561
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8716
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8722,
+      "end": 8733
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 8742,
+      "end": 8765
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 8943,
+      "end": 8954
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 9011,
+      "end": 9032
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 9189,
+      "end": 9192
+    },
+    {
+      "text": "Kunst",
+      "label": "PERS",
+      "start": 9212,
+      "end": 9217
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 9288,
+      "end": 9309
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 9498,
+      "end": 9519
+    },
+    {
+      "text": "dass",
+      "label": "LOC",
+      "start": 9568,
+      "end": 9572
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PERS",
+      "start": 9590,
+      "end": 9601
+    },
+    {
+      "text": "setzen",
+      "label": "LOC",
+      "start": 9750,
+      "end": 9756
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PERS",
+      "start": 9959,
+      "end": 9970
+    },
+    {
+      "text": "setzen",
+      "label": "LOC",
+      "start": 10103,
+      "end": 10109
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PERS",
+      "start": 10220,
+      "end": 10241
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 10267,
+      "end": 10280
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 10308,
+      "end": 10311
+    },
+    {
+      "text": "dass",
+      "label": "LOC",
+      "start": 10424,
+      "end": 10428
+    },
+    {
+      "text": "Saal",
+      "label": "LOC",
+      "start": 10449,
+      "end": 10453
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 10586,
+      "end": 10590
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 104,
+      "end": 114
+    },
+    {
+      "text": "Großer Redoutensaal",
+      "label": "LOC",
+      "start": 171,
+      "end": 190
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 266,
+      "end": 276
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 592,
+      "end": 608
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 731,
+      "end": 747
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 929,
+      "end": 952
+    },
+    {
+      "text": "BM f. Kunst, Kultur, öffentlichen Dienst und Sport",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1681
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1778
+    },
+    {
+      "text": "Josef Hechenberger",
+      "label": "PER",
+      "start": 1817,
+      "end": 1835
+    },
+    {
+      "text": "für Justiz",
+      "label": "ORG",
+      "start": 1903,
+      "end": 1913
+    },
+    {
+      "text": "Johannes Margreiter",
+      "label": "PER",
+      "start": 1951,
+      "end": 1970
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2100,
+      "end": 2150
+    },
+    {
+      "text": "Karin Greiner",
+      "label": "PER",
+      "start": 2189,
+      "end": 2202
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2273,
+      "end": 2323
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2357,
+      "end": 2367
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2446,
+      "end": 2496
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2630,
+      "end": 2680
+    },
+    {
+      "text": "Verena Nussbaum",
+      "label": "PER",
+      "start": 2719,
+      "end": 2734
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2855
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2889,
+      "end": 2901
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2972,
+      "end": 3022
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3061,
+      "end": 3075
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege",
+      "label": "ORG",
+      "start": 3146,
+      "end": 3174
+    },
+    {
+      "text": "Julia Elisabeth Herr",
+      "label": "PER",
+      "start": 3230,
+      "end": 3250
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 3321,
+      "end": 3371
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3410,
+      "end": 3424
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 3495,
+      "end": 3545
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3584,
+      "end": 3598
+    },
+    {
+      "text": "für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 3665,
+      "end": 3719
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3753,
+      "end": 3763
+    },
+    {
+      "text": "für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 3830,
+      "end": 3884
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3923,
+      "end": 3937
+    },
+    {
+      "text": "Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 4008,
+      "end": 4058
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 4097,
+      "end": 4114
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4279,
+      "end": 4295
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4318,
+      "end": 4334
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4441,
+      "end": 4456
+    },
+    {
+      "text": "Josef Hechenberger",
+      "label": "PER",
+      "start": 4463,
+      "end": 4481
+    },
+    {
+      "text": "Eva-Maria Himmelbauer",
+      "label": "PER",
+      "start": 4483,
+      "end": 4504
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 4511,
+      "end": 4527
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4529,
+      "end": 4539
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 4549,
+      "end": 4564
+    },
+    {
+      "text": "Maximilian Lercher",
+      "label": "PER",
+      "start": 4566,
+      "end": 4584
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 4597,
+      "end": 4609
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 4614,
+      "end": 4630
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4671,
+      "end": 4687
+    },
+    {
+      "text": "für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 5062,
+      "end": 5085
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5121,
+      "end": 5136
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5305,
+      "end": 5320
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 5446,
+      "end": 5469
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5701,
+      "end": 5716
+    },
+    {
+      "text": "Heike Grebien",
+      "label": "PER",
+      "start": 5833,
+      "end": 5846
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 5848,
+      "end": 5861
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 6006,
+      "end": 6029
+    },
+    {
+      "text": "Josef Smolle",
+      "label": "PER",
+      "start": 6164,
+      "end": 6176
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 6178,
+      "end": 6196
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 6351,
+      "end": 6370
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 6591,
+      "end": 6607
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 6660,
+      "end": 6672
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 6710,
+      "end": 6720
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6815,
+      "end": 6828
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6940,
+      "end": 6953
+    },
+    {
+      "text": "Josef Smolle",
+      "label": "PER",
+      "start": 7092,
+      "end": 7104
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 7106,
+      "end": 7124
+    },
+    {
+      "text": "Sabine Schatz",
+      "label": "PER",
+      "start": 7315,
+      "end": 7328
+    },
+    {
+      "text": "Johannes Margreiter",
+      "label": "PER",
+      "start": 7453,
+      "end": 7472
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7739,
+      "end": 7756
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7906,
+      "end": 7923
+    },
+    {
+      "text": "Christoph Zarits",
+      "label": "PER",
+      "start": 8172,
+      "end": 8188
+    },
+    {
+      "text": "Agnes Sirkka Prammer",
+      "label": "PER",
+      "start": 8195,
+      "end": 8215
+    },
+    {
+      "text": "Maximilian Köllner",
+      "label": "PER",
+      "start": 8217,
+      "end": 8235
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 8246,
+      "end": 8260
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 8416,
+      "end": 8428
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 8545,
+      "end": 8561
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 8742,
+      "end": 8765
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9016,
+      "end": 9032
+    },
+    {
+      "text": "Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport",
+      "label": "ORG",
+      "start": 9193,
+      "end": 9256
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9293,
+      "end": 9309
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9503,
+      "end": 9519
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PER",
+      "start": 9590,
+      "end": 9601
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PER",
+      "start": 9959,
+      "end": 9970
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 10225,
+      "end": 10241
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 10586,
+      "end": 10590
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 77,
+      "end": 125
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 239,
+      "end": 283
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 574,
+      "end": 586
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 592,
+      "end": 608
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 706,
+      "end": 707
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 713,
+      "end": 725
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 731,
+      "end": 747
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 890,
+      "end": 903
+    },
+    {
+      "text": "Europäischen\nParlaments",
+      "label": "ORG",
+      "start": 929,
+      "end": 952
+    },
+    {
+      "text": "Parlamentsgebäuden",
+      "label": "LOC",
+      "start": 960,
+      "end": 978
+    },
+    {
+      "text": "..............................................................................................................",
+      "label": "LOC",
+      "start": 1099,
+      "end": 1209
+    },
+    {
+      "text": "........................................................................................................",
+      "label": "LOC",
+      "start": 1238,
+      "end": 1342
+    },
+    {
+      "text": "BM f. Kunst",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1642
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1748
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1799,
+      "end": 1811
+    },
+    {
+      "text": "Ing. Josef Hechenberger",
+      "label": "PER",
+      "start": 1812,
+      "end": 1835
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1886,
+      "end": 1913
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1934,
+      "end": 1946
+    },
+    {
+      "text": "Dr. Johannes\nMargreiter",
+      "label": "PER",
+      "start": 1947,
+      "end": 1970
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2052,
+      "end": 2063
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2080,
+      "end": 2120
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Karin Greiner",
+      "label": "PER",
+      "start": 2189,
+      "end": 2202
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2293
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2357,
+      "end": 2367
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 2369,
+      "end": 2375
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2426,
+      "end": 2466
+    },
+    {
+      "text": "Ing. Mag",
+      "label": "PER",
+      "start": 2530,
+      "end": 2538
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2650
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2701,
+      "end": 2713
+    },
+    {
+      "text": "Verena Nussbaum",
+      "label": "PER",
+      "start": 2719,
+      "end": 2734
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2785,
+      "end": 2825
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2889,
+      "end": 2901
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 2952,
+      "end": 2992
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3043,
+      "end": 3055
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3061,
+      "end": 3075
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3126,
+      "end": 3166
+    },
+    {
+      "text": "Julia Elisabeth",
+      "label": "PER",
+      "start": 3230,
+      "end": 3245
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3301,
+      "end": 3341
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3392,
+      "end": 3404
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3410,
+      "end": 3424
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3515
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3566,
+      "end": 3578
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 3584,
+      "end": 3598
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3649,
+      "end": 3689
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3753,
+      "end": 3763
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3814,
+      "end": 3854
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3905,
+      "end": 3917
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3923,
+      "end": 3937
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 3988,
+      "end": 4028
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4079,
+      "end": 4091
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 4097,
+      "end": 4114
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4162,
+      "end": 4173
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4279,
+      "end": 4295
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4313,
+      "end": 4316
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4318,
+      "end": 4334
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4366,
+      "end": 4379
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4423,
+      "end": 4435
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4441,
+      "end": 4456
+    },
+    {
+      "text": "Ing. Josef\nHechenberger",
+      "label": "PER",
+      "start": 4458,
+      "end": 4481
+    },
+    {
+      "text": "Eva-Maria Himmelbauer",
+      "label": "PER",
+      "start": 4483,
+      "end": 4504
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 4511,
+      "end": 4527
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4529,
+      "end": 4539
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 4541,
+      "end": 4547
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 4549,
+      "end": 4564
+    },
+    {
+      "text": "Maximilian Lercher",
+      "label": "PER",
+      "start": 4566,
+      "end": 4584
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 4592,
+      "end": 4595
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 4597,
+      "end": 4609
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 4614,
+      "end": 4630
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4666,
+      "end": 4669
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 4671,
+      "end": 4687
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 4915,
+      "end": 4929
+    },
+    {
+      "text": "Anfragebeantwortungen",
+      "label": "LOC",
+      "start": 4955,
+      "end": 4976
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5101,
+      "end": 5102
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5121,
+      "end": 5136
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5285,
+      "end": 5286
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5305,
+      "end": 5320
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 5446,
+      "end": 5469
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5681,
+      "end": 5682
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 5701,
+      "end": 5716
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5813,
+      "end": 5814
+    },
+    {
+      "text": "Heike Grebien",
+      "label": "PER",
+      "start": 5833,
+      "end": 5846
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 5848,
+      "end": 5861
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5986,
+      "end": 5987
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 6006,
+      "end": 6029
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PER",
+      "start": 6160,
+      "end": 6176
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 6178,
+      "end": 6196
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6327,
+      "end": 6328
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 6347,
+      "end": 6370
+    },
+    {
+      "text": "Kammerbeiträgen",
+      "label": "PER",
+      "start": 6480,
+      "end": 6495
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 6552,
+      "end": 6563
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 6591,
+      "end": 6607
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6640,
+      "end": 6641
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 6660,
+      "end": 6672
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 6710,
+      "end": 6720
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6795,
+      "end": 6796
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6815,
+      "end": 6828
+    },
+    {
+      "text": "Netto-Wohnbau",
+      "label": "ORG",
+      "start": 6867,
+      "end": 6880
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 6920,
+      "end": 6921
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 6940,
+      "end": 6953
+    },
+    {
+      "text": "NoVA",
+      "label": "ORG",
+      "start": 7029,
+      "end": 7033
+    },
+    {
+      "text": "Dr. Josef Smolle",
+      "label": "PER",
+      "start": 7088,
+      "end": 7104
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 7106,
+      "end": 7124
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7295,
+      "end": 7296
+    },
+    {
+      "text": "Sabine Schatz",
+      "label": "PER",
+      "start": 7315,
+      "end": 7328
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7436,
+      "end": 7448
+    },
+    {
+      "text": "Dr. Johannes Margreiter",
+      "label": "PER",
+      "start": 7449,
+      "end": 7472
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7714,
+      "end": 7715
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7721,
+      "end": 7733
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7739,
+      "end": 7756
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 7881,
+      "end": 7882
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 7888,
+      "end": 7900
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 7906,
+      "end": 7923
+    },
+    {
+      "text": "Großküchen",
+      "label": "LOC",
+      "start": 8014,
+      "end": 8024
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 8089,
+      "end": 8095
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 8152,
+      "end": 8153
+    },
+    {
+      "text": "Christoph Zarits",
+      "label": "PER",
+      "start": 8172,
+      "end": 8188
+    },
+    {
+      "text": "Agnes Sirkka Prammer",
+      "label": "PER",
+      "start": 8195,
+      "end": 8215
+    },
+    {
+      "text": "Maximilian Köllner",
+      "label": "PER",
+      "start": 8217,
+      "end": 8235
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 8237,
+      "end": 8239
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 8241,
+      "end": 8244
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 8246,
+      "end": 8260
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 8396,
+      "end": 8397
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 8416,
+      "end": 8428
+    },
+    {
+      "text": "Bundesreparaturbonus",
+      "label": "PER",
+      "start": 8466,
+      "end": 8486
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 8527,
+      "end": 8539
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 8545,
+      "end": 8561
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8716
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 8742,
+      "end": 8765
+    },
+    {
+      "text": "Parlamentsgebäuden",
+      "label": "LOC",
+      "start": 8773,
+      "end": 8791
+    },
+    {
+      "text": "Enderledigung",
+      "label": "LOC",
+      "start": 8843,
+      "end": 8856
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9016,
+      "end": 9032
+    },
+    {
+      "text": "Bundesminister für\nKunst",
+      "label": "ORG",
+      "start": 9193,
+      "end": 9217
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 9288,
+      "end": 9291
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9293,
+      "end": 9309
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 9403,
+      "end": 9404
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 9498,
+      "end": 9501
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 9503,
+      "end": 9519
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PER",
+      "start": 9590,
+      "end": 9601
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 9715,
+      "end": 9716
+    },
+    {
+      "text": "Leichtfried",
+      "label": "PER",
+      "start": 9959,
+      "end": 9970
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 10068,
+      "end": 10069
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 10220,
+      "end": 10223
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 10225,
+      "end": 10241
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 10267,
+      "end": 10280
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "LOC",
+      "start": 10561,
+      "end": 10580
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 10586,
+      "end": 10590
+    }
+  ]
+}

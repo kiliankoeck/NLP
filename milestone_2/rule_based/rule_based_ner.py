@@ -13,8 +13,8 @@ from ..entities import Entity
 
 class RuleBasedNER:
 
-    def __init__(self, geonames_dir: Path):
-        self._verbose = True
+    def __init__(self, geonames_dir: Path, verbose: bool = False):
+        self._verbose = verbose
         self.geonames_dir = geonames_dir
         self.gazetteers = self._build_gazetteers()
         self.nlp = self._build_nlp()

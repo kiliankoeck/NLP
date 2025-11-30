@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
 
 
 @dataclass
@@ -7,3 +7,6 @@ class Entity:
     label: str
     start: int
     end: int
+
+    def to_dict(self) -> dict:
+        return asdict(self)

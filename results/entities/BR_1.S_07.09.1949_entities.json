@@ -1,0 +1,6941 @@
+{
+  "filename": "BR_1.S_07.09.1949.xmi",
+  "ground_truth": [
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 17,
+      "end": 43
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Bundesrepublik Deuischland",
+      "label": "LOC",
+      "start": 169,
+      "end": 195
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "Seb",
+      "label": "ORG",
+      "start": 271,
+      "end": 274
+    },
+    {
+      "text": "Orchester-Suite",
+      "label": "LOC",
+      "start": 282,
+      "end": 297
+    },
+    {
+      "text": "Städtisches",
+      "label": "LOC",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "text": "Gürzenich-Orchester",
+      "label": "ORG",
+      "start": 328,
+      "end": 347
+    },
+    {
+      "text": "Köln",
+      "label": "LOC",
+      "start": 349,
+      "end": 353
+    },
+    {
+      "text": "Günther",
+      "label": "PER",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "text": "Wand",
+      "label": "ORG",
+      "start": 384,
+      "end": 388
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 463,
+      "end": 489
+    },
+    {
+      "text": "Herren Hohe",
+      "label": "PER",
+      "start": 510,
+      "end": 521
+    },
+    {
+      "text": "Bundesrates!",
+      "label": "ORG",
+      "start": 621,
+      "end": 633
+    },
+    {
+      "text": "Schillers",
+      "label": "PER",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "”",
+      "label": "LOC",
+      "start": 770,
+      "end": 771
+    },
+    {
+      "text": "Dr. Stein",
+      "label": "PER",
+      "start": 1387,
+      "end": 1396
+    },
+    {
+      "text": "Land Baden",
+      "label": "LOC",
+      "start": 1750,
+      "end": 1760
+    },
+    {
+      "text": "Leo Wohleb",
+      "label": "PER",
+      "start": 1783,
+      "end": 1793
+    },
+    {
+      "text": "Bundes\nrates",
+      "label": "ORG",
+      "start": 1842,
+      "end": 1854
+    },
+    {
+      "text": "Hermann Fecht",
+      "label": "PER",
+      "start": 1908,
+      "end": 1921
+    },
+    {
+      "text": "Minister der Finanzen Dr. Wilhelm Eckert",
+      "label": "ORG",
+      "start": 1930,
+      "end": 1970
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 1976,
+      "end": 1981
+    },
+    {
+      "text": "Minister der Finanzen Dr. Wilhelm Eckert",
+      "label": "ORG",
+      "start": 1982,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Schühly",
+      "label": "PER",
+      "start": 2056,
+      "end": 2067
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2087
+    },
+    {
+      "text": "Bayerischen\n",
+      "label": "ORG",
+      "start": 2165,
+      "end": 2177
+    },
+    {
+      "text": "Anton Pfeifier",
+      "label": "PER",
+      "start": 2195,
+      "end": 2209
+    },
+    {
+      "text": "Josef Müller",
+      "label": "PER",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 2399,
+      "end": 2401
+    },
+    {
+      "text": "Alois Schloegl",
+      "label": "PER",
+      "start": 2403,
+      "end": 2417
+    },
+    {
+      "text": "Wirtschaft Dr. Hanns Seidel",
+      "label": "PER",
+      "start": 2445,
+      "end": 2472
+    },
+    {
+      "text": "Land Berlin",
+      "label": "LOC",
+      "start": 2481,
+      "end": 2492
+    },
+    {
+      "text": "Dr. Klein",
+      "label": "LOC",
+      "start": 2547,
+      "end": 2556
+    },
+    {
+      "text": "Dr. Haas",
+      "label": "PER",
+      "start": 2607,
+      "end": 2615
+    },
+    {
+      "text": "Land Bremen",
+      "label": "LOC",
+      "start": 2624,
+      "end": 2635
+    },
+    {
+      "text": "Wilhelm Kaisen",
+      "label": "PER",
+      "start": 2672,
+      "end": 2686
+    },
+    {
+      "text": "Wilhelm Harmssen",
+      "label": "PER",
+      "start": 2703,
+      "end": 2719
+    },
+    {
+      "text": "Adolf Ehlers",
+      "label": "PER",
+      "start": 2754,
+      "end": 2766
+    },
+    {
+      "text": "Land Hamburg",
+      "label": "LOC",
+      "start": 2775,
+      "end": 2787
+    },
+    {
+      "text": "Dr. Walter Dudek",
+      "label": "PER",
+      "start": 2842,
+      "end": 2858
+    },
+    {
+      "text": "Johannes Büll",
+      "label": "PER",
+      "start": 2875,
+      "end": 2888
+    },
+    {
+      "text": "Land Hessen",
+      "label": "LOC",
+      "start": 2897,
+      "end": 2908
+    },
+    {
+      "text": "Christian\n",
+      "label": "PER",
+      "start": 2933,
+      "end": 2943
+    },
+    {
+      "text": "Heinrich Zinnkann",
+      "label": "PER",
+      "start": 2977,
+      "end": 2994
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 3018,
+      "end": 3020
+    },
+    {
+      "text": "Erwin Stein",
+      "label": "PER",
+      "start": 3022,
+      "end": 3033
+    },
+    {
+      "text": "Karl Lorberg",
+      "label": "PER",
+      "start": 3066,
+      "end": 3078
+    },
+    {
+      "text": "Land Niedersachsen",
+      "label": "LOC",
+      "start": 3087,
+      "end": 3105
+    },
+    {
+      "text": "Wilhelm Hinrich Kopf",
+      "label": "PER",
+      "start": 3130,
+      "end": 3150
+    },
+    {
+      "text": "Minister für Arbeit und Aufbau",
+      "label": "ORG",
+      "start": 3159,
+      "end": 3189
+    },
+    {
+      "text": "Alfred Kubel",
+      "label": "PER",
+      "start": 3190,
+      "end": 3202
+    },
+    {
+      "text": "Heinrich Alberts",
+      "label": "PER",
+      "start": 3241,
+      "end": 3257
+    },
+    {
+      "text": "Günther\nGereke",
+      "label": "PER",
+      "start": 3399,
+      "end": 3413
+    },
+    {
+      "text": "Land Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 3424,
+      "end": 3448
+    },
+    {
+      "text": "Karl Arnold",
+      "label": "PER",
+      "start": 3473,
+      "end": 3484
+    },
+    {
+      "text": "Heinrich\n\nWeitz",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Christine Teusch",
+      "label": "PER",
+      "start": 3695,
+      "end": 3711
+    },
+    {
+      "text": "Minister für Arbeit August Halbfell",
+      "label": "ORG",
+      "start": 3720,
+      "end": 3755
+    },
+    {
+      "text": "Minister für Wiederaufbau Dr",
+      "label": "ORG",
+      "start": 3784,
+      "end": 3812
+    },
+    {
+      "text": "Steinhoff",
+      "label": "LOC",
+      "start": 3814,
+      "end": 3823
+    },
+    {
+      "text": "Land Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 3832,
+      "end": 3852
+    },
+    {
+      "text": "Peter\nAltmeier",
+      "label": "PER",
+      "start": 3877,
+      "end": 3891
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 3920,
+      "end": 3922
+    },
+    {
+      "text": "Adolf Süsterhenn",
+      "label": "PER",
+      "start": 3924,
+      "end": 3940
+    },
+    {
+      "text": "Jakob Steffan",
+      "label": "PER",
+      "start": 4017,
+      "end": 4030
+    },
+    {
+      "text": "Land Schleswig-Holstein",
+      "label": "LOC",
+      "start": 4041,
+      "end": 4064
+    },
+    {
+      "text": "Bruno Dieckmann",
+      "label": "PER",
+      "start": 4089,
+      "end": 4104
+    },
+    {
+      "text": "Herr Minister für Arbeit, Wirtschaft",
+      "label": "ORG",
+      "start": 4151,
+      "end": 4187
+    },
+    {
+      "text": "Minister für Umsiedlung",
+      "label": "ORG",
+      "start": 4222,
+      "end": 4245
+    },
+    {
+      "text": "Ernst Damm",
+      "label": "PER",
+      "start": 4257,
+      "end": 4267
+    },
+    {
+      "text": "Land Württemberg-Baden",
+      "label": "LOC",
+      "start": 4276,
+      "end": 4298
+    },
+    {
+      "text": "Reinhold Maier",
+      "label": "PER",
+      "start": 4327,
+      "end": 4341
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 4407,
+      "end": 4413
+    },
+    {
+      "text": "Land Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 4449,
+      "end": 4478
+    },
+    {
+      "text": "Gebhard Müller",
+      "label": "PER",
+      "start": 4505,
+      "end": 4519
+    },
+    {
+      "text": "Dr. Albert Sauer",
+      "label": "PER",
+      "start": 4539,
+      "end": 4555
+    },
+    {
+      "text": "ALTERSPRASIDENF BÜLt:-Die- age Sersten—",
+      "label": "ORG",
+      "start": 4620,
+      "end": 4659
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 4688,
+      "end": 4714
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 4912,
+      "end": 4913
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 5049,
+      "end": 5055
+    },
+    {
+      "text": "ALTERSPRASIDENFT",
+      "label": "ORG",
+      "start": 5067,
+      "end": 5083
+    },
+    {
+      "text": "BÜLL",
+      "label": "ORG",
+      "start": 5085,
+      "end": 5089
+    },
+    {
+      "text": "Bundesrates;.die",
+      "label": "ORG",
+      "start": 5194,
+      "end": 5210
+    },
+    {
+      "text": "Namensnennungen",
+      "label": "LOC",
+      "start": 5352,
+      "end": 5367
+    },
+    {
+      "text": "ÄLTMEIER",
+      "label": "ORG",
+      "start": 5370,
+      "end": 5378
+    },
+    {
+      "text": "Besprechungen",
+      "label": "LOC",
+      "start": 5417,
+      "end": 5430
+    },
+    {
+      "text": "Mitgliedern des Bundesrates",
+      "label": "LOC",
+      "start": 5441,
+      "end": 5468
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 5525,
+      "end": 5530
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 5551,
+      "end": 5557
+    },
+    {
+      "text": "Herrn Ministerpräsidenten",
+      "label": "PER",
+      "start": 5681,
+      "end": 5706
+    },
+    {
+      "text": "Arnold",
+      "label": "ORG",
+      "start": 5707,
+      "end": 5713
+    },
+    {
+      "text": "Herrn Schriftführer",
+      "label": "ORG",
+      "start": 5821,
+      "end": 5840
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 5978,
+      "end": 5985
+    },
+    {
+      "text": "Land Baden",
+      "label": "LOC",
+      "start": 5991,
+      "end": 6001
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 6012,
+      "end": 6017
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6038,
+      "end": 6045
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 6051,
+      "end": 6062
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 6069,
+      "end": 6074
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 6076,
+      "end": 6082
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6166,
+      "end": 6173
+    },
+    {
+      "text": "Land Bremen",
+      "label": "LOC",
+      "start": 6179,
+      "end": 6190
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6201,
+      "end": 6207
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6229,
+      "end": 6236
+    },
+    {
+      "text": "Land Hamburg!",
+      "label": "LOC",
+      "start": 6242,
+      "end": 6255
+    },
+    {
+      "text": "Hamburg):",
+      "label": "ORG",
+      "start": 6265,
+      "end": 6274
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6297,
+      "end": 6304
+    },
+    {
+      "text": "Tesa Hasent\n\nSTOCK",
+      "label": "ORG",
+      "start": 6311,
+      "end": 6329
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 6331,
+      "end": 6337
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 6349,
+      "end": 6350
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6365,
+      "end": 6372
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6384,
+      "end": 6397
+    },
+    {
+      "text": "KOPF",
+      "label": "ORG",
+      "start": 6400,
+      "end": 6404
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6407,
+      "end": 6420
+    },
+    {
+      "text": "Ian\n\nSchriftführer",
+      "label": "PER",
+      "start": 6436,
+      "end": 6454
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6455,
+      "end": 6462
+    },
+    {
+      "text": "Land Nondrhein- Westfalen!",
+      "label": "LOC",
+      "start": 6468,
+      "end": 6494
+    },
+    {
+      "text": "Jar!",
+      "label": "ORG",
+      "start": 6527,
+      "end": 6531
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6564,
+      "end": 6571
+    },
+    {
+      "text": "Kant",
+      "label": "PER",
+      "start": 6578,
+      "end": 6582
+    },
+    {
+      "text": "Rhein",
+      "label": "LOC",
+      "start": 6672,
+      "end": 6677
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6729,
+      "end": 6736
+    },
+    {
+      "text": "‚Hert",
+      "label": "PER",
+      "start": 6885,
+      "end": 6890
+    },
+    {
+      "text": "Ministerpräsidenf ARNOLD",
+      "label": "PER",
+      "start": 6892,
+      "end": 6916
+    },
+    {
+      "text": "”",
+      "label": "PER",
+      "start": 6932,
+      "end": 6933
+    },
+    {
+      "text": "Ihmensic",
+      "label": "PER",
+      "start": 7137,
+      "end": 7145
+    },
+    {
+      "text": "Damen",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7534
+    },
+    {
+      "text": "Bundesrates",
+      "label": "PER",
+      "start": 7564,
+      "end": 7575
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7580,
+      "end": 7606
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7693,
+      "end": 7719
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 7723,
+      "end": 7724
+    },
+    {
+      "text": "meiner",
+      "label": "PER",
+      "start": 7767,
+      "end": 7773
+    },
+    {
+      "text": "Person",
+      "label": "PER",
+      "start": 7775,
+      "end": 7781
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 7851,
+      "end": 7852
+    },
+    {
+      "text": "Nordrhein-Westialen",
+      "label": "LOC",
+      "start": 7881,
+      "end": 7900
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 7963,
+      "end": 7964
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 7994,
+      "end": 7995
+    },
+    {
+      "text": "‚",
+      "label": "LOC",
+      "start": 8316,
+      "end": 8317
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 8354,
+      "end": 8355
+    },
+    {
+      "text": "Ak Ausdegeig",
+      "label": "PER",
+      "start": 8756,
+      "end": 8768
+    },
+    {
+      "text": "Balzer",
+      "label": "LOC",
+      "start": 8856,
+      "end": 8862
+    },
+    {
+      "text": "aa\n",
+      "label": "ORG",
+      "start": 8885,
+      "end": 8888
+    },
+    {
+      "text": "Länder-im",
+      "label": "PER",
+      "start": 8914,
+      "end": 8923
+    },
+    {
+      "text": "Patlämertärisähe Rät hatı'sich'",
+      "label": "ORG",
+      "start": 8996,
+      "end": 9027
+    },
+    {
+      "text": "Yerktar",
+      "label": "LOC",
+      "start": 9188,
+      "end": 9195
+    },
+    {
+      "text": "!den;vorkapderien!Machlfaktoren",
+      "label": "ORG",
+      "start": 9231,
+      "end": 9262
+    },
+    {
+      "text": "werd£n",
+      "label": "LOC",
+      "start": 9290,
+      "end": 9296
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 9298,
+      "end": 9299
+    },
+    {
+      "text": "Im-Rahrüeni Ger Deätscken",
+      "label": "PER",
+      "start": 9364,
+      "end": 9389
+    },
+    {
+      "text": "Termisötöiie",
+      "label": "PER",
+      "start": 9657,
+      "end": 9669
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 9686,
+      "end": 9687
+    },
+    {
+      "text": "DaseimgzweRkrerblickten",
+      "label": "ORG",
+      "start": 9723,
+      "end": 9746
+    },
+    {
+      "text": "Grundgäg",
+      "label": "LOC",
+      "start": 9761,
+      "end": 9769
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9817
+    },
+    {
+      "text": "WHERE",
+      "label": "ORG",
+      "start": 9947,
+      "end": 9952
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 10016,
+      "end": 10017
+    },
+    {
+      "text": "Hi",
+      "label": "LOC",
+      "start": 10017,
+      "end": 10019
+    },
+    {
+      "text": "SE .tWinabegeitirkiad",
+      "label": "ORG",
+      "start": 10104,
+      "end": 10125
+    },
+    {
+      "text": "age ht Air Mir",
+      "label": "ORG",
+      "start": 10216,
+      "end": 10230
+    },
+    {
+      "text": "Wilessbildung dersdenischensBundesrepublik",
+      "label": "ORG",
+      "start": 10248,
+      "end": 10290
+    },
+    {
+      "text": ".Nyr",
+      "label": "PER",
+      "start": 10353,
+      "end": 10357
+    },
+    {
+      "text": "Adahdiinfalls",
+      "label": "LOC",
+      "start": 10488,
+      "end": 10501
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 10506,
+      "end": 10507
+    },
+    {
+      "text": "Befehlsempf",
+      "label": "ORG",
+      "start": 10519,
+      "end": 10530
+    },
+    {
+      "text": "Bea",
+      "label": "PER",
+      "start": 10549,
+      "end": 10552
+    },
+    {
+      "text": "Hebstäntolinsdeialiie Ausführitig",
+      "label": "PER",
+      "start": 10566,
+      "end": 10599
+    },
+    {
+      "text": "Bündisgesetap ‚",
+      "label": "LOC",
+      "start": 10604,
+      "end": 10619
+    },
+    {
+      "text": "Gesamtstagtz ‚",
+      "label": "PER",
+      "start": 10706,
+      "end": 10720
+    },
+    {
+      "text": "Landesregierungen",
+      "label": "LOC",
+      "start": 10763,
+      "end": 10780
+    },
+    {
+      "text": "Damen",
+      "label": "ORG",
+      "start": 10875,
+      "end": 10880
+    },
+    {
+      "text": "Volk",
+      "label": "PER",
+      "start": 11026,
+      "end": 11030
+    },
+    {
+      "text": "Mer",
+      "label": "PER",
+      "start": 11096,
+      "end": 11099
+    },
+    {
+      "text": "WEHR",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11149
+    },
+    {
+      "text": "Weimarer Zeit",
+      "label": "ORG",
+      "start": 11226,
+      "end": 11239
+    },
+    {
+      "text": "Fusnt",
+      "label": "PER",
+      "start": 11294,
+      "end": 11299
+    },
+    {
+      "text": "! Auswärtigen",
+      "label": "ORG",
+      "start": 11314,
+      "end": 11327
+    },
+    {
+      "text": "Deutschen ‚Bundesrepublik",
+      "label": "ORG",
+      "start": 11446,
+      "end": 11471
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11544,
+      "end": 11545
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11743,
+      "end": 11744
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11825,
+      "end": 11826
+    },
+    {
+      "text": "Ruhrgebiet",
+      "label": "PER",
+      "start": 11831,
+      "end": 11841
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11859,
+      "end": 11860
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11894,
+      "end": 11895
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 11900,
+      "end": 11901
+    },
+    {
+      "text": "wı rden",
+      "label": "PER",
+      "start": 12129,
+      "end": 12136
+    },
+    {
+      "text": "Abr.inden",
+      "label": "PER",
+      "start": 12466,
+      "end": 12475
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 12545,
+      "end": 12546
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 12561,
+      "end": 12562
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 12660,
+      "end": 12666
+    },
+    {
+      "text": "Mitglieden.der",
+      "label": "ORG",
+      "start": 12717,
+      "end": 12731
+    },
+    {
+      "text": "Rechbarmd",
+      "label": "LOC",
+      "start": 12835,
+      "end": 12844
+    },
+    {
+      "text": "daßc",
+      "label": "ORG",
+      "start": 13073,
+      "end": 13077
+    },
+    {
+      "text": "Bundesr\n\n \n   \n\n   \n \n\n \n\n   \n\n \n\n",
+      "label": "PER",
+      "start": 13083,
+      "end": 13117
+    },
+    {
+      "text": "Mitglieder",
+      "label": "LOC",
+      "start": 13159,
+      "end": 13169
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 13299,
+      "end": 13300
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 13327,
+      "end": 13328
+    },
+    {
+      "text": "dunch .die",
+      "label": "PER",
+      "start": 13437,
+      "end": 13447
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 13461,
+      "end": 13462
+    },
+    {
+      "text": "Landes",
+      "label": "LOC",
+      "start": 13683,
+      "end": 13689
+    },
+    {
+      "text": "WeimarerRepublik",
+      "label": "ORG",
+      "start": 13846,
+      "end": 13862
+    },
+    {
+      "text": "Leopold von Rancke",
+      "label": "PER",
+      "start": 14302,
+      "end": 14320
+    },
+    {
+      "text": "..sorgen",
+      "label": "ORG",
+      "start": 14522,
+      "end": 14530
+    },
+    {
+      "text": "kenne",
+      "label": "LOC",
+      "start": 14545,
+      "end": 14550
+    },
+    {
+      "text": "kurzem",
+      "label": "LOC",
+      "start": 14793,
+      "end": 14799
+    },
+    {
+      "text": "Deutschlands",
+      "label": "LOC",
+      "start": 15048,
+      "end": 15060
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 15109,
+      "end": 15110
+    },
+    {
+      "text": "Tagesördnung Tort",
+      "label": "ORG",
+      "start": 15196,
+      "end": 15213
+    },
+    {
+      "text": "Herrn -Ministerpräsidenten Kopf",
+      "label": "ORG",
+      "start": 15383,
+      "end": 15414
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 15416,
+      "end": 15429
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 15439,
+      "end": 15444
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 15485,
+      "end": 15509
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 15531,
+      "end": 15537
+    },
+    {
+      "text": "‚",
+      "label": "ORG",
+      "start": 15544,
+      "end": 15545
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 15734,
+      "end": 15739
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 15808,
+      "end": 15814
+    },
+    {
+      "text": "Erhebt",
+      "label": "PER",
+      "start": 15888,
+      "end": 15894
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 16009,
+      "end": 16014
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16126,
+      "end": 16133
+    },
+    {
+      "text": "Land Baden",
+      "label": "LOC",
+      "start": 16139,
+      "end": 16149
+    },
+    {
+      "text": "WOHLEB",
+      "label": "ORG",
+      "start": 16151,
+      "end": 16157
+    },
+    {
+      "text": "Baden): Ja!",
+      "label": "ORG",
+      "start": 16159,
+      "end": 16170
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16186,
+      "end": 16193
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 16199,
+      "end": 16210
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 16224,
+      "end": 16230
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16252,
+      "end": 16259
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16261,
+      "end": 16267
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16278,
+      "end": 16284
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16306,
+      "end": 16313
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16315,
+      "end": 16322
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16333,
+      "end": 16340
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16362,
+      "end": 16369
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 16371,
+      "end": 16377
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 16387,
+      "end": 16393
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16414,
+      "end": 16421
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 16423,
+      "end": 16436
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 16451,
+      "end": 16464
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16485,
+      "end": 16492
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16570,
+      "end": 16577
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 16579,
+      "end": 16594
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "LOC",
+      "start": 16596,
+      "end": 16604
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 16606,
+      "end": 16621
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16642,
+      "end": 16649
+    },
+    {
+      "text": "Schleswig-Holstein!",
+      "label": "ORG",
+      "start": 16651,
+      "end": 16670
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "ORG",
+      "start": 16671,
+      "end": 16680
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 16682,
+      "end": 16700
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16721,
+      "end": 16728
+    },
+    {
+      "text": "Würitemberg-Baden!",
+      "label": "ORG",
+      "start": 16730,
+      "end": 16748
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16798,
+      "end": 16805
+    },
+    {
+      "text": "Württemberg-Hohenzollern!",
+      "label": "ORG",
+      "start": 16807,
+      "end": 16832
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 16853,
+      "end": 16877
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 16895,
+      "end": 16901
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17173,
+      "end": 17180
+    },
+    {
+      "text": "Land Baden",
+      "label": "LOC",
+      "start": 17186,
+      "end": 17196
+    },
+    {
+      "text": "WOHLEB",
+      "label": "ORG",
+      "start": 17198,
+      "end": 17204
+    },
+    {
+      "text": "Baden): Ja!",
+      "label": "ORG",
+      "start": 17206,
+      "end": 17217
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17232,
+      "end": 17239
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 17245,
+      "end": 17256
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 17262,
+      "end": 17267
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 17270,
+      "end": 17276
+    },
+    {
+      "text": "Jat\n",
+      "label": "ORG",
+      "start": 17279,
+      "end": 17283
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17297,
+      "end": 17304
+    },
+    {
+      "text": "Bremen!",
+      "label": "ORG",
+      "start": 17306,
+      "end": 17313
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17322,
+      "end": 17328
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17350,
+      "end": 17357
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17359,
+      "end": 17366
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17377,
+      "end": 17384
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17406,
+      "end": 17413
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 17415,
+      "end": 17421
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 17431,
+      "end": 17437
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17460,
+      "end": 17467
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 17469,
+      "end": 17482
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 17497,
+      "end": 17510
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17532,
+      "end": 17539
+    },
+    {
+      "text": "Westfalen",
+      "label": "ORG",
+      "start": 17552,
+      "end": 17561
+    },
+    {
+      "text": "{",
+      "label": "LOC",
+      "start": 17576,
+      "end": 17577
+    },
+    {
+      "text": "Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 17577,
+      "end": 17596
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17617,
+      "end": 17624
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 17626,
+      "end": 17641
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "LOC",
+      "start": 17644,
+      "end": 17652
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 17654,
+      "end": 17669
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17691,
+      "end": 17698
+    },
+    {
+      "text": "Schleswig-Holstein!",
+      "label": "ORG",
+      "start": 17700,
+      "end": 17719
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "ORG",
+      "start": 17720,
+      "end": 17729
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 17731,
+      "end": 17749
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17771,
+      "end": 17778
+    },
+    {
+      "text": "Württemberg-Baden!",
+      "label": "ORG",
+      "start": 17780,
+      "end": 17798
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 17811,
+      "end": 17828
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17850,
+      "end": 17857
+    },
+    {
+      "text": "Württemberg-Hohenzollern!",
+      "label": "ORG",
+      "start": 17859,
+      "end": 17884
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 17907,
+      "end": 17931
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 17949,
+      "end": 17955
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 18366,
+      "end": 18372
+    },
+    {
+      "text": "Schriftführern Widerspruch?",
+      "label": "ORG",
+      "start": 18422,
+      "end": 18449
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 18680,
+      "end": 18685
+    },
+    {
+      "text": "Amt des Alterspräsidenten",
+      "label": "LOC",
+      "start": 18836,
+      "end": 18861
+    },
+    {
+      "text": "Seb",
+      "label": "LOC",
+      "start": 19307,
+      "end": 19310
+    },
+    {
+      "text": "Orchester-Suite",
+      "label": "LOC",
+      "start": 19318,
+      "end": 19333
+    },
+    {
+      "text": "ARNOLD",
+      "label": "ORG",
+      "start": 19376,
+      "end": 19382
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 19422,
+      "end": 19448
+    },
+    {
+      "text": "Carthaus",
+      "label": "LOC",
+      "start": 19510,
+      "end": 19518
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 19520,
+      "end": 19524
+    },
+    {
+      "text": "NRW",
+      "label": "LOC",
+      "start": 19526,
+      "end": 19529
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3,
+      "end": 12
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 153,
+      "end": 164
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "Bach",
+      "label": "LOC",
+      "start": 276,
+      "end": 280
+    },
+    {
+      "text": "Köln",
+      "label": "LOC",
+      "start": 349,
+      "end": 353
+    },
+    {
+      "text": "Günther",
+      "label": "PERS",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "text": "Wand",
+      "label": "LOC",
+      "start": 384,
+      "end": 388
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 447,
+      "end": 458
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 621,
+      "end": 632
+    },
+    {
+      "text": "Bau",
+      "label": "LOC",
+      "start": 742,
+      "end": 745
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 863,
+      "end": 874
+    },
+    {
+      "text": "stelle",
+      "label": "LOC",
+      "start": 1109,
+      "end": 1115
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1166
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 1182,
+      "end": 1187
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 1237,
+      "end": 1241
+    },
+    {
+      "text": "Dann",
+      "label": "LOC",
+      "start": 1244,
+      "end": 1248
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 1264,
+      "end": 1268
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1293,
+      "end": 1302
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1387,
+      "end": 1390
+    },
+    {
+      "text": "Stein",
+      "label": "LOC",
+      "start": 1391,
+      "end": 1396
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 1419,
+      "end": 1423
+    },
+    {
+      "text": "Platz",
+      "label": "LOC",
+      "start": 1424,
+      "end": 1429
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 1493,
+      "end": 1504
+    },
+    {
+      "text": "Dann",
+      "label": "LOC",
+      "start": 1532,
+      "end": 1536
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 1609,
+      "end": 1613
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1628,
+      "end": 1631
+    },
+    {
+      "text": "Stein",
+      "label": "PERS",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1726,
+      "end": 1729
+    },
+    {
+      "text": "STEIN",
+      "label": "PERS",
+      "start": 1730,
+      "end": 1735
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 1755,
+      "end": 1760
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 1762,
+      "end": 1766
+    },
+    {
+      "text": "Leo",
+      "label": "PERS",
+      "start": 1783,
+      "end": 1786
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 1875,
+      "end": 1879
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1904,
+      "end": 1907
+    },
+    {
+      "text": "Hermann",
+      "label": "PERS",
+      "start": 1908,
+      "end": 1915
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 1925,
+      "end": 1929
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1952,
+      "end": 1955
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 1956,
+      "end": 1963
+    },
+    {
+      "text": "Eckert",
+      "label": "PERS",
+      "start": 1964,
+      "end": 1970
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2004,
+      "end": 2007
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 2008,
+      "end": 2015
+    },
+    {
+      "text": "Eckert",
+      "label": "PERS",
+      "start": 2016,
+      "end": 2022
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2037,
+      "end": 2041
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2056,
+      "end": 2059
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2089,
+      "end": 2093
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2112,
+      "end": 2115
+    },
+    {
+      "text": "Hans",
+      "label": "PERS",
+      "start": 2116,
+      "end": 2120
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2130,
+      "end": 2134
+    },
+    {
+      "text": "Anton",
+      "label": "PERS",
+      "start": 2195,
+      "end": 2200
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2213,
+      "end": 2217
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2293,
+      "end": 2296
+    },
+    {
+      "text": "Josef",
+      "label": "PERS",
+      "start": 2297,
+      "end": 2302
+    },
+    {
+      "text": "Müller",
+      "label": "PERS",
+      "start": 2303,
+      "end": 2309
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2313,
+      "end": 2317
+    },
+    {
+      "text": "Alois",
+      "label": "PERS",
+      "start": 2403,
+      "end": 2408
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2421,
+      "end": 2425
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2456,
+      "end": 2459
+    },
+    {
+      "text": "Hanns",
+      "label": "PERS",
+      "start": 2460,
+      "end": 2465
+    },
+    {
+      "text": "Seidel",
+      "label": "PERS",
+      "start": 2466,
+      "end": 2472
+    },
+    {
+      "text": "Berlin",
+      "label": "LOC",
+      "start": 2486,
+      "end": 2492
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2494,
+      "end": 2498
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2533,
+      "end": 2537
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2547,
+      "end": 2550
+    },
+    {
+      "text": "Klein",
+      "label": "PERS",
+      "start": 2551,
+      "end": 2556
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2560,
+      "end": 2564
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2574,
+      "end": 2577
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2588,
+      "end": 2592
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2607,
+      "end": 2610
+    },
+    {
+      "text": "Haas",
+      "label": "PERS",
+      "start": 2611,
+      "end": 2615
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 2629,
+      "end": 2635
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2637,
+      "end": 2641
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 2672,
+      "end": 2679
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2690,
+      "end": 2694
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 2703,
+      "end": 2710
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2741,
+      "end": 2745
+    },
+    {
+      "text": "Adolf",
+      "label": "PERS",
+      "start": 2754,
+      "end": 2759
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 2780,
+      "end": 2787
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2793,
+      "end": 2797
+    },
+    {
+      "text": "Max",
+      "label": "PERS",
+      "start": 2815,
+      "end": 2818
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2829,
+      "end": 2833
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2842,
+      "end": 2845
+    },
+    {
+      "text": "Walter",
+      "label": "PERS",
+      "start": 2846,
+      "end": 2852
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2862,
+      "end": 2866
+    },
+    {
+      "text": "Johannes",
+      "label": "PERS",
+      "start": 2875,
+      "end": 2883
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2910,
+      "end": 2914
+    },
+    {
+      "text": "Christian",
+      "label": "PERS",
+      "start": 2933,
+      "end": 2942
+    },
+    {
+      "text": "Stock",
+      "label": "LOC",
+      "start": 2943,
+      "end": 2948
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2952,
+      "end": 2956
+    },
+    {
+      "text": "Heinrich",
+      "label": "PERS",
+      "start": 2977,
+      "end": 2985
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 2998,
+      "end": 3002
+    },
+    {
+      "text": "Erwin",
+      "label": "PERS",
+      "start": 3022,
+      "end": 3027
+    },
+    {
+      "text": "Stein",
+      "label": "LOC",
+      "start": 3028,
+      "end": 3033
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3037,
+      "end": 3041
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 3066,
+      "end": 3070
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3107,
+      "end": 3111
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 3130,
+      "end": 3137
+    },
+    {
+      "text": "Kopf",
+      "label": "PERS",
+      "start": 3146,
+      "end": 3150
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3154,
+      "end": 3158
+    },
+    {
+      "text": "Alfred",
+      "label": "PERS",
+      "start": 3190,
+      "end": 3196
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3206,
+      "end": 3210
+    },
+    {
+      "text": "Heinrich",
+      "label": "PERS",
+      "start": 3241,
+      "end": 3249
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3261,
+      "end": 3265
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3288,
+      "end": 3291
+    },
+    {
+      "text": "Georg",
+      "label": "PERS",
+      "start": 3292,
+      "end": 3297
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3312,
+      "end": 3316
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3395,
+      "end": 3398
+    },
+    {
+      "text": "Günther",
+      "label": "PERS",
+      "start": 3399,
+      "end": 3406
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3450,
+      "end": 3454
+    },
+    {
+      "text": "Karl",
+      "label": "PERS",
+      "start": 3473,
+      "end": 3477
+    },
+    {
+      "text": "Arnold",
+      "label": "LOC",
+      "start": 3478,
+      "end": 3484
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3488,
+      "end": 3492
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3515,
+      "end": 3518
+    },
+    {
+      "text": "Heinrich",
+      "label": "PERS",
+      "start": 3519,
+      "end": 3527
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3538,
+      "end": 3542
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3570,
+      "end": 3573
+    },
+    {
+      "text": "Karl",
+      "label": "PERS",
+      "start": 3574,
+      "end": 3578
+    },
+    {
+      "text": "Christine",
+      "label": "PERS",
+      "start": 3695,
+      "end": 3704
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3715,
+      "end": 3719
+    },
+    {
+      "text": "August",
+      "label": "LOC",
+      "start": 3740,
+      "end": 3746
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3779,
+      "end": 3783
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3854,
+      "end": 3858
+    },
+    {
+      "text": "Peter",
+      "label": "PERS",
+      "start": 3877,
+      "end": 3882
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3895,
+      "end": 3899
+    },
+    {
+      "text": "Adolf",
+      "label": "PERS",
+      "start": 3924,
+      "end": 3929
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3944,
+      "end": 3948
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3971,
+      "end": 3974
+    },
+    {
+      "text": "Hans",
+      "label": "PERS",
+      "start": 3975,
+      "end": 3979
+    },
+    {
+      "text": "Hoffmann",
+      "label": "PERS",
+      "start": 3980,
+      "end": 3988
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3992,
+      "end": 3996
+    },
+    {
+      "text": "Jakob",
+      "label": "PERS",
+      "start": 4017,
+      "end": 4022
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4066,
+      "end": 4070
+    },
+    {
+      "text": "Bruno",
+      "label": "PERS",
+      "start": 4089,
+      "end": 4094
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4108,
+      "end": 4112
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4133,
+      "end": 4136
+    },
+    {
+      "text": "Rudolf",
+      "label": "PERS",
+      "start": 4136,
+      "end": 4142
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4151,
+      "end": 4155
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4217,
+      "end": 4221
+    },
+    {
+      "text": "Ernst",
+      "label": "LOC",
+      "start": 4257,
+      "end": 4262
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4300,
+      "end": 4304
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4323,
+      "end": 4326
+    },
+    {
+      "text": "Reinhold Maier",
+      "label": "PERS",
+      "start": 4327,
+      "end": 4341
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4345,
+      "end": 4349
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4365,
+      "end": 4368
+    },
+    {
+      "text": "Edmund",
+      "label": "PERS",
+      "start": 4369,
+      "end": 4375
+    },
+    {
+      "text": "Kaufmann",
+      "label": "PERS",
+      "start": 4376,
+      "end": 4384
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4388,
+      "end": 4392
+    },
+    {
+      "text": "Ulrich",
+      "label": "PERS",
+      "start": 4407,
+      "end": 4413
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4480,
+      "end": 4484
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4501,
+      "end": 4504
+    },
+    {
+      "text": "Gebhard",
+      "label": "PERS",
+      "start": 4505,
+      "end": 4512
+    },
+    {
+      "text": "Müller",
+      "label": "PERS",
+      "start": 4513,
+      "end": 4519
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4539,
+      "end": 4542
+    },
+    {
+      "text": "Albert",
+      "label": "PERS",
+      "start": 4543,
+      "end": 4549
+    },
+    {
+      "text": "Sauer",
+      "label": "PERS",
+      "start": 4550,
+      "end": 4555
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4575,
+      "end": 4579
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4594,
+      "end": 4597
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4672,
+      "end": 4683
+    },
+    {
+      "text": "Wunsch",
+      "label": "PERS",
+      "start": 4763,
+      "end": 4769
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 4796,
+      "end": 4800
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 4825,
+      "end": 4829
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 4944,
+      "end": 4947
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 4960,
+      "end": 4965
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4997,
+      "end": 5000
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 5306,
+      "end": 5310
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 5315,
+      "end": 5319
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5457,
+      "end": 5468
+    },
+    {
+      "text": "Arnold",
+      "label": "PERS",
+      "start": 5551,
+      "end": 5557
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5578,
+      "end": 5589
+    },
+    {
+      "text": "Arnold",
+      "label": "PERS",
+      "start": 5707,
+      "end": 5713
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 5796,
+      "end": 5800
+    },
+    {
+      "text": "Dann",
+      "label": "LOC",
+      "start": 5802,
+      "end": 5806
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 5875,
+      "end": 5879
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 5949,
+      "end": 5953
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 5996,
+      "end": 6001
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 6012,
+      "end": 6017
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6065,
+      "end": 6068
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 6110,
+      "end": 6114
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6184,
+      "end": 6190
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6201,
+      "end": 6207
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 6247,
+      "end": 6254
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 6265,
+      "end": 6272
+    },
+    {
+      "text": "STOCK",
+      "label": "LOC",
+      "start": 6324,
+      "end": 6329
+    },
+    {
+      "text": "KOPF",
+      "label": "PERS",
+      "start": 6400,
+      "end": 6404
+    },
+    {
+      "text": "Kant",
+      "label": "LOC",
+      "start": 6578,
+      "end": 6582
+    },
+    {
+      "text": "Platz",
+      "label": "LOC",
+      "start": 6684,
+      "end": 6689
+    },
+    {
+      "text": "MÜLLER",
+      "label": "PERS",
+      "start": 6752,
+      "end": 6758
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 6910,
+      "end": 6916
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 7014,
+      "end": 7018
+    },
+    {
+      "text": "Heft",
+      "label": "LOC",
+      "start": 7048,
+      "end": 7052
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 7099,
+      "end": 7103
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7271,
+      "end": 7280
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 7497,
+      "end": 7501
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 7564,
+      "end": 7575
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 7676,
+      "end": 7687
+    },
+    {
+      "text": "weiß",
+      "label": "PERS",
+      "start": 7736,
+      "end": 7740
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 8427,
+      "end": 8433
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 8443,
+      "end": 8447
+    },
+    {
+      "text": "stark",
+      "label": "PERS",
+      "start": 8524,
+      "end": 8529
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 8553,
+      "end": 8557
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 8746,
+      "end": 8750
+    },
+    {
+      "text": "gern",
+      "label": "LOC",
+      "start": 8843,
+      "end": 8847
+    },
+    {
+      "text": "Bam",
+      "label": "LOC",
+      "start": 9509,
+      "end": 9512
+    },
+    {
+      "text": "Fate",
+      "label": "LOC",
+      "start": 9942,
+      "end": 9946
+    },
+    {
+      "text": "ii",
+      "label": "LOC",
+      "start": 10057,
+      "end": 10059
+    },
+    {
+      "text": "SE",
+      "label": "LOC",
+      "start": 10104,
+      "end": 10106
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 10359,
+      "end": 10363
+    },
+    {
+      "text": "ifo",
+      "label": "LOC",
+      "start": 10484,
+      "end": 10487
+    },
+    {
+      "text": "erdenet",
+      "label": "LOC",
+      "start": 10553,
+      "end": 10560
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 10673,
+      "end": 10682
+    },
+    {
+      "text": "Wunsch",
+      "label": "PERS",
+      "start": 10923,
+      "end": 10929
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 11048,
+      "end": 11054
+    },
+    {
+      "text": "Mer",
+      "label": "LOC",
+      "start": 11096,
+      "end": 11099
+    },
+    {
+      "text": "WEHR",
+      "label": "LOC",
+      "start": 11145,
+      "end": 11149
+    },
+    {
+      "text": "Ach",
+      "label": "LOC",
+      "start": 11757,
+      "end": 11760
+    },
+    {
+      "text": "ig",
+      "label": "LOC",
+      "start": 12088,
+      "end": 12090
+    },
+    {
+      "text": "real",
+      "label": "LOC",
+      "start": 12231,
+      "end": 12235
+    },
+    {
+      "text": "allen",
+      "label": "LOC",
+      "start": 12374,
+      "end": 12379
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12526,
+      "end": 12535
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12593,
+      "end": 12602
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 12899,
+      "end": 12910
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 12915,
+      "end": 12921
+    },
+    {
+      "text": "Frei",
+      "label": "LOC",
+      "start": 13392,
+      "end": 13396
+    },
+    {
+      "text": "Stelle",
+      "label": "LOC",
+      "start": 13736,
+      "end": 13742
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 13743,
+      "end": 13747
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13807,
+      "end": 13816
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 13893,
+      "end": 13896
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 14092,
+      "end": 14098
+    },
+    {
+      "text": "Leopold",
+      "label": "LOC",
+      "start": 14302,
+      "end": 14309
+    },
+    {
+      "text": "Wohlfahrt",
+      "label": "LOC",
+      "start": 14407,
+      "end": 14416
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 14457,
+      "end": 14461
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 14537,
+      "end": 14540
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 14556,
+      "end": 14559
+    },
+    {
+      "text": "tut",
+      "label": "LOC",
+      "start": 14575,
+      "end": 14578
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 14668,
+      "end": 14671
+    },
+    {
+      "text": "großen",
+      "label": "LOC",
+      "start": 14921,
+      "end": 14927
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14947,
+      "end": 14956
+    },
+    {
+      "text": "Kraft",
+      "label": "PERS",
+      "start": 14968,
+      "end": 14973
+    },
+    {
+      "text": "Kopf",
+      "label": "PERS",
+      "start": 15410,
+      "end": 15414
+    },
+    {
+      "text": "Müller",
+      "label": "PERS",
+      "start": 15476,
+      "end": 15482
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 15531,
+      "end": 15537
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 15640,
+      "end": 15644
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 15658,
+      "end": 15662
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15687,
+      "end": 15696
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 15730,
+      "end": 15733
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 15752,
+      "end": 15756
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 15789,
+      "end": 15795
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 15808,
+      "end": 15814
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 15834,
+      "end": 15838
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 15953,
+      "end": 15957
+    },
+    {
+      "text": "Dann",
+      "label": "LOC",
+      "start": 15960,
+      "end": 15964
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 16000,
+      "end": 16004
+    },
+    {
+      "text": "Kopf",
+      "label": "PERS",
+      "start": 16035,
+      "end": 16039
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 16144,
+      "end": 16149
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 16159,
+      "end": 16164
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 16212,
+      "end": 16215
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16261,
+      "end": 16267
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16278,
+      "end": 16284
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16315,
+      "end": 16322
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16333,
+      "end": 16340
+    },
+    {
+      "text": "STOCK",
+      "label": "LOC",
+      "start": 16380,
+      "end": 16385
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 16439,
+      "end": 16442
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 16749,
+      "end": 16752
+    },
+    {
+      "text": "MAIER",
+      "label": "PERS",
+      "start": 16753,
+      "end": 16758
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 16833,
+      "end": 16836
+    },
+    {
+      "text": "GEBHARD",
+      "label": "PERS",
+      "start": 16837,
+      "end": 16844
+    },
+    {
+      "text": "MÜLLER",
+      "label": "PERS",
+      "start": 16845,
+      "end": 16851
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 16895,
+      "end": 16901
+    },
+    {
+      "text": "stelle",
+      "label": "LOC",
+      "start": 16907,
+      "end": 16913
+    },
+    {
+      "text": "Wahl",
+      "label": "LOC",
+      "start": 16928,
+      "end": 16932
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 17028,
+      "end": 17032
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 17061,
+      "end": 17064
+    },
+    {
+      "text": "Müller",
+      "label": "PERS",
+      "start": 17065,
+      "end": 17071
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 17191,
+      "end": 17196
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 17206,
+      "end": 17211
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 17258,
+      "end": 17261
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17306,
+      "end": 17312
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17322,
+      "end": 17328
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17359,
+      "end": 17366
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17377,
+      "end": 17384
+    },
+    {
+      "text": "STOCK",
+      "label": "LOC",
+      "start": 17424,
+      "end": 17429
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 17485,
+      "end": 17488
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 17800,
+      "end": 17803
+    },
+    {
+      "text": "MAIER",
+      "label": "LOC",
+      "start": 17804,
+      "end": 17809
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 17887,
+      "end": 17890
+    },
+    {
+      "text": "GEBHARD",
+      "label": "PERS",
+      "start": 17891,
+      "end": 17898
+    },
+    {
+      "text": "MÜLLER",
+      "label": "PERS",
+      "start": 17899,
+      "end": 17905
+    },
+    {
+      "text": "ARNOLD",
+      "label": "LOC",
+      "start": 17949,
+      "end": 17955
+    },
+    {
+      "text": "stelle",
+      "label": "LOC",
+      "start": 17961,
+      "end": 17967
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 17978,
+      "end": 17982
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 17989,
+      "end": 17993
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 18183,
+      "end": 18187
+    },
+    {
+      "text": "Platz",
+      "label": "LOC",
+      "start": 18333,
+      "end": 18338
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 18366,
+      "end": 18372
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 18396,
+      "end": 18400
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 18470,
+      "end": 18474
+    },
+    {
+      "text": "Dann",
+      "label": "LOC",
+      "start": 18476,
+      "end": 18480
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18994,
+      "end": 19003
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 19055,
+      "end": 19059
+    },
+    {
+      "text": "großen",
+      "label": "LOC",
+      "start": 19095,
+      "end": 19101
+    },
+    {
+      "text": "großen",
+      "label": "LOC",
+      "start": 19125,
+      "end": 19131
+    },
+    {
+      "text": "Bach",
+      "label": "LOC",
+      "start": 19312,
+      "end": 19316
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PERS",
+      "start": 19376,
+      "end": 19382
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19406,
+      "end": 19417
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 19520,
+      "end": 19524
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 17,
+      "end": 43
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Bundesrepublik",
+      "label": "LOC",
+      "start": 169,
+      "end": 183
+    },
+    {
+      "text": "Deuischland",
+      "label": "LOC",
+      "start": 184,
+      "end": 195
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "Joh. Seb. Bach",
+      "label": "PER",
+      "start": 266,
+      "end": 280
+    },
+    {
+      "text": "Städtisches Gürzenich-Orchester",
+      "label": "ORG",
+      "start": 316,
+      "end": 347
+    },
+    {
+      "text": "Köln",
+      "label": "LOC",
+      "start": 349,
+      "end": 353
+    },
+    {
+      "text": "Günther. Wand",
+      "label": "PER",
+      "start": 375,
+      "end": 388
+    },
+    {
+      "text": "BÜLL",
+      "label": "PER",
+      "start": 407,
+      "end": 411
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 463,
+      "end": 489
+    },
+    {
+      "text": "Schillers",
+      "label": "PER",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "Alberts",
+      "label": "PER",
+      "start": 1360,
+      "end": 1367
+    },
+    {
+      "text": "Stein",
+      "label": "PER",
+      "start": 1391,
+      "end": 1396
+    },
+    {
+      "text": "Stein",
+      "label": "PER",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "STEIN",
+      "label": "PER",
+      "start": 1730,
+      "end": 1735
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 1755,
+      "end": 1760
+    },
+    {
+      "text": "Leo Wohleb",
+      "label": "PER",
+      "start": 1783,
+      "end": 1793
+    },
+    {
+      "text": "Hermann Fecht",
+      "label": "PER",
+      "start": 1908,
+      "end": 1921
+    },
+    {
+      "text": "Wilhelm Eckert",
+      "label": "PER",
+      "start": 1956,
+      "end": 1970
+    },
+    {
+      "text": "Wilhelm Eckert",
+      "label": "PER",
+      "start": 2008,
+      "end": 2022
+    },
+    {
+      "text": "Schühly",
+      "label": "PER",
+      "start": 2060,
+      "end": 2067
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 2081,
+      "end": 2087
+    },
+    {
+      "text": "Hans Ehard",
+      "label": "PER",
+      "start": 2116,
+      "end": 2126
+    },
+    {
+      "text": "Anton Pfeifier",
+      "label": "PER",
+      "start": 2195,
+      "end": 2209
+    },
+    {
+      "text": "Josef Müller",
+      "label": "PER",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "text": "Alois Schloegl",
+      "label": "PER",
+      "start": 2403,
+      "end": 2417
+    },
+    {
+      "text": "Hanns Seidel",
+      "label": "PER",
+      "start": 2460,
+      "end": 2472
+    },
+    {
+      "text": "Berlin",
+      "label": "LOC",
+      "start": 2486,
+      "end": 2492
+    },
+    {
+      "text": "Reuter",
+      "label": "PER",
+      "start": 2523,
+      "end": 2529
+    },
+    {
+      "text": "Klein",
+      "label": "PER",
+      "start": 2551,
+      "end": 2556
+    },
+    {
+      "text": "Conrad",
+      "label": "PER",
+      "start": 2578,
+      "end": 2584
+    },
+    {
+      "text": "Haas",
+      "label": "PER",
+      "start": 2611,
+      "end": 2615
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 2629,
+      "end": 2635
+    },
+    {
+      "text": "Wilhelm Kaisen",
+      "label": "PER",
+      "start": 2672,
+      "end": 2686
+    },
+    {
+      "text": "Wilhelm Harmssen",
+      "label": "PER",
+      "start": 2703,
+      "end": 2719
+    },
+    {
+      "text": "Adolf Ehlers",
+      "label": "PER",
+      "start": 2754,
+      "end": 2766
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 2780,
+      "end": 2787
+    },
+    {
+      "text": "Max Brauer.",
+      "label": "PER",
+      "start": 2815,
+      "end": 2826
+    },
+    {
+      "text": "Walter Dudek",
+      "label": "PER",
+      "start": 2846,
+      "end": 2858
+    },
+    {
+      "text": "Johannes Büll",
+      "label": "PER",
+      "start": 2875,
+      "end": 2888
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 2902,
+      "end": 2908
+    },
+    {
+      "text": "Christian Stock",
+      "label": "PER",
+      "start": 2933,
+      "end": 2948
+    },
+    {
+      "text": "Heinrich Zinnkann",
+      "label": "PER",
+      "start": 2977,
+      "end": 2994
+    },
+    {
+      "text": "Erwin Stein",
+      "label": "PER",
+      "start": 3022,
+      "end": 3033
+    },
+    {
+      "text": "Karl Lorberg",
+      "label": "PER",
+      "start": 3066,
+      "end": 3078
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 3092,
+      "end": 3105
+    },
+    {
+      "text": "Wilhelm Hinrich Kopf",
+      "label": "PER",
+      "start": 3130,
+      "end": 3150
+    },
+    {
+      "text": "Alfred Kubel",
+      "label": "PER",
+      "start": 3190,
+      "end": 3202
+    },
+    {
+      "text": "Heinrich Alberts",
+      "label": "PER",
+      "start": 3241,
+      "end": 3257
+    },
+    {
+      "text": "Georg Strickrodt",
+      "label": "PER",
+      "start": 3292,
+      "end": 3308
+    },
+    {
+      "text": "Günther Gereke",
+      "label": "PER",
+      "start": 3399,
+      "end": 3413
+    },
+    {
+      "text": "Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 3429,
+      "end": 3448
+    },
+    {
+      "text": "Karl Arnold",
+      "label": "PER",
+      "start": 3473,
+      "end": 3484
+    },
+    {
+      "text": "Heinrich  Weitz",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Karl Spiecker",
+      "label": "PER",
+      "start": 3574,
+      "end": 3587
+    },
+    {
+      "text": "Teusch",
+      "label": "PER",
+      "start": 3642,
+      "end": 3648
+    },
+    {
+      "text": "Christine Teusch",
+      "label": "PER",
+      "start": 3695,
+      "end": 3711
+    },
+    {
+      "text": "August Halbfell",
+      "label": "PER",
+      "start": 3740,
+      "end": 3755
+    },
+    {
+      "text": "Steinhoff",
+      "label": "PER",
+      "start": 3814,
+      "end": 3823
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 3837,
+      "end": 3852
+    },
+    {
+      "text": "Peter Altmeier",
+      "label": "PER",
+      "start": 3877,
+      "end": 3891
+    },
+    {
+      "text": "Adolf Süsterhenn",
+      "label": "PER",
+      "start": 3924,
+      "end": 3940
+    },
+    {
+      "text": "Hans Hoffmann",
+      "label": "PER",
+      "start": 3975,
+      "end": 3988
+    },
+    {
+      "text": "Jakob Steffan",
+      "label": "PER",
+      "start": 4017,
+      "end": 4030
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 4046,
+      "end": 4064
+    },
+    {
+      "text": "Bruno Dieckmann",
+      "label": "PER",
+      "start": 4089,
+      "end": 4104
+    },
+    {
+      "text": "Katz",
+      "label": "PER",
+      "start": 4143,
+      "end": 4147
+    },
+    {
+      "text": "Preller",
+      "label": "PER",
+      "start": 4206,
+      "end": 4213
+    },
+    {
+      "text": "Ernst Damm",
+      "label": "PER",
+      "start": 4257,
+      "end": 4267
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 4281,
+      "end": 4298
+    },
+    {
+      "text": "Reinhold Maier",
+      "label": "PER",
+      "start": 4327,
+      "end": 4341
+    },
+    {
+      "text": "Edmund Kaufmann",
+      "label": "PER",
+      "start": 4369,
+      "end": 4384
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 4407,
+      "end": 4413
+    },
+    {
+      "text": "G et",
+      "label": "PER",
+      "start": 4427,
+      "end": 4431
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 4454,
+      "end": 4478
+    },
+    {
+      "text": "Gebhard Müller",
+      "label": "PER",
+      "start": 4505,
+      "end": 4519
+    },
+    {
+      "text": "Albert Sauer",
+      "label": "PER",
+      "start": 4543,
+      "end": 4555
+    },
+    {
+      "text": "BÜLt",
+      "label": "PER",
+      "start": 4636,
+      "end": 4640
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 4688,
+      "end": 4714
+    },
+    {
+      "text": "EHARD nen",
+      "label": "PER",
+      "start": 5001,
+      "end": 5010
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 5049,
+      "end": 5055
+    },
+    {
+      "text": "BÜLL",
+      "label": "PER",
+      "start": 5085,
+      "end": 5089
+    },
+    {
+      "text": "ÄLTMEIER",
+      "label": "PER",
+      "start": 5370,
+      "end": 5378
+    },
+    {
+      "text": "Rheinländ-Pfalz",
+      "label": "LOC",
+      "start": 5381,
+      "end": 5396
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 5551,
+      "end": 5557
+    },
+    {
+      "text": "BÜLL",
+      "label": "PER",
+      "start": 5620,
+      "end": 5624
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 5707,
+      "end": 5713
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 5978,
+      "end": 5985
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 5996,
+      "end": 6001
+    },
+    {
+      "text": "WOHLEB",
+      "label": "PER",
+      "start": 6004,
+      "end": 6010
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 6012,
+      "end": 6017
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6038,
+      "end": 6045
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 6056,
+      "end": 6062
+    },
+    {
+      "text": "EHARD",
+      "label": "PER",
+      "start": 6069,
+      "end": 6074
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 6076,
+      "end": 6082
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6166,
+      "end": 6173
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6184,
+      "end": 6190
+    },
+    {
+      "text": "KAISEN",
+      "label": "PER",
+      "start": 6193,
+      "end": 6199
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6201,
+      "end": 6207
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6229,
+      "end": 6236
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 6247,
+      "end": 6254
+    },
+    {
+      "text": "BRAUER",
+      "label": "PER",
+      "start": 6257,
+      "end": 6263
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 6265,
+      "end": 6272
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6297,
+      "end": 6304
+    },
+    {
+      "text": "STOCK",
+      "label": "PER",
+      "start": 6324,
+      "end": 6329
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 6331,
+      "end": 6337
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6365,
+      "end": 6372
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6384,
+      "end": 6397
+    },
+    {
+      "text": "KOPF",
+      "label": "PER",
+      "start": 6400,
+      "end": 6404
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6407,
+      "end": 6420
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6455,
+      "end": 6462
+    },
+    {
+      "text": "Nondrhein",
+      "label": "LOC",
+      "start": 6473,
+      "end": 6482
+    },
+    {
+      "text": "Westfalen",
+      "label": "LOC",
+      "start": 6484,
+      "end": 6493
+    },
+    {
+      "text": "Westfalen",
+      "label": "LOC",
+      "start": 6515,
+      "end": 6524
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6564,
+      "end": 6571
+    },
+    {
+      "text": "Rheinland",
+      "label": "LOC",
+      "start": 6584,
+      "end": 6593
+    },
+    {
+      "text": "Bfalzıı",
+      "label": "LOC",
+      "start": 6595,
+      "end": 6602
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "PER",
+      "start": 6662,
+      "end": 6670
+    },
+    {
+      "text": "Rhein",
+      "label": "LOC",
+      "start": 6672,
+      "end": 6677
+    },
+    {
+      "text": "Platz",
+      "label": "LOC",
+      "start": 6684,
+      "end": 6689
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 6729,
+      "end": 6736
+    },
+    {
+      "text": "MÜLLER",
+      "label": "PER",
+      "start": 6752,
+      "end": 6758
+    },
+    {
+      "text": "Mirnenberg",
+      "label": "LOC",
+      "start": 6759,
+      "end": 6769
+    },
+    {
+      "text": "Hohenzollern",
+      "label": "LOC",
+      "start": 6771,
+      "end": 6783
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 6910,
+      "end": 6916
+    },
+    {
+      "text": "ARNOL",
+      "label": "PER",
+      "start": 7448,
+      "end": 7453
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7580,
+      "end": 7606
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7693,
+      "end": 7719
+    },
+    {
+      "text": "Nordrhein-Westialen",
+      "label": "LOC",
+      "start": 7881,
+      "end": 7900
+    },
+    {
+      "text": "Ruhrbehörde",
+      "label": "ORG",
+      "start": 8186,
+      "end": 8197
+    },
+    {
+      "text": "Bundörätes",
+      "label": "ORG",
+      "start": 9069,
+      "end": 9079
+    },
+    {
+      "text": "Hetrönchtemsee",
+      "label": "LOC",
+      "start": 9140,
+      "end": 9154
+    },
+    {
+      "text": "Air Mir",
+      "label": "ORG",
+      "start": 10223,
+      "end": 10230
+    },
+    {
+      "text": "EL",
+      "label": "ORG",
+      "start": 11124,
+      "end": 11126
+    },
+    {
+      "text": "AlirtkutsrHei",
+      "label": "ORG",
+      "start": 11180,
+      "end": 11193
+    },
+    {
+      "text": "Ruhrgebiet",
+      "label": "LOC",
+      "start": 11831,
+      "end": 11841
+    },
+    {
+      "text": "WeimarerRepublik",
+      "label": "LOC",
+      "start": 13846,
+      "end": 13862
+    },
+    {
+      "text": "Leopold von Rancke",
+      "label": "PER",
+      "start": 14302,
+      "end": 14320
+    },
+    {
+      "text": "Deutschlands",
+      "label": "LOC",
+      "start": 15048,
+      "end": 15060
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "PER",
+      "start": 15290,
+      "end": 15298
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 15410,
+      "end": 15414
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 15416,
+      "end": 15429
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 15476,
+      "end": 15482
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 15485,
+      "end": 15509
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 15531,
+      "end": 15537
+    },
+    {
+      "text": "Altmeier",
+      "label": "PER",
+      "start": 15600,
+      "end": 15608
+    },
+    {
+      "text": "EHARD",
+      "label": "PER",
+      "start": 15734,
+      "end": 15739
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 15808,
+      "end": 15814
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 16035,
+      "end": 16039
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16126,
+      "end": 16133
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 16144,
+      "end": 16149
+    },
+    {
+      "text": "WOHLEB",
+      "label": "PER",
+      "start": 16151,
+      "end": 16157
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 16159,
+      "end": 16164
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16186,
+      "end": 16193
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 16204,
+      "end": 16210
+    },
+    {
+      "text": "EHARD",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 16224,
+      "end": 16230
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16252,
+      "end": 16259
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16261,
+      "end": 16267
+    },
+    {
+      "text": "KAISEN",
+      "label": "PER",
+      "start": 16270,
+      "end": 16276
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16278,
+      "end": 16284
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16306,
+      "end": 16313
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16315,
+      "end": 16322
+    },
+    {
+      "text": "BRAUER",
+      "label": "PER",
+      "start": 16325,
+      "end": 16331
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16333,
+      "end": 16340
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16362,
+      "end": 16369
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 16371,
+      "end": 16377
+    },
+    {
+      "text": "STOCK",
+      "label": "PER",
+      "start": 16380,
+      "end": 16385
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 16387,
+      "end": 16393
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16414,
+      "end": 16421
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 16423,
+      "end": 16436
+    },
+    {
+      "text": "GEREKE",
+      "label": "PER",
+      "start": 16443,
+      "end": 16449
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 16451,
+      "end": 16464
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16485,
+      "end": 16492
+    },
+    {
+      "text": "Nordrhein-",
+      "label": "LOC",
+      "start": 16494,
+      "end": 16504
+    },
+    {
+      "text": "TEUSCH",
+      "label": "PER",
+      "start": 16521,
+      "end": 16527
+    },
+    {
+      "text": "Nordrhein- Westfalen",
+      "label": "LOC",
+      "start": 16529,
+      "end": 16549
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16570,
+      "end": 16577
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 16579,
+      "end": 16594
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "PER",
+      "start": 16596,
+      "end": 16604
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 16606,
+      "end": 16621
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16642,
+      "end": 16649
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 16651,
+      "end": 16669
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "PER",
+      "start": 16671,
+      "end": 16680
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 16682,
+      "end": 16700
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16721,
+      "end": 16728
+    },
+    {
+      "text": "Würitemberg-Baden",
+      "label": "LOC",
+      "start": 16730,
+      "end": 16747
+    },
+    {
+      "text": "MAIER",
+      "label": "PER",
+      "start": 16753,
+      "end": 16758
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 16760,
+      "end": 16777
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 16798,
+      "end": 16805
+    },
+    {
+      "text": "GEBHARD MÜLLER",
+      "label": "PER",
+      "start": 16837,
+      "end": 16851
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 16895,
+      "end": 16901
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 17065,
+      "end": 17071
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17173,
+      "end": 17180
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 17191,
+      "end": 17196
+    },
+    {
+      "text": "WOHLEB",
+      "label": "PER",
+      "start": 17198,
+      "end": 17204
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 17206,
+      "end": 17211
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17232,
+      "end": 17239
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 17250,
+      "end": 17256
+    },
+    {
+      "text": "EHARD",
+      "label": "PER",
+      "start": 17262,
+      "end": 17267
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 17270,
+      "end": 17276
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17297,
+      "end": 17304
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17306,
+      "end": 17312
+    },
+    {
+      "text": "KAISEN",
+      "label": "PER",
+      "start": 17314,
+      "end": 17320
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17322,
+      "end": 17328
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17350,
+      "end": 17357
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17359,
+      "end": 17366
+    },
+    {
+      "text": "BRAUER",
+      "label": "PER",
+      "start": 17369,
+      "end": 17375
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17377,
+      "end": 17384
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17406,
+      "end": 17413
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 17415,
+      "end": 17421
+    },
+    {
+      "text": "STOCK",
+      "label": "PER",
+      "start": 17424,
+      "end": 17429
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 17431,
+      "end": 17437
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17460,
+      "end": 17467
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 17469,
+      "end": 17482
+    },
+    {
+      "text": "GEREKE",
+      "label": "PER",
+      "start": 17489,
+      "end": 17495
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 17497,
+      "end": 17510
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17532,
+      "end": 17539
+    },
+    {
+      "text": "Nordrhein",
+      "label": "LOC",
+      "start": 17541,
+      "end": 17550
+    },
+    {
+      "text": "TEUSCH",
+      "label": "PER",
+      "start": 17569,
+      "end": 17575
+    },
+    {
+      "text": "Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 17577,
+      "end": 17596
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17617,
+      "end": 17624
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 17626,
+      "end": 17641
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "PER",
+      "start": 17644,
+      "end": 17652
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 17654,
+      "end": 17669
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17691,
+      "end": 17698
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 17700,
+      "end": 17718
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "PER",
+      "start": 17720,
+      "end": 17729
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 17731,
+      "end": 17749
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17771,
+      "end": 17778
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 17780,
+      "end": 17797
+    },
+    {
+      "text": "MAIER",
+      "label": "PER",
+      "start": 17804,
+      "end": 17809
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 17811,
+      "end": 17828
+    },
+    {
+      "text": "ALBERTS",
+      "label": "PER",
+      "start": 17850,
+      "end": 17857
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 17859,
+      "end": 17883
+    },
+    {
+      "text": "GEBHARD MÜLLER",
+      "label": "PER",
+      "start": 17891,
+      "end": 17905
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 17907,
+      "end": 17931
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 17949,
+      "end": 17955
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "PER",
+      "start": 18245,
+      "end": 18253
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 18366,
+      "end": 18372
+    },
+    {
+      "text": "Joh",
+      "label": "PER",
+      "start": 19302,
+      "end": 19305
+    },
+    {
+      "text": "Seb",
+      "label": "PER",
+      "start": 19307,
+      "end": 19310
+    },
+    {
+      "text": "Bach",
+      "label": "PER",
+      "start": 19312,
+      "end": 19316
+    },
+    {
+      "text": "ARNOLD",
+      "label": "PER",
+      "start": 19376,
+      "end": 19382
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 19422,
+      "end": 19448
+    },
+    {
+      "text": "Carthaus",
+      "label": "PER",
+      "start": 19510,
+      "end": 19518
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 19520,
+      "end": 19524
+    },
+    {
+      "text": "NRW",
+      "label": "LOC",
+      "start": 19526,
+      "end": 19529
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 17,
+      "end": 43
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 98,
+      "end": 102
+    },
+    {
+      "text": "Bundesrepublik Deuischland",
+      "label": "LOC",
+      "start": 169,
+      "end": 195
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 199,
+      "end": 203
+    },
+    {
+      "text": "Städtisches Gürzenich-Orchester",
+      "label": "ORG",
+      "start": 316,
+      "end": 347
+    },
+    {
+      "text": "Köln",
+      "label": "LOC",
+      "start": 349,
+      "end": 353
+    },
+    {
+      "text": "Günther",
+      "label": "PER",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "text": "Wand",
+      "label": "PER",
+      "start": 384,
+      "end": 388
+    },
+    {
+      "text": "BÜLL",
+      "label": "LOC",
+      "start": 407,
+      "end": 411
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 463,
+      "end": 489
+    },
+    {
+      "text": "Gästel",
+      "label": "PER",
+      "start": 586,
+      "end": 592
+    },
+    {
+      "text": "Schillers",
+      "label": "PER",
+      "start": 687,
+      "end": 696
+    },
+    {
+      "text": "Alterspräsidium",
+      "label": "LOC",
+      "start": 879,
+      "end": 894
+    },
+    {
+      "text": "Alberts",
+      "label": "PER",
+      "start": 1360,
+      "end": 1367
+    },
+    {
+      "text": "Dr. Stein",
+      "label": "PER",
+      "start": 1387,
+      "end": 1396
+    },
+    {
+      "text": "Dr. Stein",
+      "label": "PER",
+      "start": 1628,
+      "end": 1637
+    },
+    {
+      "text": "Land Baden",
+      "label": "LOC",
+      "start": 1750,
+      "end": 1760
+    },
+    {
+      "text": "Leo Wohleb",
+      "label": "PER",
+      "start": 1783,
+      "end": 1793
+    },
+    {
+      "text": "Bundes\nrates",
+      "label": "ORG",
+      "start": 1842,
+      "end": 1854
+    },
+    {
+      "text": "Dr. Hermann Fecht",
+      "label": "PER",
+      "start": 1904,
+      "end": 1921
+    },
+    {
+      "text": "Wilhelm Eckert",
+      "label": "PER",
+      "start": 1956,
+      "end": 1970
+    },
+    {
+      "text": "Wilhelm Eckert",
+      "label": "PER",
+      "start": 2008,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Schühly",
+      "label": "PER",
+      "start": 2056,
+      "end": 2067
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 2076,
+      "end": 2087
+    },
+    {
+      "text": "Dr. Hans\nEhard",
+      "label": "PER",
+      "start": 2112,
+      "end": 2126
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 2191,
+      "end": 2193
+    },
+    {
+      "text": "Anton Pfeifier",
+      "label": "PER",
+      "start": 2195,
+      "end": 2209
+    },
+    {
+      "text": "Dr. Josef Müller",
+      "label": "PER",
+      "start": 2293,
+      "end": 2309
+    },
+    {
+      "text": "Origimalgualita",
+      "label": "PER",
+      "start": 2349,
+      "end": 2364
+    },
+    {
+      "text": "Dr",
+      "label": "LOC",
+      "start": 2399,
+      "end": 2401
+    },
+    {
+      "text": "Alois Schloegl",
+      "label": "PER",
+      "start": 2403,
+      "end": 2417
+    },
+    {
+      "text": "Land Berlin",
+      "label": "LOC",
+      "start": 2481,
+      "end": 2492
+    },
+    {
+      "text": "Prof",
+      "label": "PER",
+      "start": 2517,
+      "end": 2521
+    },
+    {
+      "text": "Reuter",
+      "label": "PER",
+      "start": 2523,
+      "end": 2529
+    },
+    {
+      "text": "Dr. Klein",
+      "label": "PER",
+      "start": 2547,
+      "end": 2556
+    },
+    {
+      "text": "Dr.\nConrad",
+      "label": "PER",
+      "start": 2574,
+      "end": 2584
+    },
+    {
+      "text": "Dr. Haas",
+      "label": "PER",
+      "start": 2607,
+      "end": 2615
+    },
+    {
+      "text": "Land Bremen",
+      "label": "LOC",
+      "start": 2624,
+      "end": 2635
+    },
+    {
+      "text": "Wilhelm Kaisen",
+      "label": "PER",
+      "start": 2672,
+      "end": 2686
+    },
+    {
+      "text": "Wilhelm Harmssen",
+      "label": "PER",
+      "start": 2703,
+      "end": 2719
+    },
+    {
+      "text": "Adolf Ehlers",
+      "label": "PER",
+      "start": 2754,
+      "end": 2766
+    },
+    {
+      "text": "Land Hamburg",
+      "label": "LOC",
+      "start": 2775,
+      "end": 2787
+    },
+    {
+      "text": "Max\nBrauer.-— Herr",
+      "label": "PER",
+      "start": 2815,
+      "end": 2833
+    },
+    {
+      "text": "Dr. Walter Dudek",
+      "label": "PER",
+      "start": 2842,
+      "end": 2858
+    },
+    {
+      "text": "Johannes Büll",
+      "label": "PER",
+      "start": 2875,
+      "end": 2888
+    },
+    {
+      "text": "Land Hessen",
+      "label": "LOC",
+      "start": 2897,
+      "end": 2908
+    },
+    {
+      "text": "Christian\nStock",
+      "label": "PER",
+      "start": 2933,
+      "end": 2948
+    },
+    {
+      "text": "Heinrich Zinnkann",
+      "label": "PER",
+      "start": 2977,
+      "end": 2994
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 3018,
+      "end": 3020
+    },
+    {
+      "text": "Erwin Stein",
+      "label": "PER",
+      "start": 3022,
+      "end": 3033
+    },
+    {
+      "text": "Karl Lorberg",
+      "label": "PER",
+      "start": 3066,
+      "end": 3078
+    },
+    {
+      "text": "Land Niedersachsen",
+      "label": "LOC",
+      "start": 3087,
+      "end": 3105
+    },
+    {
+      "text": "Wilhelm Hinrich Kopf",
+      "label": "PER",
+      "start": 3130,
+      "end": 3150
+    },
+    {
+      "text": "Minister für Arbeit und Aufbau",
+      "label": "ORG",
+      "start": 3159,
+      "end": 3189
+    },
+    {
+      "text": "Alfred Kubel",
+      "label": "PER",
+      "start": 3190,
+      "end": 3202
+    },
+    {
+      "text": "Heinrich Alberts",
+      "label": "PER",
+      "start": 3241,
+      "end": 3257
+    },
+    {
+      "text": "Georg\nStrickrodt",
+      "label": "PER",
+      "start": 3292,
+      "end": 3308
+    },
+    {
+      "text": "Günther\nGereke",
+      "label": "PER",
+      "start": 3399,
+      "end": 3413
+    },
+    {
+      "text": "Land Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 3424,
+      "end": 3448
+    },
+    {
+      "text": "Karl Arnold",
+      "label": "PER",
+      "start": 3473,
+      "end": 3484
+    },
+    {
+      "text": "Heinrich\n\nWeitz",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Karl\nSpiecker",
+      "label": "PER",
+      "start": 3574,
+      "end": 3587
+    },
+    {
+      "text": "Frau\nTeusch",
+      "label": "PER",
+      "start": 3637,
+      "end": 3648
+    },
+    {
+      "text": "Christine Teusch",
+      "label": "PER",
+      "start": 3695,
+      "end": 3711
+    },
+    {
+      "text": "August Halbfell",
+      "label": "PER",
+      "start": 3740,
+      "end": 3755
+    },
+    {
+      "text": "Steinhoff",
+      "label": "PER",
+      "start": 3814,
+      "end": 3823
+    },
+    {
+      "text": "Land Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 3832,
+      "end": 3852
+    },
+    {
+      "text": "Peter\nAltmeier",
+      "label": "PER",
+      "start": 3877,
+      "end": 3891
+    },
+    {
+      "text": "Dr",
+      "label": "PER",
+      "start": 3920,
+      "end": 3922
+    },
+    {
+      "text": "Adolf Süsterhenn",
+      "label": "PER",
+      "start": 3924,
+      "end": 3940
+    },
+    {
+      "text": "Hans Hoffmann",
+      "label": "PER",
+      "start": 3975,
+      "end": 3988
+    },
+    {
+      "text": "Jakob Steffan",
+      "label": "PER",
+      "start": 4017,
+      "end": 4030
+    },
+    {
+      "text": "Land Schleswig-Holstein",
+      "label": "LOC",
+      "start": 4041,
+      "end": 4064
+    },
+    {
+      "text": "Bruno Dieckmann",
+      "label": "PER",
+      "start": 4089,
+      "end": 4104
+    },
+    {
+      "text": "Rudolf\nKatz",
+      "label": "PER",
+      "start": 4136,
+      "end": 4147
+    },
+    {
+      "text": "Minister für Arbeit, Wirtschaft und Verkehr Prof. Preller",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4213
+    },
+    {
+      "text": "Ernst Damm",
+      "label": "PER",
+      "start": 4257,
+      "end": 4267
+    },
+    {
+      "text": "Land Württemberg-Baden",
+      "label": "LOC",
+      "start": 4276,
+      "end": 4298
+    },
+    {
+      "text": "Reinhold Maier",
+      "label": "PER",
+      "start": 4327,
+      "end": 4341
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 4350,
+      "end": 4364
+    },
+    {
+      "text": "Dr. Edmund\nKaufmann",
+      "label": "PER",
+      "start": 4365,
+      "end": 4384
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 4407,
+      "end": 4413
+    },
+    {
+      "text": "Land Württemberg-Hohenzollern",
+      "label": "LOC",
+      "start": 4449,
+      "end": 4478
+    },
+    {
+      "text": "Staatspräsiden!",
+      "label": "ORG",
+      "start": 4485,
+      "end": 4500
+    },
+    {
+      "text": "Gebhard Müller",
+      "label": "PER",
+      "start": 4505,
+      "end": 4519
+    },
+    {
+      "text": "Dr. Albert Sauer",
+      "label": "PER",
+      "start": 4539,
+      "end": 4555
+    },
+    {
+      "text": "ALTERSPRASIDENF",
+      "label": "ORG",
+      "start": 4620,
+      "end": 4635
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 4688,
+      "end": 4714
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 5049,
+      "end": 5055
+    },
+    {
+      "text": "ALTERSPRASIDENFT",
+      "label": "ORG",
+      "start": 5067,
+      "end": 5083
+    },
+    {
+      "text": "BÜLL",
+      "label": "ORG",
+      "start": 5085,
+      "end": 5089
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5457,
+      "end": 5468
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 5551,
+      "end": 5557
+    },
+    {
+      "text": "sen Bundesrates",
+      "label": "PER",
+      "start": 5574,
+      "end": 5589
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 5707,
+      "end": 5713
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 5978,
+      "end": 5985
+    },
+    {
+      "text": "Land Baden!",
+      "label": "LOC",
+      "start": 5991,
+      "end": 6002
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 6012,
+      "end": 6017
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6038,
+      "end": 6045
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 6051,
+      "end": 6062
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 6069,
+      "end": 6074
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 6076,
+      "end": 6082
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6166,
+      "end": 6173
+    },
+    {
+      "text": "Land Bremen!\n\n",
+      "label": "LOC",
+      "start": 6179,
+      "end": 6193
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 6201,
+      "end": 6207
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6229,
+      "end": 6236
+    },
+    {
+      "text": "Land Hamburg!",
+      "label": "LOC",
+      "start": 6242,
+      "end": 6255
+    },
+    {
+      "text": "BRAUER",
+      "label": "ORG",
+      "start": 6257,
+      "end": 6263
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 6265,
+      "end": 6272
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6297,
+      "end": 6304
+    },
+    {
+      "text": "Tesa Hasent\n\n",
+      "label": "ORG",
+      "start": 6311,
+      "end": 6324
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 6331,
+      "end": 6337
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6365,
+      "end": 6372
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6384,
+      "end": 6397
+    },
+    {
+      "text": "KOPF",
+      "label": "ORG",
+      "start": 6400,
+      "end": 6404
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 6407,
+      "end": 6420
+    },
+    {
+      "text": "ee Ian",
+      "label": "PER",
+      "start": 6433,
+      "end": 6439
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6455,
+      "end": 6462
+    },
+    {
+      "text": "Land Nondrhein- Westfalen!\nteusch‘' !tNorärhet Westfalen",
+      "label": "LOC",
+      "start": 6468,
+      "end": 6524
+    },
+    {
+      "text": "Jar!",
+      "label": "LOC",
+      "start": 6527,
+      "end": 6531
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6564,
+      "end": 6571
+    },
+    {
+      "text": "Kant",
+      "label": "PER",
+      "start": 6578,
+      "end": 6582
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "ORG",
+      "start": 6662,
+      "end": 6670
+    },
+    {
+      "text": "Rhein!",
+      "label": "ORG",
+      "start": 6672,
+      "end": 6678
+    },
+    {
+      "text": "Jal\nBas\n\n  \n\n  \n  \n\n‚",
+      "label": "PER",
+      "start": 6692,
+      "end": 6713
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 6729,
+      "end": 6736
+    },
+    {
+      "text": "Ja!",
+      "label": "ORG",
+      "start": 6786,
+      "end": 6789
+    },
+    {
+      "text": "X",
+      "label": "LOC",
+      "start": 6839,
+      "end": 6840
+    },
+    {
+      "text": "stim",
+      "label": "PER",
+      "start": 6855,
+      "end": 6859
+    },
+    {
+      "text": "Ministerpräsidenf ARNOLD",
+      "label": "ORG",
+      "start": 6892,
+      "end": 6916
+    },
+    {
+      "text": "Ihmensic",
+      "label": "LOC",
+      "start": 7137,
+      "end": 7145
+    },
+    {
+      "text": "rlnschs",
+      "label": "LOC",
+      "start": 7376,
+      "end": 7383
+    },
+    {
+      "text": "Alterspräsident",
+      "label": "PER",
+      "start": 7502,
+      "end": 7517
+    },
+    {
+      "text": "Mitgliedet'.des Bundesrates",
+      "label": "PER",
+      "start": 7548,
+      "end": 7575
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7580,
+      "end": 7606
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 7693,
+      "end": 7719
+    },
+    {
+      "text": "Nordrhein-Westialen",
+      "label": "LOC",
+      "start": 7881,
+      "end": 7900
+    },
+    {
+      "text": "deutschen Ländern",
+      "label": "LOC",
+      "start": 7917,
+      "end": 7934
+    },
+    {
+      "text": "Hoheitsbeschränkungen",
+      "label": "LOC",
+      "start": 8106,
+      "end": 8127
+    },
+    {
+      "text": "meisfen",
+      "label": "LOC",
+      "start": 8226,
+      "end": 8233
+    },
+    {
+      "text": "deutschen Länder",
+      "label": "LOC",
+      "start": 8614,
+      "end": 8630
+    },
+    {
+      "text": "Ak Ausdegeig",
+      "label": "ORG",
+      "start": 8756,
+      "end": 8768
+    },
+    {
+      "text": "Balzer",
+      "label": "PER",
+      "start": 8856,
+      "end": 8862
+    },
+    {
+      "text": "Länder-im Bereich",
+      "label": "LOC",
+      "start": 8914,
+      "end": 8931
+    },
+    {
+      "text": "Hetrönchtemsee Ar",
+      "label": "LOC",
+      "start": 9140,
+      "end": 9157
+    },
+    {
+      "text": "Yerktar",
+      "label": "LOC",
+      "start": 9188,
+      "end": 9195
+    },
+    {
+      "text": "Vorbeige",
+      "label": "PER",
+      "start": 9271,
+      "end": 9279
+    },
+    {
+      "text": "werd£n",
+      "label": "LOC",
+      "start": 9290,
+      "end": 9296
+    },
+    {
+      "text": "Im-Rahrüeni Ger Deätscken",
+      "label": "PER",
+      "start": 9364,
+      "end": 9389
+    },
+    {
+      "text": "Bundesrepirbiik:.Machtlaktöten",
+      "label": "LOC",
+      "start": 9391,
+      "end": 9421
+    },
+    {
+      "text": "sothleh Miiederlage",
+      "label": "ORG",
+      "start": 9439,
+      "end": 9458
+    },
+    {
+      "text": "Eirschefhungi",
+      "label": "PER",
+      "start": 9483,
+      "end": 9496
+    },
+    {
+      "text": "Bam",
+      "label": "PER",
+      "start": 9509,
+      "end": 9512
+    },
+    {
+      "text": "ädänich",
+      "label": "PER",
+      "start": 9575,
+      "end": 9582
+    },
+    {
+      "text": "Termisötöiie verlag",
+      "label": "ORG",
+      "start": 9657,
+      "end": 9676
+    },
+    {
+      "text": "ea\n",
+      "label": "PER",
+      "start": 9750,
+      "end": 9753
+    },
+    {
+      "text": "Grundgäg",
+      "label": "LOC",
+      "start": 9761,
+      "end": 9769
+    },
+    {
+      "text": "hoflgn",
+      "label": "LOC",
+      "start": 9988,
+      "end": 9994
+    },
+    {
+      "text": "SE .tWinabegeitirkiad",
+      "label": "ORG",
+      "start": 10104,
+      "end": 10125
+    },
+    {
+      "text": "Wilessbildung dersdenischensBundesrepublik",
+      "label": "LOC",
+      "start": 10248,
+      "end": 10290
+    },
+    {
+      "text": "Sen\nWorten ausgengügkt",
+      "label": "PER",
+      "start": 10329,
+      "end": 10351
+    },
+    {
+      "text": ".Nyr",
+      "label": "PER",
+      "start": 10353,
+      "end": 10357
+    },
+    {
+      "text": "Gesamtstagtz",
+      "label": "PER",
+      "start": 10706,
+      "end": 10718
+    },
+    {
+      "text": "öber,.di hässp",
+      "label": "PER",
+      "start": 10786,
+      "end": 10800
+    },
+    {
+      "text": "EL",
+      "label": "ORG",
+      "start": 11124,
+      "end": 11126
+    },
+    {
+      "text": "WEHR",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11149
+    },
+    {
+      "text": "Weimarer Zeit",
+      "label": "ORG",
+      "start": 11226,
+      "end": 11239
+    },
+    {
+      "text": "Fusnt",
+      "label": "PER",
+      "start": 11294,
+      "end": 11299
+    },
+    {
+      "text": "Vertrauensvolluzwischen Regidningrund!",
+      "label": "ORG",
+      "start": 11342,
+      "end": 11380
+    },
+    {
+      "text": "Deutschen ‚Bundesrepublik",
+      "label": "ORG",
+      "start": 11446,
+      "end": 11471
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 11524,
+      "end": 11530
+    },
+    {
+      "text": "Streitigkeir\nAch",
+      "label": "PER",
+      "start": 11744,
+      "end": 11760
+    },
+    {
+      "text": "Ruhrgebiet",
+      "label": "LOC",
+      "start": 11831,
+      "end": 11841
+    },
+    {
+      "text": "Dam",
+      "label": "PER",
+      "start": 12037,
+      "end": 12040
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 12048,
+      "end": 12049
+    },
+    {
+      "text": "ig A",
+      "label": "ORG",
+      "start": 12088,
+      "end": 12092
+    },
+    {
+      "text": "wı",
+      "label": "ORG",
+      "start": 12129,
+      "end": 12131
+    },
+    {
+      "text": "Aicht Tvergessen",
+      "label": "PER",
+      "start": 12257,
+      "end": 12273
+    },
+    {
+      "text": "HaB",
+      "label": "ORG",
+      "start": 12275,
+      "end": 12278
+    },
+    {
+      "text": "Abr.inden",
+      "label": "LOC",
+      "start": 12466,
+      "end": 12475
+    },
+    {
+      "text": ".e nderg",
+      "label": "PER",
+      "start": 12536,
+      "end": 12544
+    },
+    {
+      "text": "eg Aulgabe",
+      "label": "PER",
+      "start": 12570,
+      "end": 12580
+    },
+    {
+      "text": "Wirken ie Länder",
+      "label": "PER",
+      "start": 12603,
+      "end": 12619
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 12660,
+      "end": 12666
+    },
+    {
+      "text": "Mitglieden.der",
+      "label": "ORG",
+      "start": 12717,
+      "end": 12731
+    },
+    {
+      "text": "ui Asmlayfenden",
+      "label": "ORG",
+      "start": 13024,
+      "end": 13039
+    },
+    {
+      "text": "z ni",
+      "label": "PER",
+      "start": 13041,
+      "end": 13045
+    },
+    {
+      "text": "Bundesr",
+      "label": "PER",
+      "start": 13083,
+      "end": 13090
+    },
+    {
+      "text": "dey",
+      "label": "ORG",
+      "start": 13130,
+      "end": 13133
+    },
+    {
+      "text": "@esamtlinie",
+      "label": "LOC",
+      "start": 13280,
+      "end": 13291
+    },
+    {
+      "text": "dunch .die",
+      "label": "PER",
+      "start": 13437,
+      "end": 13447
+    },
+    {
+      "text": "kollegizile",
+      "label": "PER",
+      "start": 13449,
+      "end": 13460
+    },
+    {
+      "text": "Landesregierungen",
+      "label": "LOC",
+      "start": 13486,
+      "end": 13503
+    },
+    {
+      "text": "WeimarerRepublik",
+      "label": "ORG",
+      "start": 13846,
+      "end": 13862
+    },
+    {
+      "text": "Leopold von Rancke",
+      "label": "PER",
+      "start": 14302,
+      "end": 14320
+    },
+    {
+      "text": "Staatsgewalti",
+      "label": "LOC",
+      "start": 14339,
+      "end": 14352
+    },
+    {
+      "text": "Deutschlands",
+      "label": "LOC",
+      "start": 15048,
+      "end": 15060
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 15165,
+      "end": 15172
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "ORG",
+      "start": 15290,
+      "end": 15298
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 15416,
+      "end": 15429
+    },
+    {
+      "text": "Dr.'-Gebhäfe Müller",
+      "label": "PER",
+      "start": 15463,
+      "end": 15482
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 15485,
+      "end": 15509
+    },
+    {
+      "text": "PRÄSIDENT ARNOLD",
+      "label": "ORG",
+      "start": 15521,
+      "end": 15537
+    },
+    {
+      "text": "Altmeier",
+      "label": "PER",
+      "start": 15600,
+      "end": 15608
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 15734,
+      "end": 15739
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16126,
+      "end": 16133
+    },
+    {
+      "text": "Land Baden!",
+      "label": "LOC",
+      "start": 16139,
+      "end": 16150
+    },
+    {
+      "text": "WOHLEB",
+      "label": "ORG",
+      "start": 16151,
+      "end": 16157
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 16159,
+      "end": 16164
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16186,
+      "end": 16193
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 16199,
+      "end": 16210
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 16224,
+      "end": 16230
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16252,
+      "end": 16259
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16261,
+      "end": 16267
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 16278,
+      "end": 16284
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16306,
+      "end": 16313
+    },
+    {
+      "text": "Hamburg!",
+      "label": "ORG",
+      "start": 16315,
+      "end": 16323
+    },
+    {
+      "text": "BRAUER",
+      "label": "ORG",
+      "start": 16325,
+      "end": 16331
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 16333,
+      "end": 16340
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16362,
+      "end": 16369
+    },
+    {
+      "text": "Hessen!\n\n",
+      "label": "ORG",
+      "start": 16371,
+      "end": 16380
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 16387,
+      "end": 16393
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16414,
+      "end": 16421
+    },
+    {
+      "text": "Niedersachsen!\n\nDr. GEREKE",
+      "label": "ORG",
+      "start": 16423,
+      "end": 16449
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 16451,
+      "end": 16464
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16485,
+      "end": 16492
+    },
+    {
+      "text": "Nordrhein- Westfalen",
+      "label": "LOC",
+      "start": 16494,
+      "end": 16514
+    },
+    {
+      "text": "TEUSCH",
+      "label": "LOC",
+      "start": 16521,
+      "end": 16527
+    },
+    {
+      "text": "Nordrhein- Westfalen",
+      "label": "LOC",
+      "start": 16529,
+      "end": 16549
+    },
+    {
+      "text": "Jaf",
+      "label": "LOC",
+      "start": 16552,
+      "end": 16555
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16570,
+      "end": 16577
+    },
+    {
+      "text": "Rheinland-Pfalz!",
+      "label": "ORG",
+      "start": 16579,
+      "end": 16595
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "ORG",
+      "start": 16596,
+      "end": 16604
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 16606,
+      "end": 16621
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16642,
+      "end": 16649
+    },
+    {
+      "text": "Schleswig-Holstein!",
+      "label": "ORG",
+      "start": 16651,
+      "end": 16670
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "LOC",
+      "start": 16671,
+      "end": 16680
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 16682,
+      "end": 16700
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16721,
+      "end": 16728
+    },
+    {
+      "text": "Würitemberg-Baden",
+      "label": "ORG",
+      "start": 16730,
+      "end": 16747
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 16760,
+      "end": 16777
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 16798,
+      "end": 16805
+    },
+    {
+      "text": "Württemberg-Hohenzollern!\nDr. GEBHARD",
+      "label": "ORG",
+      "start": 16807,
+      "end": 16844
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 16853,
+      "end": 16877
+    },
+    {
+      "text": "Ja!",
+      "label": "ORG",
+      "start": 16880,
+      "end": 16883
+    },
+    {
+      "text": "Dr. Müller",
+      "label": "PER",
+      "start": 17061,
+      "end": 17071
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17173,
+      "end": 17180
+    },
+    {
+      "text": "Land Baden!",
+      "label": "LOC",
+      "start": 17186,
+      "end": 17197
+    },
+    {
+      "text": "WOHLEB",
+      "label": "ORG",
+      "start": 17198,
+      "end": 17204
+    },
+    {
+      "text": "Baden",
+      "label": "LOC",
+      "start": 17206,
+      "end": 17211
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17232,
+      "end": 17239
+    },
+    {
+      "text": "Land Bayern",
+      "label": "LOC",
+      "start": 17245,
+      "end": 17256
+    },
+    {
+      "text": "EHARD",
+      "label": "ORG",
+      "start": 17262,
+      "end": 17267
+    },
+    {
+      "text": "Bayern",
+      "label": "LOC",
+      "start": 17270,
+      "end": 17276
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17297,
+      "end": 17304
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17306,
+      "end": 17312
+    },
+    {
+      "text": "KAISEN",
+      "label": "LOC",
+      "start": 17314,
+      "end": 17320
+    },
+    {
+      "text": "Bremen",
+      "label": "LOC",
+      "start": 17322,
+      "end": 17328
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17350,
+      "end": 17357
+    },
+    {
+      "text": "Hamburg!",
+      "label": "ORG",
+      "start": 17359,
+      "end": 17367
+    },
+    {
+      "text": "BRAUER",
+      "label": "ORG",
+      "start": 17369,
+      "end": 17375
+    },
+    {
+      "text": "Hamburg",
+      "label": "LOC",
+      "start": 17377,
+      "end": 17384
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17406,
+      "end": 17413
+    },
+    {
+      "text": "Hessen!\n\n",
+      "label": "ORG",
+      "start": 17415,
+      "end": 17424
+    },
+    {
+      "text": "Hessen",
+      "label": "LOC",
+      "start": 17431,
+      "end": 17437
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17460,
+      "end": 17467
+    },
+    {
+      "text": "Niedersachsen!\n\nDr. GEREKE",
+      "label": "ORG",
+      "start": 17469,
+      "end": 17495
+    },
+    {
+      "text": "Niedersachsen",
+      "label": "LOC",
+      "start": 17497,
+      "end": 17510
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17532,
+      "end": 17539
+    },
+    {
+      "text": "Nordrhein- Westfalen!",
+      "label": "ORG",
+      "start": 17541,
+      "end": 17562
+    },
+    {
+      "text": "TEUSCH",
+      "label": "LOC",
+      "start": 17569,
+      "end": 17575
+    },
+    {
+      "text": "Nordrhein-Westfalen",
+      "label": "LOC",
+      "start": 17577,
+      "end": 17596
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17617,
+      "end": 17624
+    },
+    {
+      "text": "Rheinland-Pfalz!",
+      "label": "ORG",
+      "start": 17626,
+      "end": 17642
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "ORG",
+      "start": 17644,
+      "end": 17652
+    },
+    {
+      "text": "Rheinland-Pfalz",
+      "label": "LOC",
+      "start": 17654,
+      "end": 17669
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17691,
+      "end": 17698
+    },
+    {
+      "text": "Schleswig-Holstein!",
+      "label": "ORG",
+      "start": 17700,
+      "end": 17719
+    },
+    {
+      "text": "DIECKMANN",
+      "label": "LOC",
+      "start": 17720,
+      "end": 17729
+    },
+    {
+      "text": "Schleswig-Holstein",
+      "label": "LOC",
+      "start": 17731,
+      "end": 17749
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17771,
+      "end": 17778
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 17780,
+      "end": 17797
+    },
+    {
+      "text": "Württemberg-Baden",
+      "label": "LOC",
+      "start": 17811,
+      "end": 17828
+    },
+    {
+      "text": "ALBERTS",
+      "label": "ORG",
+      "start": 17850,
+      "end": 17857
+    },
+    {
+      "text": "Württemberg-Hohenzollern!",
+      "label": "ORG",
+      "start": 17859,
+      "end": 17884
+    },
+    {
+      "text": "Württemberg-Hohenzollern",
+      "label": "ORG",
+      "start": 17907,
+      "end": 17931
+    },
+    {
+      "text": "Ja!",
+      "label": "ORG",
+      "start": 17934,
+      "end": 17937
+    },
+    {
+      "text": "ALTMEIER",
+      "label": "ORG",
+      "start": 18245,
+      "end": 18253
+    },
+    {
+      "text": "Schriftführern",
+      "label": "LOC",
+      "start": 18422,
+      "end": 18436
+    },
+    {
+      "text": "verbindlichst",
+      "label": "LOC",
+      "start": 18634,
+      "end": 18647
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 18680,
+      "end": 18685
+    },
+    {
+      "text": "Alterspräsident",
+      "label": "PER",
+      "start": 19060,
+      "end": 19075
+    },
+    {
+      "text": "Orchester-Suite",
+      "label": "LOC",
+      "start": 19318,
+      "end": 19333
+    },
+    {
+      "text": "Bundesrepublik Deutschland",
+      "label": "LOC",
+      "start": 19422,
+      "end": 19448
+    },
+    {
+      "text": "Carthaus",
+      "label": "LOC",
+      "start": 19510,
+      "end": 19518
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 19520,
+      "end": 19524
+    },
+    {
+      "text": "NRW",
+      "label": "LOC",
+      "start": 19526,
+      "end": 19529
+    }
+  ]
+}

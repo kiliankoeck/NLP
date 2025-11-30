@@ -1,0 +1,1841 @@
+{
+  "filename": "NR_102.S_03.05.2021.xmi",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 77,
+      "end": 103
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nGro",
+      "label": "PER",
+      "start": 142,
+      "end": 167
+    },
+    {
+      "text": "Redoutensaal\n\n",
+      "label": "PER",
+      "start": 171,
+      "end": 185
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 188,
+      "end": 204
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "LOC",
+      "start": 232,
+      "end": 258
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nMontag",
+      "label": "PER",
+      "start": 277,
+      "end": 305
+    },
+    {
+      "text": "Monatserfolg M",
+      "label": "ORG",
+      "start": 813,
+      "end": 827
+    },
+    {
+      "text": "Bericht",
+      "label": "PER",
+      "start": 1001,
+      "end": 1008
+    },
+    {
+      "text": "Nationales Reformprogramm",
+      "label": "ORG",
+      "start": 1340,
+      "end": 1365
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1516,
+      "end": 1528
+    },
+    {
+      "text": "Susanne F",
+      "label": "PER",
+      "start": 1533,
+      "end": 1542
+    },
+    {
+      "text": "Hermann Br",
+      "label": "PER",
+      "start": 1686,
+      "end": 1696
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1783,
+      "end": 1794
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1869,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1900,
+      "end": 1911
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 1946,
+      "end": 1959
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1994,
+      "end": 2006
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2007,
+      "end": 2010
+    },
+    {
+      "text": "Klaus F",
+      "label": "PER",
+      "start": 2012,
+      "end": 2019
+    },
+    {
+      "text": "rlinger",
+      "label": "LOC",
+      "start": 2020,
+      "end": 2027
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2029,
+      "end": 2032
+    },
+    {
+      "text": "Wolfgang\n",
+      "label": "PER",
+      "start": 2034,
+      "end": 2043
+    },
+    {
+      "text": "Ing. Klaus Lindinger",
+      "label": "PER",
+      "start": 2051,
+      "end": 2071
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 2073,
+      "end": 2076
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 2078,
+      "end": 2094
+    },
+    {
+      "text": "Dietmar Keck",
+      "label": "PER",
+      "start": 2096,
+      "end": 2108
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 2110,
+      "end": 2126
+    },
+    {
+      "text": "Robert Laimer",
+      "label": "PER",
+      "start": 2128,
+      "end": 2141
+    },
+    {
+      "text": "Mario Lindner",
+      "label": "PER",
+      "start": 2143,
+      "end": 2156
+    },
+    {
+      "text": "Reinhard Eugen B",
+      "label": "PER",
+      "start": 2189,
+      "end": 2205
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2211,
+      "end": 2231
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2237,
+      "end": 2255
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2262,
+      "end": 2276
+    },
+    {
+      "text": "Ing. Mag",
+      "label": "PER",
+      "start": 2305,
+      "end": 2313
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2315,
+      "end": 2334
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 2341,
+      "end": 2357
+    },
+    {
+      "text": "Felix Eypeltauer",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2421,
+      "end": 2432
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 2545,
+      "end": 2550
+    },
+    {
+      "text": "Bundesminister fü",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3114
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3470,
+      "end": 3471
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3477,
+      "end": 3489
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3490,
+      "end": 3493
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 3495,
+      "end": 3512
+    },
+    {
+      "text": "Schwerarbeitspension",
+      "label": "ORG",
+      "start": 3611,
+      "end": 3631
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3663,
+      "end": 3664
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3670,
+      "end": 3682
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 3687,
+      "end": 3704
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3860,
+      "end": 3861
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3880,
+      "end": 3909
+    },
+    {
+      "text": "Pass",
+      "label": "PER",
+      "start": 3972,
+      "end": 3976
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3992,
+      "end": 3993
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4011
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4012,
+      "end": 4015
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4103,
+      "end": 4114
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4170,
+      "end": 4181
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4197,
+      "end": 4198
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4204,
+      "end": 4216
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4217,
+      "end": 4220
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 4222,
+      "end": 4236
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4344,
+      "end": 4345
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4351,
+      "end": 4363
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 4364,
+      "end": 4377
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4487,
+      "end": 4488
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4494,
+      "end": 4506
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 4507,
+      "end": 4530
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4651,
+      "end": 4652
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4670
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4671,
+      "end": 4674
+    },
+    {
+      "text": "Selma Yildirim",
+      "label": "PER",
+      "start": 4676,
+      "end": 4690
+    },
+    {
+      "text": "Bundesministerium fü",
+      "label": "LOC",
+      "start": 4776,
+      "end": 4796
+    },
+    {
+      "text": "Ausschusses",
+      "label": "LOC",
+      "start": 4897,
+      "end": 4908
+    },
+    {
+      "text": "Bundesministerin für EU",
+      "label": "ORG",
+      "start": 5000,
+      "end": 5023
+    },
+    {
+      "text": "Verfassung",
+      "label": "ORG",
+      "start": 5028,
+      "end": 5038
+    },
+    {
+      "text": "Bundesminister fü",
+      "label": "ORG",
+      "start": 5044,
+      "end": 5061
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 5084,
+      "end": 5116
+    },
+    {
+      "text": "Nationales Reformprogramm",
+      "label": "ORG",
+      "start": 5226,
+      "end": 5251
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 5301,
+      "end": 5312
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5350,
+      "end": 5351
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5422,
+      "end": 5423
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5469,
+      "end": 5470
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5514,
+      "end": 5515
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5528,
+      "end": 5529
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5603,
+      "end": 5604
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5617,
+      "end": 5618
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5662,
+      "end": 5663
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 5743,
+      "end": 5756
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6037,
+      "end": 6041
+    },
+    {
+      "text": "https://www.parlament.gv.at/siegel\n\n",
+      "label": "PER",
+      "start": 6237,
+      "end": 6273
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 77,
+      "end": 90
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 126,
+      "end": 129
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 232,
+      "end": 245
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 310,
+      "end": 313
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 349,
+      "end": 352
+    },
+    {
+      "text": "BA",
+      "label": "LOC",
+      "start": 809,
+      "end": 811
+    },
+    {
+      "text": "BA",
+      "label": "LOC",
+      "start": 997,
+      "end": 999
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1398
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PERS",
+      "start": 1529,
+      "end": 1546
+    },
+    {
+      "text": "Hermann Brückl, MA",
+      "label": "PERS",
+      "start": 1686,
+      "end": 1704
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 1773,
+      "end": 1776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1783,
+      "end": 1794
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PERS",
+      "start": 1869,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PERS",
+      "start": 1900,
+      "end": 1911
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1959
+    },
+    {
+      "text": "Mag. Klaus Fürlinger",
+      "label": "PERS",
+      "start": 2007,
+      "end": 2027
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 2029,
+      "end": 2033
+    },
+    {
+      "text": "Wolfgang",
+      "label": "LOC",
+      "start": 2034,
+      "end": 2042
+    },
+    {
+      "text": "Gerstl",
+      "label": "PERS",
+      "start": 2043,
+      "end": 2049
+    },
+    {
+      "text": "Ing. Klaus Lindinger, BSc",
+      "label": "PERS",
+      "start": 2051,
+      "end": 2076
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PERS",
+      "start": 2078,
+      "end": 2094
+    },
+    {
+      "text": "Dietmar Keck",
+      "label": "PERS",
+      "start": 2096,
+      "end": 2108
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PERS",
+      "start": 2110,
+      "end": 2126
+    },
+    {
+      "text": "Robert Laimer",
+      "label": "PERS",
+      "start": 2128,
+      "end": 2141
+    },
+    {
+      "text": "Mario Lindner",
+      "label": "PERS",
+      "start": 2143,
+      "end": 2156
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 2158,
+      "end": 2162
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2163,
+      "end": 2166
+    },
+    {
+      "text": "Petra Oberrauner",
+      "label": "PERS",
+      "start": 2167,
+      "end": 2183
+    },
+    {
+      "text": "Dr. Reinhard Eugen Bösch",
+      "label": "PERS",
+      "start": 2185,
+      "end": 2209
+    },
+    {
+      "text": "Christian Hafenecker, MA",
+      "label": "PERS",
+      "start": 2211,
+      "end": 2235
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PERS",
+      "start": 2237,
+      "end": 2255
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PERS",
+      "start": 2257,
+      "end": 2276
+    },
+    {
+      "text": "MMMag.",
+      "label": "PERS",
+      "start": 2278,
+      "end": 2284
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2285,
+      "end": 2288
+    },
+    {
+      "text": "Axel",
+      "label": "LOC",
+      "start": 2289,
+      "end": 2293
+    },
+    {
+      "text": "Kassegger",
+      "label": "PERS",
+      "start": 2294,
+      "end": 2303
+    },
+    {
+      "text": "Ing. Mag. Volker Reifenberger",
+      "label": "PERS",
+      "start": 2305,
+      "end": 2334
+    },
+    {
+      "text": "Mag. Philipp Schrangl",
+      "label": "PERS",
+      "start": 2336,
+      "end": 2357
+    },
+    {
+      "text": "Mag. Felix Eypeltauer",
+      "label": "PERS",
+      "start": 2362,
+      "end": 2383
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PERS",
+      "start": 2421,
+      "end": 2432
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 3093,
+      "end": 3096
+    },
+    {
+      "text": "BA",
+      "label": "LOC",
+      "start": 3137,
+      "end": 3139
+    },
+    {
+      "text": "BA",
+      "label": "LOC",
+      "start": 3363,
+      "end": 3365
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PERS",
+      "start": 3490,
+      "end": 3512
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PERS",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PERS",
+      "start": 3880,
+      "end": 3909
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PERS",
+      "start": 4012,
+      "end": 4031
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4103,
+      "end": 4114
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 4130,
+      "end": 4133
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PERS",
+      "start": 4170,
+      "end": 4181
+    },
+    {
+      "text": "Mag. Yannick Shetty",
+      "label": "PERS",
+      "start": 4217,
+      "end": 4236
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PERS",
+      "start": 4364,
+      "end": 4377
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PERS",
+      "start": 4507,
+      "end": 4530
+    },
+    {
+      "text": "Morden",
+      "label": "LOC",
+      "start": 4584,
+      "end": 4590
+    },
+    {
+      "text": "Mag. Selma Yildirim",
+      "label": "PERS",
+      "start": 4671,
+      "end": 4690
+    },
+    {
+      "text": "EU",
+      "label": "LOC",
+      "start": 5021,
+      "end": 5023
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 5040,
+      "end": 5043
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 5199,
+      "end": 5214
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PERS",
+      "start": 5301,
+      "end": 5312
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5743,
+      "end": 5756
+    },
+    {
+      "text": "Mai",
+      "label": "LOC",
+      "start": 5784,
+      "end": 5787
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6037,
+      "end": 6041
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 104,
+      "end": 114
+    },
+    {
+      "text": "Großer Redoutensaal",
+      "label": "LOC",
+      "start": 164,
+      "end": 183
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 259,
+      "end": 269
+    },
+    {
+      "text": "BM f",
+      "label": "ORG",
+      "start": 971,
+      "end": 975
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 977,
+      "end": 985
+    },
+    {
+      "text": "BM f",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1183
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 1185,
+      "end": 1193
+    },
+    {
+      "text": "BM f",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1261
+    },
+    {
+      "text": "Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1263,
+      "end": 1330
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 1366,
+      "end": 1376
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1425,
+      "end": 1495
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1533,
+      "end": 1546
+    },
+    {
+      "text": "für Bildung, Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1613,
+      "end": 1652
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1686,
+      "end": 1700
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1869,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1900,
+      "end": 1911
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 2012,
+      "end": 2027
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 2034,
+      "end": 2049
+    },
+    {
+      "text": "Klaus Lindinger",
+      "label": "PER",
+      "start": 2056,
+      "end": 2071
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 2078,
+      "end": 2094
+    },
+    {
+      "text": "Dietmar Keck",
+      "label": "PER",
+      "start": 2096,
+      "end": 2108
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 2110,
+      "end": 2126
+    },
+    {
+      "text": "Robert Laimer",
+      "label": "PER",
+      "start": 2128,
+      "end": 2141
+    },
+    {
+      "text": "Mario Lindner",
+      "label": "PER",
+      "start": 2143,
+      "end": 2156
+    },
+    {
+      "text": "Petra Oberrauner",
+      "label": "PER",
+      "start": 2167,
+      "end": 2183
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2189,
+      "end": 2209
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2211,
+      "end": 2231
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2242,
+      "end": 2255
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2262,
+      "end": 2276
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2289,
+      "end": 2303
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2315,
+      "end": 2334
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 2341,
+      "end": 2357
+    },
+    {
+      "text": "Felix Eypeltauer",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2421,
+      "end": 2432
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3441
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 3446,
+      "end": 3454
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 3495,
+      "end": 3512
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 3687,
+      "end": 3704
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3880,
+      "end": 3909
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4170,
+      "end": 4181
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 4222,
+      "end": 4236
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 4364,
+      "end": 4377
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 4434,
+      "end": 4444
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 4507,
+      "end": 4530
+    },
+    {
+      "text": "Selma Yildirim",
+      "label": "PER",
+      "start": 4676,
+      "end": 4690
+    },
+    {
+      "text": "Bundeswettbewerbsbehörde",
+      "label": "ORG",
+      "start": 4748,
+      "end": 4772
+    },
+    {
+      "text": "Bundesministerium für Justiz",
+      "label": "ORG",
+      "start": 4776,
+      "end": 4804
+    },
+    {
+      "text": "für EU und Verfassung",
+      "label": "ORG",
+      "start": 5017,
+      "end": 5038
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "label": "ORG",
+      "start": 5084,
+      "end": 5172
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 5301,
+      "end": 5312
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 5357,
+      "end": 5390
+    },
+    {
+      "text": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 5535,
+      "end": 5582
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6037,
+      "end": 6041
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 77,
+      "end": 114
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 232,
+      "end": 276
+    },
+    {
+      "text": "........................................................................................................",
+      "label": "LOC",
+      "start": 545,
+      "end": 649
+    },
+    {
+      "text": "...............................................................................................................",
+      "label": "PER",
+      "start": 682,
+      "end": 793
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 809,
+      "end": 811
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 971,
+      "end": 985
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 997,
+      "end": 999
+    },
+    {
+      "text": "BHG",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1031
+    },
+    {
+      "text": "BHG",
+      "label": "ORG",
+      "start": 1118,
+      "end": 1121
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1184
+    },
+    {
+      "text": "Österreichischer Aufbau- und Resilienzplan",
+      "label": "ORG",
+      "start": 1203,
+      "end": 1245
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1259
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 1425,
+      "end": 1465
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 1529,
+      "end": 1546
+    },
+    {
+      "text": "Bundesministers für Bildung, Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1597,
+      "end": 1652
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1686,
+      "end": 1700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1783,
+      "end": 1794
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1869,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1900,
+      "end": 1911
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1959
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1994,
+      "end": 2006
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 2012,
+      "end": 2027
+    },
+    {
+      "text": "Wolfgang\nGerstl",
+      "label": "PER",
+      "start": 2034,
+      "end": 2049
+    },
+    {
+      "text": "Ing. Klaus Lindinger",
+      "label": "PER",
+      "start": 2051,
+      "end": 2071
+    },
+    {
+      "text": "Gabriela Schwarz",
+      "label": "PER",
+      "start": 2078,
+      "end": 2094
+    },
+    {
+      "text": "Dietmar Keck",
+      "label": "PER",
+      "start": 2096,
+      "end": 2108
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 2110,
+      "end": 2126
+    },
+    {
+      "text": "Robert Laimer",
+      "label": "PER",
+      "start": 2128,
+      "end": 2141
+    },
+    {
+      "text": "Mario Lindner",
+      "label": "PER",
+      "start": 2143,
+      "end": 2156
+    },
+    {
+      "text": "Petra Oberrauner",
+      "label": "PER",
+      "start": 2167,
+      "end": 2183
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2189,
+      "end": 2209
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2211,
+      "end": 2231
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2242,
+      "end": 2255
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2257,
+      "end": 2260
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2262,
+      "end": 2276
+    },
+    {
+      "text": "MMMag",
+      "label": "ORG",
+      "start": 2278,
+      "end": 2283
+    },
+    {
+      "text": "Axel\nKassegger",
+      "label": "PER",
+      "start": 2289,
+      "end": 2303
+    },
+    {
+      "text": "Ing. Mag",
+      "label": "PER",
+      "start": 2305,
+      "end": 2313
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 2315,
+      "end": 2334
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 2341,
+      "end": 2357
+    },
+    {
+      "text": "Felix Eypeltauer",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2421,
+      "end": 2432
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2660,
+      "end": 2674
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 2740,
+      "end": 2745
+    },
+    {
+      "text": "Monatserfolg",
+      "label": "LOC",
+      "start": 2925,
+      "end": 2937
+    },
+    {
+      "text": "Bundesminister für Finanzen",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3124
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 3137,
+      "end": 3139
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 3153,
+      "end": 3181
+    },
+    {
+      "text": "BHG",
+      "label": "ORG",
+      "start": 3201,
+      "end": 3204
+    },
+    {
+      "text": "BHG",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3294
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 3363,
+      "end": 3365
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3470,
+      "end": 3471
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3477,
+      "end": 3489
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 3495,
+      "end": 3512
+    },
+    {
+      "text": "Schwerarbeitspension",
+      "label": "LOC",
+      "start": 3611,
+      "end": 3631
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3663,
+      "end": 3664
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3860,
+      "end": 3861
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3880,
+      "end": 3909
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3992,
+      "end": 3993
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4011
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Grünen Pass",
+      "label": "ORG",
+      "start": 4089,
+      "end": 4100
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4103,
+      "end": 4114
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4170,
+      "end": 4181
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4197,
+      "end": 4198
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4204,
+      "end": 4216
+    },
+    {
+      "text": "Yannick Shetty",
+      "label": "PER",
+      "start": 4222,
+      "end": 4236
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4344,
+      "end": 4345
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 4364,
+      "end": 4377
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 4434,
+      "end": 4444
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4487,
+      "end": 4488
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 4507,
+      "end": 4530
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4651,
+      "end": 4652
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4670
+    },
+    {
+      "text": "Selma Yildirim",
+      "label": "PER",
+      "start": 4676,
+      "end": 4690
+    },
+    {
+      "text": "Bundesministerium für\nJustiz\nb",
+      "label": "ORG",
+      "start": 4776,
+      "end": 4806
+    },
+    {
+      "text": "Enderledigung",
+      "label": "LOC",
+      "start": 4812,
+      "end": 4825
+    },
+    {
+      "text": "Österreichischer Aufbau- und Resilienzplan",
+      "label": "ORG",
+      "start": 4928,
+      "end": 4970
+    },
+    {
+      "text": "Bundesministerin für EU",
+      "label": "ORG",
+      "start": 5000,
+      "end": 5023
+    },
+    {
+      "text": "Bundesminister für Finanzen und von",
+      "label": "ORG",
+      "start": 5044,
+      "end": 5079
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 5084,
+      "end": 5116
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 5252,
+      "end": 5262
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 5301,
+      "end": 5312
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5350,
+      "end": 5351
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5422,
+      "end": 5423
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5469,
+      "end": 5470
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5514,
+      "end": 5515
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5528,
+      "end": 5529
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5603,
+      "end": 5604
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5617,
+      "end": 5618
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 5662,
+      "end": 5663
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5743,
+      "end": 5756
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "LOC",
+      "start": 6012,
+      "end": 6031
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6037,
+      "end": 6041
+    }
+  ]
+}

@@ -1,0 +1,7763 @@
+{
+  "filename": "NR_10.S_06.11.1956.xmi",
+  "ground_truth": [
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 12,
+      "end": 19
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 86,
+      "end": 102
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 129,
+      "end": 155
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\n",
+      "label": "PER",
+      "start": 177,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 320,
+      "end": 331
+    },
+    {
+      "text": "Dr. Hu r d e s",
+      "label": "PER",
+      "start": 358,
+      "end": 372
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 431,
+      "end": 443
+    },
+    {
+      "text": "Postgesetz",
+      "label": "LOC",
+      "start": 983,
+      "end": 993
+    },
+    {
+      "text": "Verkehrsausschu",
+      "label": "LOC",
+      "start": 996,
+      "end": 1011
+    },
+    {
+      "text": "Genehmi",
+      "label": "PER",
+      "start": 1076,
+      "end": 1083
+    },
+    {
+      "text": "Wu n d e r\n",
+      "label": "ORG",
+      "start": 1183,
+      "end": 1194
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 1230,
+      "end": 1236
+    },
+    {
+      "text": ".Jugoslawien",
+      "label": "LOC",
+      "start": 1331,
+      "end": 1343
+    },
+    {
+      "text": "Bundesminister fü",
+      "label": "ORG",
+      "start": 1422,
+      "end": 1439
+    },
+    {
+      "text": "S e b i n g e r",
+      "label": "LOC",
+      "start": 1545,
+      "end": 1560
+    },
+    {
+      "text": "Bundesminister",
+      "label": "LOC",
+      "start": 1581,
+      "end": 1595
+    },
+    {
+      "text": "Ho n n e r",
+      "label": "LOC",
+      "start": 1784,
+      "end": 1794
+    },
+    {
+      "text": "E i b e g g e r",
+      "label": "LOC",
+      "start": 1805,
+      "end": 1820
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 1857,
+      "end": 1867
+    },
+    {
+      "text": "Urlaub",
+      "label": "PER",
+      "start": 2442,
+      "end": 2448
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 2464,
+      "end": 2469
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2782,
+      "end": 2794
+    },
+    {
+      "text": "B e a n t w o r t u n g",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2835
+    },
+    {
+      "text": "Dr. Kranzlmayr",
+      "label": "PER",
+      "start": 2844,
+      "end": 2858
+    },
+    {
+      "text": "Franz Mayr",
+      "label": "PER",
+      "start": 2860,
+      "end": 2870
+    },
+    {
+      "text": "Reich",
+      "label": "ORG",
+      "start": 2872,
+      "end": 2877
+    },
+    {
+      "text": "f r a g e 25",
+      "label": "ORG",
+      "start": 2882,
+      "end": 2894
+    },
+    {
+      "text": "Appel",
+      "label": "PER",
+      "start": 2912,
+      "end": 2917
+    },
+    {
+      "text": "Stoll",
+      "label": "PER",
+      "start": 2926,
+      "end": 2931
+    },
+    {
+      "text": "Herrn Bundesminister",
+      "label": "ORG",
+      "start": 2947,
+      "end": 2967
+    },
+    {
+      "text": "Abgeord",
+      "label": "LOC",
+      "start": 3055,
+      "end": 3062
+    },
+    {
+      "text": "Eichinger",
+      "label": "PER",
+      "start": 3070,
+      "end": 3079
+    },
+    {
+      "text": "Josef Fink",
+      "label": "PER",
+      "start": 3085,
+      "end": 3095
+    },
+    {
+      "text": "St",
+      "label": "LOC",
+      "start": 3150,
+      "end": 3152
+    },
+    {
+      "text": "Br",
+      "label": "LOC",
+      "start": 3194,
+      "end": 3196
+    },
+    {
+      "text": "Enns",
+      "label": "LOC",
+      "start": 3205,
+      "end": 3209
+    },
+    {
+      "text": "Herrn Landeshauptmannstellvertreters Kargl",
+      "label": "PER",
+      "start": 3267,
+      "end": 3309
+    },
+    {
+      "text": "Cerny",
+      "label": "PER",
+      "start": 3395,
+      "end": 3400
+    },
+    {
+      "text": "Nationalrates\n",
+      "label": "ORG",
+      "start": 3523,
+      "end": 3537
+    },
+    {
+      "text": "Proto",
+      "label": "LOC",
+      "start": 3703,
+      "end": 3708
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 3757,
+      "end": 3764
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 4005,
+      "end": 4010
+    },
+    {
+      "text": "EST",
+      "label": "ORG",
+      "start": 4238,
+      "end": 4241
+    },
+    {
+      "text": "Ver­",
+      "label": "LOC",
+      "start": 4857,
+      "end": 4861
+    },
+    {
+      "text": "Verfahrens",
+      "label": "LOC",
+      "start": 5169,
+      "end": 5179
+    },
+    {
+      "text": "Sach",
+      "label": "LOC",
+      "start": 5426,
+      "end": 5430
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 5457,
+      "end": 5465
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 5623,
+      "end": 5631
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 5657,
+      "end": 5663
+    },
+    {
+      "text": "Rechnungshofausschusses",
+      "label": "LOC",
+      "start": 6142,
+      "end": 6165
+    },
+    {
+      "text": "Reisegeb",
+      "label": "ORG",
+      "start": 6276,
+      "end": 6284
+    },
+    {
+      "text": "rift",
+      "label": "PER",
+      "start": 6296,
+      "end": 6300
+    },
+    {
+      "text": "Aigner",
+      "label": "PER",
+      "start": 6930,
+      "end": 6936
+    },
+    {
+      "text": "Rechnungs­",
+      "label": "ORG",
+      "start": 7027,
+      "end": 7037
+    },
+    {
+      "text": "Bundesscha",
+      "label": "LOC",
+      "start": 7053,
+      "end": 7063
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "LOC",
+      "start": 7095,
+      "end": 7117
+    },
+    {
+      "text": "Republik",
+      "label": "LOC",
+      "start": 7165,
+      "end": 7173
+    },
+    {
+      "text": "Verwaltungs",
+      "label": "LOC",
+      "start": 7193,
+      "end": 7204
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 7279,
+      "end": 7285
+    },
+    {
+      "text": "Nationalbankgesetzes",
+      "label": "LOC",
+      "start": 7292,
+      "end": 7312
+    },
+    {
+      "text": "H",
+      "label": "LOC",
+      "start": 7437,
+      "end": 7438
+    },
+    {
+      "text": "23.043,188.000 S",
+      "label": "PER",
+      "start": 7446,
+      "end": 7462
+    },
+    {
+      "text": "22.173,458.000 S",
+      "label": "PER",
+      "start": 7493,
+      "end": 7509
+    },
+    {
+      "text": "Bundes",
+      "label": "PER",
+      "start": 7773,
+      "end": 7779
+    },
+    {
+      "text": "Preisst",
+      "label": "PER",
+      "start": 7791,
+      "end": 7798
+    },
+    {
+      "text": "869,730.000 S",
+      "label": "PER",
+      "start": 7827,
+      "end": 7840
+    },
+    {
+      "text": "1.730,565.000 S",
+      "label": "ORG",
+      "start": 7969,
+      "end": 7984
+    },
+    {
+      "text": "Stra",
+      "label": "LOC",
+      "start": 8030,
+      "end": 8034
+    },
+    {
+      "text": "2.600,295.000 S",
+      "label": "PER",
+      "start": 8061,
+      "end": 8076
+    },
+    {
+      "text": "26.882'2 Mil",
+      "label": "ORG",
+      "start": 8335,
+      "end": 8347
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 8595,
+      "end": 8602
+    },
+    {
+      "text": "UdSSR",
+      "label": "ORG",
+      "start": 8699,
+      "end": 8704
+    },
+    {
+      "text": "Soziale Verwaltung",
+      "label": "LOC",
+      "start": 9087,
+      "end": 9105
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 9560,
+      "end": 9566
+    },
+    {
+      "text": "Ausgleichsfonds",
+      "label": "LOC",
+      "start": 9919,
+      "end": 9934
+    },
+    {
+      "text": "Ausgleichsfonds",
+      "label": "LOC",
+      "start": 10051,
+      "end": 10066
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 10192,
+      "end": 10198
+    },
+    {
+      "text": "Rechnungshofausschusses",
+      "label": "LOC",
+      "start": 10252,
+      "end": 10275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10308,
+      "end": 10319
+    },
+    {
+      "text": "Bundesrech",
+      "label": "PER",
+      "start": 10451,
+      "end": 10461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10494,
+      "end": 10505
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "LOC",
+      "start": 10531,
+      "end": 10543
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "PER",
+      "start": 10574,
+      "end": 10596
+    },
+    {
+      "text": "Republik",
+      "label": "LOC",
+      "start": 10602,
+      "end": 10610
+    },
+    {
+      "text": "Verwal",
+      "label": "LOC",
+      "start": 10630,
+      "end": 10636
+    },
+    {
+      "text": "Herr Berichterstatter",
+      "label": "LOC",
+      "start": 10826,
+      "end": 10847
+    },
+    {
+      "text": "Abgeordnete Honner",
+      "label": "LOC",
+      "start": 11080,
+      "end": 11098
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 11171,
+      "end": 11183
+    },
+    {
+      "text": "SP",
+      "label": "ORG",
+      "start": 11193,
+      "end": 11195
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 11201,
+      "end": 11204
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 11226,
+      "end": 11238
+    },
+    {
+      "text": "Damen",
+      "label": "ORG",
+      "start": 11260,
+      "end": 11265
+    },
+    {
+      "text": "Finanz",
+      "label": "PER",
+      "start": 11520,
+      "end": 11526
+    },
+    {
+      "text": "Finanzministers",
+      "label": "LOC",
+      "start": 11638,
+      "end": 11653
+    },
+    {
+      "text": "Erf",
+      "label": "LOC",
+      "start": 11815,
+      "end": 11818
+    },
+    {
+      "text": "Wü",
+      "label": "PER",
+      "start": 11829,
+      "end": 11831
+    },
+    {
+      "text": "Mehrein",
+      "label": "PER",
+      "start": 12087,
+      "end": 12094
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "LOC",
+      "start": 12137,
+      "end": 12159
+    },
+    {
+      "text": "Mil",
+      "label": "ORG",
+      "start": 12246,
+      "end": 12249
+    },
+    {
+      "text": "1'6 Mil",
+      "label": "ORG",
+      "start": 12774,
+      "end": 12781
+    },
+    {
+      "text": "Rechnungshofausschu",
+      "label": "LOC",
+      "start": 12870,
+      "end": 12889
+    },
+    {
+      "text": "Rechnungshofes Dr. Frenzel",
+      "label": "ORG",
+      "start": 12913,
+      "end": 12939
+    },
+    {
+      "text": "Finanz­",
+      "label": "ORG",
+      "start": 13374,
+      "end": 13381
+    },
+    {
+      "text": "Budgetans",
+      "label": "LOC",
+      "start": 13443,
+      "end": 13452
+    },
+    {
+      "text": "Budgetrede",
+      "label": "ORG",
+      "start": 13644,
+      "end": 13654
+    },
+    {
+      "text": "Kamitz",
+      "label": "LOC",
+      "start": 13670,
+      "end": 13676
+    },
+    {
+      "text": "www.parlament.gv.at",
+      "label": "PER",
+      "start": 13720,
+      "end": 13739
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 13763,
+      "end": 13770
+    },
+    {
+      "text": "Rechnungsabschlu",
+      "label": "LOC",
+      "start": 14029,
+      "end": 14045
+    },
+    {
+      "text": "Budgetrahmens",
+      "label": "ORG",
+      "start": 14520,
+      "end": 14533
+    },
+    {
+      "text": "Tats",
+      "label": "PER",
+      "start": 14852,
+      "end": 14856
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 14987,
+      "end": 14993
+    },
+    {
+      "text": "Invaliden",
+      "label": "LOC",
+      "start": 15002,
+      "end": 15011
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "PER",
+      "start": 15768,
+      "end": 15790
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 15885,
+      "end": 15899
+    },
+    {
+      "text": "Budgets fü",
+      "label": "LOC",
+      "start": 15983,
+      "end": 15993
+    },
+    {
+      "text": "St",
+      "label": "LOC",
+      "start": 16031,
+      "end": 16033
+    },
+    {
+      "text": "Beitragsein",
+      "label": "LOC",
+      "start": 16044,
+      "end": 16055
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 16223,
+      "end": 16227
+    },
+    {
+      "text": "Einnahmeans",
+      "label": "PER",
+      "start": 16241,
+      "end": 16252
+    },
+    {
+      "text": "Klarer",
+      "label": "PER",
+      "start": 16392,
+      "end": 16398
+    },
+    {
+      "text": "Finanzmini",
+      "label": "PER",
+      "start": 16787,
+      "end": 16797
+    },
+    {
+      "text": "Sozialversicherungsbeitr",
+      "label": "PER",
+      "start": 16898,
+      "end": 16922
+    },
+    {
+      "text": "Bediensteten",
+      "label": "PER",
+      "start": 16946,
+      "end": 16958
+    },
+    {
+      "text": "Faschismus",
+      "label": "ORG",
+      "start": 17048,
+      "end": 17058
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 17066,
+      "end": 17080
+    },
+    {
+      "text": "taub",
+      "label": "PER",
+      "start": 17118,
+      "end": 17122
+    },
+    {
+      "text": "läßt",
+      "label": "PER",
+      "start": 17135,
+      "end": 17139
+    },
+    {
+      "text": "Erf",
+      "label": "LOC",
+      "start": 17152,
+      "end": 17155
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 17177,
+      "end": 17181
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 17485,
+      "end": 17491
+    },
+    {
+      "text": "Arbeitslosenversicherungsbeitr",
+      "label": "LOC",
+      "start": 17831,
+      "end": 17861
+    },
+    {
+      "text": "Arbei",
+      "label": "LOC",
+      "start": 17870,
+      "end": 17875
+    },
+    {
+      "text": "VP-Ministern",
+      "label": "ORG",
+      "start": 17994,
+      "end": 18006
+    },
+    {
+      "text": "Tats",
+      "label": "PER",
+      "start": 18026,
+      "end": 18030
+    },
+    {
+      "text": "Arbeitslosenunterst",
+      "label": "LOC",
+      "start": 18293,
+      "end": 18312
+    },
+    {
+      "text": "Beitr",
+      "label": "PER",
+      "start": 18671,
+      "end": 18676
+    },
+    {
+      "text": "Staats",
+      "label": "LOC",
+      "start": 18935,
+      "end": 18941
+    },
+    {
+      "text": "www.parlament.gv.at\n\n",
+      "label": "PER",
+      "start": 19150,
+      "end": 19171
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 19239,
+      "end": 19246
+    },
+    {
+      "text": "Arbeitslosen",
+      "label": "LOC",
+      "start": 19725,
+      "end": 19737
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 20130,
+      "end": 20136
+    },
+    {
+      "text": "Arbeitslosen",
+      "label": "LOC",
+      "start": 20151,
+      "end": 20163
+    },
+    {
+      "text": "Kamitz",
+      "label": "LOC",
+      "start": 20212,
+      "end": 20218
+    },
+    {
+      "text": "Arbeitslosen",
+      "label": "LOC",
+      "start": 20257,
+      "end": 20269
+    },
+    {
+      "text": "Finanz",
+      "label": "PER",
+      "start": 20482,
+      "end": 20488
+    },
+    {
+      "text": "Bundes",
+      "label": "PER",
+      "start": 20581,
+      "end": 20587
+    },
+    {
+      "text": "Einkommensteuer",
+      "label": "LOC",
+      "start": 20742,
+      "end": 20757
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 20836,
+      "end": 20850
+    },
+    {
+      "text": "Besch",
+      "label": "LOC",
+      "start": 21035,
+      "end": 21040
+    },
+    {
+      "text": "ckstabd",
+      "label": "PER",
+      "start": 21083,
+      "end": 21090
+    },
+    {
+      "text": "S",
+      "label": "LOC",
+      "start": 21269,
+      "end": 21270
+    },
+    {
+      "text": "Minder",
+      "label": "LOC",
+      "start": 21316,
+      "end": 21322
+    },
+    {
+      "text": "Besch",
+      "label": "LOC",
+      "start": 21510,
+      "end": 21515
+    },
+    {
+      "text": "Rechnungs",
+      "label": "ORG",
+      "start": 21578,
+      "end": 21587
+    },
+    {
+      "text": "abschlu",
+      "label": "PER",
+      "start": 21638,
+      "end": 21645
+    },
+    {
+      "text": "H",
+      "label": "LOC",
+      "start": 21722,
+      "end": 21723
+    },
+    {
+      "text": "Heilf",
+      "label": "PER",
+      "start": 22125,
+      "end": 22130
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 22452,
+      "end": 22458
+    },
+    {
+      "text": "Haftentsch",
+      "label": "ORG",
+      "start": 22489,
+      "end": 22499
+    },
+    {
+      "text": "Steuerschulden",
+      "label": "LOC",
+      "start": 22603,
+      "end": 22617
+    },
+    {
+      "text": "Steuerschulden",
+      "label": "LOC",
+      "start": 22703,
+      "end": 22717
+    },
+    {
+      "text": "Millionen",
+      "label": "LOC",
+      "start": 22755,
+      "end": 22764
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 22944,
+      "end": 22950
+    },
+    {
+      "text": "Faschismus",
+      "label": "ORG",
+      "start": 23088,
+      "end": 23098
+    },
+    {
+      "text": "Steuermilde",
+      "label": "LOC",
+      "start": 23314,
+      "end": 23325
+    },
+    {
+      "text": "Finanzministeriums",
+      "label": "ORG",
+      "start": 23416,
+      "end": 23434
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 23528,
+      "end": 23534
+    },
+    {
+      "text": "Herrn Finanzministers Kamitz",
+      "label": "ORG",
+      "start": 23593,
+      "end": 23621
+    },
+    {
+      "text": "Gro",
+      "label": "LOC",
+      "start": 23779,
+      "end": 23782
+    },
+    {
+      "text": "Bev",
+      "label": "PER",
+      "start": 23863,
+      "end": 23866
+    },
+    {
+      "text": "Landes",
+      "label": "LOC",
+      "start": 23892,
+      "end": 23898
+    },
+    {
+      "text": "Warenumsatz",
+      "label": "PER",
+      "start": 24346,
+      "end": 24357
+    },
+    {
+      "text": "www.parlament.gv.at",
+      "label": "PER",
+      "start": 24550,
+      "end": 24569
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 24593,
+      "end": 24600
+    },
+    {
+      "text": "Gewerkschaften",
+      "label": "ORG",
+      "start": 25250,
+      "end": 25264
+    },
+    {
+      "text": "Bundeszuschlags",
+      "label": "ORG",
+      "start": 25774,
+      "end": 25789
+    },
+    {
+      "text": "Herr Finanzminister",
+      "label": "LOC",
+      "start": 25806,
+      "end": 25825
+    },
+    {
+      "text": "Erf",
+      "label": "LOC",
+      "start": 25890,
+      "end": 25893
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 26013,
+      "end": 26019
+    },
+    {
+      "text": "läßt",
+      "label": "PER",
+      "start": 26035,
+      "end": 26039
+    },
+    {
+      "text": "Erf",
+      "label": "LOC",
+      "start": 26132,
+      "end": 26135
+    },
+    {
+      "text": "Konsum",
+      "label": "ORG",
+      "start": 26440,
+      "end": 26446
+    },
+    {
+      "text": "nungsabschlu",
+      "label": "PER",
+      "start": 26661,
+      "end": 26673
+    },
+    {
+      "text": "Finanzministers Dr. Kamitz",
+      "label": "PER",
+      "start": 27275,
+      "end": 27301
+    },
+    {
+      "text": "Bü",
+      "label": "LOC",
+      "start": 27360,
+      "end": 27362
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "PER",
+      "start": 27525,
+      "end": 27547
+    },
+    {
+      "text": "Rechnungsabschlu",
+      "label": "PER",
+      "start": 27592,
+      "end": 27608
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "LOC",
+      "start": 27711,
+      "end": 27725
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 28042,
+      "end": 28054
+    },
+    {
+      "text": "SP",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28107
+    },
+    {
+      "text": "FP",
+      "label": "ORG",
+      "start": 28113,
+      "end": 28115
+    },
+    {
+      "text": "Karl Ausch",
+      "label": "PER",
+      "start": 28196,
+      "end": 28206
+    },
+    {
+      "text": "ck.",
+      "label": "PER",
+      "start": 28229,
+      "end": 28232
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 28235,
+      "end": 28247
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 28377,
+      "end": 28390
+    },
+    {
+      "text": "Staaten",
+      "label": "LOC",
+      "start": 28552,
+      "end": 28559
+    },
+    {
+      "text": "lker",
+      "label": "PER",
+      "start": 28639,
+      "end": 28643
+    },
+    {
+      "text": "Heuchelei",
+      "label": "LOC",
+      "start": 28710,
+      "end": 28719
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 28797,
+      "end": 28810
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 28955,
+      "end": 28967
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 28968,
+      "end": 28974
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 29019,
+      "end": 29030
+    },
+    {
+      "text": "häßliche Pferdefu",
+      "label": "ORG",
+      "start": 29044,
+      "end": 29061
+    },
+    {
+      "text": "Rech",
+      "label": "LOC",
+      "start": 29613,
+      "end": 29617
+    },
+    {
+      "text": "www.parlament.gv.at",
+      "label": "PER",
+      "start": 29734,
+      "end": 29753
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 29767,
+      "end": 29774
+    },
+    {
+      "text": "Herr Finanzminister",
+      "label": "LOC",
+      "start": 30424,
+      "end": 30443
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 30548,
+      "end": 30562
+    },
+    {
+      "text": "Finanzministers",
+      "label": "LOC",
+      "start": 30852,
+      "end": 30867
+    },
+    {
+      "text": "Finanzministeriums",
+      "label": "ORG",
+      "start": 30925,
+      "end": 30943
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 30963,
+      "end": 30977
+    },
+    {
+      "text": "Herrn Finanz",
+      "label": "PER",
+      "start": 31199,
+      "end": 31211
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 31562,
+      "end": 31576
+    },
+    {
+      "text": "Beschlu",
+      "label": "PER",
+      "start": 31694,
+      "end": 31701
+    },
+    {
+      "text": "Ministerrates",
+      "label": "ORG",
+      "start": 31707,
+      "end": 31720
+    },
+    {
+      "text": "Mitgliedern der Bundesregierung",
+      "label": "ORG",
+      "start": 31785,
+      "end": 31816
+    },
+    {
+      "text": "Ministerrates",
+      "label": "LOC",
+      "start": 31839,
+      "end": 31852
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 31964,
+      "end": 31974
+    },
+    {
+      "text": "Rechnungs",
+      "label": "ORG",
+      "start": 32173,
+      "end": 32182
+    },
+    {
+      "text": "abschlu",
+      "label": "PER",
+      "start": 32184,
+      "end": 32191
+    },
+    {
+      "text": "Abg",
+      "label": "LOC",
+      "start": 32379,
+      "end": 32382
+    },
+    {
+      "text": "r Kam-itz!",
+      "label": "ORG",
+      "start": 32431,
+      "end": 32441
+    },
+    {
+      "text": "Rechnungs",
+      "label": "ORG",
+      "start": 32626,
+      "end": 32635
+    },
+    {
+      "text": "B",
+      "label": "LOC",
+      "start": 33341,
+      "end": 33342
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 33519,
+      "end": 33525
+    },
+    {
+      "text": "Rechnungsabschlu",
+      "label": "LOC",
+      "start": 33974,
+      "end": 33990
+    },
+    {
+      "text": "ckst",
+      "label": "ORG",
+      "start": 34347,
+      "end": 34351
+    },
+    {
+      "text": "Steuerr",
+      "label": "PER",
+      "start": 34453,
+      "end": 34460
+    },
+    {
+      "text": "Folgejahres",
+      "label": "PER",
+      "start": 34643,
+      "end": 34654
+    },
+    {
+      "text": "Steuer",
+      "label": "PER",
+      "start": 34772,
+      "end": 34778
+    },
+    {
+      "text": "Finanzbeh",
+      "label": "LOC",
+      "start": 34925,
+      "end": 34934
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 34997,
+      "end": 35004
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 35180,
+      "end": 35186
+    },
+    {
+      "text": "Gehalt",
+      "label": "PER",
+      "start": 35401,
+      "end": 35407
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 35502,
+      "end": 35508
+    },
+    {
+      "text": "Finanzministerium",
+      "label": "LOC",
+      "start": 36068,
+      "end": 36085
+    },
+    {
+      "text": "Landes",
+      "label": "LOC",
+      "start": 36095,
+      "end": 36101
+    },
+    {
+      "text": "Steuernachl",
+      "label": "PER",
+      "start": 36112,
+      "end": 36123
+    },
+    {
+      "text": "Steuerstundun",
+      "label": "LOC",
+      "start": 36132,
+      "end": 36145
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 36316,
+      "end": 36321
+    },
+    {
+      "text": "Finanzministers",
+      "label": "LOC",
+      "start": 36362,
+      "end": 36377
+    },
+    {
+      "text": "Kommis",
+      "label": "LOC",
+      "start": 36399,
+      "end": 36405
+    },
+    {
+      "text": "Vorg",
+      "label": "PER",
+      "start": 36421,
+      "end": 36425
+    },
+    {
+      "text": "nge",
+      "label": "ORG",
+      "start": 36426,
+      "end": 36429
+    },
+    {
+      "text": "Einflu",
+      "label": "ORG",
+      "start": 36544,
+      "end": 36550
+    },
+    {
+      "text": "Finanzbeh",
+      "label": "PER",
+      "start": 36821,
+      "end": 36830
+    },
+    {
+      "text": "Nachl",
+      "label": "LOC",
+      "start": 37015,
+      "end": 37020
+    },
+    {
+      "text": "Rechnungshofausschu",
+      "label": "LOC",
+      "start": 37067,
+      "end": 37086
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 37327,
+      "end": 37331
+    },
+    {
+      "text": "Steuer",
+      "label": "PER",
+      "start": 37352,
+      "end": 37358
+    },
+    {
+      "text": "Z",
+      "label": "ORG",
+      "start": 37364,
+      "end": 37365
+    },
+    {
+      "text": "Umsatzsteuerr",
+      "label": "PER",
+      "start": 37372,
+      "end": 37385
+    },
+    {
+      "text": "Gemeinden\n\n",
+      "label": "PER",
+      "start": 37499,
+      "end": 37510
+    },
+    {
+      "text": "Bundes­",
+      "label": "ORG",
+      "start": 37633,
+      "end": 37640
+    },
+    {
+      "text": "Verwaltungs",
+      "label": "LOC",
+      "start": 37675,
+      "end": 37686
+    },
+    {
+      "text": "Redner",
+      "label": "PER",
+      "start": 38226,
+      "end": 38232
+    },
+    {
+      "text": "Dipl.",
+      "label": "PER",
+      "start": 38320,
+      "end": 38325
+    },
+    {
+      "text": "Dr. Lechner",
+      "label": "PER",
+      "start": 38368,
+      "end": 38379
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Lechner",
+      "label": "PER",
+      "start": 38462,
+      "end": 38484
+    },
+    {
+      "text": "Haus!",
+      "label": "ORG",
+      "start": 38614,
+      "end": 38619
+    },
+    {
+      "text": "nungsabschlu",
+      "label": "PER",
+      "start": 38748,
+      "end": 38760
+    },
+    {
+      "text": "re",
+      "label": "PER",
+      "start": 38800,
+      "end": 38802
+    },
+    {
+      "text": "Beschluß",
+      "label": "PER",
+      "start": 38872,
+      "end": 38880
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39037,
+      "end": 39048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 39326,
+      "end": 39339
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39419,
+      "end": 39430
+    },
+    {
+      "text": "Verfassungsgerichts",
+      "label": "LOC",
+      "start": 39921,
+      "end": 39940
+    },
+    {
+      "text": "www.parlament.gv.at",
+      "label": "PER",
+      "start": 40189,
+      "end": 40208
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 40228,
+      "end": 40235
+    },
+    {
+      "text": "Vertr",
+      "label": "ORG",
+      "start": 40798,
+      "end": 40803
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 41305,
+      "end": 41316
+    },
+    {
+      "text": "Mein Vorredner",
+      "label": "PER",
+      "start": 41377,
+      "end": 41391
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 41410,
+      "end": 41418
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 41443,
+      "end": 41457
+    },
+    {
+      "text": "Zeit\n",
+      "label": "ORG",
+      "start": 41816,
+      "end": 41821
+    },
+    {
+      "text": "soda",
+      "label": "LOC",
+      "start": 42127,
+      "end": 42131
+    },
+    {
+      "text": "Finanz­",
+      "label": "LOC",
+      "start": 42229,
+      "end": 42236
+    },
+    {
+      "text": "Unterneh",
+      "label": "LOC",
+      "start": 42268,
+      "end": 42276
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 42336,
+      "end": 42342
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "LOC",
+      "start": 42584,
+      "end": 42598
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 42772,
+      "end": 42783
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 42826,
+      "end": 42834
+    },
+    {
+      "text": "Rech",
+      "label": "LOC",
+      "start": 42928,
+      "end": 42932
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 43017,
+      "end": 43030
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 43285,
+      "end": 43298
+    },
+    {
+      "text": "Real",
+      "label": "ORG",
+      "start": 43520,
+      "end": 43524
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 43604,
+      "end": 43612
+    },
+    {
+      "text": "grunds",
+      "label": "LOC",
+      "start": 43718,
+      "end": 43724
+    },
+    {
+      "text": "Finanzminister Dr. Kamitz",
+      "label": "PER",
+      "start": 43795,
+      "end": 43820
+    },
+    {
+      "text": "Ans",
+      "label": "LOC",
+      "start": 43976,
+      "end": 43979
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 44218,
+      "end": 44226
+    },
+    {
+      "text": "Optimismus",
+      "label": "PER",
+      "start": 44640,
+      "end": 44650
+    },
+    {
+      "text": "Herrn Finanzministers",
+      "label": "ORG",
+      "start": 44694,
+      "end": 44715
+    },
+    {
+      "text": "Staats b",
+      "label": "LOC",
+      "start": 44847,
+      "end": 44855
+    },
+    {
+      "text": "rgern",
+      "label": "LOC",
+      "start": 44856,
+      "end": 44861
+    },
+    {
+      "text": "Unselbst",
+      "label": "LOC",
+      "start": 45002,
+      "end": 45010
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 45499,
+      "end": 45506
+    },
+    {
+      "text": "Steuer",
+      "label": "PER",
+      "start": 45783,
+      "end": 45789
+    },
+    {
+      "text": "Vorschl",
+      "label": "PER",
+      "start": 45955,
+      "end": 45962
+    },
+    {
+      "text": "Abschlu",
+      "label": "LOC",
+      "start": 46477,
+      "end": 46484
+    },
+    {
+      "text": "Geschehens",
+      "label": "LOC",
+      "start": 46614,
+      "end": 46624
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "PER",
+      "start": 46699,
+      "end": 46721
+    },
+    {
+      "text": "Bundesrechnungs",
+      "label": "PER",
+      "start": 47088,
+      "end": 47103
+    },
+    {
+      "text": "abschlu",
+      "label": "PER",
+      "start": 47105,
+      "end": 47112
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 47133,
+      "end": 47137
+    },
+    {
+      "text": "rmer",
+      "label": "PER",
+      "start": 47427,
+      "end": 47431
+    },
+    {
+      "text": "L",
+      "label": "PER",
+      "start": 47739,
+      "end": 47740
+    },
+    {
+      "text": "L",
+      "label": "PER",
+      "start": 48241,
+      "end": 48242
+    },
+    {
+      "text": "franz",
+      "label": "PER",
+      "start": 48323,
+      "end": 48328
+    },
+    {
+      "text": "Jean Jaures",
+      "label": "PER",
+      "start": 48349,
+      "end": 48360
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 48612,
+      "end": 48624
+    },
+    {
+      "text": "Freiheitliche\nPartei",
+      "label": "ORG",
+      "start": 48679,
+      "end": 48699
+    },
+    {
+      "text": "schlu",
+      "label": "PER",
+      "start": 48735,
+      "end": 48740
+    },
+    {
+      "text": "Wahlpartei der Unabh",
+      "label": "ORG",
+      "start": 48799,
+      "end": 48819
+    },
+    {
+      "text": "abschlu",
+      "label": "PER",
+      "start": 48867,
+      "end": 48874
+    },
+    {
+      "text": "Bundesrechnungsabschlusses",
+      "label": "LOC",
+      "start": 49145,
+      "end": 49171
+    },
+    {
+      "text": "Rechnungshof Ge",
+      "label": "LOC",
+      "start": 49202,
+      "end": 49217
+    },
+    {
+      "text": "Rech",
+      "label": "LOC",
+      "start": 49298,
+      "end": 49302
+    },
+    {
+      "text": "Bundesminister",
+      "label": "LOC",
+      "start": 49425,
+      "end": 49439
+    },
+    {
+      "text": "Abschlu",
+      "label": "LOC",
+      "start": 49710,
+      "end": 49717
+    },
+    {
+      "text": "Vorg",
+      "label": "PER",
+      "start": 50377,
+      "end": 50381
+    },
+    {
+      "text": "www.parlament.gv.at\n\n",
+      "label": "PER",
+      "start": 50604,
+      "end": 50625
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 50637,
+      "end": 50644
+    },
+    {
+      "text": "Wahlpartei der Unabh",
+      "label": "ORG",
+      "start": 50802,
+      "end": 50822
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "PER",
+      "start": 50920,
+      "end": 50942
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51232,
+      "end": 51239
+    },
+    {
+      "text": "Zusammenschlu",
+      "label": "LOC",
+      "start": 51329,
+      "end": 51342
+    },
+    {
+      "text": "Budgetdebatte",
+      "label": "PER",
+      "start": 51388,
+      "end": 51401
+    },
+    {
+      "text": "Weltgeschehen",
+      "label": "LOC",
+      "start": 51415,
+      "end": 51428
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51925,
+      "end": 51932
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 52529,
+      "end": 52537
+    },
+    {
+      "text": "Ing. Lechner",
+      "label": "PER",
+      "start": 52666,
+      "end": 52678
+    },
+    {
+      "text": "Herrn\nBundesministers",
+      "label": "ORG",
+      "start": 53157,
+      "end": 53178
+    },
+    {
+      "text": "Auß",
+      "label": "PER",
+      "start": 53220,
+      "end": 53223
+    },
+    {
+      "text": "befa",
+      "label": "PER",
+      "start": 53233,
+      "end": 53237
+    },
+    {
+      "text": "Integrl!.ti",
+      "label": "ORG",
+      "start": 53615,
+      "end": 53626
+    },
+    {
+      "text": "Staaten",
+      "label": "LOC",
+      "start": 53857,
+      "end": 53864
+    },
+    {
+      "text": "Abschlu",
+      "label": "LOC",
+      "start": 53875,
+      "end": 53882
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 53993,
+      "end": 53999
+    },
+    {
+      "text": "rechnungsabschlu",
+      "label": "PER",
+      "start": 54001,
+      "end": 54017
+    },
+    {
+      "text": "Schlu",
+      "label": "LOC",
+      "start": 54187,
+      "end": 54192
+    },
+    {
+      "text": "m u n g",
+      "label": "LOC",
+      "start": 54333,
+      "end": 54340
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 54433,
+      "end": 54439
+    },
+    {
+      "text": "Bundesrechnungsabschlu",
+      "label": "LOC",
+      "start": 54453,
+      "end": 54475
+    },
+    {
+      "text": "B esc",
+      "label": "LOC",
+      "start": 54610,
+      "end": 54615
+    },
+    {
+      "text": "Schlu",
+      "label": "LOC",
+      "start": 55050,
+      "end": 55055
+    },
+    {
+      "text": "www.parlament.gv.at",
+      "label": "PER",
+      "start": 55291,
+      "end": 55310
+    },
+    {
+      "text": "NR VIII",
+      "label": "ORG",
+      "start": 55335,
+      "end": 55342
+    },
+    {
+      "text": "www.parlament.gv.at\n\n",
+      "label": "PER",
+      "start": 55399,
+      "end": 55420
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 129,
+      "end": 142
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 320,
+      "end": 331
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 358,
+      "end": 361
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 444,
+      "end": 447
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 482,
+      "end": 485
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 851,
+      "end": 866
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1153,
+      "end": 1156
+    },
+    {
+      "text": "To",
+      "label": "LOC",
+      "start": 1157,
+      "end": 1159
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1166,
+      "end": 1169
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1382,
+      "end": 1385
+    },
+    {
+      "text": "Ho",
+      "label": "LOC",
+      "start": 1784,
+      "end": 1786
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PERS",
+      "start": 1857,
+      "end": 1867
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1868,
+      "end": 1871
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1946,
+      "end": 1949
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2124,
+      "end": 2127
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 2239,
+      "end": 2242
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 2274,
+      "end": 2277
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2556,
+      "end": 2559
+    },
+    {
+      "text": "Maleta",
+      "label": "PERS",
+      "start": 2560,
+      "end": 2566
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 2745,
+      "end": 2749
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2844,
+      "end": 2847
+    },
+    {
+      "text": "Kranzlmayr",
+      "label": "PERS",
+      "start": 2848,
+      "end": 2858
+    },
+    {
+      "text": "Franz Mayr",
+      "label": "PERS",
+      "start": 2860,
+      "end": 2870
+    },
+    {
+      "text": "Reich",
+      "label": "PERS",
+      "start": 2872,
+      "end": 2877
+    },
+    {
+      "text": "Appel",
+      "label": "PERS",
+      "start": 2912,
+      "end": 2917
+    },
+    {
+      "text": "Stoll",
+      "label": "PERS",
+      "start": 2926,
+      "end": 2931
+    },
+    {
+      "text": "nossen",
+      "label": "LOC",
+      "start": 2933,
+      "end": 2939
+    },
+    {
+      "text": "Post",
+      "label": "LOC",
+      "start": 3006,
+      "end": 3010
+    },
+    {
+      "text": "Eichinger",
+      "label": "PERS",
+      "start": 3070,
+      "end": 3079
+    },
+    {
+      "text": "Dr. Josef Fink",
+      "label": "PERS",
+      "start": 3081,
+      "end": 3095
+    },
+    {
+      "text": "Köck",
+      "label": "PERS",
+      "start": 3097,
+      "end": 3101
+    },
+    {
+      "text": "Stürgkh",
+      "label": "PERS",
+      "start": 3150,
+      "end": 3157
+    },
+    {
+      "text": "Enns",
+      "label": "LOC",
+      "start": 3205,
+      "end": 3209
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3239,
+      "end": 3243
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3256,
+      "end": 3259
+    },
+    {
+      "text": "Schärf",
+      "label": "PERS",
+      "start": 3260,
+      "end": 3266
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 3378,
+      "end": 3382
+    },
+    {
+      "text": "Cerny",
+      "label": "PERS",
+      "start": 3395,
+      "end": 3400
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 3486,
+      "end": 3491
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3523,
+      "end": 3536
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 3565,
+      "end": 3568
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3821,
+      "end": 3832
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 4193,
+      "end": 4198
+    },
+    {
+      "text": "burger",
+      "label": "PERS",
+      "start": 4199,
+      "end": 4205
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4474,
+      "end": 4487
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 4535,
+      "end": 4539
+    },
+    {
+      "text": "Weikhart",
+      "label": "PERS",
+      "start": 4631,
+      "end": 4639
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 4805,
+      "end": 4809
+    },
+    {
+      "text": "Weikhart",
+      "label": "PERS",
+      "start": 4862,
+      "end": 4870
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 4924,
+      "end": 4929
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 5275,
+      "end": 5279
+    },
+    {
+      "text": "Zeillinger",
+      "label": "PERS",
+      "start": 5484,
+      "end": 5494
+    },
+    {
+      "text": "Zeillinger",
+      "label": "PERS",
+      "start": 5637,
+      "end": 5647
+    },
+    {
+      "text": "wiesen",
+      "label": "LOC",
+      "start": 5990,
+      "end": 5996
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 6487,
+      "end": 6492
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 6639,
+      "end": 6643
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 6691,
+      "end": 6694
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 6770,
+      "end": 6774
+    },
+    {
+      "text": "Aigner",
+      "label": "PERS",
+      "start": 6827,
+      "end": 6833
+    },
+    {
+      "text": "Aigner",
+      "label": "PERS",
+      "start": 6930,
+      "end": 6936
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 6944,
+      "end": 6948
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 7241,
+      "end": 7246
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 7437,
+      "end": 7441
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 7932,
+      "end": 7937
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 8259,
+      "end": 8263
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 8659,
+      "end": 8670
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 9114,
+      "end": 9118
+    },
+    {
+      "text": "samt",
+      "label": "PERS",
+      "start": 9555,
+      "end": 9559
+    },
+    {
+      "text": "stelle",
+      "label": "LOC",
+      "start": 10276,
+      "end": 10282
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10308,
+      "end": 10319
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 10410,
+      "end": 10413
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10494,
+      "end": 10505
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 10527,
+      "end": 10530
+    },
+    {
+      "text": "stelle",
+      "label": "LOC",
+      "start": 10705,
+      "end": 10711
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 10763,
+      "end": 10768
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 10826,
+      "end": 10830
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 10897,
+      "end": 10902
+    },
+    {
+      "text": "wand",
+      "label": "LOC",
+      "start": 10938,
+      "end": 10942
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 10973,
+      "end": 10977
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 11075,
+      "end": 11079
+    },
+    {
+      "text": "Honner",
+      "label": "PERS",
+      "start": 11092,
+      "end": 11098
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 11188,
+      "end": 11191
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 11193,
+      "end": 11196
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 11201,
+      "end": 11204
+    },
+    {
+      "text": "Saal",
+      "label": "LOC",
+      "start": 11219,
+      "end": 11223
+    },
+    {
+      "text": "Honner",
+      "label": "PERS",
+      "start": 11239,
+      "end": 11245
+    },
+    {
+      "text": "halt",
+      "label": "LOC",
+      "start": 11443,
+      "end": 11447
+    },
+    {
+      "text": "gering",
+      "label": "LOC",
+      "start": 11731,
+      "end": 11737
+    },
+    {
+      "text": "hoch",
+      "label": "LOC",
+      "start": 11774,
+      "end": 11778
+    },
+    {
+      "text": "höher",
+      "label": "PERS",
+      "start": 12363,
+      "end": 12368
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 12473,
+      "end": 12478
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 12671,
+      "end": 12674
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 12928,
+      "end": 12931
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 13090,
+      "end": 13093
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 13223,
+      "end": 13228
+    },
+    {
+      "text": "lich",
+      "label": "LOC",
+      "start": 13427,
+      "end": 13431
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 13511,
+      "end": 13515
+    },
+    {
+      "text": "allen",
+      "label": "LOC",
+      "start": 13569,
+      "end": 13574
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 13832,
+      "end": 13843
+    },
+    {
+      "text": "Handel",
+      "label": "PERS",
+      "start": 13941,
+      "end": 13947
+    },
+    {
+      "text": "un",
+      "label": "LOC",
+      "start": 13948,
+      "end": 13950
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 13975,
+      "end": 13990
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 14079,
+      "end": 14084
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 14151,
+      "end": 14155
+    },
+    {
+      "text": "leiten",
+      "label": "LOC",
+      "start": 14180,
+      "end": 14186
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 14187,
+      "end": 14193
+    },
+    {
+      "text": "weiß",
+      "label": "PERS",
+      "start": 14222,
+      "end": 14226
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 14569,
+      "end": 14572
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 14671,
+      "end": 14675
+    },
+    {
+      "text": "fast",
+      "label": "PERS",
+      "start": 14950,
+      "end": 14954
+    },
+    {
+      "text": "lich",
+      "label": "LOC",
+      "start": 15102,
+      "end": 15106
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 15138,
+      "end": 15141
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 15336,
+      "end": 15339
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 15377,
+      "end": 15381
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 15669,
+      "end": 15675
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 15713,
+      "end": 15717
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 15903,
+      "end": 15909
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 16150,
+      "end": 16153
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 16480,
+      "end": 16488
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 16603,
+      "end": 16607
+    },
+    {
+      "text": "allen",
+      "label": "LOC",
+      "start": 16865,
+      "end": 16870
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 16978,
+      "end": 16986
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 17249,
+      "end": 17253
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 17299,
+      "end": 17303
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 17304,
+      "end": 17307
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 17565,
+      "end": 17569
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 17761,
+      "end": 17766
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 18342,
+      "end": 18345
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 18381,
+      "end": 18385
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 18419,
+      "end": 18422
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 18645,
+      "end": 18653
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 18718,
+      "end": 18721
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 18783,
+      "end": 18787
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 19014,
+      "end": 19018
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 19205,
+      "end": 19208
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 19303,
+      "end": 19314
+    },
+    {
+      "text": "weit",
+      "label": "LOC",
+      "start": 19580,
+      "end": 19584
+    },
+    {
+      "text": "lur",
+      "label": "LOC",
+      "start": 19690,
+      "end": 19693
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 19827,
+      "end": 19830
+    },
+    {
+      "text": "lich",
+      "label": "LOC",
+      "start": 19945,
+      "end": 19949
+    },
+    {
+      "text": "lich",
+      "label": "LOC",
+      "start": 19992,
+      "end": 19996
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 20059,
+      "end": 20062
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 20357,
+      "end": 20362
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 20609,
+      "end": 20613
+    },
+    {
+      "text": "schlag",
+      "label": "LOC",
+      "start": 20627,
+      "end": 20633
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 20865,
+      "end": 20869
+    },
+    {
+      "text": "Ende",
+      "label": "LOC",
+      "start": 20978,
+      "end": 20982
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 21165,
+      "end": 21168
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 21558,
+      "end": 21562
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 21563,
+      "end": 21567
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 21722,
+      "end": 21726
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 21816,
+      "end": 21824
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 21901,
+      "end": 21907
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 21999,
+      "end": 22002
+    },
+    {
+      "text": "Lohn",
+      "label": "LOC",
+      "start": 22015,
+      "end": 22019
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 22060,
+      "end": 22064
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 22248,
+      "end": 22254
+    },
+    {
+      "text": "Hier",
+      "label": "LOC",
+      "start": 22299,
+      "end": 22303
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 22412,
+      "end": 22416
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 22476,
+      "end": 22480
+    },
+    {
+      "text": "Großen",
+      "label": "LOC",
+      "start": 22765,
+      "end": 22771
+    },
+    {
+      "text": "Titel",
+      "label": "LOC",
+      "start": 22833,
+      "end": 22838
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 22857,
+      "end": 22860
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 22914,
+      "end": 22917
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 22923,
+      "end": 22926
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 22944,
+      "end": 22950
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 23167,
+      "end": 23171
+    },
+    {
+      "text": "großen",
+      "label": "LOC",
+      "start": 23340,
+      "end": 23346
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 23459,
+      "end": 23463
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 24430,
+      "end": 24433
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 24453,
+      "end": 24458
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 24512,
+      "end": 24515
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 24657,
+      "end": 24668
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 25098,
+      "end": 25104
+    },
+    {
+      "text": "Man",
+      "label": "LOC",
+      "start": 25547,
+      "end": 25550
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 25619,
+      "end": 25625
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 25759,
+      "end": 25765
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 25806,
+      "end": 25810
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 25847,
+      "end": 25853
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 25869,
+      "end": 25872
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 25959,
+      "end": 25963
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 25977,
+      "end": 25985
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 26057,
+      "end": 26061
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 26212,
+      "end": 26216
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 26261,
+      "end": 26265
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 26652,
+      "end": 26656
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 26950,
+      "end": 26954
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 26971,
+      "end": 26974
+    },
+    {
+      "text": "hatten",
+      "label": "LOC",
+      "start": 27023,
+      "end": 27029
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 27291,
+      "end": 27294
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 27325,
+      "end": 27331
+    },
+    {
+      "text": "Not",
+      "label": "LOC",
+      "start": 27332,
+      "end": 27335
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 27340,
+      "end": 27345
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 27467,
+      "end": 27471
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 27520,
+      "end": 27524
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 27567,
+      "end": 27571
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 27943,
+      "end": 27947
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 27960,
+      "end": 27968
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 28100,
+      "end": 28103
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28108
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 28113,
+      "end": 28116
+    },
+    {
+      "text": "Saal",
+      "label": "LOC",
+      "start": 28131,
+      "end": 28135
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 28196,
+      "end": 28200
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 28210,
+      "end": 28215
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 28248,
+      "end": 28256
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 28259,
+      "end": 28263
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 28298,
+      "end": 28301
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 28377,
+      "end": 28390
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 28797,
+      "end": 28810
+    },
+    {
+      "text": "Honner",
+      "label": "PERS",
+      "start": 28968,
+      "end": 28974
+    },
+    {
+      "text": "Saal",
+      "label": "LOC",
+      "start": 28979,
+      "end": 28983
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 29001,
+      "end": 29005
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 29015,
+      "end": 29018
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 29019,
+      "end": 29030
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 29247,
+      "end": 29253
+    },
+    {
+      "text": "holt",
+      "label": "LOC",
+      "start": 29264,
+      "end": 29268
+    },
+    {
+      "text": "Weg",
+      "label": "LOC",
+      "start": 29477,
+      "end": 29480
+    },
+    {
+      "text": "fügen",
+      "label": "LOC",
+      "start": 29524,
+      "end": 29529
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 29831,
+      "end": 29842
+    },
+    {
+      "text": "Weg",
+      "label": "LOC",
+      "start": 29949,
+      "end": 29952
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 29953,
+      "end": 29957
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 30076,
+      "end": 30080
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 30134,
+      "end": 30139
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 30207,
+      "end": 30211
+    },
+    {
+      "text": "ganges",
+      "label": "LOC",
+      "start": 30351,
+      "end": 30357
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 30424,
+      "end": 30428
+    },
+    {
+      "text": "Reserve",
+      "label": "LOC",
+      "start": 30525,
+      "end": 30532
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 30612,
+      "end": 30616
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 30806,
+      "end": 30810
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 30948,
+      "end": 30952
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 30953,
+      "end": 30956
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 31261,
+      "end": 31270
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 31307,
+      "end": 31313
+    },
+    {
+      "text": "frei",
+      "label": "LOC",
+      "start": 31339,
+      "end": 31343
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 31394,
+      "end": 31398
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 31419,
+      "end": 31424
+    },
+    {
+      "text": "weiß",
+      "label": "PERS",
+      "start": 31583,
+      "end": 31587
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 31614,
+      "end": 31619
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 31684,
+      "end": 31688
+    },
+    {
+      "text": "frei",
+      "label": "LOC",
+      "start": 31723,
+      "end": 31727
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 31801,
+      "end": 31816
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 31869,
+      "end": 31873
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 31964,
+      "end": 31974
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 32251,
+      "end": 32256
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 32348,
+      "end": 32351
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 32384,
+      "end": 32387
+    },
+    {
+      "text": "Gorbach",
+      "label": "PERS",
+      "start": 32388,
+      "end": 32395
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 32424,
+      "end": 32428
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 32605,
+      "end": 32609
+    },
+    {
+      "text": "weit",
+      "label": "LOC",
+      "start": 32691,
+      "end": 32695
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 33086,
+      "end": 33095
+    },
+    {
+      "text": "weit",
+      "label": "LOC",
+      "start": 33144,
+      "end": 33148
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 33165,
+      "end": 33169
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 33511,
+      "end": 33514
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 33771,
+      "end": 33776
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 33911,
+      "end": 33920
+    },
+    {
+      "text": "Ende",
+      "label": "LOC",
+      "start": 34013,
+      "end": 34017
+    },
+    {
+      "text": "Höhe",
+      "label": "LOC",
+      "start": 34047,
+      "end": 34051
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 34091,
+      "end": 34096
+    },
+    {
+      "text": "steuer",
+      "label": "LOC",
+      "start": 34224,
+      "end": 34230
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 34479,
+      "end": 34483
+    },
+    {
+      "text": "Ende",
+      "label": "LOC",
+      "start": 34556,
+      "end": 34560
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 34579,
+      "end": 34584
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 34901,
+      "end": 34906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 35066,
+      "end": 35077
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 35180,
+      "end": 35186
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 35187,
+      "end": 35190
+    },
+    {
+      "text": "Lohn",
+      "label": "LOC",
+      "start": 35191,
+      "end": 35195
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 35220,
+      "end": 35224
+    },
+    {
+      "text": "Lohn",
+      "label": "LOC",
+      "start": 35391,
+      "end": 35395
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 35446,
+      "end": 35449
+    },
+    {
+      "text": "Steuer",
+      "label": "LOC",
+      "start": 35502,
+      "end": 35508
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 35640,
+      "end": 35644
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 35666,
+      "end": 35670
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 35943,
+      "end": 35947
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 36064,
+      "end": 36067
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 36222,
+      "end": 36225
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 36252,
+      "end": 36256
+    },
+    {
+      "text": "wissen",
+      "label": "LOC",
+      "start": 36349,
+      "end": 36355
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 36394,
+      "end": 36398
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 36621,
+      "end": 36625
+    },
+    {
+      "text": "Man",
+      "label": "LOC",
+      "start": 36711,
+      "end": 36714
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 36727,
+      "end": 36731
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 36777,
+      "end": 36781
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 36998,
+      "end": 37002
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 37058,
+      "end": 37062
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 37101,
+      "end": 37105
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 37171,
+      "end": 37175
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 37188,
+      "end": 37197
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 37443,
+      "end": 37447
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 37556,
+      "end": 37559
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 37605,
+      "end": 37614
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 37624,
+      "end": 37628
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 37886,
+      "end": 37890
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 37901,
+      "end": 37904
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 37988,
+      "end": 37992
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 38054,
+      "end": 38063
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 38196,
+      "end": 38200
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 38303,
+      "end": 38307
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 38348,
+      "end": 38353
+    },
+    {
+      "text": "Kaufmann",
+      "label": "PERS",
+      "start": 38354,
+      "end": 38362
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 38368,
+      "end": 38371
+    },
+    {
+      "text": "Lechner",
+      "label": "PERS",
+      "start": 38372,
+      "end": 38379
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PERS",
+      "start": 38462,
+      "end": 38472
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 38473,
+      "end": 38476
+    },
+    {
+      "text": "Lechner",
+      "label": "PERS",
+      "start": 38477,
+      "end": 38484
+    },
+    {
+      "text": "Kaufmann",
+      "label": "PERS",
+      "start": 38605,
+      "end": 38613
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 38614,
+      "end": 38618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 38620,
+      "end": 38633
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 38699,
+      "end": 38702
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 38707,
+      "end": 38712
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39037,
+      "end": 39048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 39326,
+      "end": 39339
+    },
+    {
+      "text": "irger",
+      "label": "LOC",
+      "start": 39365,
+      "end": 39370
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39419,
+      "end": 39430
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 39469,
+      "end": 39477
+    },
+    {
+      "text": "frei",
+      "label": "LOC",
+      "start": 39773,
+      "end": 39777
+    },
+    {
+      "text": "Arbeiter",
+      "label": "PERS",
+      "start": 39779,
+      "end": 39787
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 39857,
+      "end": 39861
+    },
+    {
+      "text": "hof",
+      "label": "LOC",
+      "start": 40010,
+      "end": 40013
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 40151,
+      "end": 40154
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 40292,
+      "end": 40303
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 40403,
+      "end": 40412
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 40669,
+      "end": 40674
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 40814,
+      "end": 40818
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 41006,
+      "end": 41011
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 41305,
+      "end": 41316
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 41397,
+      "end": 41401
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 41410,
+      "end": 41418
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 41525,
+      "end": 41531
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 41566,
+      "end": 41569
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 41870,
+      "end": 41874
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 42133,
+      "end": 42136
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 42224,
+      "end": 42228
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 42367,
+      "end": 42370
+    },
+    {
+      "text": "schlag",
+      "label": "LOC",
+      "start": 42486,
+      "end": 42492
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 42772,
+      "end": 42783
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 42813,
+      "end": 42817
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 42826,
+      "end": 42834
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 42844,
+      "end": 42848
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 42878,
+      "end": 42883
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43017,
+      "end": 43030
+    },
+    {
+      "text": "Auch",
+      "label": "LOC",
+      "start": 43040,
+      "end": 43044
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 43049,
+      "end": 43052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43285,
+      "end": 43298
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 43556,
+      "end": 43560
+    },
+    {
+      "text": "Weg",
+      "label": "LOC",
+      "start": 43577,
+      "end": 43580
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 43591,
+      "end": 43595
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 43604,
+      "end": 43612
+    },
+    {
+      "text": "mende",
+      "label": "LOC",
+      "start": 43630,
+      "end": 43635
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 43810,
+      "end": 43813
+    },
+    {
+      "text": "seiner",
+      "label": "PERS",
+      "start": 43828,
+      "end": 43834
+    },
+    {
+      "text": "starke",
+      "label": "LOC",
+      "start": 43914,
+      "end": 43920
+    },
+    {
+      "text": "eben",
+      "label": "LOC",
+      "start": 44002,
+      "end": 44006
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 44114,
+      "end": 44119
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 44127,
+      "end": 44130
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 44164,
+      "end": 44169
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 44205,
+      "end": 44209
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 44218,
+      "end": 44226
+    },
+    {
+      "text": "eben",
+      "label": "LOC",
+      "start": 44285,
+      "end": 44289
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 44329,
+      "end": 44333
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 44534,
+      "end": 44538
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 44572,
+      "end": 44576
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 44585,
+      "end": 44593
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 44748,
+      "end": 44752
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 45563,
+      "end": 45574
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 45652,
+      "end": 45656
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 45714,
+      "end": 45717
+    },
+    {
+      "text": "eben",
+      "label": "LOC",
+      "start": 45755,
+      "end": 45759
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 45869,
+      "end": 45873
+    },
+    {
+      "text": "Man",
+      "label": "LOC",
+      "start": 45929,
+      "end": 45932
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 46007,
+      "end": 46011
+    },
+    {
+      "text": "waren",
+      "label": "LOC",
+      "start": 46060,
+      "end": 46065
+    },
+    {
+      "text": "allen",
+      "label": "LOC",
+      "start": 46069,
+      "end": 46074
+    },
+    {
+      "text": "treffen",
+      "label": "LOC",
+      "start": 46373,
+      "end": 46380
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 46442,
+      "end": 46447
+    },
+    {
+      "text": "ganz",
+      "label": "LOC",
+      "start": 46448,
+      "end": 46452
+    },
+    {
+      "text": "eben",
+      "label": "LOC",
+      "start": 46573,
+      "end": 46577
+    },
+    {
+      "text": "trieben",
+      "label": "LOC",
+      "start": 46636,
+      "end": 46643
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 46778,
+      "end": 46782
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 46945,
+      "end": 46949
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 47818,
+      "end": 47823
+    },
+    {
+      "text": "Tut",
+      "label": "LOC",
+      "start": 47876,
+      "end": 47879
+    },
+    {
+      "text": "lassen",
+      "label": "LOC",
+      "start": 47908,
+      "end": 47914
+    },
+    {
+      "text": "Kosten",
+      "label": "LOC",
+      "start": 47940,
+      "end": 47946
+    },
+    {
+      "text": "Kosten",
+      "label": "LOC",
+      "start": 47977,
+      "end": 47983
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 48018,
+      "end": 48022
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 48285,
+      "end": 48289
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48432,
+      "end": 48435
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48494,
+      "end": 48497
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 48545,
+      "end": 48549
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 48562,
+      "end": 48565
+    },
+    {
+      "text": "Gredler",
+      "label": "PERS",
+      "start": 48566,
+      "end": 48573
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 48625,
+      "end": 48628
+    },
+    {
+      "text": "Gredler",
+      "label": "PERS",
+      "start": 48629,
+      "end": 48636
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 48644,
+      "end": 48648
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 48767,
+      "end": 48772
+    },
+    {
+      "text": "rein",
+      "label": "LOC",
+      "start": 49626,
+      "end": 49630
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 49692,
+      "end": 49696
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 49793,
+      "end": 49796
+    },
+    {
+      "text": "Weg",
+      "label": "LOC",
+      "start": 49890,
+      "end": 49893
+    },
+    {
+      "text": "dann",
+      "label": "LOC",
+      "start": 49986,
+      "end": 49990
+    },
+    {
+      "text": "man",
+      "label": "LOC",
+      "start": 49996,
+      "end": 49999
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 50216,
+      "end": 50220
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 50284,
+      "end": 50288
+    },
+    {
+      "text": "ernst",
+      "label": "PERS",
+      "start": 50366,
+      "end": 50371
+    },
+    {
+      "text": "Man",
+      "label": "LOC",
+      "start": 50423,
+      "end": 50426
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 50589,
+      "end": 50593
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 50701,
+      "end": 50712
+    },
+    {
+      "text": "tat",
+      "label": "LOC",
+      "start": 50833,
+      "end": 50836
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 51032,
+      "end": 51035
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 51066,
+      "end": 51070
+    },
+    {
+      "text": "Nur",
+      "label": "LOC",
+      "start": 51257,
+      "end": 51260
+    },
+    {
+      "text": "Fall",
+      "label": "LOC",
+      "start": 51504,
+      "end": 51508
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 51526,
+      "end": 51530
+    },
+    {
+      "text": "Stelle",
+      "label": "LOC",
+      "start": 51619,
+      "end": 51625
+    },
+    {
+      "text": "Platz",
+      "label": "LOC",
+      "start": 51713,
+      "end": 51718
+    },
+    {
+      "text": "Weg",
+      "label": "LOC",
+      "start": 52074,
+      "end": 52077
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 52421,
+      "end": 52425
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 52477,
+      "end": 52481
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 52516,
+      "end": 52520
+    },
+    {
+      "text": "Eibegger",
+      "label": "PERS",
+      "start": 52529,
+      "end": 52537
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 52539,
+      "end": 52543
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 52652,
+      "end": 52656
+    },
+    {
+      "text": "Ing.",
+      "label": "PERS",
+      "start": 52666,
+      "end": 52670
+    },
+    {
+      "text": "Lechner",
+      "label": "PERS",
+      "start": 52671,
+      "end": 52678
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 52679,
+      "end": 52683
+    },
+    {
+      "text": "hatten",
+      "label": "LOC",
+      "start": 52690,
+      "end": 52696
+    },
+    {
+      "text": "Mitte",
+      "label": "LOC",
+      "start": 52790,
+      "end": 52795
+    },
+    {
+      "text": "nur",
+      "label": "LOC",
+      "start": 52863,
+      "end": 52866
+    },
+    {
+      "text": "hier",
+      "label": "LOC",
+      "start": 52898,
+      "end": 52902
+    },
+    {
+      "text": "auch",
+      "label": "LOC",
+      "start": 53648,
+      "end": 53652
+    },
+    {
+      "text": "starke",
+      "label": "LOC",
+      "start": 53664,
+      "end": 53670
+    },
+    {
+      "text": "schwer",
+      "label": "PERS",
+      "start": 53731,
+      "end": 53737
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 54146,
+      "end": 54150
+    },
+    {
+      "text": "weit",
+      "label": "LOC",
+      "start": 54898,
+      "end": 54902
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 156,
+      "end": 166
+    },
+    {
+      "text": "Hu",
+      "label": "PER",
+      "start": 362,
+      "end": 364
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 365,
+      "end": 366
+    },
+    {
+      "text": "d e s",
+      "label": "PER",
+      "start": 367,
+      "end": 372
+    },
+    {
+      "text": "Ob e",
+      "label": "PER",
+      "start": 448,
+      "end": 452
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 453,
+      "end": 454
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 455,
+      "end": 456
+    },
+    {
+      "text": "a mme r",
+      "label": "PER",
+      "start": 457,
+      "end": 464
+    },
+    {
+      "text": "Ma",
+      "label": "PER",
+      "start": 466,
+      "end": 468
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 469,
+      "end": 470
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 471,
+      "end": 472
+    },
+    {
+      "text": "u",
+      "label": "PER",
+      "start": 473,
+      "end": 474
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 475,
+      "end": 476
+    },
+    {
+      "text": "z e",
+      "label": "PER",
+      "start": 477,
+      "end": 480
+    },
+    {
+      "text": "He",
+      "label": "PER",
+      "start": 486,
+      "end": 488
+    },
+    {
+      "text": "t",
+      "label": "PER",
+      "start": 489,
+      "end": 490
+    },
+    {
+      "text": "z e",
+      "label": "PER",
+      "start": 491,
+      "end": 494
+    },
+    {
+      "text": "n­",
+      "label": "PER",
+      "start": 495,
+      "end": 497
+    },
+    {
+      "text": "a",
+      "label": "PER",
+      "start": 498,
+      "end": 499
+    },
+    {
+      "text": "u",
+      "label": "PER",
+      "start": 500,
+      "end": 501
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 502,
+      "end": 503
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 504,
+      "end": 505
+    },
+    {
+      "text": "K",
+      "label": "PER",
+      "start": 507,
+      "end": 508
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 509,
+      "end": 510
+    },
+    {
+      "text": "a",
+      "label": "PER",
+      "start": 511,
+      "end": 512
+    },
+    {
+      "text": "n e",
+      "label": "PER",
+      "start": 513,
+      "end": 516
+    },
+    {
+      "text": "b i t t e",
+      "label": "PER",
+      "start": 517,
+      "end": 526
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 527,
+      "end": 528
+    },
+    {
+      "text": "S tür",
+      "label": "PER",
+      "start": 1142,
+      "end": 1147
+    },
+    {
+      "text": "gkh",
+      "label": "PER",
+      "start": 1148,
+      "end": 1151
+    },
+    {
+      "text": "To",
+      "label": "PER",
+      "start": 1157,
+      "end": 1159
+    },
+    {
+      "text": "nnin",
+      "label": "PER",
+      "start": 1160,
+      "end": 1164
+    },
+    {
+      "text": "S",
+      "label": "PER",
+      "start": 1170,
+      "end": 1171
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 1172,
+      "end": 1173
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 1174,
+      "end": 1175
+    },
+    {
+      "text": "w",
+      "label": "PER",
+      "start": 1176,
+      "end": 1177
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1178,
+      "end": 1179
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1180,
+      "end": 1181
+    },
+    {
+      "text": "Wu",
+      "label": "PER",
+      "start": 1183,
+      "end": 1185
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1186,
+      "end": 1187
+    },
+    {
+      "text": "d",
+      "label": "PER",
+      "start": 1188,
+      "end": 1189
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1190,
+      "end": 1191
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1192,
+      "end": 1193
+    },
+    {
+      "text": "Jugoslawien",
+      "label": "LOC",
+      "start": 1332,
+      "end": 1343
+    },
+    {
+      "text": "Mac",
+      "label": "PER",
+      "start": 1367,
+      "end": 1370
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 1371,
+      "end": 1372
+    },
+    {
+      "text": "u",
+      "label": "PER",
+      "start": 1373,
+      "end": 1374
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1375,
+      "end": 1376
+    },
+    {
+      "text": "z e",
+      "label": "PER",
+      "start": 1377,
+      "end": 1380
+    },
+    {
+      "text": "Ob e",
+      "label": "PER",
+      "start": 1386,
+      "end": 1390
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1391,
+      "end": 1392
+    },
+    {
+      "text": "h a",
+      "label": "PER",
+      "start": 1393,
+      "end": 1396
+    },
+    {
+      "text": "Ma",
+      "label": "PER",
+      "start": 1529,
+      "end": 1531
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 1532,
+      "end": 1533
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 1534,
+      "end": 1535
+    },
+    {
+      "text": "u",
+      "label": "PER",
+      "start": 1536,
+      "end": 1537
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1538,
+      "end": 1539
+    },
+    {
+      "text": "z e",
+      "label": "PER",
+      "start": 1540,
+      "end": 1543
+    },
+    {
+      "text": "S",
+      "label": "PER",
+      "start": 1545,
+      "end": 1546
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1547,
+      "end": 1548
+    },
+    {
+      "text": "b",
+      "label": "PER",
+      "start": 1549,
+      "end": 1550
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 1551,
+      "end": 1552
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1553,
+      "end": 1554
+    },
+    {
+      "text": "g",
+      "label": "PER",
+      "start": 1555,
+      "end": 1556
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1557,
+      "end": 1558
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1559,
+      "end": 1560
+    },
+    {
+      "text": "A",
+      "label": "PER",
+      "start": 1754,
+      "end": 1755
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 1756,
+      "end": 1757
+    },
+    {
+      "text": "g",
+      "label": "PER",
+      "start": 1758,
+      "end": 1759
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1760,
+      "end": 1761
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1762,
+      "end": 1763
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1764,
+      "end": 1765
+    },
+    {
+      "text": "Ho",
+      "label": "PER",
+      "start": 1784,
+      "end": 1786
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1787,
+      "end": 1788
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 1789,
+      "end": 1790
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1791,
+      "end": 1792
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1793,
+      "end": 1794
+    },
+    {
+      "text": "E",
+      "label": "PER",
+      "start": 1805,
+      "end": 1806
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 1807,
+      "end": 1808
+    },
+    {
+      "text": "b",
+      "label": "PER",
+      "start": 1809,
+      "end": 1810
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1811,
+      "end": 1812
+    },
+    {
+      "text": "g",
+      "label": "PER",
+      "start": 1813,
+      "end": 1814
+    },
+    {
+      "text": "g e",
+      "label": "PER",
+      "start": 1815,
+      "end": 1818
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1819,
+      "end": 1820
+    },
+    {
+      "text": "Le",
+      "label": "PER",
+      "start": 1872,
+      "end": 1874
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 1875,
+      "end": 1876
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 1877,
+      "end": 1878
+    },
+    {
+      "text": "n e",
+      "label": "PER",
+      "start": 1879,
+      "end": 1882
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1883,
+      "end": 1884
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 1950,
+      "end": 1951
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1952,
+      "end": 1953
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 1954,
+      "end": 1955
+    },
+    {
+      "text": "d",
+      "label": "PER",
+      "start": 1956,
+      "end": 1957
+    },
+    {
+      "text": "l e r",
+      "label": "PER",
+      "start": 1958,
+      "end": 1963
+    },
+    {
+      "text": "A",
+      "label": "PER",
+      "start": 1982,
+      "end": 1983
+    },
+    {
+      "text": "ppe l",
+      "label": "PER",
+      "start": 1984,
+      "end": 1989
+    },
+    {
+      "text": "Annahmt",
+      "label": "PER",
+      "start": 2023,
+      "end": 2030
+    },
+    {
+      "text": "Hordes",
+      "label": "PER",
+      "start": 2128,
+      "end": 2134
+    },
+    {
+      "text": "Maleta",
+      "label": "PER",
+      "start": 2560,
+      "end": 2566
+    },
+    {
+      "text": "Kranzlmayr",
+      "label": "PER",
+      "start": 2848,
+      "end": 2858
+    },
+    {
+      "text": "Franz Mayr",
+      "label": "PER",
+      "start": 2860,
+      "end": 2870
+    },
+    {
+      "text": "Reich",
+      "label": "PER",
+      "start": 2872,
+      "end": 2877
+    },
+    {
+      "text": "Appel",
+      "label": "PER",
+      "start": 2912,
+      "end": 2917
+    },
+    {
+      "text": "Ge",
+      "label": "PER",
+      "start": 2922,
+      "end": 2924
+    },
+    {
+      "text": "Stoll",
+      "label": "PER",
+      "start": 2926,
+      "end": 2931
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 2972,
+      "end": 2978
+    },
+    {
+      "text": "Eichinger",
+      "label": "PER",
+      "start": 3070,
+      "end": 3079
+    },
+    {
+      "text": "Josef Fink",
+      "label": "PER",
+      "start": 3085,
+      "end": 3095
+    },
+    {
+      "text": "Köck",
+      "label": "PER",
+      "start": 3097,
+      "end": 3101
+    },
+    {
+      "text": "Enns",
+      "label": "LOC",
+      "start": 3205,
+      "end": 3209
+    },
+    {
+      "text": "Schärf",
+      "label": "PER",
+      "start": 3260,
+      "end": 3266
+    },
+    {
+      "text": "Kargl",
+      "label": "PER",
+      "start": 3304,
+      "end": 3309
+    },
+    {
+      "text": "Cerny",
+      "label": "PER",
+      "start": 3395,
+      "end": 3400
+    },
+    {
+      "text": "Alten",
+      "label": "PER",
+      "start": 4148,
+      "end": 4153
+    },
+    {
+      "text": "VÖEST",
+      "label": "ORG",
+      "start": 4236,
+      "end": 4241
+    },
+    {
+      "text": "Hitzinger",
+      "label": "PER",
+      "start": 4286,
+      "end": 4295
+    },
+    {
+      "text": "Weikhart",
+      "label": "PER",
+      "start": 4631,
+      "end": 4639
+    },
+    {
+      "text": "Weikhart",
+      "label": "PER",
+      "start": 4862,
+      "end": 4870
+    },
+    {
+      "text": "Zeillinger",
+      "label": "PER",
+      "start": 5484,
+      "end": 5494
+    },
+    {
+      "text": "Zeillinger",
+      "label": "PER",
+      "start": 5637,
+      "end": 5647
+    },
+    {
+      "text": "Aigner",
+      "label": "PER",
+      "start": 6827,
+      "end": 6833
+    },
+    {
+      "text": "Aigner",
+      "label": "PER",
+      "start": 6930,
+      "end": 6936
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 7174,
+      "end": 7184
+    },
+    {
+      "text": "Bundes.",
+      "label": "ORG",
+      "start": 7279,
+      "end": 7286
+    },
+    {
+      "text": "Sch",
+      "label": "PER",
+      "start": 8468,
+      "end": 8471
+    },
+    {
+      "text": "UdSSR",
+      "label": "LOC",
+      "start": 8699,
+      "end": 8704
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 10611,
+      "end": 10621
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 11092,
+      "end": 11098
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 11188,
+      "end": 11191
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 11193,
+      "end": 11196
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 11201,
+      "end": 11204
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 11239,
+      "end": 11245
+    },
+    {
+      "text": "Frenzel",
+      "label": "PER",
+      "start": 12932,
+      "end": 12939
+    },
+    {
+      "text": "Kamitz",
+      "label": "PER",
+      "start": 13670,
+      "end": 13676
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 13772,
+      "end": 13774
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 15401,
+      "end": 15415
+    },
+    {
+      "text": "Kamitz",
+      "label": "PER",
+      "start": 20212,
+      "end": 20218
+    },
+    {
+      "text": "Wiener Gebietskrankenkasse",
+      "label": "ORG",
+      "start": 21328,
+      "end": 21354
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 23134,
+      "end": 23144
+    },
+    {
+      "text": "Kamitz",
+      "label": "PER",
+      "start": 23615,
+      "end": 23621
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 24602,
+      "end": 24604
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 24675,
+      "end": 24677
+    },
+    {
+      "text": "Kamitz",
+      "label": "PER",
+      "start": 27295,
+      "end": 27301
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 27960,
+      "end": 27968
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 28100,
+      "end": 28103
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28108
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 28113,
+      "end": 28116
+    },
+    {
+      "text": "Karl Ausch",
+      "label": "PER",
+      "start": 28196,
+      "end": 28206
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 28248,
+      "end": 28256
+    },
+    {
+      "text": "Arbeiter-Zeitung",
+      "label": "ORG",
+      "start": 28280,
+      "end": 28296
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 28968,
+      "end": 28974
+    },
+    {
+      "text": "Gorbach",
+      "label": "PER",
+      "start": 32388,
+      "end": 32395
+    },
+    {
+      "text": "Kam-itz",
+      "label": "LOC",
+      "start": 32433,
+      "end": 32440
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 33285,
+      "end": 33295
+    },
+    {
+      "text": "Lechner",
+      "label": "PER",
+      "start": 38372,
+      "end": 38379
+    },
+    {
+      "text": "Lechner",
+      "label": "PER",
+      "start": 38477,
+      "end": 38484
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 41410,
+      "end": 41418
+    },
+    {
+      "text": "J",
+      "label": "ORG",
+      "start": 42120,
+      "end": 42121
+    },
+    {
+      "text": "VP",
+      "label": "ORG",
+      "start": 42122,
+      "end": 42124
+    },
+    {
+      "text": "JVP",
+      "label": "ORG",
+      "start": 42802,
+      "end": 42805
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 42826,
+      "end": 42834
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 43049,
+      "end": 43052
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 43604,
+      "end": 43612
+    },
+    {
+      "text": "Kamitz",
+      "label": "PER",
+      "start": 43814,
+      "end": 43820
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 44218,
+      "end": 44226
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 44585,
+      "end": 44593
+    },
+    {
+      "text": "Jean Jaures",
+      "label": "PER",
+      "start": 48349,
+      "end": 48360
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48432,
+      "end": 48435
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48494,
+      "end": 48497
+    },
+    {
+      "text": "Gredler",
+      "label": "PER",
+      "start": 48566,
+      "end": 48573
+    },
+    {
+      "text": "Gredler",
+      "label": "PER",
+      "start": 48629,
+      "end": 48636
+    },
+    {
+      "text": "Freiheitliche Partei",
+      "label": "ORG",
+      "start": 48679,
+      "end": 48699
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 50646,
+      "end": 50648
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 50719,
+      "end": 50721
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51232,
+      "end": 51239
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51925,
+      "end": 51932
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 52529,
+      "end": 52537
+    },
+    {
+      "text": "Lechner",
+      "label": "PER",
+      "start": 52671,
+      "end": 52678
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 53254,
+      "end": 53264
+    },
+    {
+      "text": "Österreicmschen Staatsdruckerei",
+      "label": "ORG",
+      "start": 55246,
+      "end": 55277
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 129,
+      "end": 166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 320,
+      "end": 331
+    },
+    {
+      "text": "Dr. Hu r d e s",
+      "label": "PER",
+      "start": 358,
+      "end": 372
+    },
+    {
+      "text": "Schaf­",
+      "label": "ORG",
+      "start": 546,
+      "end": 552
+    },
+    {
+      "text": "Südtiroler",
+      "label": "LOC",
+      "start": 710,
+      "end": 720
+    },
+    {
+      "text": "Kanaltaler",
+      "label": "LOC",
+      "start": 725,
+      "end": 735
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 794,
+      "end": 806
+    },
+    {
+      "text": "Urlaub",
+      "label": "LOC",
+      "start": 834,
+      "end": 840
+    },
+    {
+      "text": "Genehmi­",
+      "label": "PER",
+      "start": 1076,
+      "end": 1084
+    },
+    {
+      "text": "Wu n d e r",
+      "label": "ORG",
+      "start": 1183,
+      "end": 1193
+    },
+    {
+      "text": "Bundes­\nregierung",
+      "label": "ORG",
+      "start": 1230,
+      "end": 1247
+    },
+    {
+      "text": ".Jugoslawien",
+      "label": "LOC",
+      "start": 1331,
+      "end": 1343
+    },
+    {
+      "text": "Bundesminister für soziale Verwaltung",
+      "label": "ORG",
+      "start": 1422,
+      "end": 1459
+    },
+    {
+      "text": "Sozialversiche­",
+      "label": "PER",
+      "start": 1491,
+      "end": 1506
+    },
+    {
+      "text": "S e b i",
+      "label": "LOC",
+      "start": 1545,
+      "end": 1552
+    },
+    {
+      "text": "Bundesminister für die Auswärtigen An­",
+      "label": "ORG",
+      "start": 1581,
+      "end": 1619
+    },
+    {
+      "text": "E i b e g g e r",
+      "label": "LOC",
+      "start": 1805,
+      "end": 1820
+    },
+    {
+      "text": "Dipl.-Ing.\nDr.\nLe c h n e r",
+      "label": "PER",
+      "start": 1857,
+      "end": 1884
+    },
+    {
+      "text": "Bundesministers für .Justiz",
+      "label": "ORG",
+      "start": 1902,
+      "end": 1929
+    },
+    {
+      "text": "Abg",
+      "label": "ORG",
+      "start": 1977,
+      "end": 1980
+    },
+    {
+      "text": "A ppe l",
+      "label": "ORG",
+      "start": 1982,
+      "end": 1989
+    },
+    {
+      "text": "Dr. Hordes",
+      "label": "PER",
+      "start": 2124,
+      "end": 2134
+    },
+    {
+      "text": "de� Kanzlei",
+      "label": "LOC",
+      "start": 2298,
+      "end": 2309
+    },
+    {
+      "text": "Maleta",
+      "label": "PER",
+      "start": 2560,
+      "end": 2566
+    },
+    {
+      "text": "�",
+      "label": "LOC",
+      "start": 2583,
+      "end": 2584
+    },
+    {
+      "text": "B e a n t w o r t u n",
+      "label": "LOC",
+      "start": 2812,
+      "end": 2833
+    },
+    {
+      "text": "Dr. Kranzlmayr",
+      "label": "PER",
+      "start": 2844,
+      "end": 2858
+    },
+    {
+      "text": "Franz Mayr",
+      "label": "PER",
+      "start": 2860,
+      "end": 2870
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2899,
+      "end": 2911
+    },
+    {
+      "text": "Appel",
+      "label": "PER",
+      "start": 2912,
+      "end": 2917
+    },
+    {
+      "text": "Ge�\nStoll",
+      "label": "PER",
+      "start": 2922,
+      "end": 2931
+    },
+    {
+      "text": "Herrn Bundesminister für\nJustiz",
+      "label": "ORG",
+      "start": 2947,
+      "end": 2978
+    },
+    {
+      "text": "Abgeord­",
+      "label": "PER",
+      "start": 3055,
+      "end": 3063
+    },
+    {
+      "text": "Eichinger",
+      "label": "PER",
+      "start": 3070,
+      "end": 3079
+    },
+    {
+      "text": "Josef Fink",
+      "label": "PER",
+      "start": 3085,
+      "end": 3095
+    },
+    {
+      "text": "Köck",
+      "label": "PER",
+      "start": 3097,
+      "end": 3101
+    },
+    {
+      "text": "Telephonmastes",
+      "label": "LOC",
+      "start": 3131,
+      "end": 3145
+    },
+    {
+      "text": "Brücke der Enns",
+      "label": "LOC",
+      "start": 3194,
+      "end": 3209
+    },
+    {
+      "text": "Dr. Schärf Herrn Landeshauptmannstellvertreters Kargl",
+      "label": "PER",
+      "start": 3256,
+      "end": 3309
+    },
+    {
+      "text": "Cerny",
+      "label": "PER",
+      "start": 3395,
+      "end": 3400
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3523,
+      "end": 3536
+    },
+    {
+      "text": "ge­\nvember",
+      "label": "PER",
+      "start": 3617,
+      "end": 3627
+    },
+    {
+      "text": "Alten­",
+      "label": "PER",
+      "start": 4148,
+      "end": 4154
+    },
+    {
+      "text": "VÖEST",
+      "label": "ORG",
+      "start": 4236,
+      "end": 4241
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 4262,
+      "end": 4281
+    },
+    {
+      "text": "Hitzinger",
+      "label": "PER",
+      "start": 4286,
+      "end": 4295
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 4415,
+      "end": 4434
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 4578,
+      "end": 4597
+    },
+    {
+      "text": "Weikhart",
+      "label": "PER",
+      "start": 4631,
+      "end": 4639
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "LOC",
+      "start": 4758,
+      "end": 4777
+    },
+    {
+      "text": "Weikhart",
+      "label": "PER",
+      "start": 4862,
+      "end": 4870
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 5073,
+      "end": 5092
+    },
+    {
+      "text": "E i",
+      "label": "LOC",
+      "start": 5526,
+      "end": 5529
+    },
+    {
+      "text": "Bruttomehrausgaben",
+      "label": "LOC",
+      "start": 5549,
+      "end": 5567
+    },
+    {
+      "text": "Zeillinger",
+      "label": "PER",
+      "start": 5637,
+      "end": 5647
+    },
+    {
+      "text": "Bundes­\nBruttomehreinnahmen",
+      "label": "PER",
+      "start": 5657,
+      "end": 5684
+    },
+    {
+      "text": "Bruttomehrausgaben",
+      "label": "LOC",
+      "start": 5756,
+      "end": 5774
+    },
+    {
+      "text": "Verkehrsaus8chuß zuge­",
+      "label": "LOC",
+      "start": 5967,
+      "end": 5989
+    },
+    {
+      "text": "Personal­",
+      "label": "LOC",
+      "start": 6031,
+      "end": 6040
+    },
+    {
+      "text": "Rechnungshofausschusses",
+      "label": "LOC",
+      "start": 6142,
+      "end": 6165
+    },
+    {
+      "text": "Bundes­",
+      "label": "PER",
+      "start": 6683,
+      "end": 6690
+    },
+    {
+      "text": "Aigner",
+      "label": "PER",
+      "start": 6827,
+      "end": 6833
+    },
+    {
+      "text": "Aigner",
+      "label": "LOC",
+      "start": 6930,
+      "end": 6936
+    },
+    {
+      "text": "Bundesscha tzscheinen",
+      "label": "ORG",
+      "start": 7053,
+      "end": 7074
+    },
+    {
+      "text": "Bundesschuldverschrei­",
+      "label": "LOC",
+      "start": 7142,
+      "end": 7164
+    },
+    {
+      "text": "Republik Österreich",
+      "label": "LOC",
+      "start": 7165,
+      "end": 7184
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 7279,
+      "end": 7285
+    },
+    {
+      "text": "S",
+      "label": "LOC",
+      "start": 7508,
+      "end": 7509
+    },
+    {
+      "text": "Bundes­",
+      "label": "PER",
+      "start": 7773,
+      "end": 7780
+    },
+    {
+      "text": "S",
+      "label": "LOC",
+      "start": 7983,
+      "end": 7984
+    },
+    {
+      "text": "S",
+      "label": "LOC",
+      "start": 8075,
+      "end": 8076
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 8447,
+      "end": 8466
+    },
+    {
+      "text": "Üling",
+      "label": "LOC",
+      "start": 8472,
+      "end": 8477
+    },
+    {
+      "text": "UdSSR",
+      "label": "ORG",
+      "start": 8699,
+      "end": 8704
+    },
+    {
+      "text": "Kinderbeihilfe",
+      "label": "LOC",
+      "start": 8895,
+      "end": 8909
+    },
+    {
+      "text": "Soziale Verwaltung",
+      "label": "ORG",
+      "start": 9087,
+      "end": 9105
+    },
+    {
+      "text": "Einnahmenausfälle",
+      "label": "LOC",
+      "start": 9289,
+      "end": 9306
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 9519,
+      "end": 9523
+    },
+    {
+      "text": "Bundes­",
+      "label": "PER",
+      "start": 9560,
+      "end": 9567
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 9612,
+      "end": 9616
+    },
+    {
+      "text": "Mehreingänge",
+      "label": "PER",
+      "start": 9783,
+      "end": 9795
+    },
+    {
+      "text": "Übergangsmaßnahmen",
+      "label": "LOC",
+      "start": 9841,
+      "end": 9859
+    },
+    {
+      "text": "Rechnungshofausschusses",
+      "label": "LOC",
+      "start": 10252,
+      "end": 10275
+    },
+    {
+      "text": "A n t r a g",
+      "label": "ORG",
+      "start": 10291,
+      "end": 10302
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10308,
+      "end": 10319
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 10494,
+      "end": 10505
+    },
+    {
+      "text": "National­\nrat",
+      "label": "LOC",
+      "start": 10548,
+      "end": 10561
+    },
+    {
+      "text": "Bundesrechnungsabschluß",
+      "label": "LOC",
+      "start": 10574,
+      "end": 10597
+    },
+    {
+      "text": "Republik Österreich",
+      "label": "LOC",
+      "start": 10602,
+      "end": 10621
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 11092,
+      "end": 11098
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 11188,
+      "end": 11191
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 11193,
+      "end": 11196
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 11201,
+      "end": 11204
+    },
+    {
+      "text": "Budget­",
+      "label": "ORG",
+      "start": 11305,
+      "end": 11312
+    },
+    {
+      "text": "Bundes­\nrechnungsabschluß",
+      "label": "ORG",
+      "start": 11348,
+      "end": 11373
+    },
+    {
+      "text": "Finanzgesetzen",
+      "label": "LOC",
+      "start": 11382,
+      "end": 11396
+    },
+    {
+      "text": "Staatshaus­",
+      "label": "ORG",
+      "start": 11431,
+      "end": 11442
+    },
+    {
+      "text": "Finanz­",
+      "label": "PER",
+      "start": 11520,
+      "end": 11527
+    },
+    {
+      "text": "Mehrein­",
+      "label": "LOC",
+      "start": 12087,
+      "end": 12095
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 12246,
+      "end": 12250
+    },
+    {
+      "text": "Finanz­\nministers",
+      "label": "LOC",
+      "start": 12417,
+      "end": 12434
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 12778,
+      "end": 12782
+    },
+    {
+      "text": "Rechnungshofausschuß",
+      "label": "LOC",
+      "start": 12870,
+      "end": 12890
+    },
+    {
+      "text": "Dr. Frenzel",
+      "label": "PER",
+      "start": 12928,
+      "end": 12939
+    },
+    {
+      "text": "Finanz­\nministers",
+      "label": "PER",
+      "start": 13374,
+      "end": 13391
+    },
+    {
+      "text": "näm­",
+      "label": "LOC",
+      "start": 13422,
+      "end": 13426
+    },
+    {
+      "text": "Kamitz",
+      "label": "LOC",
+      "start": 13670,
+      "end": 13676
+    },
+    {
+      "text": "liarden Schilling",
+      "label": "ORG",
+      "start": 14195,
+      "end": 14212
+    },
+    {
+      "text": "Finanz­",
+      "label": "PER",
+      "start": 14877,
+      "end": 14884
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 14987,
+      "end": 14993
+    },
+    {
+      "text": "Invaliden­",
+      "label": "LOC",
+      "start": 15002,
+      "end": 15012
+    },
+    {
+      "text": "näm­",
+      "label": "PER",
+      "start": 15053,
+      "end": 15057
+    },
+    {
+      "text": "ab­ ling",
+      "label": "PER",
+      "start": 15231,
+      "end": 15239
+    },
+    {
+      "text": "Milliarden Schilling",
+      "label": "PER",
+      "start": 15309,
+      "end": 15329
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 15885,
+      "end": 15899
+    },
+    {
+      "text": "Beitragsein­",
+      "label": "LOC",
+      "start": 16044,
+      "end": 16056
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 16223,
+      "end": 16227
+    },
+    {
+      "text": "Finanzmini­",
+      "label": "PER",
+      "start": 16787,
+      "end": 16798
+    },
+    {
+      "text": "Er­",
+      "label": "ORG",
+      "start": 16838,
+      "end": 16841
+    },
+    {
+      "text": "Woh­",
+      "label": "LOC",
+      "start": 16973,
+      "end": 16977
+    },
+    {
+      "text": "nungslosen",
+      "label": "LOC",
+      "start": 17023,
+      "end": 17033
+    },
+    {
+      "text": "Faschismus",
+      "label": "ORG",
+      "start": 17048,
+      "end": 17058
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 17177,
+      "end": 17181
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 17205,
+      "end": 17209
+    },
+    {
+      "text": "Bundes­\nMinisterien",
+      "label": "LOC",
+      "start": 17485,
+      "end": 17504
+    },
+    {
+      "text": "Arbei­",
+      "label": "LOC",
+      "start": 17870,
+      "end": 17876
+    },
+    {
+      "text": "ÖVP-Ministern",
+      "label": "ORG",
+      "start": 17993,
+      "end": 18006
+    },
+    {
+      "text": "Arbeitslosenunterstützungen",
+      "label": "LOC",
+      "start": 18293,
+      "end": 18320
+    },
+    {
+      "text": "Notstandsaushilfe",
+      "label": "LOC",
+      "start": 18390,
+      "end": 18407
+    },
+    {
+      "text": "Aus­",
+      "label": "ORG",
+      "start": 18536,
+      "end": 18540
+    },
+    {
+      "text": "Arbeitslosenfürsorge",
+      "label": "LOC",
+      "start": 18566,
+      "end": 18586
+    },
+    {
+      "text": "Milliarden Schilling",
+      "label": "PER",
+      "start": 18613,
+      "end": 18633
+    },
+    {
+      "text": "Zeit der Arbeitslosigkeit",
+      "label": "ORG",
+      "start": 18741,
+      "end": 18766
+    },
+    {
+      "text": "Arbeitslosenfürsorge",
+      "label": "LOC",
+      "start": 19559,
+      "end": 19579
+    },
+    {
+      "text": "lur",
+      "label": "PER",
+      "start": 19690,
+      "end": 19693
+    },
+    {
+      "text": "wirk­ lich",
+      "label": "PER",
+      "start": 19939,
+      "end": 19949
+    },
+    {
+      "text": "Kamitz",
+      "label": "LOC",
+      "start": 20212,
+      "end": 20218
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 20581,
+      "end": 20587
+    },
+    {
+      "text": "Monatsbezuges",
+      "label": "LOC",
+      "start": 20758,
+      "end": 20771
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 20836,
+      "end": 20850
+    },
+    {
+      "text": "Beschäfti­",
+      "label": "PER",
+      "start": 21035,
+      "end": 21045
+    },
+    {
+      "text": "Gegen­\nling",
+      "label": "LOC",
+      "start": 21231,
+      "end": 21242
+    },
+    {
+      "text": "S",
+      "label": "LOC",
+      "start": 21269,
+      "end": 21270
+    },
+    {
+      "text": "Rechnungs­",
+      "label": "LOC",
+      "start": 21578,
+      "end": 21588
+    },
+    {
+      "text": "Haftentschädi· kassa",
+      "label": "ORG",
+      "start": 22489,
+      "end": 22509
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "PER",
+      "start": 22515,
+      "end": 22534
+    },
+    {
+      "text": "be­",
+      "label": "LOC",
+      "start": 22631,
+      "end": 22634
+    },
+    {
+      "text": "Faschismus",
+      "label": "ORG",
+      "start": 23088,
+      "end": 23098
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 23134,
+      "end": 23144
+    },
+    {
+      "text": "Finanzministeriums um­",
+      "label": "ORG",
+      "start": 23416,
+      "end": 23438
+    },
+    {
+      "text": "Kamitz",
+      "label": "LOC",
+      "start": 23615,
+      "end": 23621
+    },
+    {
+      "text": "be­",
+      "label": "LOC",
+      "start": 23711,
+      "end": 23714
+    },
+    {
+      "text": "Um­\nLandes",
+      "label": "LOC",
+      "start": 23888,
+      "end": 23898
+    },
+    {
+      "text": "satzsteuer",
+      "label": "PER",
+      "start": 23913,
+      "end": 23923
+    },
+    {
+      "text": "Budget­ Schilling",
+      "label": "ORG",
+      "start": 23984,
+      "end": 24001
+    },
+    {
+      "text": "Spezialbericht­",
+      "label": "PER",
+      "start": 24146,
+      "end": 24161
+    },
+    {
+      "text": "Warenumsatz",
+      "label": "LOC",
+      "start": 24346,
+      "end": 24357
+    },
+    {
+      "text": "Mehreingang bei der umlage\nWarenumsatzsteuer",
+      "label": "LOC",
+      "start": 24709,
+      "end": 24753
+    },
+    {
+      "text": "� präliminiert",
+      "label": "PER",
+      "start": 24987,
+      "end": 25001
+    },
+    {
+      "text": "Waren­ bringungsumlage",
+      "label": "LOC",
+      "start": 25180,
+      "end": 25202
+    },
+    {
+      "text": "Gewerkschaften",
+      "label": "ORG",
+      "start": 25250,
+      "end": 25264
+    },
+    {
+      "text": "Grundnahrun",
+      "label": "LOC",
+      "start": 25402,
+      "end": 25413
+    },
+    {
+      "text": "gsmittel",
+      "label": "LOC",
+      "start": 25414,
+      "end": 25422
+    },
+    {
+      "text": "aie",
+      "label": "ORG",
+      "start": 25562,
+      "end": 25565
+    },
+    {
+      "text": "Umsatz­",
+      "label": "LOC",
+      "start": 25611,
+      "end": 25618
+    },
+    {
+      "text": "Bundeszuschlags",
+      "label": "ORG",
+      "start": 25774,
+      "end": 25789
+    },
+    {
+      "text": "Umsatz­",
+      "label": "LOC",
+      "start": 25794,
+      "end": 25801
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 25811,
+      "end": 25825
+    },
+    {
+      "text": "Möglich­ Arbeiter",
+      "label": "LOC",
+      "start": 25968,
+      "end": 25985
+    },
+    {
+      "text": "ge­\n",
+      "label": "PER",
+      "start": 26170,
+      "end": 26174
+    },
+    {
+      "text": "Millionen Schilling",
+      "label": "LOC",
+      "start": 26182,
+      "end": 26201
+    },
+    {
+      "text": "be­",
+      "label": "ORG",
+      "start": 26381,
+      "end": 26384
+    },
+    {
+      "text": "nungsabschluß",
+      "label": "LOC",
+      "start": 26661,
+      "end": 26674
+    },
+    {
+      "text": "unsozialer",
+      "label": "PER",
+      "start": 26762,
+      "end": 26772
+    },
+    {
+      "text": "Kommunisten",
+      "label": "ORG",
+      "start": 27005,
+      "end": 27016
+    },
+    {
+      "text": "Stempelunfug",
+      "label": "LOC",
+      "start": 27146,
+      "end": 27158
+    },
+    {
+      "text": "Dr. Kamitz",
+      "label": "PER",
+      "start": 27291,
+      "end": 27301
+    },
+    {
+      "text": "Bundesrechnungsabschluß",
+      "label": "PER",
+      "start": 27525,
+      "end": 27548
+    },
+    {
+      "text": "zi",
+      "label": "ORG",
+      "start": 27638,
+      "end": 27640
+    },
+    {
+      "text": "Stempelmarken",
+      "label": "LOC",
+      "start": 27677,
+      "end": 27690
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 27711,
+      "end": 27725
+    },
+    {
+      "text": "Bundesvoranschlag",
+      "label": "PER",
+      "start": 27818,
+      "end": 27835
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 27960,
+      "end": 27968
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 28100,
+      "end": 28103
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28108
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 28113,
+      "end": 28116
+    },
+    {
+      "text": "Karl Ausch",
+      "label": "PER",
+      "start": 28196,
+      "end": 28206
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 28235,
+      "end": 28247
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 28248,
+      "end": 28256
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 28360,
+      "end": 28372
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 28377,
+      "end": 28390
+    },
+    {
+      "text": "Staaten",
+      "label": "LOC",
+      "start": 28552,
+      "end": 28559
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 28797,
+      "end": 28810
+    },
+    {
+      "text": "Honner",
+      "label": "PER",
+      "start": 28968,
+      "end": 28974
+    },
+    {
+      "text": "Hohes Haus",
+      "label": "LOC",
+      "start": 28995,
+      "end": 29005
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 29019,
+      "end": 29030
+    },
+    {
+      "text": "Kamitz-Kurses!",
+      "label": "ORG",
+      "start": 29103,
+      "end": 29117
+    },
+    {
+      "text": "Wirtschaftsausgaben",
+      "label": "LOC",
+      "start": 29575,
+      "end": 29594
+    },
+    {
+      "text": "ge­\n",
+      "label": "PER",
+      "start": 29970,
+      "end": 29974
+    },
+    {
+      "text": "Rechnungsabschluß",
+      "label": "PER",
+      "start": 30014,
+      "end": 30031
+    },
+    {
+      "text": "Mil­",
+      "label": "LOC",
+      "start": 30221,
+      "end": 30225
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 30429,
+      "end": 30443
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 30548,
+      "end": 30562
+    },
+    {
+      "text": "Finanzministers",
+      "label": "LOC",
+      "start": 30852,
+      "end": 30867
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 30963,
+      "end": 30977
+    },
+    {
+      "text": "Finanz",
+      "label": "PER",
+      "start": 31205,
+      "end": 31211
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 31261,
+      "end": 31270
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 31562,
+      "end": 31576
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 31964,
+      "end": 31974
+    },
+    {
+      "text": "Er­",
+      "label": "ORG",
+      "start": 32107,
+      "end": 32110
+    },
+    {
+      "text": "Rechnungs­\nabschluß",
+      "label": "LOC",
+      "start": 32173,
+      "end": 32192
+    },
+    {
+      "text": "demokratischen\nStaat",
+      "label": "LOC",
+      "start": 32257,
+      "end": 32277
+    },
+    {
+      "text": "Rechnungsabschluß",
+      "label": "PER",
+      "start": 32360,
+      "end": 32377
+    },
+    {
+      "text": "Abg",
+      "label": "PER",
+      "start": 32379,
+      "end": 32382
+    },
+    {
+      "text": "Gorbach",
+      "label": "PER",
+      "start": 32388,
+      "end": 32395
+    },
+    {
+      "text": "Kam-itz!",
+      "label": "ORG",
+      "start": 32433,
+      "end": 32441
+    },
+    {
+      "text": "Rechnungs­\nabschluß",
+      "label": "LOC",
+      "start": 32626,
+      "end": 32645
+    },
+    {
+      "text": "so­",
+      "label": "LOC",
+      "start": 32928,
+      "end": 32931
+    },
+    {
+      "text": "Eventualbudget",
+      "label": "LOC",
+      "start": 32941,
+      "end": 32955
+    },
+    {
+      "text": "an­",
+      "label": "PER",
+      "start": 33223,
+      "end": 33226
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 33285,
+      "end": 33295
+    },
+    {
+      "text": "be­",
+      "label": "LOC",
+      "start": 33438,
+      "end": 33441
+    },
+    {
+      "text": "ohneweiters",
+      "label": "LOC",
+      "start": 33737,
+      "end": 33748
+    },
+    {
+      "text": "an­",
+      "label": "PER",
+      "start": 34379,
+      "end": 34382
+    },
+    {
+      "text": "Nach­",
+      "label": "LOC",
+      "start": 35164,
+      "end": 35169
+    },
+    {
+      "text": "lässen",
+      "label": "PER",
+      "start": 35213,
+      "end": 35219
+    },
+    {
+      "text": "Landes­",
+      "label": "PER",
+      "start": 36095,
+      "end": 36102
+    },
+    {
+      "text": "Steuerstundun­",
+      "label": "PER",
+      "start": 36132,
+      "end": 36146
+    },
+    {
+      "text": "Kommis­",
+      "label": "PER",
+      "start": 36399,
+      "end": 36406
+    },
+    {
+      "text": "Ge­",
+      "label": "LOC",
+      "start": 36515,
+      "end": 36518
+    },
+    {
+      "text": "meindesteuern",
+      "label": "PER",
+      "start": 36580,
+      "end": 36593
+    },
+    {
+      "text": "Landes­",
+      "label": "PER",
+      "start": 36797,
+      "end": 36804
+    },
+    {
+      "text": "Finanz­",
+      "label": "PER",
+      "start": 37176,
+      "end": 37183
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 37327,
+      "end": 37331
+    },
+    {
+      "text": "Umsatzsteuerrückvergütungen",
+      "label": "LOC",
+      "start": 37372,
+      "end": 37399
+    },
+    {
+      "text": "Dipl.­",
+      "label": "PER",
+      "start": 38320,
+      "end": 38326
+    },
+    {
+      "text": "Dr. Lechner",
+      "label": "PER",
+      "start": 38368,
+      "end": 38379
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Lechner",
+      "label": "PER",
+      "start": 38462,
+      "end": 38484
+    },
+    {
+      "text": "Hohes",
+      "label": "LOC",
+      "start": 38486,
+      "end": 38491
+    },
+    {
+      "text": "Haus!\n",
+      "label": "LOC",
+      "start": 38614,
+      "end": 38620
+    },
+    {
+      "text": "Derartiges",
+      "label": "PER",
+      "start": 38680,
+      "end": 38690
+    },
+    {
+      "text": "Gleichartig­",
+      "label": "PER",
+      "start": 38824,
+      "end": 38836
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39037,
+      "end": 39048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 39326,
+      "end": 39339
+    },
+    {
+      "text": "Staatsbi",
+      "label": "PER",
+      "start": 39356,
+      "end": 39364
+    },
+    {
+      "text": "Wirklich­",
+      "label": "LOC",
+      "start": 39393,
+      "end": 39402
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 39419,
+      "end": 39430
+    },
+    {
+      "text": "Lohnbüros",
+      "label": "LOC",
+      "start": 39648,
+      "end": 39657
+    },
+    {
+      "text": "Verwaltungsgerichtshof",
+      "label": "LOC",
+      "start": 40155,
+      "end": 40177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 41305,
+      "end": 41316
+    },
+    {
+      "text": "Kollege Eibegger",
+      "label": "PER",
+      "start": 41402,
+      "end": 41418
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 41443,
+      "end": 41457
+    },
+    {
+      "text": "ZU",
+      "label": "ORG",
+      "start": 41767,
+      "end": 41769
+    },
+    {
+      "text": "J VP",
+      "label": "ORG",
+      "start": 42120,
+      "end": 42124
+    },
+    {
+      "text": "Finanz­",
+      "label": "PER",
+      "start": 42229,
+      "end": 42236
+    },
+    {
+      "text": "Unterneh­ minister",
+      "label": "ORG",
+      "start": 42268,
+      "end": 42286
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 42336,
+      "end": 42342
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 42584,
+      "end": 42598
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 42772,
+      "end": 42783
+    },
+    {
+      "text": "JVP",
+      "label": "ORG",
+      "start": 42802,
+      "end": 42805
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 42826,
+      "end": 42834
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43017,
+      "end": 43030
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 43049,
+      "end": 43052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43285,
+      "end": 43298
+    },
+    {
+      "text": "Kollege Eibegger",
+      "label": "PER",
+      "start": 43596,
+      "end": 43612
+    },
+    {
+      "text": "Finanzminister",
+      "label": "LOC",
+      "start": 43795,
+      "end": 43809
+    },
+    {
+      "text": "Dr. Kamitz",
+      "label": "PER",
+      "start": 43810,
+      "end": 43820
+    },
+    {
+      "text": "Budgetrede",
+      "label": "PER",
+      "start": 43878,
+      "end": 43888
+    },
+    {
+      "text": "Eibegger",
+      "label": "PER",
+      "start": 44218,
+      "end": 44226
+    },
+    {
+      "text": "Zweckbindungen",
+      "label": "LOC",
+      "start": 44448,
+      "end": 44462
+    },
+    {
+      "text": "Kollege Eibegger",
+      "label": "PER",
+      "start": 44577,
+      "end": 44593
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 44694,
+      "end": 44699
+    },
+    {
+      "text": "Daß",
+      "label": "PER",
+      "start": 45249,
+      "end": 45252
+    },
+    {
+      "text": "Gegen­",
+      "label": "PER",
+      "start": 46119,
+      "end": 46125
+    },
+    {
+      "text": "Einnahmenzuwachs",
+      "label": "LOC",
+      "start": 46278,
+      "end": 46294
+    },
+    {
+      "text": "Hohes Haus",
+      "label": "LOC",
+      "start": 46939,
+      "end": 46949
+    },
+    {
+      "text": "Bundesrechnungs­\nabschluß",
+      "label": "LOC",
+      "start": 47088,
+      "end": 47113
+    },
+    {
+      "text": "Bund",
+      "label": "LOC",
+      "start": 47133,
+      "end": 47137
+    },
+    {
+      "text": "Finanz­",
+      "label": "PER",
+      "start": 47143,
+      "end": 47150
+    },
+    {
+      "text": "Jean Jaures",
+      "label": "PER",
+      "start": 48349,
+      "end": 48360
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48432,
+      "end": 48435
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 48494,
+      "end": 48497
+    },
+    {
+      "text": "Dr. Gredler",
+      "label": "PER",
+      "start": 48562,
+      "end": 48573
+    },
+    {
+      "text": "Dr. Gredler",
+      "label": "PER",
+      "start": 48625,
+      "end": 48636
+    },
+    {
+      "text": "Die Freiheitliche\nPartei",
+      "label": "ORG",
+      "start": 48675,
+      "end": 48699
+    },
+    {
+      "text": "Bundesrechnungsab­",
+      "label": "ORG",
+      "start": 48716,
+      "end": 48734
+    },
+    {
+      "text": "Bundesrechnungs­\nabschluß",
+      "label": "LOC",
+      "start": 48850,
+      "end": 48875
+    },
+    {
+      "text": "Bundesrechnungsabschlusses",
+      "label": "LOC",
+      "start": 49145,
+      "end": 49171
+    },
+    {
+      "text": "Rechnungshof Ge­",
+      "label": "LOC",
+      "start": 49202,
+      "end": 49218
+    },
+    {
+      "text": "Rech­",
+      "label": "LOC",
+      "start": 49298,
+      "end": 49303
+    },
+    {
+      "text": "Bundesminister für Finanzen",
+      "label": "ORG",
+      "start": 49425,
+      "end": 49452
+    },
+    {
+      "text": "be­",
+      "label": "PER",
+      "start": 50014,
+      "end": 50017
+    },
+    {
+      "text": "mäkein",
+      "label": "LOC",
+      "start": 50560,
+      "end": 50566
+    },
+    {
+      "text": "Wahlpartei der Unabhängigen",
+      "label": "ORG",
+      "start": 50802,
+      "end": 50829
+    },
+    {
+      "text": "Bundesrechnungsabschluß",
+      "label": "PER",
+      "start": 50920,
+      "end": 50943
+    },
+    {
+      "text": "Nachbarlande",
+      "label": "LOC",
+      "start": 51043,
+      "end": 51055
+    },
+    {
+      "text": "hin­",
+      "label": "PER",
+      "start": 51119,
+      "end": 51123
+    },
+    {
+      "text": "Integraakzeptieren",
+      "label": "LOC",
+      "start": 51164,
+      "end": 51182
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51232,
+      "end": 51239
+    },
+    {
+      "text": "Budgetdebatte",
+      "label": "PER",
+      "start": 51388,
+      "end": 51401
+    },
+    {
+      "text": "Budgetdebatte",
+      "label": "PER",
+      "start": 51448,
+      "end": 51461
+    },
+    {
+      "text": "Zahlenmaterials",
+      "label": "LOC",
+      "start": 51531,
+      "end": 51546
+    },
+    {
+      "text": "Staat Platz",
+      "label": "LOC",
+      "start": 51707,
+      "end": 51718
+    },
+    {
+      "text": "Europas",
+      "label": "LOC",
+      "start": 51925,
+      "end": 51932
+    },
+    {
+      "text": "durchsetzenden",
+      "label": "PER",
+      "start": 51949,
+      "end": 51963
+    },
+    {
+      "text": "Kollege Eibegger",
+      "label": "PER",
+      "start": 52521,
+      "end": 52537
+    },
+    {
+      "text": "Dipl",
+      "label": "PER",
+      "start": 52657,
+      "end": 52661
+    },
+    {
+      "text": "Ing. Lechner",
+      "label": "PER",
+      "start": 52666,
+      "end": 52678
+    },
+    {
+      "text": "Steuermoral",
+      "label": "LOC",
+      "start": 52881,
+      "end": 52892
+    },
+    {
+      "text": "Herrn\nBundesministers für Finanzen",
+      "label": "PER",
+      "start": 53157,
+      "end": 53191
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 53254,
+      "end": 53264
+    },
+    {
+      "text": "europäischen\n",
+      "label": "LOC",
+      "start": 53602,
+      "end": 53615
+    },
+    {
+      "text": "Integrl!.ti�n Anlaß",
+      "label": "LOC",
+      "start": 53615,
+      "end": 53634
+    },
+    {
+      "text": "e�e",
+      "label": "ORG",
+      "start": 53653,
+      "end": 53656
+    },
+    {
+      "text": "GebIet",
+      "label": "LOC",
+      "start": 53695,
+      "end": 53701
+    },
+    {
+      "text": "Budgetwesens",
+      "label": "LOC",
+      "start": 53709,
+      "end": 53721
+    },
+    {
+      "text": "�chwiei'igkeit",
+      "label": "LOC",
+      "start": 53756,
+      "end": 53770
+    },
+    {
+      "text": "�emmnis",
+      "label": "PER",
+      "start": 53772,
+      "end": 53779
+    },
+    {
+      "text": "europäischen Staaten",
+      "label": "LOC",
+      "start": 53844,
+      "end": 53864
+    },
+    {
+      "text": "Bundes­\nrechnungsabschluß",
+      "label": "ORG",
+      "start": 53993,
+      "end": 54018
+    },
+    {
+      "text": "A bs t",
+      "label": "LOC",
+      "start": 54323,
+      "end": 54329
+    },
+    {
+      "text": "m u",
+      "label": "LOC",
+      "start": 54333,
+      "end": 54336
+    },
+    {
+      "text": "Gesetz­",
+      "label": "LOC",
+      "start": 54350,
+      "end": 54357
+    },
+    {
+      "text": "Bundes­",
+      "label": "PER",
+      "start": 54433,
+      "end": 54440
+    },
+    {
+      "text": "B esc hluß",
+      "label": "LOC",
+      "start": 54610,
+      "end": 54620
+    },
+    {
+      "text": "Tages­",
+      "label": "ORG",
+      "start": 55033,
+      "end": 55039
+    }
+  ]
+}

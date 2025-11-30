@@ -1,0 +1,6293 @@
+{
+  "filename": "NR_1.S_02.12.1930.xmi",
+  "ground_truth": [
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 59,
+      "end": 85
+    },
+    {
+      "text": "provi",
+      "label": "ORG",
+      "start": 280,
+      "end": 285
+    },
+    {
+      "text": "Antrag Dr. Straffner",
+      "label": "PER",
+      "start": 315,
+      "end": 335
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 436,
+      "end": 448
+    },
+    {
+      "text": "Dr. Brunner",
+      "label": "PER",
+      "start": 494,
+      "end": 505
+    },
+    {
+      "text": "Min",
+      "label": "PER",
+      "start": 540,
+      "end": 543
+    },
+    {
+      "text": "unterm",
+      "label": "PER",
+      "start": 639,
+      "end": 645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 715,
+      "end": 728
+    },
+    {
+      "text": "Bunde3präſident",
+      "label": "PER",
+      "start": 759,
+      "end": 774
+    },
+    {
+      "text": "Ent",
+      "label": "PER",
+      "start": 904,
+      "end": 907
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 974,
+      "end": 985
+    },
+    {
+      "text": "r Dienstag",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 1077,
+      "end": 1093
+    },
+    {
+      "text": "Schreibens",
+      "label": "PER",
+      "start": 1176,
+      "end": 1186
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 1235,
+      "end": 1248
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 1362,
+      "end": 1375
+    },
+    {
+      "text": "Alfred G",
+      "label": "PER",
+      "start": 1503,
+      "end": 1511
+    },
+    {
+      "text": "t Gen",
+      "label": "PER",
+      "start": 1710,
+      "end": 1715
+    },
+    {
+      "text": "Franz Brunner",
+      "label": "PER",
+      "start": 1828,
+      "end": 1841
+    },
+    {
+      "text": "Leiden",
+      "label": "ORG",
+      "start": 1855,
+      "end": 1861
+    },
+    {
+      "text": "Mann",
+      "label": "PER",
+      "start": 1877,
+      "end": 1881
+    },
+    {
+      "text": "Po",
+      "label": "LOC",
+      "start": 1964,
+      "end": 1966
+    },
+    {
+      "text": "Betriebes",
+      "label": "PER",
+      "start": 2088,
+      "end": 2097
+    },
+    {
+      "text": "Dien",
+      "label": "PER",
+      "start": 2191,
+      "end": 2195
+    },
+    {
+      "text": "Mitgliedern",
+      "label": "ORG",
+      "start": 2264,
+      "end": 2275
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 2286,
+      "end": 2299
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 2444,
+      "end": 2452
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 2679,
+      "end": 2685
+    },
+    {
+      "text": "Abg",
+      "label": "LOC",
+      "start": 2824,
+      "end": 2827
+    },
+    {
+      "text": "hen",
+      "label": "ORG",
+      "start": 2872,
+      "end": 2875
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 2908,
+      "end": 2916
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3052,
+      "end": 3064
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 3156,
+      "end": 3164
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 3207,
+      "end": 3215
+    },
+    {
+      "text": "Jhre8 Namens",
+      "label": "PER",
+      "start": 3340,
+      "end": 3352
+    },
+    {
+      "text": "NamenSaufruf",
+      "label": "ORG",
+      "start": 3415,
+      "end": 3427
+    },
+    {
+      "text": "Schriftf",
+      "label": "ORG",
+      "start": 3432,
+      "end": 3440
+    },
+    {
+      "text": "Abram Simon",
+      "label": "PER",
+      "start": 3502,
+      "end": 3513
+    },
+    {
+      "text": "Aigner Joſ",
+      "label": "PER",
+      "start": 3515,
+      "end": 3525
+    },
+    {
+      "text": "Allina Heinrich",
+      "label": "PER",
+      "start": 3534,
+      "end": 3549
+    },
+    {
+      "text": "Auinger Johann",
+      "label": "PER",
+      "start": 3551,
+      "end": 3565
+    },
+    {
+      "text": "Alois",
+      "label": "PER",
+      "start": 3573,
+      "end": 3578
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 3586,
+      "end": 3590
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3592,
+      "end": 3595
+    },
+    {
+      "text": "Baumg",
+      "label": "LOC",
+      "start": 3597,
+      "end": 3602
+    },
+    {
+      "text": "rtel Emil",
+      "label": "PER",
+      "start": 3603,
+      "end": 3612
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 3624,
+      "end": 3629
+    },
+    {
+      "text": "hm Johann",
+      "label": "PER",
+      "start": 3633,
+      "end": 3642
+    },
+    {
+      "text": "Anna",
+      "label": "PER",
+      "start": 3653,
+      "end": 3657
+    },
+    {
+      "text": "Brachmann Hans",
+      "label": "PER",
+      "start": 3659,
+      "end": 3673
+    },
+    {
+      "text": "Brinnich Franz",
+      "label": "PER",
+      "start": 3675,
+      "end": 3689
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3705,
+      "end": 3708
+    },
+    {
+      "text": "Danneberg Nobert",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Dewaty Hubert",
+      "label": "PER",
+      "start": 3754,
+      "end": 3767
+    },
+    {
+      "text": "Doppler Leopold",
+      "label": "PER",
+      "start": 3769,
+      "end": 3784
+    },
+    {
+      "text": "Drexel",
+      "label": "PER",
+      "start": 3786,
+      "end": 3792
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 3793,
+      "end": 3797
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3799,
+      "end": 3802
+    },
+    {
+      "text": "Duda Adolf",
+      "label": "PER",
+      "start": 3804,
+      "end": 3814
+    },
+    {
+      "text": "Du",
+      "label": "PER",
+      "start": 3816,
+      "end": 3818
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 3824,
+      "end": 3832
+    },
+    {
+      "text": "Ebner",
+      "label": "PER",
+      "start": 3834,
+      "end": 3839
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 3840,
+      "end": 3845
+    },
+    {
+      "text": "Ebner Hans",
+      "label": "PER",
+      "start": 3847,
+      "end": 3857
+    },
+    {
+      "text": "Eichinger Johann",
+      "label": "PER",
+      "start": 3859,
+      "end": 3875
+    },
+    {
+      "text": "Eisler",
+      "label": "PER",
+      "start": 3877,
+      "end": 3883
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 3906,
+      "end": 3914
+    },
+    {
+      "text": "Ellenbogen Wilhelm",
+      "label": "PER",
+      "start": 3916,
+      "end": 3934
+    },
+    {
+      "text": "Ellend Bernhard",
+      "label": "PER",
+      "start": 3941,
+      "end": 3956
+    },
+    {
+      "text": "Ertl Franz",
+      "label": "LOC",
+      "start": 3958,
+      "end": 3968
+    },
+    {
+      "text": "Falle Anton",
+      "label": "PER",
+      "start": 3970,
+      "end": 3981
+    },
+    {
+      "text": "Ferdinanda",
+      "label": "PER",
+      "start": 3992,
+      "end": 4002
+    },
+    {
+      "text": "Fö",
+      "label": "PER",
+      "start": 4004,
+      "end": 4006
+    },
+    {
+      "text": "Florian",
+      "label": "PER",
+      "start": 4014,
+      "end": 4021
+    },
+    {
+      "text": "Foppa Hermann",
+      "label": "PER",
+      "start": 4023,
+      "end": 4036
+    },
+    {
+      "text": "Freundlich Emmy",
+      "label": "PER",
+      "start": 4055,
+      "end": 4070
+    },
+    {
+      "text": "Michacl",
+      "label": "PER",
+      "start": 4082,
+      "end": 4089
+    },
+    {
+      "text": "Gabriel Jo",
+      "label": "PER",
+      "start": 4091,
+      "end": 4101
+    },
+    {
+      "text": "Gangl Michael",
+      "label": "PER",
+      "start": 4106,
+      "end": 4119
+    },
+    {
+      "text": "Geisler Simon",
+      "label": "PER",
+      "start": 4121,
+      "end": 4134
+    },
+    {
+      "text": "Geyer Hermann",
+      "label": "PER",
+      "start": 4136,
+      "end": 4149
+    },
+    {
+      "text": "Gierlinger Balthaſ",
+      "label": "PER",
+      "start": 4151,
+      "end": 4169
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 4180,
+      "end": 4184
+    },
+    {
+      "text": "Florian",
+      "label": "PER",
+      "start": 4191,
+      "end": 4198
+    },
+    {
+      "text": "Grit",
+      "label": "LOC",
+      "start": 4200,
+      "end": 4204
+    },
+    {
+      "text": "Joſ",
+      "label": "PER",
+      "start": 4212,
+      "end": 4215
+    },
+    {
+      "text": "Gü",
+      "label": "PER",
+      "start": 4219,
+      "end": 4221
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 4227,
+      "end": 4233
+    },
+    {
+      "text": "Hainzl Jo",
+      "label": "PER",
+      "start": 4235,
+      "end": 4244
+    },
+    {
+      "text": "Hampel Ern",
+      "label": "PER",
+      "start": 4249,
+      "end": 4259
+    },
+    {
+      "text": "Hareter Alexander",
+      "label": "PER",
+      "start": 4268,
+      "end": 4285
+    },
+    {
+      "text": "Hartmann Jo",
+      "label": "PER",
+      "start": 4386,
+      "end": 4397
+    },
+    {
+      "text": "Haueis Alois",
+      "label": "PER",
+      "start": 4402,
+      "end": 4414
+    },
+    {
+      "text": "Hautmann Marie",
+      "label": "PER",
+      "start": 4416,
+      "end": 4430
+    },
+    {
+      "text": "Heinl Eduard",
+      "label": "PER",
+      "start": 4432,
+      "end": 4444
+    },
+    {
+      "text": "Heinz Karl",
+      "label": "PER",
+      "start": 4446,
+      "end": 4456
+    },
+    {
+      "text": "Heitzinger Johann",
+      "label": "PER",
+      "start": 4458,
+      "end": 4475
+    },
+    {
+      "text": "Hermann Hermann",
+      "label": "PER",
+      "start": 4477,
+      "end": 4492
+    },
+    {
+      "text": "Hirſ",
+      "label": "PER",
+      "start": 4494,
+      "end": 4498
+    },
+    {
+      "text": "Ern",
+      "label": "LOC",
+      "start": 4501,
+      "end": 4504
+    },
+    {
+      "text": "Hollersbacher",
+      "label": "PER",
+      "start": 4508,
+      "end": 4521
+    },
+    {
+      "text": "Anton Franz",
+      "label": "PER",
+      "start": 4535,
+      "end": 4546
+    },
+    {
+      "text": "Horvatek Norbert",
+      "label": "PER",
+      "start": 4548,
+      "end": 4564
+    },
+    {
+      "text": "Alexander",
+      "label": "PER",
+      "start": 4577,
+      "end": 4586
+    },
+    {
+      "text": "Franz, Dr.",
+      "label": "PER",
+      "start": 4600,
+      "end": 4610
+    },
+    {
+      "text": "Janecek Johann",
+      "label": "PER",
+      "start": 4612,
+      "end": 4626
+    },
+    {
+      "text": "Janicki Oskar",
+      "label": "PER",
+      "start": 4628,
+      "end": 4641
+    },
+    {
+      "text": "Jiricek Hans",
+      "label": "PER",
+      "start": 4643,
+      "end": 4655
+    },
+    {
+      "text": "Emma",
+      "label": "PER",
+      "start": 4664,
+      "end": 4668
+    },
+    {
+      "text": "Kienb",
+      "label": "LOC",
+      "start": 4682,
+      "end": 4687
+    },
+    {
+      "text": "Viktor",
+      "label": "PER",
+      "start": 4690,
+      "end": 4696
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 4714,
+      "end": 4718
+    },
+    {
+      "text": "Kneu",
+      "label": "PER",
+      "start": 4720,
+      "end": 4724
+    },
+    {
+      "text": "l Erich",
+      "label": "PER",
+      "start": 4725,
+      "end": 4732
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4734,
+      "end": 4737
+    },
+    {
+      "text": "Kno",
+      "label": "PER",
+      "start": 4739,
+      "end": 4742
+    },
+    {
+      "text": "p Jo",
+      "label": "PER",
+      "start": 4743,
+      "end": 4747
+    },
+    {
+      "text": "Kolb Franz",
+      "label": "PER",
+      "start": 4752,
+      "end": 4762
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4764,
+      "end": 4767
+    },
+    {
+      "text": "Kollmann Joſ",
+      "label": "PER",
+      "start": 4769,
+      "end": 4781
+    },
+    {
+      "text": "Koref Ern",
+      "label": "ORG",
+      "start": 4785,
+      "end": 4794
+    },
+    {
+      "text": "Marie",
+      "label": "PER",
+      "start": 4811,
+      "end": 4816
+    },
+    {
+      "text": "Kraus Jo",
+      "label": "PER",
+      "start": 4818,
+      "end": 4826
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 4840,
+      "end": 4847
+    },
+    {
+      "text": "Lagger Hans",
+      "label": "PER",
+      "start": 4849,
+      "end": 4860
+    },
+    {
+      "text": "La",
+      "label": "PER",
+      "start": 4862,
+      "end": 4864
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 4868,
+      "end": 4873
+    },
+    {
+      "text": "Lengauer Joſ",
+      "label": "PER",
+      "start": 4875,
+      "end": 4887
+    },
+    {
+      "text": "Leskovar Adolf",
+      "label": "PER",
+      "start": 4891,
+      "end": 4905
+    },
+    {
+      "text": "Leuthner Karl",
+      "label": "PER",
+      "start": 4907,
+      "end": 4920
+    },
+    {
+      "text": "Lichtenegger Fri",
+      "label": "PER",
+      "start": 4922,
+      "end": 4938
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 4950,
+      "end": 4956
+    },
+    {
+      "text": "Mark",
+      "label": "PER",
+      "start": 4958,
+      "end": 4962
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 4971,
+      "end": 4977
+    },
+    {
+      "text": "Moß",
+      "label": "PER",
+      "start": 4996,
+      "end": 4999
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5006,
+      "end": 5011
+    },
+    {
+      "text": "Muchit",
+      "label": "PER",
+      "start": 5013,
+      "end": 5019
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5023,
+      "end": 5027
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 5036,
+      "end": 5041
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5051,
+      "end": 5055
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5065,
+      "end": 5070
+    },
+    {
+      "text": "Paulit",
+      "label": "PER",
+      "start": 5072,
+      "end": 5078
+    },
+    {
+      "text": "Pazelt Joſ",
+      "label": "PER",
+      "start": 5091,
+      "end": 5101
+    },
+    {
+      "text": "Peter Adolf",
+      "label": "PER",
+      "start": 5105,
+      "end": 5116
+    },
+    {
+      "text": "Pi> Karl",
+      "label": "PER",
+      "start": 5118,
+      "end": 5126
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 5139,
+      "end": 5144
+    },
+    {
+      "text": "Pi",
+      "label": "PER",
+      "start": 5146,
+      "end": 5148
+    },
+    {
+      "text": "Felix",
+      "label": "LOC",
+      "start": 5153,
+      "end": 5158
+    },
+    {
+      "text": "Plaſſer Franz",
+      "label": "PER",
+      "start": 5160,
+      "end": 5173
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 5182,
+      "end": 5188
+    },
+    {
+      "text": "Popp Adelheid",
+      "label": "PER",
+      "start": 5190,
+      "end": 5203
+    },
+    {
+      "text": "Probſ",
+      "label": "PER",
+      "start": 5205,
+      "end": 5210
+    },
+    {
+      "text": "t Anton",
+      "label": "PER",
+      "start": 5210,
+      "end": 5217
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5229,
+      "end": 5233
+    },
+    {
+      "text": "Proft Gabriele",
+      "label": "PER",
+      "start": 5235,
+      "end": 5249
+    },
+    {
+      "text": "Raab Julius",
+      "label": "PER",
+      "start": 5251,
+      "end": 5262
+    },
+    {
+      "text": "Ramek Rudolf",
+      "label": "PER",
+      "start": 5264,
+      "end": 5276
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5278,
+      "end": 5281
+    },
+    {
+      "text": "Ra",
+      "label": "PER",
+      "start": 5283,
+      "end": 5285
+    },
+    {
+      "text": "Renner Karl",
+      "label": "PER",
+      "start": 5296,
+      "end": 5307
+    },
+    {
+      "text": "Richter Paul",
+      "label": "PER",
+      "start": 5314,
+      "end": 5326
+    },
+    {
+      "text": "Rieger Eduard",
+      "label": "PER",
+      "start": 5328,
+      "end": 5341
+    },
+    {
+      "text": "Roth Johann",
+      "label": "PER",
+      "start": 5358,
+      "end": 5369
+    },
+    {
+      "text": "Saſſik Raimund",
+      "label": "PER",
+      "start": 5371,
+      "end": 5385
+    },
+    {
+      "text": "Scheibein Wilhelm",
+      "label": "PER",
+      "start": 5387,
+      "end": 5404
+    },
+    {
+      "text": "Baul Johannes",
+      "label": "PER",
+      "start": 5417,
+      "end": 5430
+    },
+    {
+      "text": "Schmidt Joſ",
+      "label": "PER",
+      "start": 5432,
+      "end": 5443
+    },
+    {
+      "text": "Shmiz",
+      "label": "PER",
+      "start": 5447,
+      "end": 5452
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 5453,
+      "end": 5460
+    },
+    {
+      "text": "Schneeberger Pius",
+      "label": "PER",
+      "start": 5462,
+      "end": 5479
+    },
+    {
+      "text": "Schneider Marie",
+      "label": "PER",
+      "start": 5481,
+      "end": 5496
+    },
+    {
+      "text": "Schober Johannes",
+      "label": "PER",
+      "start": 5503,
+      "end": 5519
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5521,
+      "end": 5524
+    },
+    {
+      "text": "Schor",
+      "label": "PER",
+      "start": 5526,
+      "end": 5531
+    },
+    {
+      "text": "Schreiner\n",
+      "label": "PER",
+      "start": 5543,
+      "end": 5553
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 5553,
+      "end": 5558
+    },
+    {
+      "text": "Sch",
+      "label": "PER",
+      "start": 5560,
+      "end": 5563
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5568,
+      "end": 5572
+    },
+    {
+      "text": "chnigg Kurt",
+      "label": "PER",
+      "start": 5584,
+      "end": 5595
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 5617,
+      "end": 5623
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 5624,
+      "end": 5631
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 5633,
+      "end": 5637
+    },
+    {
+      "text": "Seidl Georg",
+      "label": "PER",
+      "start": 5639,
+      "end": 5650
+    },
+    {
+      "text": "Seipel Jgnaz",
+      "label": "PER",
+      "start": 5652,
+      "end": 5664
+    },
+    {
+      "text": "Sever Albert",
+      "label": "PER",
+      "start": 5682,
+      "end": 5694
+    },
+    {
+      "text": "Starhemberg Ern",
+      "label": "ORG",
+      "start": 5714,
+      "end": 5729
+    },
+    {
+      "text": "Stein Viktor",
+      "label": "PER",
+      "start": 5741,
+      "end": 5753
+    },
+    {
+      "text": "Stika Felix",
+      "label": "PER",
+      "start": 5755,
+      "end": 5766
+    },
+    {
+      "text": "St",
+      "label": "LOC",
+      "start": 5768,
+      "end": 5770
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5776,
+      "end": 5780
+    },
+    {
+      "text": "Streeruwis Ern",
+      "label": "PER",
+      "start": 5809,
+      "end": 5823
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5837,
+      "end": 5841
+    },
+    {
+      "text": "Strohmaier Vinzenz",
+      "label": "PER",
+      "start": 5843,
+      "end": 5861
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5873,
+      "end": 5877
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 5879,
+      "end": 5883
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 5895,
+      "end": 5902
+    },
+    {
+      "text": "Jug",
+      "label": "PER",
+      "start": 5904,
+      "end": 5907
+    },
+    {
+      "text": "Teufl Jo",
+      "label": "PER",
+      "start": 5910,
+      "end": 5918
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 5930,
+      "end": 5937
+    },
+    {
+      "text": "Thoma Franz",
+      "label": "PER",
+      "start": 5939,
+      "end": 5950
+    },
+    {
+      "text": "Tomſ",
+      "label": "PER",
+      "start": 5952,
+      "end": 5956
+    },
+    {
+      "text": "Marie",
+      "label": "LOC",
+      "start": 5974,
+      "end": 5979
+    },
+    {
+      "text": "Vaugvin",
+      "label": "PER",
+      "start": 5981,
+      "end": 5988
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5989,
+      "end": 5993
+    },
+    {
+      "text": "Vinzl Jo",
+      "label": "PER",
+      "start": 5995,
+      "end": 6003
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 6015,
+      "end": 6021
+    },
+    {
+      "text": "Erwin",
+      "label": "PER",
+      "start": 6042,
+      "end": 6047
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6049,
+      "end": 6052
+    },
+    {
+      "text": "Walli",
+      "label": "PER",
+      "start": 6054,
+      "end": 6059
+    },
+    {
+      "text": "ch Koloman",
+      "label": "PER",
+      "start": 6060,
+      "end": 6070
+    },
+    {
+      "text": "Weigl Richard",
+      "label": "PER",
+      "start": 6120,
+      "end": 6133
+    },
+    {
+      "text": "Wei",
+      "label": "LOC",
+      "start": 6141,
+      "end": 6144
+    },
+    {
+      "text": "Kajetan",
+      "label": "LOC",
+      "start": 6148,
+      "end": 6155
+    },
+    {
+      "text": "Wendl Franz",
+      "label": "PER",
+      "start": 6157,
+      "end": 6168
+    },
+    {
+      "text": "Werner Max",
+      "label": "PER",
+      "start": 6170,
+      "end": 6180
+    },
+    {
+      "text": "Wie8maier Jo",
+      "label": "PER",
+      "start": 6182,
+      "end": 6194
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 6207,
+      "end": 6212
+    },
+    {
+      "text": "Jug",
+      "label": "PER",
+      "start": 6214,
+      "end": 6217
+    },
+    {
+      "text": "Win",
+      "label": "LOC",
+      "start": 6220,
+      "end": 6223
+    },
+    {
+      "text": "Jng.",
+      "label": "PER",
+      "start": 6236,
+      "end": 6240
+    },
+    {
+      "text": "Witternigg Jo",
+      "label": "PER",
+      "start": 6242,
+      "end": 6255
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 6267,
+      "end": 6271
+    },
+    {
+      "text": "Wollek Richard",
+      "label": "PER",
+      "start": 6273,
+      "end": 6287
+    },
+    {
+      "text": "Wotawa Augu",
+      "label": "PER",
+      "start": 6289,
+      "end": 6300
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 6317,
+      "end": 6323
+    },
+    {
+      "text": "Zelenka Franz",
+      "label": "PER",
+      "start": 6325,
+      "end": 6338
+    },
+    {
+      "text": "Zingl Joſ",
+      "label": "PER",
+      "start": 6340,
+      "end": 6349
+    },
+    {
+      "text": "Dr. Straffner",
+      "label": "PER",
+      "start": 6498,
+      "end": 6511
+    },
+    {
+      "text": "Strafiner",
+      "label": "PER",
+      "start": 6563,
+      "end": 6572
+    },
+    {
+      "text": "Hohe8 Haus!",
+      "label": "ORG",
+      "start": 6574,
+      "end": 6585
+    },
+    {
+      "text": "Kon",
+      "label": "LOC",
+      "start": 6613,
+      "end": 6616
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 6677,
+      "end": 6690
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 6716,
+      "end": 6725
+    },
+    {
+      "text": "Kon",
+      "label": "LOC",
+      "start": 6836,
+      "end": 6839
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 6855,
+      "end": 6868
+    },
+    {
+      "text": "Schlu",
+      "label": "PER",
+      "start": 6871,
+      "end": 6876
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6956,
+      "end": 6960
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 59,
+      "end": 72
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 322,
+      "end": 325
+    },
+    {
+      "text": "Straffner",
+      "label": "PERS",
+      "start": 326,
+      "end": 335
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 494,
+      "end": 497
+    },
+    {
+      "text": "Brunner",
+      "label": "PERS",
+      "start": 498,
+      "end": 505
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 616,
+      "end": 620
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 715,
+      "end": 728
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 754,
+      "end": 758
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 783,
+      "end": 788
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 918,
+      "end": 921
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 974,
+      "end": 985
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 1077,
+      "end": 1093
+    },
+    {
+      "text": "Grund",
+      "label": "LOC",
+      "start": 1163,
+      "end": 1168
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1235,
+      "end": 1248
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1362,
+      "end": 1375
+    },
+    {
+      "text": "Wahl",
+      "label": "PERS",
+      "start": 1412,
+      "end": 1416
+    },
+    {
+      "text": "Dr. Alfred Gürtler",
+      "label": "PERS",
+      "start": 1499,
+      "end": 1517
+    },
+    {
+      "text": "Boden",
+      "label": "LOC",
+      "start": 1649,
+      "end": 1654
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 1743,
+      "end": 1747
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1824,
+      "end": 1827
+    },
+    {
+      "text": "Franz Brunner",
+      "label": "PERS",
+      "start": 1828,
+      "end": 1841
+    },
+    {
+      "text": "Leiden",
+      "label": "LOC",
+      "start": 1855,
+      "end": 1861
+    },
+    {
+      "text": "lang",
+      "label": "LOC",
+      "start": 1899,
+      "end": 1903
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 1908,
+      "end": 1917
+    },
+    {
+      "text": "allen",
+      "label": "LOC",
+      "start": 2258,
+      "end": 2263
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2286,
+      "end": 2299
+    },
+    {
+      "text": "Seidel",
+      "label": "PERS",
+      "start": 2679,
+      "end": 2685
+    },
+    {
+      "text": "Sever",
+      "label": "PERS",
+      "start": 2687,
+      "end": 2692
+    },
+    {
+      "text": "Zarboch",
+      "label": "PERS",
+      "start": 2697,
+      "end": 2704
+    },
+    {
+      "text": "Sever",
+      "label": "PERS",
+      "start": 2846,
+      "end": 2851
+    },
+    {
+      "text": "Sever",
+      "label": "PERS",
+      "start": 3221,
+      "end": 3226
+    },
+    {
+      "text": "Sever",
+      "label": "PERS",
+      "start": 3446,
+      "end": 3451
+    },
+    {
+      "text": "Abram Simon",
+      "label": "PERS",
+      "start": 3502,
+      "end": 3513
+    },
+    {
+      "text": "Aigner",
+      "label": "PERS",
+      "start": 3515,
+      "end": 3521
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3529,
+      "end": 3532
+    },
+    {
+      "text": "Allina Heinrich",
+      "label": "PERS",
+      "start": 3534,
+      "end": 3549
+    },
+    {
+      "text": "Auinger Johann",
+      "label": "PERS",
+      "start": 3551,
+      "end": 3565
+    },
+    {
+      "text": "Bauer Alois",
+      "label": "PERS",
+      "start": 3567,
+      "end": 3578
+    },
+    {
+      "text": "Bauer Otto, Dr.",
+      "label": "PERS",
+      "start": 3580,
+      "end": 3595
+    },
+    {
+      "text": "Baumgärtel Emil",
+      "label": "PERS",
+      "start": 3597,
+      "end": 3612
+    },
+    {
+      "text": "Birbaumer Franz",
+      "label": "PERS",
+      "start": 3614,
+      "end": 3629
+    },
+    {
+      "text": "Böhm Johann",
+      "label": "PERS",
+      "start": 3631,
+      "end": 3642
+    },
+    {
+      "text": "Anna",
+      "label": "LOC",
+      "start": 3653,
+      "end": 3657
+    },
+    {
+      "text": "Brachmann Hans",
+      "label": "PERS",
+      "start": 3659,
+      "end": 3673
+    },
+    {
+      "text": "Brinnich Franz",
+      "label": "PERS",
+      "start": 3675,
+      "end": 3689
+    },
+    {
+      "text": "Karl",
+      "label": "PERS",
+      "start": 3699,
+      "end": 3703
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3705,
+      "end": 3708
+    },
+    {
+      "text": "Danneberg",
+      "label": "PERS",
+      "start": 3710,
+      "end": 3719
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3728,
+      "end": 3731
+    },
+    {
+      "text": "Julius",
+      "label": "PERS",
+      "start": 3741,
+      "end": 3747
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3749,
+      "end": 3752
+    },
+    {
+      "text": "Dewaty Hubert",
+      "label": "PERS",
+      "start": 3754,
+      "end": 3767
+    },
+    {
+      "text": "Doppler Leopold",
+      "label": "PERS",
+      "start": 3769,
+      "end": 3784
+    },
+    {
+      "text": "Drexel",
+      "label": "PERS",
+      "start": 3786,
+      "end": 3792
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 3793,
+      "end": 3797
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3799,
+      "end": 3802
+    },
+    {
+      "text": "Duda Adolf",
+      "label": "PERS",
+      "start": 3804,
+      "end": 3814
+    },
+    {
+      "text": "Matthias",
+      "label": "PERS",
+      "start": 3824,
+      "end": 3832
+    },
+    {
+      "text": "Ebner",
+      "label": "PERS",
+      "start": 3834,
+      "end": 3839
+    },
+    {
+      "text": "Anton",
+      "label": "LOC",
+      "start": 3840,
+      "end": 3845
+    },
+    {
+      "text": "Ebner Hans",
+      "label": "PERS",
+      "start": 3847,
+      "end": 3857
+    },
+    {
+      "text": "Eichinger Johann",
+      "label": "PERS",
+      "start": 3859,
+      "end": 3875
+    },
+    {
+      "text": "Eisler",
+      "label": "PERS",
+      "start": 3877,
+      "end": 3883
+    },
+    {
+      "text": "Arnold",
+      "label": "LOC",
+      "start": 3884,
+      "end": 3890
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3892,
+      "end": 3895
+    },
+    {
+      "text": "Matthias",
+      "label": "PERS",
+      "start": 3906,
+      "end": 3914
+    },
+    {
+      "text": "Ellenbogen",
+      "label": "LOC",
+      "start": 3916,
+      "end": 3926
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PERS",
+      "start": 3927,
+      "end": 3934
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3936,
+      "end": 3939
+    },
+    {
+      "text": "Ellend Bernhard",
+      "label": "PERS",
+      "start": 3941,
+      "end": 3956
+    },
+    {
+      "text": "Ertl Franz",
+      "label": "PERS",
+      "start": 3958,
+      "end": 3968
+    },
+    {
+      "text": "Falle Anton",
+      "label": "PERS",
+      "start": 3970,
+      "end": 3981
+    },
+    {
+      "text": "Ferdinanda",
+      "label": "PERS",
+      "start": 3992,
+      "end": 4002
+    },
+    {
+      "text": "Födermayr Florian",
+      "label": "PERS",
+      "start": 4004,
+      "end": 4021
+    },
+    {
+      "text": "Foppa Hermann",
+      "label": "PERS",
+      "start": 4023,
+      "end": 4036
+    },
+    {
+      "text": "Freundlich Emmy",
+      "label": "PERS",
+      "start": 4055,
+      "end": 4070
+    },
+    {
+      "text": "Frühwirth",
+      "label": "PERS",
+      "start": 4072,
+      "end": 4081
+    },
+    {
+      "text": "Gabriel",
+      "label": "LOC",
+      "start": 4091,
+      "end": 4098
+    },
+    {
+      "text": "Gangl Michael",
+      "label": "PERS",
+      "start": 4106,
+      "end": 4119
+    },
+    {
+      "text": "Geisler Simon",
+      "label": "PERS",
+      "start": 4121,
+      "end": 4134
+    },
+    {
+      "text": "Geyer Hermann",
+      "label": "PERS",
+      "start": 4136,
+      "end": 4149
+    },
+    {
+      "text": "Gierlinger",
+      "label": "PERS",
+      "start": 4151,
+      "end": 4161
+    },
+    {
+      "text": "Otto",
+      "label": "PERS",
+      "start": 4180,
+      "end": 4184
+    },
+    {
+      "text": "Graf Florian",
+      "label": "PERS",
+      "start": 4186,
+      "end": 4198
+    },
+    {
+      "text": "Gürtler Johann",
+      "label": "PERS",
+      "start": 4219,
+      "end": 4233
+    },
+    {
+      "text": "Hainzl",
+      "label": "PERS",
+      "start": 4235,
+      "end": 4241
+    },
+    {
+      "text": "Hampel",
+      "label": "PERS",
+      "start": 4249,
+      "end": 4255
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4263,
+      "end": 4266
+    },
+    {
+      "text": "Hareter Alexander",
+      "label": "PERS",
+      "start": 4268,
+      "end": 4285
+    },
+    {
+      "text": "Hartmann",
+      "label": "PERS",
+      "start": 4386,
+      "end": 4394
+    },
+    {
+      "text": "Haueis Alois",
+      "label": "PERS",
+      "start": 4402,
+      "end": 4414
+    },
+    {
+      "text": "Hautmann Marie",
+      "label": "PERS",
+      "start": 4416,
+      "end": 4430
+    },
+    {
+      "text": "Heinl",
+      "label": "PERS",
+      "start": 4432,
+      "end": 4437
+    },
+    {
+      "text": "Eduard",
+      "label": "PERS",
+      "start": 4438,
+      "end": 4444
+    },
+    {
+      "text": "Heinz Karl",
+      "label": "PERS",
+      "start": 4446,
+      "end": 4456
+    },
+    {
+      "text": "Heitzinger Johann",
+      "label": "PERS",
+      "start": 4458,
+      "end": 4475
+    },
+    {
+      "text": "Hermann Hermann",
+      "label": "PERS",
+      "start": 4477,
+      "end": 4492
+    },
+    {
+      "text": "Hollersbacher",
+      "label": "PERS",
+      "start": 4508,
+      "end": 4521
+    },
+    {
+      "text": "Hölzl Anton Franz",
+      "label": "PERS",
+      "start": 4529,
+      "end": 4546
+    },
+    {
+      "text": "Horvatek Norbert",
+      "label": "PERS",
+      "start": 4548,
+      "end": 4564
+    },
+    {
+      "text": "Alexander",
+      "label": "PERS",
+      "start": 4577,
+      "end": 4586
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4588,
+      "end": 4591
+    },
+    {
+      "text": "Hueber Franz, Dr.",
+      "label": "PERS",
+      "start": 4593,
+      "end": 4610
+    },
+    {
+      "text": "Janecek Johann",
+      "label": "PERS",
+      "start": 4612,
+      "end": 4626
+    },
+    {
+      "text": "Janicki Oskar",
+      "label": "PERS",
+      "start": 4628,
+      "end": 4641
+    },
+    {
+      "text": "Jiricek Hans",
+      "label": "PERS",
+      "start": 4643,
+      "end": 4655
+    },
+    {
+      "text": "Kapral Emma",
+      "label": "PERS",
+      "start": 4657,
+      "end": 4668
+    },
+    {
+      "text": "Kern Felix",
+      "label": "PERS",
+      "start": 4670,
+      "end": 4680
+    },
+    {
+      "text": "Viktor",
+      "label": "PERS",
+      "start": 4690,
+      "end": 4696
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4698,
+      "end": 4701
+    },
+    {
+      "text": "Klimberger Karl",
+      "label": "PERS",
+      "start": 4703,
+      "end": 4718
+    },
+    {
+      "text": "Kneußl Erich, Dr.",
+      "label": "PERS",
+      "start": 4720,
+      "end": 4737
+    },
+    {
+      "text": "Kolb Franz, Dr.",
+      "label": "PERS",
+      "start": 4752,
+      "end": 4767
+    },
+    {
+      "text": "Kollmann",
+      "label": "PERS",
+      "start": 4769,
+      "end": 4777
+    },
+    {
+      "text": "Koref",
+      "label": "PERS",
+      "start": 4785,
+      "end": 4790
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 4798,
+      "end": 4801
+    },
+    {
+      "text": "Marie",
+      "label": "PERS",
+      "start": 4811,
+      "end": 4816
+    },
+    {
+      "text": "Kraus",
+      "label": "PERS",
+      "start": 4818,
+      "end": 4823
+    },
+    {
+      "text": "Leopold",
+      "label": "PERS",
+      "start": 4840,
+      "end": 4847
+    },
+    {
+      "text": "Lagger Hans",
+      "label": "PERS",
+      "start": 4849,
+      "end": 4860
+    },
+    {
+      "text": "Adolf",
+      "label": "PERS",
+      "start": 4868,
+      "end": 4873
+    },
+    {
+      "text": "Lengauer",
+      "label": "PERS",
+      "start": 4875,
+      "end": 4883
+    },
+    {
+      "text": "Leskovar Adolf",
+      "label": "PERS",
+      "start": 4891,
+      "end": 4905
+    },
+    {
+      "text": "Leuthner Karl",
+      "label": "PERS",
+      "start": 4907,
+      "end": 4920
+    },
+    {
+      "text": "Lichtenegger",
+      "label": "PERS",
+      "start": 4922,
+      "end": 4934
+    },
+    {
+      "text": "Manhalter Rudolf",
+      "label": "PERS",
+      "start": 4940,
+      "end": 4956
+    },
+    {
+      "text": "Rudolf",
+      "label": "PERS",
+      "start": 4971,
+      "end": 4977
+    },
+    {
+      "text": "Mayrhofer",
+      "label": "LOC",
+      "start": 4979,
+      "end": 4988
+    },
+    {
+      "text": "Franz",
+      "label": "PERS",
+      "start": 4989,
+      "end": 4994
+    },
+    {
+      "text": "Moßhammer Franz",
+      "label": "PERS",
+      "start": 4996,
+      "end": 5011
+    },
+    {
+      "text": "Hans",
+      "label": "PERS",
+      "start": 5023,
+      "end": 5027
+    },
+    {
+      "text": "Müller",
+      "label": "PERS",
+      "start": 5029,
+      "end": 5035
+    },
+    {
+      "text": "Adolf",
+      "label": "PERS",
+      "start": 5036,
+      "end": 5041
+    },
+    {
+      "text": "Müllner Hans",
+      "label": "PERS",
+      "start": 5043,
+      "end": 5055
+    },
+    {
+      "text": "Oelzelt Franz",
+      "label": "PERS",
+      "start": 5057,
+      "end": 5070
+    },
+    {
+      "text": "Michael",
+      "label": "PERS",
+      "start": 5082,
+      "end": 5089
+    },
+    {
+      "text": "Pazelt",
+      "label": "PERS",
+      "start": 5091,
+      "end": 5097
+    },
+    {
+      "text": "Peter Adolf",
+      "label": "PERS",
+      "start": 5105,
+      "end": 5116
+    },
+    {
+      "text": "Karl",
+      "label": "PERS",
+      "start": 5122,
+      "end": 5126
+    },
+    {
+      "text": "Anton",
+      "label": "PERS",
+      "start": 5139,
+      "end": 5144
+    },
+    {
+      "text": "Felix",
+      "label": "PERS",
+      "start": 5153,
+      "end": 5158
+    },
+    {
+      "text": "Franz",
+      "label": "PERS",
+      "start": 5168,
+      "end": 5173
+    },
+    {
+      "text": "Johann",
+      "label": "PERS",
+      "start": 5182,
+      "end": 5188
+    },
+    {
+      "text": "Popp Adelheid",
+      "label": "PERS",
+      "start": 5190,
+      "end": 5203
+    },
+    {
+      "text": "Anton",
+      "label": "LOC",
+      "start": 5212,
+      "end": 5217
+    },
+    {
+      "text": "Prodinger Hans",
+      "label": "PERS",
+      "start": 5219,
+      "end": 5233
+    },
+    {
+      "text": "Proft Gabriele",
+      "label": "PERS",
+      "start": 5235,
+      "end": 5249
+    },
+    {
+      "text": "Raab",
+      "label": "LOC",
+      "start": 5251,
+      "end": 5255
+    },
+    {
+      "text": "Julius",
+      "label": "PERS",
+      "start": 5256,
+      "end": 5262
+    },
+    {
+      "text": "Ramek Rudolf, Dr.",
+      "label": "PERS",
+      "start": 5264,
+      "end": 5281
+    },
+    {
+      "text": "Renner Karl, Dr.",
+      "label": "PERS",
+      "start": 5296,
+      "end": 5312
+    },
+    {
+      "text": "Richter Paul",
+      "label": "PERS",
+      "start": 5314,
+      "end": 5326
+    },
+    {
+      "text": "Rieger Eduard",
+      "label": "PERS",
+      "start": 5328,
+      "end": 5341
+    },
+    {
+      "text": "Roth",
+      "label": "PERS",
+      "start": 5358,
+      "end": 5362
+    },
+    {
+      "text": "Johann",
+      "label": "PERS",
+      "start": 5363,
+      "end": 5369
+    },
+    {
+      "text": "Raimund",
+      "label": "PERS",
+      "start": 5378,
+      "end": 5385
+    },
+    {
+      "text": "Scheibein Wilhelm",
+      "label": "PERS",
+      "start": 5387,
+      "end": 5404
+    },
+    {
+      "text": "Johannes",
+      "label": "PERS",
+      "start": 5422,
+      "end": 5430
+    },
+    {
+      "text": "Schmidt",
+      "label": "PERS",
+      "start": 5432,
+      "end": 5439
+    },
+    {
+      "text": "Richard",
+      "label": "PERS",
+      "start": 5453,
+      "end": 5460
+    },
+    {
+      "text": "Schneeberger Pius",
+      "label": "PERS",
+      "start": 5462,
+      "end": 5479
+    },
+    {
+      "text": "Schneider",
+      "label": "PERS",
+      "start": 5481,
+      "end": 5490
+    },
+    {
+      "text": "Marie",
+      "label": "PERS",
+      "start": 5491,
+      "end": 5496
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 5498,
+      "end": 5501
+    },
+    {
+      "text": "Schober",
+      "label": "PERS",
+      "start": 5503,
+      "end": 5510
+    },
+    {
+      "text": "Johannes",
+      "label": "PERS",
+      "start": 5511,
+      "end": 5519
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 5521,
+      "end": 5524
+    },
+    {
+      "text": "Johann",
+      "label": "PERS",
+      "start": 5535,
+      "end": 5541
+    },
+    {
+      "text": "Schreiner",
+      "label": "PERS",
+      "start": 5543,
+      "end": 5552
+    },
+    {
+      "text": "Anton",
+      "label": "PERS",
+      "start": 5553,
+      "end": 5558
+    },
+    {
+      "text": "Schürff Hans, Dr.",
+      "label": "PERS",
+      "start": 5560,
+      "end": 5577
+    },
+    {
+      "text": "Kurt",
+      "label": "PERS",
+      "start": 5591,
+      "end": 5595
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 5597,
+      "end": 5600
+    },
+    {
+      "text": "Seidel Amalie",
+      "label": "PERS",
+      "start": 5602,
+      "end": 5615
+    },
+    {
+      "text": "Seidel Richard, Ing.",
+      "label": "PERS",
+      "start": 5617,
+      "end": 5637
+    },
+    {
+      "text": "Seidl Georg",
+      "label": "PERS",
+      "start": 5639,
+      "end": 5650
+    },
+    {
+      "text": "Seipel",
+      "label": "PERS",
+      "start": 5652,
+      "end": 5658
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 5666,
+      "end": 5669
+    },
+    {
+      "text": "Seiz",
+      "label": "LOC",
+      "start": 5671,
+      "end": 5675
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 5676,
+      "end": 5680
+    },
+    {
+      "text": "Sever Albert",
+      "label": "PERS",
+      "start": 5682,
+      "end": 5694
+    },
+    {
+      "text": "Franz",
+      "label": "PERS",
+      "start": 5707,
+      "end": 5712
+    },
+    {
+      "text": "Starhemberg",
+      "label": "PERS",
+      "start": 5714,
+      "end": 5725
+    },
+    {
+      "text": "Rüdiger",
+      "label": "PERS",
+      "start": 5732,
+      "end": 5739
+    },
+    {
+      "text": "Stein Viktor",
+      "label": "PERS",
+      "start": 5741,
+      "end": 5753
+    },
+    {
+      "text": "Stika Felix",
+      "label": "PERS",
+      "start": 5755,
+      "end": 5766
+    },
+    {
+      "text": "Stögner Hans, Dr.",
+      "label": "PERS",
+      "start": 5768,
+      "end": 5785
+    },
+    {
+      "text": "Sepp",
+      "label": "PERS",
+      "start": 5798,
+      "end": 5802
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 5804,
+      "end": 5807
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 5837,
+      "end": 5841
+    },
+    {
+      "text": "Strohmaier Vinzenz",
+      "label": "PERS",
+      "start": 5843,
+      "end": 5861
+    },
+    {
+      "text": "Hans",
+      "label": "PERS",
+      "start": 5873,
+      "end": 5877
+    },
+    {
+      "text": "Ing.",
+      "label": "PERS",
+      "start": 5879,
+      "end": 5883
+    },
+    {
+      "text": "Stephan",
+      "label": "PERS",
+      "start": 5895,
+      "end": 5902
+    },
+    {
+      "text": "Jug",
+      "label": "LOC",
+      "start": 5904,
+      "end": 5907
+    },
+    {
+      "text": "Teufl",
+      "label": "PERS",
+      "start": 5910,
+      "end": 5915
+    },
+    {
+      "text": "Thaler Andreas",
+      "label": "PERS",
+      "start": 5923,
+      "end": 5937
+    },
+    {
+      "text": "Thoma Franz",
+      "label": "PERS",
+      "start": 5939,
+      "end": 5950
+    },
+    {
+      "text": "Marie",
+      "label": "PERS",
+      "start": 5974,
+      "end": 5979
+    },
+    {
+      "text": "Karl",
+      "label": "LOC",
+      "start": 5989,
+      "end": 5993
+    },
+    {
+      "text": "Vinzl",
+      "label": "PERS",
+      "start": 5995,
+      "end": 6000
+    },
+    {
+      "text": "Wagner Johann",
+      "label": "PERS",
+      "start": 6008,
+      "end": 6021
+    },
+    {
+      "text": "Wagner",
+      "label": "PERS",
+      "start": 6023,
+      "end": 6029
+    },
+    {
+      "text": "Erwin",
+      "label": "LOC",
+      "start": 6042,
+      "end": 6047
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6049,
+      "end": 6052
+    },
+    {
+      "text": "Koloman",
+      "label": "PERS",
+      "start": 6063,
+      "end": 6070
+    },
+    {
+      "text": "Weidenhoffer",
+      "label": "PERS",
+      "start": 6072,
+      "end": 6084
+    },
+    {
+      "text": "Emanuel",
+      "label": "PERS",
+      "start": 6085,
+      "end": 6092
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6094,
+      "end": 6097
+    },
+    {
+      "text": "Weidenholzer Johann",
+      "label": "PERS",
+      "start": 6099,
+      "end": 6118
+    },
+    {
+      "text": "Weigl",
+      "label": "PERS",
+      "start": 6120,
+      "end": 6125
+    },
+    {
+      "text": "Richard",
+      "label": "PERS",
+      "start": 6126,
+      "end": 6133
+    },
+    {
+      "text": "Jug",
+      "label": "LOC",
+      "start": 6135,
+      "end": 6138
+    },
+    {
+      "text": "Kajetan",
+      "label": "PERS",
+      "start": 6148,
+      "end": 6155
+    },
+    {
+      "text": "Wendl Franz",
+      "label": "PERS",
+      "start": 6157,
+      "end": 6168
+    },
+    {
+      "text": "Werner Max",
+      "label": "PERS",
+      "start": 6170,
+      "end": 6180
+    },
+    {
+      "text": "Winkler",
+      "label": "PERS",
+      "start": 6199,
+      "end": 6206
+    },
+    {
+      "text": "Franz",
+      "label": "PERS",
+      "start": 6207,
+      "end": 6212
+    },
+    {
+      "text": "Jug",
+      "label": "LOC",
+      "start": 6214,
+      "end": 6217
+    },
+    {
+      "text": "Witternigg",
+      "label": "PERS",
+      "start": 6242,
+      "end": 6252
+    },
+    {
+      "text": "Hans",
+      "label": "PERS",
+      "start": 6267,
+      "end": 6271
+    },
+    {
+      "text": "Wollek Richard",
+      "label": "PERS",
+      "start": 6273,
+      "end": 6287
+    },
+    {
+      "text": "Wotawa",
+      "label": "PERS",
+      "start": 6289,
+      "end": 6295
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6304,
+      "end": 6307
+    },
+    {
+      "text": "Zarboch",
+      "label": "PERS",
+      "start": 6309,
+      "end": 6316
+    },
+    {
+      "text": "Rudolf",
+      "label": "PERS",
+      "start": 6317,
+      "end": 6323
+    },
+    {
+      "text": "Zelenka Franz",
+      "label": "PERS",
+      "start": 6325,
+      "end": 6338
+    },
+    {
+      "text": "Zingl",
+      "label": "PERS",
+      "start": 6340,
+      "end": 6345
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 6380,
+      "end": 6384
+    },
+    {
+      "text": "einem",
+      "label": "PERS",
+      "start": 6451,
+      "end": 6456
+    },
+    {
+      "text": "Herr",
+      "label": "PERS",
+      "start": 6487,
+      "end": 6491
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6498,
+      "end": 6501
+    },
+    {
+      "text": "Straffner",
+      "label": "PERS",
+      "start": 6502,
+      "end": 6511
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 6559,
+      "end": 6562
+    },
+    {
+      "text": "Haus",
+      "label": "LOC",
+      "start": 6580,
+      "end": 6584
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 6677,
+      "end": 6690
+    },
+    {
+      "text": "Straffner",
+      "label": "PERS",
+      "start": 6716,
+      "end": 6725
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 6855,
+      "end": 6868
+    },
+    {
+      "text": "erei",
+      "label": "LOC",
+      "start": 6948,
+      "end": 6952
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6956,
+      "end": 6960
+    }
+  ],
+  "flair": [
+    {
+      "text": "Öſterreich",
+      "label": "LOC",
+      "start": 86,
+      "end": 96
+    },
+    {
+      "text": "Elderſch",
+      "label": "PER",
+      "start": 250,
+      "end": 258
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 326,
+      "end": 335
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 498,
+      "end": 505
+    },
+    {
+      "text": "Elderſch",
+      "label": "PER",
+      "start": 563,
+      "end": 571
+    },
+    {
+      "text": "Alfred Gürtler",
+      "label": "PER",
+      "start": 1503,
+      "end": 1517
+    },
+    {
+      "text": "Franz Brunner",
+      "label": "PER",
+      "start": 1828,
+      "end": 1841
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 2660,
+      "end": 2672
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 2679,
+      "end": 2685
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 2687,
+      "end": 2692
+    },
+    {
+      "text": "Zarboch",
+      "label": "PER",
+      "start": 2697,
+      "end": 2704
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 2829,
+      "end": 2841
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 2846,
+      "end": 2851
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 3221,
+      "end": 3226
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 3446,
+      "end": 3451
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 3456,
+      "end": 3468
+    },
+    {
+      "text": "Abram",
+      "label": "PER",
+      "start": 3502,
+      "end": 3507
+    },
+    {
+      "text": "Simon",
+      "label": "PER",
+      "start": 3508,
+      "end": 3513
+    },
+    {
+      "text": "Aigner",
+      "label": "PER",
+      "start": 3515,
+      "end": 3521
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 3522,
+      "end": 3527
+    },
+    {
+      "text": "Allina",
+      "label": "PER",
+      "start": 3534,
+      "end": 3540
+    },
+    {
+      "text": "Heinrich",
+      "label": "PER",
+      "start": 3541,
+      "end": 3549
+    },
+    {
+      "text": "Auinger",
+      "label": "PER",
+      "start": 3551,
+      "end": 3558
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 3559,
+      "end": 3565
+    },
+    {
+      "text": "Bauer",
+      "label": "PER",
+      "start": 3567,
+      "end": 3572
+    },
+    {
+      "text": "Alois",
+      "label": "PER",
+      "start": 3573,
+      "end": 3578
+    },
+    {
+      "text": "Bauer",
+      "label": "PER",
+      "start": 3580,
+      "end": 3585
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 3586,
+      "end": 3590
+    },
+    {
+      "text": "Baumgärtel",
+      "label": "PER",
+      "start": 3597,
+      "end": 3607
+    },
+    {
+      "text": "Emil",
+      "label": "PER",
+      "start": 3608,
+      "end": 3612
+    },
+    {
+      "text": "Birbaumer",
+      "label": "PER",
+      "start": 3614,
+      "end": 3623
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 3624,
+      "end": 3629
+    },
+    {
+      "text": "Böhm",
+      "label": "PER",
+      "start": 3631,
+      "end": 3635
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 3636,
+      "end": 3642
+    },
+    {
+      "text": "Boſchekf",
+      "label": "PER",
+      "start": 3644,
+      "end": 3652
+    },
+    {
+      "text": "Anna",
+      "label": "PER",
+      "start": 3653,
+      "end": 3657
+    },
+    {
+      "text": "Brachmann",
+      "label": "PER",
+      "start": 3659,
+      "end": 3668
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 3669,
+      "end": 3673
+    },
+    {
+      "text": "Brinnich",
+      "label": "PER",
+      "start": 3675,
+      "end": 3683
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 3684,
+      "end": 3689
+    },
+    {
+      "text": "Bureſch",
+      "label": "PER",
+      "start": 3691,
+      "end": 3698
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 3699,
+      "end": 3703
+    },
+    {
+      "text": "Danneberg",
+      "label": "PER",
+      "start": 3710,
+      "end": 3719
+    },
+    {
+      "text": "Nobert",
+      "label": "PER",
+      "start": 3720,
+      "end": 3726
+    },
+    {
+      "text": "Deutſch",
+      "label": "PER",
+      "start": 3733,
+      "end": 3740
+    },
+    {
+      "text": "Julius",
+      "label": "PER",
+      "start": 3741,
+      "end": 3747
+    },
+    {
+      "text": "Dewaty",
+      "label": "PER",
+      "start": 3754,
+      "end": 3760
+    },
+    {
+      "text": "Hubert",
+      "label": "PER",
+      "start": 3761,
+      "end": 3767
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 3769,
+      "end": 3776
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 3777,
+      "end": 3784
+    },
+    {
+      "text": "Drexel",
+      "label": "PER",
+      "start": 3786,
+      "end": 3792
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 3793,
+      "end": 3797
+    },
+    {
+      "text": "Duda",
+      "label": "PER",
+      "start": 3804,
+      "end": 3808
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 3809,
+      "end": 3814
+    },
+    {
+      "text": "Duſcher",
+      "label": "PER",
+      "start": 3816,
+      "end": 3823
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 3824,
+      "end": 3832
+    },
+    {
+      "text": "Ebner",
+      "label": "PER",
+      "start": 3834,
+      "end": 3839
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 3840,
+      "end": 3845
+    },
+    {
+      "text": "Ebner",
+      "label": "PER",
+      "start": 3847,
+      "end": 3852
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 3853,
+      "end": 3857
+    },
+    {
+      "text": "Eichinger",
+      "label": "PER",
+      "start": 3859,
+      "end": 3868
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 3869,
+      "end": 3875
+    },
+    {
+      "text": "Eisler",
+      "label": "PER",
+      "start": 3877,
+      "end": 3883
+    },
+    {
+      "text": "Arnold",
+      "label": "PER",
+      "start": 3884,
+      "end": 3890
+    },
+    {
+      "text": "Elderſch",
+      "label": "PER",
+      "start": 3897,
+      "end": 3905
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 3906,
+      "end": 3914
+    },
+    {
+      "text": "Ellenbogen",
+      "label": "PER",
+      "start": 3916,
+      "end": 3926
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PER",
+      "start": 3927,
+      "end": 3934
+    },
+    {
+      "text": "Ellend",
+      "label": "PER",
+      "start": 3941,
+      "end": 3947
+    },
+    {
+      "text": "Bernhard",
+      "label": "PER",
+      "start": 3948,
+      "end": 3956
+    },
+    {
+      "text": "Ertl",
+      "label": "PER",
+      "start": 3958,
+      "end": 3962
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 3963,
+      "end": 3968
+    },
+    {
+      "text": "Falle",
+      "label": "PER",
+      "start": 3970,
+      "end": 3975
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 3976,
+      "end": 3981
+    },
+    {
+      "text": "Floßmann",
+      "label": "PER",
+      "start": 3983,
+      "end": 3991
+    },
+    {
+      "text": "Ferdinanda",
+      "label": "PER",
+      "start": 3992,
+      "end": 4002
+    },
+    {
+      "text": "Födermayr",
+      "label": "PER",
+      "start": 4004,
+      "end": 4013
+    },
+    {
+      "text": "Florian",
+      "label": "PER",
+      "start": 4014,
+      "end": 4021
+    },
+    {
+      "text": "Foppa",
+      "label": "PER",
+      "start": 4023,
+      "end": 4028
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 4029,
+      "end": 4036
+    },
+    {
+      "text": "Forſtner",
+      "label": "PER",
+      "start": 4038,
+      "end": 4046
+    },
+    {
+      "text": "Auguſt",
+      "label": "PER",
+      "start": 4047,
+      "end": 4053
+    },
+    {
+      "text": "Freundlich",
+      "label": "PER",
+      "start": 4055,
+      "end": 4065
+    },
+    {
+      "text": "Emmy",
+      "label": "PER",
+      "start": 4066,
+      "end": 4070
+    },
+    {
+      "text": "Frühwirth",
+      "label": "PER",
+      "start": 4072,
+      "end": 4081
+    },
+    {
+      "text": "Michacl",
+      "label": "PER",
+      "start": 4082,
+      "end": 4089
+    },
+    {
+      "text": "Gabriel",
+      "label": "PER",
+      "start": 4091,
+      "end": 4098
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4099,
+      "end": 4104
+    },
+    {
+      "text": "Gangl",
+      "label": "PER",
+      "start": 4106,
+      "end": 4111
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 4112,
+      "end": 4119
+    },
+    {
+      "text": "Geisler",
+      "label": "PER",
+      "start": 4121,
+      "end": 4128
+    },
+    {
+      "text": "Simon",
+      "label": "PER",
+      "start": 4129,
+      "end": 4134
+    },
+    {
+      "text": "Geyer",
+      "label": "PER",
+      "start": 4136,
+      "end": 4141
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 4142,
+      "end": 4149
+    },
+    {
+      "text": "Gierlinger",
+      "label": "PER",
+      "start": 4151,
+      "end": 4161
+    },
+    {
+      "text": "Balthaſar",
+      "label": "PER",
+      "start": 4162,
+      "end": 4171
+    },
+    {
+      "text": "Glökel",
+      "label": "PER",
+      "start": 4173,
+      "end": 4179
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 4180,
+      "end": 4184
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 4186,
+      "end": 4190
+    },
+    {
+      "text": "Florian",
+      "label": "PER",
+      "start": 4191,
+      "end": 4198
+    },
+    {
+      "text": "Gritſhacher",
+      "label": "PER",
+      "start": 4200,
+      "end": 4211
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4212,
+      "end": 4217
+    },
+    {
+      "text": "Gürtler",
+      "label": "PER",
+      "start": 4219,
+      "end": 4226
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 4227,
+      "end": 4233
+    },
+    {
+      "text": "Hainzl",
+      "label": "PER",
+      "start": 4235,
+      "end": 4241
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4242,
+      "end": 4247
+    },
+    {
+      "text": "Hampel",
+      "label": "PER",
+      "start": 4249,
+      "end": 4255
+    },
+    {
+      "text": "Ernſt",
+      "label": "PER",
+      "start": 4256,
+      "end": 4261
+    },
+    {
+      "text": "Hareter",
+      "label": "PER",
+      "start": 4268,
+      "end": 4275
+    },
+    {
+      "text": "Alexander",
+      "label": "PER",
+      "start": 4276,
+      "end": 4285
+    },
+    {
+      "text": "N",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4321
+    },
+    {
+      "text": "R.",
+      "label": "ORG",
+      "start": 4323,
+      "end": 4325
+    },
+    {
+      "text": "Republik-Öſterreich",
+      "label": "LOC",
+      "start": 4330,
+      "end": 4349
+    },
+    {
+      "text": "Hartmann",
+      "label": "PER",
+      "start": 4386,
+      "end": 4394
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4395,
+      "end": 4400
+    },
+    {
+      "text": "Haueis",
+      "label": "PER",
+      "start": 4402,
+      "end": 4408
+    },
+    {
+      "text": "Alois",
+      "label": "PER",
+      "start": 4409,
+      "end": 4414
+    },
+    {
+      "text": "Hautmann",
+      "label": "PER",
+      "start": 4416,
+      "end": 4424
+    },
+    {
+      "text": "Marie",
+      "label": "PER",
+      "start": 4425,
+      "end": 4430
+    },
+    {
+      "text": "Heinl",
+      "label": "PER",
+      "start": 4432,
+      "end": 4437
+    },
+    {
+      "text": "Eduard",
+      "label": "PER",
+      "start": 4438,
+      "end": 4444
+    },
+    {
+      "text": "Heinz Karl",
+      "label": "PER",
+      "start": 4446,
+      "end": 4456
+    },
+    {
+      "text": "Heitzinger",
+      "label": "PER",
+      "start": 4458,
+      "end": 4468
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 4469,
+      "end": 4475
+    },
+    {
+      "text": "Hermann Hermann",
+      "label": "PER",
+      "start": 4477,
+      "end": 4492
+    },
+    {
+      "text": "Hirſch",
+      "label": "PER",
+      "start": 4494,
+      "end": 4500
+    },
+    {
+      "text": "Ernſt",
+      "label": "PER",
+      "start": 4501,
+      "end": 4506
+    },
+    {
+      "text": "Hollersbacher",
+      "label": "PER",
+      "start": 4508,
+      "end": 4521
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4522,
+      "end": 4527
+    },
+    {
+      "text": "Hölzl Anton Franz",
+      "label": "PER",
+      "start": 4529,
+      "end": 4546
+    },
+    {
+      "text": "Horvatek",
+      "label": "PER",
+      "start": 4548,
+      "end": 4556
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 4557,
+      "end": 4564
+    },
+    {
+      "text": "Hryntſchak",
+      "label": "PER",
+      "start": 4566,
+      "end": 4576
+    },
+    {
+      "text": "Alexander",
+      "label": "PER",
+      "start": 4577,
+      "end": 4586
+    },
+    {
+      "text": "Hueber",
+      "label": "PER",
+      "start": 4593,
+      "end": 4599
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 4600,
+      "end": 4605
+    },
+    {
+      "text": "Janecek",
+      "label": "PER",
+      "start": 4612,
+      "end": 4619
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 4620,
+      "end": 4626
+    },
+    {
+      "text": "Janicki",
+      "label": "PER",
+      "start": 4628,
+      "end": 4635
+    },
+    {
+      "text": "Oskar",
+      "label": "PER",
+      "start": 4636,
+      "end": 4641
+    },
+    {
+      "text": "Jiricek",
+      "label": "PER",
+      "start": 4643,
+      "end": 4650
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 4651,
+      "end": 4655
+    },
+    {
+      "text": "Kapral",
+      "label": "PER",
+      "start": 4657,
+      "end": 4663
+    },
+    {
+      "text": "Emma",
+      "label": "PER",
+      "start": 4664,
+      "end": 4668
+    },
+    {
+      "text": "Kern",
+      "label": "PER",
+      "start": 4670,
+      "end": 4674
+    },
+    {
+      "text": "Felix",
+      "label": "PER",
+      "start": 4675,
+      "end": 4680
+    },
+    {
+      "text": "Kienbö",
+      "label": "PER",
+      "start": 4682,
+      "end": 4688
+    },
+    {
+      "text": "Viktor",
+      "label": "PER",
+      "start": 4690,
+      "end": 4696
+    },
+    {
+      "text": "Klimberger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4713
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 4714,
+      "end": 4718
+    },
+    {
+      "text": "Kneußl",
+      "label": "PER",
+      "start": 4720,
+      "end": 4726
+    },
+    {
+      "text": "Erich",
+      "label": "PER",
+      "start": 4727,
+      "end": 4732
+    },
+    {
+      "text": "Knoſp",
+      "label": "PER",
+      "start": 4739,
+      "end": 4744
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4745,
+      "end": 4750
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 4752,
+      "end": 4756
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 4757,
+      "end": 4762
+    },
+    {
+      "text": "Kollmann",
+      "label": "PER",
+      "start": 4769,
+      "end": 4777
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4778,
+      "end": 4783
+    },
+    {
+      "text": "Koref",
+      "label": "PER",
+      "start": 4785,
+      "end": 4790
+    },
+    {
+      "text": "Ernſt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4796
+    },
+    {
+      "text": "Köſtler",
+      "label": "PER",
+      "start": 4803,
+      "end": 4810
+    },
+    {
+      "text": "Marie",
+      "label": "PER",
+      "start": 4811,
+      "end": 4816
+    },
+    {
+      "text": "Kraus",
+      "label": "PER",
+      "start": 4818,
+      "end": 4823
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4824,
+      "end": 4829
+    },
+    {
+      "text": "Kunſchak",
+      "label": "PER",
+      "start": 4831,
+      "end": 4839
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 4840,
+      "end": 4847
+    },
+    {
+      "text": "Lagger",
+      "label": "PER",
+      "start": 4849,
+      "end": 4855
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 4856,
+      "end": 4860
+    },
+    {
+      "text": "Laſer",
+      "label": "PER",
+      "start": 4862,
+      "end": 4867
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 4868,
+      "end": 4873
+    },
+    {
+      "text": "Lengauer",
+      "label": "PER",
+      "start": 4875,
+      "end": 4883
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 4884,
+      "end": 4889
+    },
+    {
+      "text": "Leskovar",
+      "label": "PER",
+      "start": 4891,
+      "end": 4899
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 4900,
+      "end": 4905
+    },
+    {
+      "text": "Leuthner",
+      "label": "PER",
+      "start": 4907,
+      "end": 4915
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 4916,
+      "end": 4920
+    },
+    {
+      "text": "Lichtenegger",
+      "label": "PER",
+      "start": 4922,
+      "end": 4934
+    },
+    {
+      "text": "Fri",
+      "label": "PER",
+      "start": 4935,
+      "end": 4938
+    },
+    {
+      "text": "Manhalter",
+      "label": "PER",
+      "start": 4940,
+      "end": 4949
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 4950,
+      "end": 4956
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 4958,
+      "end": 4970
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 4971,
+      "end": 4977
+    },
+    {
+      "text": "Mayrhofer",
+      "label": "PER",
+      "start": 4979,
+      "end": 4988
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 4989,
+      "end": 4994
+    },
+    {
+      "text": "Moßhammer",
+      "label": "PER",
+      "start": 4996,
+      "end": 5005
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5006,
+      "end": 5011
+    },
+    {
+      "text": "Muchitſch",
+      "label": "PER",
+      "start": 5013,
+      "end": 5022
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5023,
+      "end": 5027
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 5029,
+      "end": 5035
+    },
+    {
+      "text": "Adolf",
+      "label": "PER",
+      "start": 5036,
+      "end": 5041
+    },
+    {
+      "text": "Müllner",
+      "label": "PER",
+      "start": 5043,
+      "end": 5050
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5051,
+      "end": 5055
+    },
+    {
+      "text": "Oelzelt",
+      "label": "PER",
+      "start": 5057,
+      "end": 5064
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5065,
+      "end": 5070
+    },
+    {
+      "text": "Paulitſch",
+      "label": "PER",
+      "start": 5072,
+      "end": 5081
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 5082,
+      "end": 5089
+    },
+    {
+      "text": "Pazelt",
+      "label": "PER",
+      "start": 5091,
+      "end": 5097
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 5098,
+      "end": 5103
+    },
+    {
+      "text": "Peter Adolf",
+      "label": "PER",
+      "start": 5105,
+      "end": 5116
+    },
+    {
+      "text": "Pi>",
+      "label": "PER",
+      "start": 5118,
+      "end": 5121
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5122,
+      "end": 5126
+    },
+    {
+      "text": "Birchegger",
+      "label": "PER",
+      "start": 5128,
+      "end": 5138
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 5139,
+      "end": 5144
+    },
+    {
+      "text": "Piſtor",
+      "label": "PER",
+      "start": 5146,
+      "end": 5152
+    },
+    {
+      "text": "Felix",
+      "label": "PER",
+      "start": 5153,
+      "end": 5158
+    },
+    {
+      "text": "Plaſſer",
+      "label": "PER",
+      "start": 5160,
+      "end": 5167
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5168,
+      "end": 5173
+    },
+    {
+      "text": "Bölzer",
+      "label": "PER",
+      "start": 5175,
+      "end": 5181
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 5182,
+      "end": 5188
+    },
+    {
+      "text": "Popp",
+      "label": "PER",
+      "start": 5190,
+      "end": 5194
+    },
+    {
+      "text": "Adelheid",
+      "label": "PER",
+      "start": 5195,
+      "end": 5203
+    },
+    {
+      "text": "Probſt",
+      "label": "PER",
+      "start": 5205,
+      "end": 5211
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 5212,
+      "end": 5217
+    },
+    {
+      "text": "Prodinger",
+      "label": "PER",
+      "start": 5219,
+      "end": 5228
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5229,
+      "end": 5233
+    },
+    {
+      "text": "Proft",
+      "label": "PER",
+      "start": 5235,
+      "end": 5240
+    },
+    {
+      "text": "Gabriele",
+      "label": "PER",
+      "start": 5241,
+      "end": 5249
+    },
+    {
+      "text": "Raab",
+      "label": "PER",
+      "start": 5251,
+      "end": 5255
+    },
+    {
+      "text": "Julius",
+      "label": "PER",
+      "start": 5256,
+      "end": 5262
+    },
+    {
+      "text": "Ramek",
+      "label": "PER",
+      "start": 5264,
+      "end": 5269
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 5270,
+      "end": 5276
+    },
+    {
+      "text": "Raſer",
+      "label": "PER",
+      "start": 5283,
+      "end": 5288
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 5289,
+      "end": 5294
+    },
+    {
+      "text": "Renner",
+      "label": "PER",
+      "start": 5296,
+      "end": 5302
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5303,
+      "end": 5307
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 5314,
+      "end": 5321
+    },
+    {
+      "text": "Paul",
+      "label": "PER",
+      "start": 5322,
+      "end": 5326
+    },
+    {
+      "text": "Rieger",
+      "label": "PER",
+      "start": 5328,
+      "end": 5334
+    },
+    {
+      "text": "Eduard",
+      "label": "PER",
+      "start": 5335,
+      "end": 5341
+    },
+    {
+      "text": "Nöſc",
+      "label": "PER",
+      "start": 5343,
+      "end": 5347
+    },
+    {
+      "text": "Cduard",
+      "label": "PER",
+      "start": 5350,
+      "end": 5356
+    },
+    {
+      "text": "Roth Johann",
+      "label": "PER",
+      "start": 5358,
+      "end": 5369
+    },
+    {
+      "text": "Saſſik",
+      "label": "PER",
+      "start": 5371,
+      "end": 5377
+    },
+    {
+      "text": "Raimund",
+      "label": "PER",
+      "start": 5378,
+      "end": 5385
+    },
+    {
+      "text": "Scheibein",
+      "label": "PER",
+      "start": 5387,
+      "end": 5396
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PER",
+      "start": 5397,
+      "end": 5404
+    },
+    {
+      "text": "Sclefinger Baul Johannes",
+      "label": "PER",
+      "start": 5406,
+      "end": 5430
+    },
+    {
+      "text": "Schmidt",
+      "label": "PER",
+      "start": 5432,
+      "end": 5439
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 5440,
+      "end": 5445
+    },
+    {
+      "text": "Shmiz",
+      "label": "PER",
+      "start": 5447,
+      "end": 5452
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 5453,
+      "end": 5460
+    },
+    {
+      "text": "Schneeberger",
+      "label": "PER",
+      "start": 5462,
+      "end": 5474
+    },
+    {
+      "text": "Pius",
+      "label": "PER",
+      "start": 5475,
+      "end": 5479
+    },
+    {
+      "text": "Schneider",
+      "label": "PER",
+      "start": 5481,
+      "end": 5490
+    },
+    {
+      "text": "Marie",
+      "label": "PER",
+      "start": 5491,
+      "end": 5496
+    },
+    {
+      "text": "Schober",
+      "label": "PER",
+      "start": 5503,
+      "end": 5510
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 5511,
+      "end": 5519
+    },
+    {
+      "text": "Schorſch",
+      "label": "PER",
+      "start": 5526,
+      "end": 5534
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 5535,
+      "end": 5541
+    },
+    {
+      "text": "Schreiner",
+      "label": "PER",
+      "start": 5543,
+      "end": 5552
+    },
+    {
+      "text": "Anton",
+      "label": "PER",
+      "start": 5553,
+      "end": 5558
+    },
+    {
+      "text": "Schürff",
+      "label": "PER",
+      "start": 5560,
+      "end": 5567
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5568,
+      "end": 5572
+    },
+    {
+      "text": "Schuſchnigg",
+      "label": "PER",
+      "start": 5579,
+      "end": 5590
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 5591,
+      "end": 5595
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 5602,
+      "end": 5608
+    },
+    {
+      "text": "Amalie",
+      "label": "PER",
+      "start": 5609,
+      "end": 5615
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 5617,
+      "end": 5623
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 5624,
+      "end": 5631
+    },
+    {
+      "text": "Seidl",
+      "label": "PER",
+      "start": 5639,
+      "end": 5644
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 5645,
+      "end": 5650
+    },
+    {
+      "text": "Seipel",
+      "label": "PER",
+      "start": 5652,
+      "end": 5658
+    },
+    {
+      "text": "Jgnaz",
+      "label": "PER",
+      "start": 5659,
+      "end": 5664
+    },
+    {
+      "text": "Seiz",
+      "label": "PER",
+      "start": 5671,
+      "end": 5675
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5676,
+      "end": 5680
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 5682,
+      "end": 5687
+    },
+    {
+      "text": "Albert",
+      "label": "PER",
+      "start": 5688,
+      "end": 5694
+    },
+    {
+      "text": "Spalows8ky",
+      "label": "PER",
+      "start": 5696,
+      "end": 5706
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 5707,
+      "end": 5712
+    },
+    {
+      "text": "Starhemberg Ernſt Rüdiger",
+      "label": "PER",
+      "start": 5714,
+      "end": 5739
+    },
+    {
+      "text": "Stein",
+      "label": "PER",
+      "start": 5741,
+      "end": 5746
+    },
+    {
+      "text": "Viktor",
+      "label": "PER",
+      "start": 5747,
+      "end": 5753
+    },
+    {
+      "text": "Stika",
+      "label": "PER",
+      "start": 5755,
+      "end": 5760
+    },
+    {
+      "text": "Felix",
+      "label": "PER",
+      "start": 5761,
+      "end": 5766
+    },
+    {
+      "text": "Stögner",
+      "label": "PER",
+      "start": 5768,
+      "end": 5775
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5776,
+      "end": 5780
+    },
+    {
+      "text": "Straffnex",
+      "label": "PER",
+      "start": 5788,
+      "end": 5797
+    },
+    {
+      "text": "Sepp",
+      "label": "PER",
+      "start": 5798,
+      "end": 5802
+    },
+    {
+      "text": "Streeruwis",
+      "label": "PER",
+      "start": 5809,
+      "end": 5819
+    },
+    {
+      "text": "Ernſt",
+      "label": "PER",
+      "start": 5820,
+      "end": 5825
+    },
+    {
+      "text": "Strießnig",
+      "label": "PER",
+      "start": 5827,
+      "end": 5836
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5837,
+      "end": 5841
+    },
+    {
+      "text": "Strohmaier",
+      "label": "PER",
+      "start": 5843,
+      "end": 5853
+    },
+    {
+      "text": "Vinzenz",
+      "label": "PER",
+      "start": 5854,
+      "end": 5861
+    },
+    {
+      "text": "Sylveſtex",
+      "label": "PER",
+      "start": 5863,
+      "end": 5872
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 5873,
+      "end": 5877
+    },
+    {
+      "text": "Tauſchitz",
+      "label": "PER",
+      "start": 5885,
+      "end": 5894
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 5895,
+      "end": 5902
+    },
+    {
+      "text": "Teufl",
+      "label": "PER",
+      "start": 5910,
+      "end": 5915
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 5916,
+      "end": 5921
+    },
+    {
+      "text": "Thaler",
+      "label": "PER",
+      "start": 5923,
+      "end": 5929
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 5930,
+      "end": 5937
+    },
+    {
+      "text": "Thoma Franz",
+      "label": "PER",
+      "start": 5939,
+      "end": 5950
+    },
+    {
+      "text": "Tomſchik",
+      "label": "PER",
+      "start": 5952,
+      "end": 5960
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 5961,
+      "end": 5966
+    },
+    {
+      "text": "Tuſch",
+      "label": "PER",
+      "start": 5968,
+      "end": 5973
+    },
+    {
+      "text": "Marie",
+      "label": "PER",
+      "start": 5974,
+      "end": 5979
+    },
+    {
+      "text": "Vaugvin",
+      "label": "PER",
+      "start": 5981,
+      "end": 5988
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5989,
+      "end": 5993
+    },
+    {
+      "text": "Vinzl",
+      "label": "PER",
+      "start": 5995,
+      "end": 6000
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 6001,
+      "end": 6006
+    },
+    {
+      "text": "Wagner",
+      "label": "PER",
+      "start": 6008,
+      "end": 6014
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 6015,
+      "end": 6021
+    },
+    {
+      "text": "Wagner",
+      "label": "PER",
+      "start": 6023,
+      "end": 6029
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 6030,
+      "end": 6035
+    },
+    {
+      "text": "Waiß",
+      "label": "PER",
+      "start": 6037,
+      "end": 6041
+    },
+    {
+      "text": "Erwin",
+      "label": "PER",
+      "start": 6042,
+      "end": 6047
+    },
+    {
+      "text": "Walliſch",
+      "label": "PER",
+      "start": 6054,
+      "end": 6062
+    },
+    {
+      "text": "Koloman",
+      "label": "PER",
+      "start": 6063,
+      "end": 6070
+    },
+    {
+      "text": "Weidenhoffer",
+      "label": "PER",
+      "start": 6072,
+      "end": 6084
+    },
+    {
+      "text": "Emanuel",
+      "label": "PER",
+      "start": 6085,
+      "end": 6092
+    },
+    {
+      "text": "Weidenholzer",
+      "label": "PER",
+      "start": 6099,
+      "end": 6111
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 6112,
+      "end": 6118
+    },
+    {
+      "text": "Weigl",
+      "label": "PER",
+      "start": 6120,
+      "end": 6125
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 6126,
+      "end": 6133
+    },
+    {
+      "text": "Weiſer",
+      "label": "PER",
+      "start": 6141,
+      "end": 6147
+    },
+    {
+      "text": "Kajetan",
+      "label": "PER",
+      "start": 6148,
+      "end": 6155
+    },
+    {
+      "text": "Wendl",
+      "label": "PER",
+      "start": 6157,
+      "end": 6162
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 6163,
+      "end": 6168
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 6170,
+      "end": 6176
+    },
+    {
+      "text": "Max",
+      "label": "PER",
+      "start": 6177,
+      "end": 6180
+    },
+    {
+      "text": "Wie8maier",
+      "label": "PER",
+      "start": 6182,
+      "end": 6191
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 6192,
+      "end": 6197
+    },
+    {
+      "text": "Winkler",
+      "label": "PER",
+      "start": 6199,
+      "end": 6206
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 6207,
+      "end": 6212
+    },
+    {
+      "text": "Winſauer",
+      "label": "PER",
+      "start": 6220,
+      "end": 6228
+    },
+    {
+      "text": "Ernſt",
+      "label": "PER",
+      "start": 6229,
+      "end": 6234
+    },
+    {
+      "text": "Witternigg",
+      "label": "PER",
+      "start": 6242,
+      "end": 6252
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 6253,
+      "end": 6258
+    },
+    {
+      "text": "Wißany",
+      "label": "PER",
+      "start": 6260,
+      "end": 6266
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 6267,
+      "end": 6271
+    },
+    {
+      "text": "Wollek",
+      "label": "PER",
+      "start": 6273,
+      "end": 6279
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 6280,
+      "end": 6287
+    },
+    {
+      "text": "Wotawa",
+      "label": "PER",
+      "start": 6289,
+      "end": 6295
+    },
+    {
+      "text": "Auguſt",
+      "label": "PER",
+      "start": 6296,
+      "end": 6302
+    },
+    {
+      "text": "Zarboch",
+      "label": "PER",
+      "start": 6309,
+      "end": 6316
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 6317,
+      "end": 6323
+    },
+    {
+      "text": "Zelenka",
+      "label": "PER",
+      "start": 6325,
+      "end": 6332
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 6333,
+      "end": 6338
+    },
+    {
+      "text": "Zingl",
+      "label": "PER",
+      "start": 6340,
+      "end": 6345
+    },
+    {
+      "text": "Joſef",
+      "label": "PER",
+      "start": 6346,
+      "end": 6351
+    },
+    {
+      "text": "Elderſc",
+      "label": "PER",
+      "start": 6364,
+      "end": 6371
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 6502,
+      "end": 6511
+    },
+    {
+      "text": "Strafiner",
+      "label": "PER",
+      "start": 6563,
+      "end": 6572
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 6716,
+      "end": 6725
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6956,
+      "end": 6960
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Öſterreich",
+      "label": "ORG",
+      "start": 59,
+      "end": 96
+    },
+    {
+      "text": "IV. Geſeßgebungsperiode",
+      "label": "ORG",
+      "start": 127,
+      "end": 150
+    },
+    {
+      "text": "Hauſe3",
+      "label": "LOC",
+      "start": 199,
+      "end": 205
+    },
+    {
+      "text": "Dr. Straffner",
+      "label": "PER",
+      "start": 322,
+      "end": 335
+    },
+    {
+      "text": "Hauſes",
+      "label": "LOC",
+      "start": 372,
+      "end": 378
+    },
+    {
+      "text": "Sizung",
+      "label": "LOC",
+      "start": 395,
+      "end": 401
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 498,
+      "end": 505
+    },
+    {
+      "text": "Präſidium",
+      "label": "LOC",
+      "start": 692,
+      "end": 701
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 715,
+      "end": 728
+    },
+    {
+      "text": "Herr Bunde3präſident",
+      "label": "LOC",
+      "start": 754,
+      "end": 774
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 974,
+      "end": 985
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 1077,
+      "end": 1093
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1235,
+      "end": 1248
+    },
+    {
+      "text": "iſt e3",
+      "label": "PER",
+      "start": 1314,
+      "end": 1320
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1362,
+      "end": 1375
+    },
+    {
+      "text": "Alfred Gürtler",
+      "label": "PER",
+      "start": 1503,
+      "end": 1517
+    },
+    {
+      "text": "ic",
+      "label": "LOC",
+      "start": 1526,
+      "end": 1528
+    },
+    {
+      "text": "beſonders",
+      "label": "PER",
+      "start": 1589,
+      "end": 1598
+    },
+    {
+      "text": "erſtenmal",
+      "label": "ORG",
+      "start": 1628,
+      "end": 1637
+    },
+    {
+      "text": "Dr. Franz Brunner",
+      "label": "PER",
+      "start": 1824,
+      "end": 1841
+    },
+    {
+      "text": "Dieſe",
+      "label": "LOC",
+      "start": 2116,
+      "end": 2121
+    },
+    {
+      "text": "hohen Nationalrates",
+      "label": "ORG",
+      "start": 2280,
+      "end": 2299
+    },
+    {
+      "text": "Geſeßgebungsperioden",
+      "label": "ORG",
+      "start": 2313,
+      "end": 2333
+    },
+    {
+      "text": "dieſer",
+      "label": "ORG",
+      "start": 2533,
+      "end": 2539
+    },
+    {
+      "text": "ſchon",
+      "label": "LOC",
+      "start": 2562,
+      "end": 2567
+    },
+    {
+      "text": "Hauſes",
+      "label": "LOC",
+      "start": 2605,
+      "end": 2611
+    },
+    {
+      "text": "Jc",
+      "label": "LOC",
+      "start": 2628,
+      "end": 2630
+    },
+    {
+      "text": "Abg",
+      "label": "PER",
+      "start": 2655,
+      "end": 2658
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 2660,
+      "end": 2672
+    },
+    {
+      "text": "Frau Seidel",
+      "label": "PER",
+      "start": 2674,
+      "end": 2685
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 2687,
+      "end": 2692
+    },
+    {
+      "text": "dieſer Mühewaltung",
+      "label": "PER",
+      "start": 2723,
+      "end": 2741
+    },
+    {
+      "text": "Abg",
+      "label": "PER",
+      "start": 2824,
+      "end": 2827
+    },
+    {
+      "text": "Markſchläger",
+      "label": "PER",
+      "start": 2829,
+      "end": 2841
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 2846,
+      "end": 2851
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3052,
+      "end": 3064
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 3221,
+      "end": 3226
+    },
+    {
+      "text": "NamenSaufruf",
+      "label": "LOC",
+      "start": 3415,
+      "end": 3427
+    },
+    {
+      "text": "Sever",
+      "label": "PER",
+      "start": 3446,
+      "end": 3451
+    },
+    {
+      "text": "Abg",
+      "label": "ORG",
+      "start": 3496,
+      "end": 3499
+    },
+    {
+      "text": "Abram Simon",
+      "label": "PER",
+      "start": 3502,
+      "end": 3513
+    },
+    {
+      "text": "Aigner Joſef",
+      "label": "PER",
+      "start": 3515,
+      "end": 3527
+    },
+    {
+      "text": "Allina Heinrich",
+      "label": "PER",
+      "start": 3534,
+      "end": 3549
+    },
+    {
+      "text": "Auinger Johann",
+      "label": "PER",
+      "start": 3551,
+      "end": 3565
+    },
+    {
+      "text": "Alois",
+      "label": "PER",
+      "start": 3573,
+      "end": 3578
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 3586,
+      "end": 3590
+    },
+    {
+      "text": "Baumgärtel Emil",
+      "label": "PER",
+      "start": 3597,
+      "end": 3612
+    },
+    {
+      "text": "Birbaumer Franz",
+      "label": "PER",
+      "start": 3614,
+      "end": 3629
+    },
+    {
+      "text": "Böhm Johann",
+      "label": "PER",
+      "start": 3631,
+      "end": 3642
+    },
+    {
+      "text": "Boſchekf Anna",
+      "label": "PER",
+      "start": 3644,
+      "end": 3657
+    },
+    {
+      "text": "Brachmann Hans",
+      "label": "PER",
+      "start": 3659,
+      "end": 3673
+    },
+    {
+      "text": "Brinnich Franz",
+      "label": "PER",
+      "start": 3675,
+      "end": 3689
+    },
+    {
+      "text": "Bureſch Karl",
+      "label": "PER",
+      "start": 3691,
+      "end": 3703
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3705,
+      "end": 3708
+    },
+    {
+      "text": "Danneberg Nobert",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3728,
+      "end": 3731
+    },
+    {
+      "text": "Deutſch\nJulius",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3749,
+      "end": 3752
+    },
+    {
+      "text": "Dewaty Hubert",
+      "label": "PER",
+      "start": 3754,
+      "end": 3767
+    },
+    {
+      "text": "Doppler Leopold",
+      "label": "PER",
+      "start": 3769,
+      "end": 3784
+    },
+    {
+      "text": "Drexel\nKarl",
+      "label": "PER",
+      "start": 3786,
+      "end": 3797
+    },
+    {
+      "text": "Duda Adolf",
+      "label": "PER",
+      "start": 3804,
+      "end": 3814
+    },
+    {
+      "text": "Duſcher Matthias",
+      "label": "PER",
+      "start": 3816,
+      "end": 3832
+    },
+    {
+      "text": "Ebner\nAnton",
+      "label": "PER",
+      "start": 3834,
+      "end": 3845
+    },
+    {
+      "text": "Ebner Hans",
+      "label": "PER",
+      "start": 3847,
+      "end": 3857
+    },
+    {
+      "text": "Eichinger Johann",
+      "label": "PER",
+      "start": 3859,
+      "end": 3875
+    },
+    {
+      "text": "Eisler\nArnold",
+      "label": "PER",
+      "start": 3877,
+      "end": 3890
+    },
+    {
+      "text": "Elderſch Matthias",
+      "label": "PER",
+      "start": 3897,
+      "end": 3914
+    },
+    {
+      "text": "Ellenbogen Wilhelm",
+      "label": "PER",
+      "start": 3916,
+      "end": 3934
+    },
+    {
+      "text": "Ellend Bernhard",
+      "label": "PER",
+      "start": 3941,
+      "end": 3956
+    },
+    {
+      "text": "Ertl Franz",
+      "label": "PER",
+      "start": 3958,
+      "end": 3968
+    },
+    {
+      "text": "Falle Anton",
+      "label": "PER",
+      "start": 3970,
+      "end": 3981
+    },
+    {
+      "text": "Floßmann Ferdinanda",
+      "label": "PER",
+      "start": 3983,
+      "end": 4002
+    },
+    {
+      "text": "Födermayr Florian",
+      "label": "PER",
+      "start": 4004,
+      "end": 4021
+    },
+    {
+      "text": "Foppa Hermann",
+      "label": "PER",
+      "start": 4023,
+      "end": 4036
+    },
+    {
+      "text": "Forſtner Auguſt",
+      "label": "LOC",
+      "start": 4038,
+      "end": 4053
+    },
+    {
+      "text": "Freundlich Emmy",
+      "label": "PER",
+      "start": 4055,
+      "end": 4070
+    },
+    {
+      "text": "Frühwirth Michacl",
+      "label": "PER",
+      "start": 4072,
+      "end": 4089
+    },
+    {
+      "text": "Gabriel Joſef",
+      "label": "PER",
+      "start": 4091,
+      "end": 4104
+    },
+    {
+      "text": "Gangl Michael",
+      "label": "PER",
+      "start": 4106,
+      "end": 4119
+    },
+    {
+      "text": "Geisler Simon",
+      "label": "PER",
+      "start": 4121,
+      "end": 4134
+    },
+    {
+      "text": "Geyer Hermann",
+      "label": "PER",
+      "start": 4136,
+      "end": 4149
+    },
+    {
+      "text": "Gierlinger Balthaſar",
+      "label": "PER",
+      "start": 4151,
+      "end": 4171
+    },
+    {
+      "text": "Glökel Otto",
+      "label": "PER",
+      "start": 4173,
+      "end": 4184
+    },
+    {
+      "text": "Florian",
+      "label": "PER",
+      "start": 4191,
+      "end": 4198
+    },
+    {
+      "text": "Gritſhacher Joſef",
+      "label": "PER",
+      "start": 4200,
+      "end": 4217
+    },
+    {
+      "text": "Gürtler Johann",
+      "label": "PER",
+      "start": 4219,
+      "end": 4233
+    },
+    {
+      "text": "Hainzl Joſef",
+      "label": "PER",
+      "start": 4235,
+      "end": 4247
+    },
+    {
+      "text": "Hampel Ernſt",
+      "label": "PER",
+      "start": 4249,
+      "end": 4261
+    },
+    {
+      "text": "Hareter Alexander",
+      "label": "PER",
+      "start": 4268,
+      "end": 4285
+    },
+    {
+      "text": "IV. G. PB",
+      "label": "PER",
+      "start": 4351,
+      "end": 4360
+    },
+    {
+      "text": "Hartmann Joſef",
+      "label": "PER",
+      "start": 4386,
+      "end": 4400
+    },
+    {
+      "text": "Haueis Alois",
+      "label": "PER",
+      "start": 4402,
+      "end": 4414
+    },
+    {
+      "text": "Hautmann Marie",
+      "label": "PER",
+      "start": 4416,
+      "end": 4430
+    },
+    {
+      "text": "Heinl Eduard",
+      "label": "PER",
+      "start": 4432,
+      "end": 4444
+    },
+    {
+      "text": "Heinz Karl",
+      "label": "PER",
+      "start": 4446,
+      "end": 4456
+    },
+    {
+      "text": "Heitzinger Johann",
+      "label": "PER",
+      "start": 4458,
+      "end": 4475
+    },
+    {
+      "text": "Hermann Hermann",
+      "label": "PER",
+      "start": 4477,
+      "end": 4492
+    },
+    {
+      "text": "Hirſch Ernſt",
+      "label": "PER",
+      "start": 4494,
+      "end": 4506
+    },
+    {
+      "text": "Hollersbacher\nJoſef",
+      "label": "LOC",
+      "start": 4508,
+      "end": 4527
+    },
+    {
+      "text": "Hölzl Anton Franz",
+      "label": "PER",
+      "start": 4529,
+      "end": 4546
+    },
+    {
+      "text": "Horvatek Norbert",
+      "label": "PER",
+      "start": 4548,
+      "end": 4564
+    },
+    {
+      "text": "Hryntſchak Alexander",
+      "label": "PER",
+      "start": 4566,
+      "end": 4586
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4588,
+      "end": 4591
+    },
+    {
+      "text": "Hueber Franz",
+      "label": "PER",
+      "start": 4593,
+      "end": 4605
+    },
+    {
+      "text": "Janecek Johann",
+      "label": "PER",
+      "start": 4612,
+      "end": 4626
+    },
+    {
+      "text": "Janicki Oskar",
+      "label": "PER",
+      "start": 4628,
+      "end": 4641
+    },
+    {
+      "text": "Jiricek Hans",
+      "label": "PER",
+      "start": 4643,
+      "end": 4655
+    },
+    {
+      "text": "Kapral Emma",
+      "label": "LOC",
+      "start": 4657,
+      "end": 4668
+    },
+    {
+      "text": "Viktor",
+      "label": "PER",
+      "start": 4690,
+      "end": 4696
+    },
+    {
+      "text": "Klimberger Karl",
+      "label": "PER",
+      "start": 4703,
+      "end": 4718
+    },
+    {
+      "text": "Kneußl Erich",
+      "label": "PER",
+      "start": 4720,
+      "end": 4732
+    },
+    {
+      "text": "Knoſp Joſef",
+      "label": "PER",
+      "start": 4739,
+      "end": 4750
+    },
+    {
+      "text": "Kolb Franz",
+      "label": "PER",
+      "start": 4752,
+      "end": 4762
+    },
+    {
+      "text": "Kollmann Joſef",
+      "label": "PER",
+      "start": 4769,
+      "end": 4783
+    },
+    {
+      "text": "Koref Ernſt",
+      "label": "PER",
+      "start": 4785,
+      "end": 4796
+    },
+    {
+      "text": "Köſtler Marie",
+      "label": "PER",
+      "start": 4803,
+      "end": 4816
+    },
+    {
+      "text": "Kraus Joſef",
+      "label": "PER",
+      "start": 4818,
+      "end": 4829
+    },
+    {
+      "text": "Kunſchak Leopold",
+      "label": "PER",
+      "start": 4831,
+      "end": 4847
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 4856,
+      "end": 4860
+    },
+    {
+      "text": "Laſer Adolf",
+      "label": "PER",
+      "start": 4862,
+      "end": 4873
+    },
+    {
+      "text": "Lengauer Joſef",
+      "label": "PER",
+      "start": 4875,
+      "end": 4889
+    },
+    {
+      "text": "Leskovar Adolf",
+      "label": "PER",
+      "start": 4891,
+      "end": 4905
+    },
+    {
+      "text": "Leuthner Karl",
+      "label": "PER",
+      "start": 4907,
+      "end": 4920
+    },
+    {
+      "text": "Lichtenegger Fri",
+      "label": "PER",
+      "start": 4922,
+      "end": 4938
+    },
+    {
+      "text": "Manhalter Rudolf",
+      "label": "PER",
+      "start": 4940,
+      "end": 4956
+    },
+    {
+      "text": "Markſchläger Rudolf",
+      "label": "PER",
+      "start": 4958,
+      "end": 4977
+    },
+    {
+      "text": "Mayrhofer\nFranz",
+      "label": "PER",
+      "start": 4979,
+      "end": 4994
+    },
+    {
+      "text": "Moßhammer Franz",
+      "label": "PER",
+      "start": 4996,
+      "end": 5011
+    },
+    {
+      "text": "Muchitſch Hans",
+      "label": "PER",
+      "start": 5013,
+      "end": 5027
+    },
+    {
+      "text": "Müller\nAdolf",
+      "label": "PER",
+      "start": 5029,
+      "end": 5041
+    },
+    {
+      "text": "Müllner Hans",
+      "label": "PER",
+      "start": 5043,
+      "end": 5055
+    },
+    {
+      "text": "Oelzelt Franz",
+      "label": "PER",
+      "start": 5057,
+      "end": 5070
+    },
+    {
+      "text": "Paulitſch\nMichael",
+      "label": "PER",
+      "start": 5072,
+      "end": 5089
+    },
+    {
+      "text": "Pazelt Joſef",
+      "label": "PER",
+      "start": 5091,
+      "end": 5103
+    },
+    {
+      "text": "Peter Adolf",
+      "label": "PER",
+      "start": 5105,
+      "end": 5116
+    },
+    {
+      "text": "Pi",
+      "label": "PER",
+      "start": 5118,
+      "end": 5120
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 5122,
+      "end": 5126
+    },
+    {
+      "text": "Birchegger Anton",
+      "label": "PER",
+      "start": 5128,
+      "end": 5144
+    },
+    {
+      "text": "Piſtor Felix",
+      "label": "PER",
+      "start": 5146,
+      "end": 5158
+    },
+    {
+      "text": "Plaſſer Franz",
+      "label": "PER",
+      "start": 5160,
+      "end": 5173
+    },
+    {
+      "text": "Bölzer Johann",
+      "label": "PER",
+      "start": 5175,
+      "end": 5188
+    },
+    {
+      "text": "Popp Adelheid",
+      "label": "PER",
+      "start": 5190,
+      "end": 5203
+    },
+    {
+      "text": "Probſt Anton",
+      "label": "PER",
+      "start": 5205,
+      "end": 5217
+    },
+    {
+      "text": "Prodinger Hans",
+      "label": "PER",
+      "start": 5219,
+      "end": 5233
+    },
+    {
+      "text": "Proft Gabriele",
+      "label": "PER",
+      "start": 5235,
+      "end": 5249
+    },
+    {
+      "text": "Raab Julius",
+      "label": "PER",
+      "start": 5251,
+      "end": 5262
+    },
+    {
+      "text": "Ramek Rudolf",
+      "label": "PER",
+      "start": 5264,
+      "end": 5276
+    },
+    {
+      "text": "Raſer Joſef",
+      "label": "PER",
+      "start": 5283,
+      "end": 5294
+    },
+    {
+      "text": "Renner Karl",
+      "label": "PER",
+      "start": 5296,
+      "end": 5307
+    },
+    {
+      "text": "Paul",
+      "label": "PER",
+      "start": 5322,
+      "end": 5326
+    },
+    {
+      "text": "Rieger Eduard",
+      "label": "PER",
+      "start": 5328,
+      "end": 5341
+    },
+    {
+      "text": "Nöſc",
+      "label": "LOC",
+      "start": 5343,
+      "end": 5347
+    },
+    {
+      "text": "Roth Johann",
+      "label": "PER",
+      "start": 5358,
+      "end": 5369
+    },
+    {
+      "text": "Saſſik Raimund",
+      "label": "PER",
+      "start": 5371,
+      "end": 5385
+    },
+    {
+      "text": "Scheibein Wilhelm",
+      "label": "PER",
+      "start": 5387,
+      "end": 5404
+    },
+    {
+      "text": "Baul Johannes",
+      "label": "PER",
+      "start": 5417,
+      "end": 5430
+    },
+    {
+      "text": "Schmidt Joſef",
+      "label": "PER",
+      "start": 5432,
+      "end": 5445
+    },
+    {
+      "text": "Shmiz\nRichard",
+      "label": "PER",
+      "start": 5447,
+      "end": 5460
+    },
+    {
+      "text": "Schneeberger Pius",
+      "label": "PER",
+      "start": 5462,
+      "end": 5479
+    },
+    {
+      "text": "Schneider Marie",
+      "label": "PER",
+      "start": 5481,
+      "end": 5496
+    },
+    {
+      "text": "Schober Johannes",
+      "label": "PER",
+      "start": 5503,
+      "end": 5519
+    },
+    {
+      "text": "Schorſch Johann",
+      "label": "PER",
+      "start": 5526,
+      "end": 5541
+    },
+    {
+      "text": "Schreiner\nAnton",
+      "label": "PER",
+      "start": 5543,
+      "end": 5558
+    },
+    {
+      "text": "Schürff Hans",
+      "label": "PER",
+      "start": 5560,
+      "end": 5572
+    },
+    {
+      "text": "Schuſchnigg Kurt",
+      "label": "PER",
+      "start": 5579,
+      "end": 5595
+    },
+    {
+      "text": "Seidel Amalie",
+      "label": "PER",
+      "start": 5602,
+      "end": 5615
+    },
+    {
+      "text": "Seidel Richard",
+      "label": "PER",
+      "start": 5617,
+      "end": 5631
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 5633,
+      "end": 5637
+    },
+    {
+      "text": "Seidl Georg",
+      "label": "PER",
+      "start": 5639,
+      "end": 5650
+    },
+    {
+      "text": "Seipel Jgnaz",
+      "label": "PER",
+      "start": 5652,
+      "end": 5664
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5666,
+      "end": 5669
+    },
+    {
+      "text": "Seiz Karl",
+      "label": "PER",
+      "start": 5671,
+      "end": 5680
+    },
+    {
+      "text": "Sever Albert",
+      "label": "PER",
+      "start": 5682,
+      "end": 5694
+    },
+    {
+      "text": "Spalows8ky Franz",
+      "label": "PER",
+      "start": 5696,
+      "end": 5712
+    },
+    {
+      "text": "Starhemberg Ernſt Rüdiger",
+      "label": "PER",
+      "start": 5714,
+      "end": 5739
+    },
+    {
+      "text": "Stein Viktor",
+      "label": "PER",
+      "start": 5741,
+      "end": 5753
+    },
+    {
+      "text": "Stika Felix",
+      "label": "PER",
+      "start": 5755,
+      "end": 5766
+    },
+    {
+      "text": "Stögner Hans",
+      "label": "PER",
+      "start": 5768,
+      "end": 5780
+    },
+    {
+      "text": "Straffnex Sepp",
+      "label": "PER",
+      "start": 5788,
+      "end": 5802
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5804,
+      "end": 5807
+    },
+    {
+      "text": "Streeruwis Ernſt",
+      "label": "PER",
+      "start": 5809,
+      "end": 5825
+    },
+    {
+      "text": "Strießnig\nKarl",
+      "label": "PER",
+      "start": 5827,
+      "end": 5841
+    },
+    {
+      "text": "Strohmaier Vinzenz",
+      "label": "PER",
+      "start": 5843,
+      "end": 5861
+    },
+    {
+      "text": "Sylveſtex Hans",
+      "label": "PER",
+      "start": 5863,
+      "end": 5877
+    },
+    {
+      "text": "Tauſchitz Stephan",
+      "label": "PER",
+      "start": 5885,
+      "end": 5902
+    },
+    {
+      "text": "Jug.",
+      "label": "PER",
+      "start": 5904,
+      "end": 5908
+    },
+    {
+      "text": "Teufl Joſef",
+      "label": "PER",
+      "start": 5910,
+      "end": 5921
+    },
+    {
+      "text": "Thaler Andreas",
+      "label": "PER",
+      "start": 5923,
+      "end": 5937
+    },
+    {
+      "text": "Thoma Franz",
+      "label": "PER",
+      "start": 5939,
+      "end": 5950
+    },
+    {
+      "text": "Tomſchik Joſef",
+      "label": "PER",
+      "start": 5952,
+      "end": 5966
+    },
+    {
+      "text": "Tuſch Marie",
+      "label": "PER",
+      "start": 5968,
+      "end": 5979
+    },
+    {
+      "text": "Vaugvin\nKarl",
+      "label": "PER",
+      "start": 5981,
+      "end": 5993
+    },
+    {
+      "text": "Vinzl Joſef",
+      "label": "PER",
+      "start": 5995,
+      "end": 6006
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 6015,
+      "end": 6021
+    },
+    {
+      "text": "Wagner Joſef",
+      "label": "PER",
+      "start": 6023,
+      "end": 6035
+    },
+    {
+      "text": "Waiß Erwin",
+      "label": "PER",
+      "start": 6037,
+      "end": 6047
+    },
+    {
+      "text": "Walliſch Koloman",
+      "label": "PER",
+      "start": 6054,
+      "end": 6070
+    },
+    {
+      "text": "Weidenhoffer\nEmanuel",
+      "label": "PER",
+      "start": 6072,
+      "end": 6092
+    },
+    {
+      "text": "Weidenholzer Johann",
+      "label": "PER",
+      "start": 6099,
+      "end": 6118
+    },
+    {
+      "text": "Weigl Richard",
+      "label": "PER",
+      "start": 6120,
+      "end": 6133
+    },
+    {
+      "text": "Weiſer Kajetan",
+      "label": "PER",
+      "start": 6141,
+      "end": 6155
+    },
+    {
+      "text": "Wendl Franz",
+      "label": "PER",
+      "start": 6157,
+      "end": 6168
+    },
+    {
+      "text": "Werner Max",
+      "label": "PER",
+      "start": 6170,
+      "end": 6180
+    },
+    {
+      "text": "Winkler Franz",
+      "label": "PER",
+      "start": 6199,
+      "end": 6212
+    },
+    {
+      "text": "Jug.",
+      "label": "PER",
+      "start": 6214,
+      "end": 6218
+    },
+    {
+      "text": "Jng",
+      "label": "LOC",
+      "start": 6236,
+      "end": 6239
+    },
+    {
+      "text": "Witternigg Joſef",
+      "label": "PER",
+      "start": 6242,
+      "end": 6258
+    },
+    {
+      "text": "Wißany Hans",
+      "label": "LOC",
+      "start": 6260,
+      "end": 6271
+    },
+    {
+      "text": "Wollek Richard",
+      "label": "PER",
+      "start": 6273,
+      "end": 6287
+    },
+    {
+      "text": "Wotawa Auguſt",
+      "label": "PER",
+      "start": 6289,
+      "end": 6302
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6304,
+      "end": 6307
+    },
+    {
+      "text": "Zarboch\nRudolf",
+      "label": "PER",
+      "start": 6309,
+      "end": 6323
+    },
+    {
+      "text": "Zelenka Franz",
+      "label": "PER",
+      "start": 6325,
+      "end": 6338
+    },
+    {
+      "text": "Zingl Joſef",
+      "label": "PER",
+      "start": 6340,
+      "end": 6351
+    },
+    {
+      "text": "Hauſes",
+      "label": "ORG",
+      "start": 6430,
+      "end": 6436
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 6502,
+      "end": 6511
+    },
+    {
+      "text": "Hohe8 Haus",
+      "label": "PER",
+      "start": 6574,
+      "end": 6584
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 6677,
+      "end": 6690
+    },
+    {
+      "text": "Straffner",
+      "label": "PER",
+      "start": 6716,
+      "end": 6725
+    },
+    {
+      "text": "Nächſte",
+      "label": "PER",
+      "start": 6744,
+      "end": 6751
+    },
+    {
+      "text": "Tages8ordnung",
+      "label": "ORG",
+      "start": 6806,
+      "end": 6819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 6855,
+      "end": 6868
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 6956,
+      "end": 6960
+    }
+  ]
+}

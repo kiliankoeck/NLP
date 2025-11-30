@@ -1,0 +1,308 @@
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 1
+# text = Ich eröffne die 199. Sitzung des Nationalrates.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    eröffne              eröffnen             VERB     VVFIN    _      0      ROOT       _      _     
+3    die                  der                  DET      ART      _      5      nk         _      _     
+4    199.                 199.                 ADJ      ADJA     _      5      nk         _      _     
+5    Sitzung              Sitzung              NOUN     NN       _      2      oa         _      _     
+6    des                  der                  DET      ART      _      7      nk         _      _     
+7    Nationalrates        Nationalrat          NOUN     NN       _      5      ag         _      _     
+8    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 2
+# text = Als verhindert gemeldet sind die Abgeordneten Karl Schmidhofer, Michael Seemayer, Petra Wimmer, Herbert Kickl, Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Als                  als                  ADP      APPR     _      4      mo         _      _     
+2    verhindert           verhindern           ADV      ADJD     _      3      mo         _      _     
+3    gemeldet             melden               VERB     VVPP     _      1      nk         _      _     
+4    sind                 sein                 AUX      VAFIN    _      0      ROOT       _      _     
+5    die                  der                  DET      ART      _      6      nk         _      _     
+6    Abgeordneten         abgeordneter         NOUN     NN       _      4      sb         _      _     
+7    Karl                 Karl                 PROPN    NE       _      8      pnc        _      _     
+8    Schmidhofer          Schmidhofer          PROPN    NE       _      6      nk         _      _     
+9    ,                    --                   PUNCT    $,       _      6      punct      _      _     
+10   Michael              Michael              PROPN    NE       _      11     pnc        _      _     
+11   Seemayer             Seemayer             PROPN    NE       _      6      app        _      _     
+12   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+13   Petra                Petra                PROPN    NE       _      14     pnc        _      _     
+14   Wimmer               Wimmer               PROPN    NE       _      6      app        _      _     
+15   ,                    --                   PUNCT    $,       _      6      punct      _      _     
+16   Herbert              Herbert              PROPN    NE       _      17     pnc        _      _     
+17   Kickl                Kickl                PROPN    NE       _      6      app        _      _     
+18   ,                    --                   PUNCT    $,       _      4      punct      _      _     
+19   Mag                  mögen                AUX      VMFIN    _      4      sb         _      _     
+20   .                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 3
+# text = Christian Ragger, Michael Schnedlitz, Mag.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Christian            Christian            PROPN    NE       _      2      pnc        _      _     
+2    Ragger               Ragger               PROPN    NE       _      7      sb         _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Michael              Michael              PROPN    NE       _      5      pnc        _      _     
+5    Schnedlitz           Schnedlitz           PROPN    NE       _      2      app        _      _     
+6    ,                    --                   PUNCT    $,       _      7      punct      _      _     
+7    Mag                  mögen                AUX      VMFIN    _      0      ROOT       _      _     
+8    .                    --                   PUNCT    $.       _      7      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 4
+# text = Meri Disoski, Sigrid Maurer, BA und Süleyman Zorba.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Meri                 Meri                 PROPN    NE       _      2      pnc        _      _     
+2    Disoski              Disoski              PROPN    NE       _      0      ROOT       _      _     
+3    ,                    --                   PUNCT    $,       _      2      punct      _      _     
+4    Sigrid               Sigrid               PROPN    NE       _      5      pnc        _      _     
+5    Maurer               Maurer               PROPN    NE       _      2      app        _      _     
+6    ,                    --                   PUNCT    $,       _      5      punct      _      _     
+7    BA                   BA                   PROPN    NE       _      5      cj         _      _     
+8    und                  und                  CCONJ    KON      _      7      cd         _      _     
+9    Süleyman             Süleyman             PROPN    NE       _      10     pnc        _      _     
+10   Zorba                Zorba                PROPN    NE       _      8      cj         _      _     
+11   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 5
+# text = Zuweisungen Präsidentin Doris Bures : Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Zuweisungen          Zuweisung            NOUN     NN       _      2      ag         _      _     
+2    Präsidentin          Präsidentin          NOUN     NN       _      0      ROOT       _      _     
+3    Doris                Doris                PROPN    NE       _      4      pnc        _      _     
+4    Bures                Bures                PROPN    NE       _      2      nk         _      _     
+5    :                    --                   PUNCT    $.       _      13     punct      _      _     
+6    Hinsichtlich         hinsichtlich         ADP      APPR     _      13     mo         _      _     
+7    der                  der                  DET      ART      _      9      nk         _      _     
+8    eingelangten         eingelangt           ADJ      ADJA     _      9      nk         _      _     
+9    Verhandlungsgegenstä Verhandlungsgegensta NOUN     NN       _      6      nk         _      _     
+10   und                  und                  CCONJ    KON      _      9      cd         _      _     
+11   deren                der                  PRON     PDS      _      12     ag         _      _     
+12   Zuweisungen          Zuweisung            NOUN     NN       _      10     cj         _      _     
+13   verweise             verweisen            VERB     VVFIN    _      2      par        _      _     
+14   ich                  ich                  PRON     PPER     _      13     sb         _      _     
+15   gemäß                gemäß                ADP      APPR     _      13     mo         _      _     
+16   §                    §                    NOUN     NN       _      15     nk         _      _     
+17   23                   23                   NUM      CARD     _      16     nk         _      _     
+18   Abs.                 Abs.                 NOUN     NN       _      16     nk         _      _     
+19   4                    4                    NUM      CARD     _      18     nk         _      _     
+20   der                  der                  DET      ART      _      21     nk         _      _     
+21   Geschäftsordnung     Geschäftsordnung     NOUN     NN       _      16     ag         _      _     
+22   auf                  auf                  ADP      APPR     _      13     op         _      _     
+23   die                  der                  DET      ART      _      27     nk         _      _     
+24   im                   in                   ADP      APPRART  _      26     mo         _      _     
+25   Sitzungssaal         Sitzungssaal         NOUN     NN       _      24     nk         _      _     
+26   verteilte            verteilt             ADJ      ADJA     _      27     nk         _      _     
+27   Mitteilung           Mitteilung           NOUN     NN       _      22     nk         _      _     
+28   .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 6
+# text = Die schriftliche Mitteilung hat folgenden Wortlaut:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Die                  der                  DET      ART      _      3      nk         _      _     
+2    schriftliche         schriftlich          ADJ      ADJA     _      3      nk         _      _     
+3    Mitteilung           Mitteilung           NOUN     NN       _      4      sb         _      _     
+4    hat                  haben                VERB     VAFIN    _      0      ROOT       _      _     
+5    folgenden            folgend              ADJ      ADJA     _      6      nk         _      _     
+6    Wortlaut             Wortlaut             NOUN     NN       _      4      oa         _      _     
+7    :                    --                   PUNCT    $.       _      4      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 7
+# text = Zuweisungen in dieser Sitzung: zur Vorberatung: Budgetausschuss: Bundesgesetz, mit dem das Transparenzdatenbankgesetz 2012 geändert wird Ausschuss für Forschung, Innovation und Digitalisierung: Bundesgesetz, mit dem ein FWIT-Rat-Gesetz erlassen wird und das Forschungs- und Technologieförderungsgesetz, das Forschungsorganisationsgesetz, das Innovations stiftung-Bildung-Gesetz, das FTE-Nationalstiftungsgesetz sowie das Universitäts gesetz 2002 geändert werden Nationalrat, XXVII.GP Stenographisches Protokoll 199.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Zuweisungen          Zuweisung            NOUN     NN       _      11     sb         _      _     
+2    in                   in                   ADP      APPR     _      1      mnr        _      _     
+3    dieser               dieser               DET      PDAT     _      4      nk         _      _     
+4    Sitzung              Sitzung              NOUN     NN       _      2      nk         _      _     
+5    :                    --                   PUNCT    $.       _      1      punct      _      _     
+6    zur                  zu                   ADP      APPRART  _      1      mnr        _      _     
+7    Vorberatung          Vorberatung          NOUN     NN       _      6      nk         _      _     
+8    :                    --                   PUNCT    $.       _      1      punct      _      _     
+9    Budgetausschuss      Budgetausschuss      PROPN    NE       _      1      nk         _      _     
+10   :                    --                   PUNCT    $.       _      1      punct      _      _     
+11   Bundesgesetz         Bundesgesetz         NOUN     NN       _      0      ROOT       _      _     
+12   ,                    --                   PUNCT    $,       _      11     punct      _      _     
+13   mit                  mit                  ADP      APPR     _      18     mo         _      _     
+14   dem                  der                  PRON     PRELS    _      13     nk         _      _     
+15   das                  der                  DET      ART      _      16     nk         _      _     
+16   Transparenzdatenbank Transparenzdatenbank NOUN     NN       _      19     sb         _      _     
+17   2012                 2012                 NUM      CARD     _      18     mo         _      _     
+18   geändert             ändern               VERB     VVPP     _      19     oc         _      _     
+19   wird                 werden               AUX      VAFIN    _      11     rc         _      _     
+20   Ausschuss            Ausschuss            PROPN    NE       _      19     sb         _      _     
+21   für                  für                  ADP      APPR     _      20     mnr        _      _     
+22   Forschung            Forschung            NOUN     NN       _      21     nk         _      _     
+23   ,                    --                   PUNCT    $,       _      22     punct      _      _     
+24   Innovation           Innovation           NOUN     NN       _      22     cj         _      _     
+25   und                  und                  CCONJ    KON      _      24     cd         _      _     
+26   Digitalisierung      Digitalisierung      NOUN     NN       _      25     cj         _      _     
+27   :                    --                   PUNCT    $.       _      11     punct      _      _     
+28   Bundesgesetz         Bundesgesetz         NOUN     NN       _      11     app        _      _     
+29   ,                    --                   PUNCT    $,       _      28     punct      _      _     
+30   mit                  mit                  ADP      APPR     _      34     mo         _      _     
+31   dem                  der                  PRON     PRELS    _      30     nk         _      _     
+32   ein                  ein                  DET      ART      _      33     nk         _      _     
+33   FWIT-Rat-Gesetz      FWIT-Rat-Gesetz      NOUN     NN       _      35     sb         _      _     
+34   erlassen             erlassen             VERB     VVPP     _      35     oc         _      _     
+35   wird                 werden               AUX      VAFIN    _      28     rc         _      _     
+36   und                  und                  CCONJ    KON      _      35     cd         _      _     
+37   das                  der                  DET      ART      _      40     nk         _      _     
+38   Forschungs-          Forschung            X        TRUNC    _      39     cj         _      _     
+39   und                  und                  CCONJ    KON      _      40     cd         _      _     
+40   Technologieförderung Technologieförderung NOUN     NN       _      36     cj         _      _     
+41   ,                    --                   PUNCT    $,       _      40     punct      _      _     
+42   das                  der                  DET      ART      _      43     nk         _      _     
+43   Forschungsorganisati Forschungsorganisati NOUN     NN       _      40     app        _      _     
+44   ,                    --                   PUNCT    $,       _      43     punct      _      _     
+45   das                  der                  DET      ART      _      47     nk         _      _     
+46   Innovations          Innovation           PROPN    NE       _      47     ag         _      _     
+47   stiftung-Bildung-Ges stiftung-Bildung-Ges NOUN     NN       _      50     cj         _      _     
+48   ,                    --                   PUNCT    $,       _      40     punct      _      _     
+49   das                  der                  DET      ART      _      50     nk         _      _     
+50   FTE-Nationalstiftung FTE-Nationalstiftung NOUN     NN       _      40     cj         _      _     
+51   sowie                sowie                CCONJ    KON      _      50     cd         _      _     
+52   das                  der                  DET      ART      _      53     nk         _      _     
+53   Universitäts         Universitäts         NOUN     NN       _      51     cj         _      _     
+54   gesetz               Gesetz               NOUN     NN       _      53     nk         _      _     
+55   2002                 2002                 NUM      CARD     _      54     nk         _      _     
+56   geändert             ändern               VERB     VVPP     _      57     oc         _      _     
+57   werden               werden               AUX      VAFIN    _      11     par        _      _     
+58   Nationalrat          Nationalrat          NOUN     NN       _      57     sb         _      _     
+59   ,                    --                   PUNCT    $,       _      58     punct      _      _     
+60   XXVII.GP             XXVII.GP             PROPN    NE       _      62     nk         _      _     
+61   Stenographisches     Stenographisch       ADJ      ADJA     _      62     nk         _      _     
+62   Protokoll            Protokoll            NOUN     NN       _      58     cj         _      _     
+63   199.                 199.                 NUM      CARD     _      11     punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 8
+# text = Sitzung, 199.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Sitzung              Sitzung              NOUN     NN       _      0      ROOT       _      _     
+2    ,                    --                   PUNCT    $,       _      1      punct      _      _     
+3    199.                 199.                 ADJ      ADJA     _      1      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 9
+# text = Sitzung des Nationalrats im Anschluss an die 198. Sitzung des Nationalrats / Seite 3
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Sitzung              Sitzung              NOUN     NN       _      0      ROOT       _      _     
+2    des                  der                  DET      ART      _      3      nk         _      _     
+3    Nationalrats         Nationalrat          NOUN     NN       _      1      ag         _      _     
+4    im                   in                   ADP      APPRART  _      3      mnr        _      _     
+5    Anschluss            Anschluss            PROPN    NE       _      4      nk         _      _     
+6    an                   an                   ADP      APPR     _      1      mnr        _      _     
+7    die                  der                  DET      ART      _      9      nk         _      _     
+8    198.                 198.                 ADJ      ADJA     _      9      nk         _      _     
+9    Sitzung              Sitzung              NOUN     NN       _      6      nk         _      _     
+10   des                  der                  DET      ART      _      11     nk         _      _     
+11   Nationalrats         Nationalrat          NOUN     NN       _      9      ag         _      _     
+12   /                    --                   PUNCT    $(       _      9      punct      _      _     
+13   Seite                Seite                NOUN     NN       _      9      nk         _      _     
+14   3                    3                    NUM      CARD     _      13     nk         _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 10
+# text = Ausschuss für Wirtschaft, Industrie und Energie:
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ausschuss            Ausschuss            PROPN    NE       _      0      ROOT       _      _     
+2    für                  für                  ADP      APPR     _      1      mnr        _      _     
+3    Wirtschaft           Wirtschaft           NOUN     NN       _      2      nk         _      _     
+4    ,                    --                   PUNCT    $,       _      3      punct      _      _     
+5    Industrie            Industrie            NOUN     NN       _      3      cj         _      _     
+6    und                  und                  CCONJ    KON      _      5      cd         _      _     
+7    Energie              Energie              NOUN     NN       _      6      cj         _      _     
+8    :                    --                   PUNCT    $.       _      1      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 11
+# text = Energieeffizienz-Reformgesetz 2023 – EEff-RefG 2023 *****
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Energieeffizienz-Ref Energieeffizienz-Ref NOUN     NN       _      0      ROOT       _      _     
+2    2023                 2023                 NUM      CARD     _      1      nk         _      _     
+3    –                    --                   PUNCT    $(       _      1      punct      _      _     
+4    EEff-RefG            EEff-RefG            NOUN     NN       _      1      cj         _      _     
+5    2023                 2023                 NUM      CARD     _      4      nk         _      _     
+6    *                    *                    X        NN       _      4      nk         _      _     
+7    *                    *                    X        NN       _      1      punct      _      _     
+8    *                    *                    NOUN     NN       _      1      par        _      _     
+9    *                    *                    NOUN     NN       _      1      nk         _      _     
+10   *                    *                    NOUN     NN       _      1      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 12
+# text = Präsidentin Doris Bures : Die nächste Sitzung des Nationalrates, die für Mittwoch, 1. März, um 9 Uhr in Aussicht genommen ist, wird auf schriftlichem Wege einberufen werden.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Präsidentin          Präsidentin          NOUN     NN       _      26     sb         _      _     
+2    Doris                Doris                PROPN    NE       _      3      pnc        _      _     
+3    Bures                Bures                PROPN    NE       _      1      nk         _      _     
+4    :                    --                   PUNCT    $.       _      1      punct      _      _     
+5    Die                  der                  DET      ART      _      7      nk         _      _     
+6    nächste              nächster             ADJ      ADJA     _      7      nk         _      _     
+7    Sitzung              Sitzung              NOUN     NN       _      26     sb         _      _     
+8    des                  der                  DET      ART      _      9      nk         _      _     
+9    Nationalrates        Nationalrat          NOUN     NN       _      7      ag         _      _     
+10   ,                    --                   PUNCT    $,       _      7      punct      _      _     
+11   die                  der                  PRON     PRELS    _      24     sb         _      _     
+12   für                  für                  ADP      APPR     _      24     mo         _      _     
+13   Mittwoch             Mittwoch             NOUN     NN       _      12     nk         _      _     
+14   ,                    --                   PUNCT    $,       _      13     punct      _      _     
+15   1.                   1.                   ADJ      ADJA     _      16     nk         _      _     
+16   März                 März                 NOUN     NN       _      13     cj         _      _     
+17   ,                    --                   PUNCT    $,       _      24     punct      _      _     
+18   um                   um                   ADP      APPR     _      24     cp         _      _     
+19   9                    9                    NUM      CARD     _      20     nk         _      _     
+20   Uhr                  Uhr                  NOUN     NN       _      18     nk         _      _     
+21   in                   in                   ADP      APPR     _      23     cvc        _      _     
+22   Aussicht             Aussicht             NOUN     NN       _      21     nk         _      _     
+23   genommen             nehmen               VERB     VVPP     _      24     oc         _      _     
+24   ist                  sein                 AUX      VAFIN    _      7      rc         _      _     
+25   ,                    --                   PUNCT    $,       _      26     punct      _      _     
+26   wird                 werden               AUX      VAFIN    _      0      ROOT       _      _     
+27   auf                  auf                  ADP      APPR     _      30     mo         _      _     
+28   schriftlichem        schriftlich          DET      ADJA     _      29     nk         _      _     
+29   Wege                 Weg                  NOUN     NN       _      27     nk         _      _     
+30   einberufen           einberufen           VERB     VVPP     _      31     oc         _      _     
+31   werden               werden               AUX      VAINF    _      26     oc         _      _     
+32   .                    --                   PUNCT    $.       _      26     punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 13
+# text = Ich wünsche Ihnen einen schönen Abend.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Ich                  ich                  PRON     PPER     _      2      sb         _      _     
+2    wünsche              wünschen             VERB     VVFIN    _      0      ROOT       _      _     
+3    Ihnen                ihnen                PRON     PPER     _      2      da         _      _     
+4    einen                ein                  DET      ART      _      6      nk         _      _     
+5    schönen              schön                ADJ      ADJA     _      6      nk         _      _     
+6    Abend                Abend                NOUN     NN       _      2      oa         _      _     
+7    .                    --                   PUNCT    $.       _      2      punct      _      _     
+
+# file = XXVII_NRSITZ_199.txt
+# speaker = Bures
+# id = 14
+# text = Diese Sitzung ist geschlossen.
+ID   FORM                 LEMMA                UPOS     XPOS     FEATS  HEAD   DEPREL     DEPS   MISC  
+1    Diese                dieser               DET      PDAT     _      2      nk         _      _     
+2    Sitzung              Sitzung              NOUN     NN       _      3      sb         _      _     
+3    ist                  sein                 AUX      VAFIN    _      0      ROOT       _      _     
+4    geschlossen          schließen            VERB     VVPP     _      3      pd         _      _     
+5    .                    --                   PUNCT    $.       _      3      punct      _      _     
+

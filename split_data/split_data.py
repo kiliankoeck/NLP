@@ -3,7 +3,7 @@ import random
 import shutil
 from sklearn.model_selection import train_test_split
 
-
+#change for which file format
 input_dir = './data/conllu'
 output_dir = './data/splits'
 

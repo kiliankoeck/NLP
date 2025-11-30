@@ -1,0 +1,1199 @@
+{
+  "filename": "NR_10.S_17.01.2007.xmi",
+  "ground_truth": [
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 44,
+      "end": 70
+    },
+    {
+      "text": "Gesetzgebungsperiode",
+      "label": "ORG",
+      "start": 89,
+      "end": 109
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 140,
+      "end": 156
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 183,
+      "end": 209
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nMittwoch",
+      "label": "PER",
+      "start": 228,
+      "end": 258
+    },
+    {
+      "text": "Bek",
+      "label": "LOC",
+      "start": 823,
+      "end": 826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 885,
+      "end": 898
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1088,
+      "end": 1100
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1261,
+      "end": 1273
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1279,
+      "end": 1296
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1440,
+      "end": 1452
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1453,
+      "end": 1456
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1458,
+      "end": 1471
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1627
+    },
+    {
+      "text": "Barbara Zwerschitz",
+      "label": "PER",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1736
+    },
+    {
+      "text": "Bundesministerin fü",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1772
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1816,
+      "end": 1828
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1834,
+      "end": 1846
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1988,
+      "end": 2000
+    },
+    {
+      "text": "Robert Rada",
+      "label": "PER",
+      "start": 2005,
+      "end": 2016
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2071
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2207,
+      "end": 2227
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 2261,
+      "end": 2274
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2322,
+      "end": 2325
+    },
+    {
+      "text": "Kuzdas",
+      "label": "LOC",
+      "start": 2327,
+      "end": 2333
+    },
+    {
+      "text": "Rudas",
+      "label": "LOC",
+      "start": 2338,
+      "end": 2343
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2383,
+      "end": 2403
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 2516,
+      "end": 2521
+    },
+    {
+      "text": "Zuweisungen",
+      "label": "LOC",
+      "start": 2714,
+      "end": 2725
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2812,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2832,
+      "end": 2850
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 2965,
+      "end": 2971
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3048,
+      "end": 3049
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3068,
+      "end": 3086
+    },
+    {
+      "text": "r Konsumentenschutz",
+      "label": "PER",
+      "start": 3198,
+      "end": 3217
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3231,
+      "end": 3232
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 3251,
+      "end": 3268
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3387,
+      "end": 3388
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3394,
+      "end": 3406
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "ORG",
+      "start": 3412,
+      "end": 3429
+    },
+    {
+      "text": "EMRK",
+      "label": "ORG",
+      "start": 3510,
+      "end": 3514
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3550,
+      "end": 3551
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3570,
+      "end": 3588
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3746,
+      "end": 3747
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3753,
+      "end": 3765
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "ORG",
+      "start": 3771,
+      "end": 3788
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3863,
+      "end": 3875
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 3880,
+      "end": 3889
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3891,
+      "end": 3907
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4061,
+      "end": 4072
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4137,
+      "end": 4149
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 4154,
+      "end": 4163
+    },
+    {
+      "text": "Wolfgang Sch",
+      "label": "PER",
+      "start": 4169,
+      "end": 4181
+    },
+    {
+      "text": "Bundesministeriengesetz-Novelle",
+      "label": "PER",
+      "start": 4298,
+      "end": 4329
+    },
+    {
+      "text": "Ausschusses",
+      "label": "PER",
+      "start": 4429,
+      "end": 4440
+    },
+    {
+      "text": "Bundesministerin fü",
+      "label": "ORG",
+      "start": 4483,
+      "end": 4502
+    },
+    {
+      "text": "Bek",
+      "label": "LOC",
+      "start": 4572,
+      "end": 4575
+    },
+    {
+      "text": "Menschenhandels",
+      "label": "LOC",
+      "start": 4587,
+      "end": 4602
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 4634,
+      "end": 4647
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 4717,
+      "end": 4737
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 4763,
+      "end": 4776
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4990,
+      "end": 4994
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 885,
+      "end": 898
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 899,
+      "end": 902
+    },
+    {
+      "text": "Juli",
+      "label": "LOC",
+      "start": 907,
+      "end": 911
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PERS",
+      "start": 1101,
+      "end": 1119
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PERS",
+      "start": 1274,
+      "end": 1296
+    },
+    {
+      "text": "Mag. Andrea Kuntzl",
+      "label": "PERS",
+      "start": 1453,
+      "end": 1471
+    },
+    {
+      "text": "Barbara Zwerschitz",
+      "label": "PERS",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1736
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PERS",
+      "start": 1829,
+      "end": 1846
+    },
+    {
+      "text": "Dr. Robert Rada",
+      "label": "PERS",
+      "start": 2001,
+      "end": 2016
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2071
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PERS",
+      "start": 2161,
+      "end": 2185
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PERS",
+      "start": 2203,
+      "end": 2227
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2261,
+      "end": 2274
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 2322,
+      "end": 2326
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PERS",
+      "start": 2327,
+      "end": 2333
+    },
+    {
+      "text": "Rudas",
+      "label": "PERS",
+      "start": 2338,
+      "end": 2343
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PERS",
+      "start": 2379,
+      "end": 2403
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PERS",
+      "start": 2832,
+      "end": 2850
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PERS",
+      "start": 3068,
+      "end": 3086
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PERS",
+      "start": 3251,
+      "end": 3268
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PERS",
+      "start": 3407,
+      "end": 3429
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PERS",
+      "start": 3570,
+      "end": 3588
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PERS",
+      "start": 3766,
+      "end": 3788
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PERS",
+      "start": 3876,
+      "end": 3889
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PERS",
+      "start": 3891,
+      "end": 3907
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4061,
+      "end": 4072
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PERS",
+      "start": 4095,
+      "end": 4119
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PERS",
+      "start": 4150,
+      "end": 4163
+    },
+    {
+      "text": "Dr. Wolfgang Schüssel",
+      "label": "PERS",
+      "start": 4165,
+      "end": 4186
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4634,
+      "end": 4647
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 4648,
+      "end": 4651
+    },
+    {
+      "text": "Juli",
+      "label": "LOC",
+      "start": 4656,
+      "end": 4660
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PERS",
+      "start": 4713,
+      "end": 4737
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4763,
+      "end": 4776
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4990,
+      "end": 4994
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 210,
+      "end": 220
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 993,
+      "end": 1067
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1105,
+      "end": 1119
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 1182,
+      "end": 1185
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1186,
+      "end": 1240
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1279,
+      "end": 1296
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1344,
+      "end": 1419
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1458,
+      "end": 1471
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1519,
+      "end": 1594
+    },
+    {
+      "text": "Barbara Zwerschitz",
+      "label": "PER",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1774,
+      "end": 1795
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1834,
+      "end": 1846
+    },
+    {
+      "text": "für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1909,
+      "end": 1967
+    },
+    {
+      "text": "Robert Rada",
+      "label": "PER",
+      "start": 2005,
+      "end": 2016
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2165,
+      "end": 2185
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2207,
+      "end": 2227
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 2327,
+      "end": 2333
+    },
+    {
+      "text": "Rudas",
+      "label": "PER",
+      "start": 2338,
+      "end": 2343
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2383,
+      "end": 2403
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2832,
+      "end": 2850
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3068,
+      "end": 3086
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 3251,
+      "end": 3268
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3412,
+      "end": 3429
+    },
+    {
+      "text": "EMRK",
+      "label": "ORG",
+      "start": 3510,
+      "end": 3514
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3575,
+      "end": 3588
+    },
+    {
+      "text": "Österreichs",
+      "label": "LOC",
+      "start": 3691,
+      "end": 3702
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3771,
+      "end": 3788
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 3880,
+      "end": 3889
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3891,
+      "end": 3907
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 4099,
+      "end": 4119
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 4154,
+      "end": 4163
+    },
+    {
+      "text": "Wolfgang Schüssel",
+      "label": "PER",
+      "start": 4169,
+      "end": 4186
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 4717,
+      "end": 4737
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4990,
+      "end": 4994
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 480
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 508,
+      "end": 614
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 646,
+      "end": 761
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 885,
+      "end": 898
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 934,
+      "end": 936
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 993,
+      "end": 1038
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1101,
+      "end": 1119
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1211
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1279,
+      "end": 1296
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1344,
+      "end": 1383
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1440,
+      "end": 1452
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1458,
+      "end": 1471
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1519,
+      "end": 1558
+    },
+    {
+      "text": "Barbara Zwerschitz",
+      "label": "PER",
+      "start": 1628,
+      "end": 1646
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1736
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1795
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1834,
+      "end": 1846
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1893,
+      "end": 1938
+    },
+    {
+      "text": "Dr. Robert Rada",
+      "label": "PER",
+      "start": 2001,
+      "end": 2016
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2161,
+      "end": 2185
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2203,
+      "end": 2227
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2261,
+      "end": 2274
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2309,
+      "end": 2321
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 2327,
+      "end": 2333
+    },
+    {
+      "text": "Rudas",
+      "label": "PER",
+      "start": 2338,
+      "end": 2343
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2379,
+      "end": 2403
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2634,
+      "end": 2645
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2812,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2832,
+      "end": 2850
+    },
+    {
+      "text": "Bundes",
+      "label": "LOC",
+      "start": 2965,
+      "end": 2971
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3048,
+      "end": 3049
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3068,
+      "end": 3086
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3231,
+      "end": 3232
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 3251,
+      "end": 3268
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3387,
+      "end": 3388
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3394,
+      "end": 3406
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3412,
+      "end": 3429
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3550,
+      "end": 3551
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3570,
+      "end": 3588
+    },
+    {
+      "text": "Österreichs",
+      "label": "LOC",
+      "start": 3691,
+      "end": 3702
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3746,
+      "end": 3747
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3753,
+      "end": 3765
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3771,
+      "end": 3788
+    },
+    {
+      "text": "Kärntner",
+      "label": "LOC",
+      "start": 3826,
+      "end": 3834
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 3876,
+      "end": 3889
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3891,
+      "end": 3907
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4061,
+      "end": 4072
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 4095,
+      "end": 4119
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 4150,
+      "end": 4163
+    },
+    {
+      "text": "Dr. Wolfgang Schüssel",
+      "label": "PER",
+      "start": 4165,
+      "end": 4186
+    },
+    {
+      "text": "Enderledigung",
+      "label": "LOC",
+      "start": 4344,
+      "end": 4357
+    },
+    {
+      "text": "Außenpolitischer",
+      "label": "LOC",
+      "start": 4443,
+      "end": 4459
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4634,
+      "end": 4647
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 4713,
+      "end": 4737
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4763,
+      "end": 4776
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "LOC",
+      "start": 4965,
+      "end": 4984
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4990,
+      "end": 4994
+    }
+  ]
+}

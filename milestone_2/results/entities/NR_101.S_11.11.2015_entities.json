@@ -1,0 +1,1451 @@
+{
+  "filename": "NR_101.S_11.11.2015.xmi",
+  "ground_truth": [
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 45,
+      "end": 71
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 84,
+      "end": 87
+    },
+    {
+      "text": "Gesetzgebungsperiode",
+      "label": "PER",
+      "start": 89,
+      "end": 109
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 144,
+      "end": 160
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 188,
+      "end": 214
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 226,
+      "end": 229
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\n",
+      "label": "PER",
+      "start": 231,
+      "end": 253
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 674,
+      "end": 677
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 776,
+      "end": 790
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 886,
+      "end": 893
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 895,
+      "end": 899
+    },
+    {
+      "text": "Ing. Vogl",
+      "label": "PER",
+      "start": 901,
+      "end": 910
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 912,
+      "end": 917
+    },
+    {
+      "text": "Brosz",
+      "label": "LOC",
+      "start": 919,
+      "end": 924
+    },
+    {
+      "text": "chler-Souschill",
+      "label": "LOC",
+      "start": 953,
+      "end": 968
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1004,
+      "end": 1018
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 1131,
+      "end": 1136
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1343,
+      "end": 1344
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1350,
+      "end": 1362
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1363,
+      "end": 1366
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1368,
+      "end": 1381
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1557,
+      "end": 1558
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 1577,
+      "end": 1589
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1793,
+      "end": 1794
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1800,
+      "end": 1812
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1813,
+      "end": 1816
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1818,
+      "end": 1830
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1937,
+      "end": 1949
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 1950,
+      "end": 1953
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1955,
+      "end": 1967
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2128,
+      "end": 2129
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 2148,
+      "end": 2161
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2163,
+      "end": 2165
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2272,
+      "end": 2273
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2279,
+      "end": 2291
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 2292,
+      "end": 2295
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "text": "Aufkl",
+      "label": "LOC",
+      "start": 2381,
+      "end": 2386
+    },
+    {
+      "text": "Verurteilungen",
+      "label": "LOC",
+      "start": 2583,
+      "end": 2597
+    },
+    {
+      "text": "b",
+      "label": "LOC",
+      "start": 2624,
+      "end": 2625
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2751,
+      "end": 2752
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2758,
+      "end": 2770
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2771,
+      "end": 2791
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2897,
+      "end": 2898
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2904,
+      "end": 2916
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2917,
+      "end": 2937
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3026,
+      "end": 3027
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3033,
+      "end": 3045
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3046,
+      "end": 3066
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3168,
+      "end": 3179
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3181,
+      "end": 3184
+    },
+    {
+      "text": "Karlheinz Kopf\n\n",
+      "label": "PER",
+      "start": 3237,
+      "end": 3253
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3267,
+      "end": 3268
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3274,
+      "end": 3286
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3287,
+      "end": 3303
+    },
+    {
+      "text": "Kulturg",
+      "label": "LOC",
+      "start": 3522,
+      "end": 3529
+    },
+    {
+      "text": "ckgabegesetz",
+      "label": "PER",
+      "start": 3535,
+      "end": 3547
+    },
+    {
+      "text": "KGRG",
+      "label": "ORG",
+      "start": 3550,
+      "end": 3554
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3603,
+      "end": 3604
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3610,
+      "end": 3622
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3623,
+      "end": 3626
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3632,
+      "end": 3647
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3744,
+      "end": 3745
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3751,
+      "end": 3763
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 3764,
+      "end": 3767
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3773,
+      "end": 3788
+    },
+    {
+      "text": "Grunds",
+      "label": "LOC",
+      "start": 4175,
+      "end": 4181
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4265,
+      "end": 4269
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4311,
+      "end": 4312
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4318,
+      "end": 4330
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4331,
+      "end": 4334
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4336,
+      "end": 4350
+    },
+    {
+      "text": "Ger",
+      "label": "ORG",
+      "start": 4593,
+      "end": 4596
+    },
+    {
+      "text": "Eichgesetz",
+      "label": "LOC",
+      "start": 4667,
+      "end": 4677
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4717,
+      "end": 4718
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4724,
+      "end": 4736
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 4737,
+      "end": 4753
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4833,
+      "end": 4834
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4840,
+      "end": 4852
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 4853,
+      "end": 4856
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 4858,
+      "end": 4870
+    },
+    {
+      "text": "Werbeabgabe",
+      "label": "LOC",
+      "start": 4924,
+      "end": 4935
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4998,
+      "end": 4999
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5005,
+      "end": 5017
+    },
+    {
+      "text": "Mag",
+      "label": "LOC",
+      "start": 5018,
+      "end": 5021
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 5023,
+      "end": 5035
+    },
+    {
+      "text": "Economy",
+      "label": "PER",
+      "start": 5108,
+      "end": 5115
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5132,
+      "end": 5146
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 5172,
+      "end": 5185
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 5498,
+      "end": 5502
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PERS",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PERS",
+      "start": 776,
+      "end": 790
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Katzian",
+      "label": "PERS",
+      "start": 886,
+      "end": 893
+    },
+    {
+      "text": "Keck",
+      "label": "PERS",
+      "start": 895,
+      "end": 899
+    },
+    {
+      "text": "Ing.",
+      "label": "PERS",
+      "start": 901,
+      "end": 905
+    },
+    {
+      "text": "Vogl",
+      "label": "PERS",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "Kickl",
+      "label": "PERS",
+      "start": 912,
+      "end": 917
+    },
+    {
+      "text": "Brosz",
+      "label": "PERS",
+      "start": 919,
+      "end": 924
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 926,
+      "end": 930
+    },
+    {
+      "text": "Steinhauser",
+      "label": "PERS",
+      "start": 931,
+      "end": 942
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PERS",
+      "start": 947,
+      "end": 968
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PERS",
+      "start": 1004,
+      "end": 1018
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PERS",
+      "start": 1363,
+      "end": 1381
+    },
+    {
+      "text": "Michael",
+      "label": "PERS",
+      "start": 1577,
+      "end": 1584
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PERS",
+      "start": 1813,
+      "end": 1830
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PERS",
+      "start": 1950,
+      "end": 1967
+    },
+    {
+      "text": "Julian Schmid, BA",
+      "label": "PERS",
+      "start": 2148,
+      "end": 2165
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PERS",
+      "start": 2292,
+      "end": 2309
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2771,
+      "end": 2774
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PERS",
+      "start": 2775,
+      "end": 2791
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 2917,
+      "end": 2920
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PERS",
+      "start": 2921,
+      "end": 2937
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PERS",
+      "start": 3050,
+      "end": 3066
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3168,
+      "end": 3179
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PERS",
+      "start": 3237,
+      "end": 3251
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PERS",
+      "start": 3287,
+      "end": 3303
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PERS",
+      "start": 3623,
+      "end": 3647
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PERS",
+      "start": 3764,
+      "end": 3788
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3930,
+      "end": 3941
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 3942,
+      "end": 3945
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 4061,
+      "end": 4064
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 4117,
+      "end": 4120
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4265,
+      "end": 4269
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PERS",
+      "start": 4331,
+      "end": 4350
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PERS",
+      "start": 4737,
+      "end": 4753
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PERS",
+      "start": 4853,
+      "end": 4870
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PERS",
+      "start": 5018,
+      "end": 5035
+    },
+    {
+      "text": "Economy",
+      "label": "LOC",
+      "start": 5108,
+      "end": 5115
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PERS",
+      "start": 5132,
+      "end": 5146
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5172,
+      "end": 5185
+    },
+    {
+      "text": "Saal",
+      "label": "LOC",
+      "start": 5271,
+      "end": 5275
+    },
+    {
+      "text": "Nacht",
+      "label": "LOC",
+      "start": 5354,
+      "end": 5359
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 5498,
+      "end": 5502
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 72,
+      "end": 82
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 215,
+      "end": 225
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 776,
+      "end": 790
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 886,
+      "end": 893
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 895,
+      "end": 899
+    },
+    {
+      "text": "Vogl",
+      "label": "PER",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 912,
+      "end": 917
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 919,
+      "end": 924
+    },
+    {
+      "text": "Steinhauser",
+      "label": "PER",
+      "start": 931,
+      "end": 942
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 947,
+      "end": 968
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1004,
+      "end": 1018
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1368,
+      "end": 1381
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 1577,
+      "end": 1589
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1818,
+      "end": 1830
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1955,
+      "end": 1967
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 2148,
+      "end": 2161
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2163,
+      "end": 2165
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 2775,
+      "end": 2791
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 2921,
+      "end": 2937
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3050,
+      "end": 3066
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3237,
+      "end": 3251
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3287,
+      "end": 3303
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3632,
+      "end": 3647
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3773,
+      "end": 3788
+    },
+    {
+      "text": "B.G.Bl",
+      "label": "ORG",
+      "start": 4101,
+      "end": 4107
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4265,
+      "end": 4269
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4336,
+      "end": 4350
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 4737,
+      "end": 4753
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 4858,
+      "end": 4870
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 5023,
+      "end": 5035
+    },
+    {
+      "text": "Sharing Economy",
+      "label": "ORG",
+      "start": 5100,
+      "end": 5115
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5132,
+      "end": 5146
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 5498,
+      "end": 5502
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "........................................................................................................",
+      "label": "LOC",
+      "start": 515,
+      "end": 619
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 674,
+      "end": 677
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 744,
+      "end": 758
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 776,
+      "end": 790
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 886,
+      "end": 893
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 895,
+      "end": 899
+    },
+    {
+      "text": "Ing. Vogl",
+      "label": "PER",
+      "start": 901,
+      "end": 910
+    },
+    {
+      "text": "Kickl",
+      "label": "ORG",
+      "start": 912,
+      "end": 917
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 919,
+      "end": 924
+    },
+    {
+      "text": "Steinhauser",
+      "label": "PER",
+      "start": 931,
+      "end": 942
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 947,
+      "end": 968
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1004,
+      "end": 1018
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1343,
+      "end": 1344
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1350,
+      "end": 1362
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1368,
+      "end": 1381
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1557,
+      "end": 1558
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 1577,
+      "end": 1589
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 1793,
+      "end": 1794
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1818,
+      "end": 1830
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 1955,
+      "end": 1967
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2128,
+      "end": 2129
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 2148,
+      "end": 2161
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2163,
+      "end": 2165
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2272,
+      "end": 2273
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2751,
+      "end": 2752
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2771,
+      "end": 2791
+    },
+    {
+      "text": "Veröffentlichung",
+      "label": "LOC",
+      "start": 2833,
+      "end": 2849
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 2897,
+      "end": 2898
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2917,
+      "end": 2937
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3026,
+      "end": 3027
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3046,
+      "end": 3066
+    },
+    {
+      "text": "Österreichischen Gerichten",
+      "label": "ORG",
+      "start": 3140,
+      "end": 3166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3168,
+      "end": 3179
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3181,
+      "end": 3184
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3237,
+      "end": 3251
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3267,
+      "end": 3268
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3287,
+      "end": 3303
+    },
+    {
+      "text": "KGRG",
+      "label": "ORG",
+      "start": 3550,
+      "end": 3554
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3603,
+      "end": 3604
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3610,
+      "end": 3622
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3632,
+      "end": 3647
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 3744,
+      "end": 3745
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3751,
+      "end": 3763
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3773,
+      "end": 3788
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 4265,
+      "end": 4269
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4311,
+      "end": 4312
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4318,
+      "end": 4330
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 4336,
+      "end": 4350
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4717,
+      "end": 4718
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 4737,
+      "end": 4753
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4833,
+      "end": 4834
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 4858,
+      "end": 4870
+    },
+    {
+      "text": "E",
+      "label": "LOC",
+      "start": 4998,
+      "end": 4999
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 5023,
+      "end": 5035
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5132,
+      "end": 5146
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5172,
+      "end": 5185
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "LOC",
+      "start": 5473,
+      "end": 5492
+    },
+    {
+      "text": "Wien",
+      "label": "LOC",
+      "start": 5498,
+      "end": 5502
+    }
+  ]
+}

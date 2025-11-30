@@ -1,0 +1,77 @@
+{
+  "filename": "BR_45.S_05.01.1951.xmi",
+  "ground_truth": [
+    {
+      "text": "Deutschen Bundesrates\n",
+      "label": "ORG",
+      "start": 79,
+      "end": 101
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 104,
+      "end": 108
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 10,
+      "end": 19
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 89,
+      "end": 100
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 104,
+      "end": 108
+    }
+  ],
+  "flair": [
+    {
+      "text": "DEUTSCHER BUNDESRAT",
+      "label": "ORG",
+      "start": 0,
+      "end": 19
+    },
+    {
+      "text": "Deutschen Bundesrates",
+      "label": "ORG",
+      "start": 79,
+      "end": 100
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 104,
+      "end": 108
+    }
+  ],
+  "spacy": [
+    {
+      "text": "BUNDESRAT\n\nSitzungsbericht",
+      "label": "ORG",
+      "start": 10,
+      "end": 36
+    },
+    {
+      "text": "Deutschen Bundesrates",
+      "label": "ORG",
+      "start": 79,
+      "end": 100
+    },
+    {
+      "text": "Bonn",
+      "label": "LOC",
+      "start": 104,
+      "end": 108
+    }
+  ]
+}

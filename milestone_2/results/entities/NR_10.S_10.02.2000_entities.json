@@ -1,0 +1,581 @@
+{
+  "filename": "NR_10.S_10.02.2000.xmi",
+  "ground_truth": [
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 43,
+      "end": 69
+    },
+    {
+      "text": "Gesetzgebungsperiode",
+      "label": "PER",
+      "start": 87,
+      "end": 107
+    },
+    {
+      "text": "Stenographisches",
+      "label": "ORG",
+      "start": 186,
+      "end": 202
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 229,
+      "end": 255
+    },
+    {
+      "text": "Gesetzgebungsperiode\n\nDonnerstag",
+      "label": "PER",
+      "start": 272,
+      "end": 304
+    },
+    {
+      "text": "0.31Uhr",
+      "label": "PER",
+      "start": 375,
+      "end": 382
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 780,
+      "end": 792
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 793,
+      "end": 805
+    },
+    {
+      "text": "Dipl.-Ing. Wolfgang Pirklhuber und Genossen",
+      "label": "ORG",
+      "start": 920,
+      "end": 963
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1057
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1062,
+      "end": 1078
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1287
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1363,
+      "end": 1380
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1402,
+      "end": 1419
+    },
+    {
+      "text": "Meine Damen",
+      "label": "PER",
+      "start": 1421,
+      "end": 1432
+    },
+    {
+      "text": "Dr. Rada",
+      "label": "LOC",
+      "start": 1644,
+      "end": 1652
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "LOC",
+      "start": 1690,
+      "end": 1710
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1750,
+      "end": 1767
+    },
+    {
+      "text": "Gesch",
+      "label": "LOC",
+      "start": 1880,
+      "end": 1885
+    },
+    {
+      "text": "Zuweisungen",
+      "label": "LOC",
+      "start": 2080,
+      "end": 2091
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2166,
+      "end": 2178
+    },
+    {
+      "text": "Dieter Antoni",
+      "label": "PER",
+      "start": 2183,
+      "end": 2196
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2413,
+      "end": 2431
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "LOC",
+      "start": 2589,
+      "end": 2602
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 229,
+      "end": 242
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PERS",
+      "start": 793,
+      "end": 805
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PERS",
+      "start": 920,
+      "end": 930
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PERS",
+      "start": 931,
+      "end": 950
+    },
+    {
+      "text": "Dr. Gerhard Kurzmann",
+      "label": "PERS",
+      "start": 1058,
+      "end": 1078
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PERS",
+      "start": 1186,
+      "end": 1209
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1287
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PERS",
+      "start": 1359,
+      "end": 1380
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PERS",
+      "start": 1398,
+      "end": 1419
+    },
+    {
+      "text": "vom",
+      "label": "LOC",
+      "start": 1509,
+      "end": 1512
+    },
+    {
+      "text": "Dr.",
+      "label": "PERS",
+      "start": 1644,
+      "end": 1647
+    },
+    {
+      "text": "Rada",
+      "label": "PERS",
+      "start": 1648,
+      "end": 1652
+    },
+    {
+      "text": "Mag.",
+      "label": "PERS",
+      "start": 1654,
+      "end": 1658
+    },
+    {
+      "text": "Klima",
+      "label": "PERS",
+      "start": 1659,
+      "end": 1664
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PERS",
+      "start": 1690,
+      "end": 1700
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PERS",
+      "start": 1701,
+      "end": 1710
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PERS",
+      "start": 1746,
+      "end": 1767
+    },
+    {
+      "text": "Dr. Dieter Antoni",
+      "label": "PERS",
+      "start": 2179,
+      "end": 2196
+    },
+    {
+      "text": "DDr. Erwin Niederwieser",
+      "label": "PERS",
+      "start": 2408,
+      "end": 2431
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PERS",
+      "start": 2542,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2602
+    },
+    {
+      "text": "Media",
+      "label": "LOC",
+      "start": 2780,
+      "end": 2785
+    },
+    {
+      "text": "Austria",
+      "label": "LOC",
+      "start": 2786,
+      "end": 2793
+    }
+  ],
+  "flair": [
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Österreich",
+      "label": "LOC",
+      "start": 256,
+      "end": 266
+    },
+    {
+      "text": "für Unterricht und kulturelle Angelegenheiten",
+      "label": "ORG",
+      "start": 714,
+      "end": 759
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 793,
+      "end": 805
+    },
+    {
+      "text": "für Land",
+      "label": "ORG",
+      "start": 857,
+      "end": 865
+    },
+    {
+      "text": "und Forstwirtschaft",
+      "label": "ORG",
+      "start": 867,
+      "end": 886
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 931,
+      "end": 950
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1062,
+      "end": 1078
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 1191,
+      "end": 1209
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1363,
+      "end": 1380
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1402,
+      "end": 1419
+    },
+    {
+      "text": "Rada",
+      "label": "PER",
+      "start": 1648,
+      "end": 1652
+    },
+    {
+      "text": "Klima",
+      "label": "PER",
+      "start": 1659,
+      "end": 1664
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1701,
+      "end": 1710
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1750,
+      "end": 1767
+    },
+    {
+      "text": "Dieter Antoni",
+      "label": "PER",
+      "start": 2183,
+      "end": 2196
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2413,
+      "end": 2431
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Media Austria AG",
+      "label": "ORG",
+      "start": 2780,
+      "end": 2796
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 229,
+      "end": 266
+    },
+    {
+      "text": "....................................................................................................",
+      "label": "LOC",
+      "start": 547,
+      "end": 647
+    },
+    {
+      "text": "Bundesministerin für Unterricht und kulturelle Angelegenheiten",
+      "label": "ORG",
+      "start": 697,
+      "end": 759
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 793,
+      "end": 805
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 841,
+      "end": 886
+    },
+    {
+      "text": "Dipl.-Ing. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 920,
+      "end": 950
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1062,
+      "end": 1078
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 1186,
+      "end": 1209
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1287
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1359,
+      "end": 1380
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1398,
+      "end": 1419
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1538,
+      "end": 1557
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1643
+    },
+    {
+      "text": "Dr. Rada",
+      "label": "PER",
+      "start": 1644,
+      "end": 1652
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1657
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "LOC",
+      "start": 1690,
+      "end": 1710
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1746,
+      "end": 1767
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1998,
+      "end": 2009
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2166,
+      "end": 2178
+    },
+    {
+      "text": "Dr. Dieter Antoni",
+      "label": "PER",
+      "start": 2179,
+      "end": 2196
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 2408,
+      "end": 2411
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2413,
+      "end": 2431
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 2542,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2602
+    }
+  ]
+}
