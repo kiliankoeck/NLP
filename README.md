@@ -99,3 +99,9 @@ To get the plain text, ```xmi_to_plain_text.py``` is run and stores the plain te
 ### Splitting the Data
 
 We created a script that can possibly be used for future model creation/evaluation. It splits the data into training (70%), testing (15%), and validation (15%) sets. The ```split_data.py``` script used the ```train_test_split``` function from the scikit-learn library to preform the randomized splits into the data subsets. The script stores the resulting sets under the ```/data/splits/``` directory ready to be used in the training and evaluation of our models. 
+
+
+### Models 
+
+For the baseline models, we chose one rule-based model and two machine learning method. For the rule based model, we collect name lists from GeoNames and the Austrian parliament API, turn them into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG/LOC, and writes the extracted entities to an output file. The other machine learning method we used was flair - which is a hugging face tokem classifier for the german language. 
+All of those methods are being called in our ner pipeline which first loads our XMI files and then runs the NER models. For all the models, we calculate the f1 score, the precision and the recal so that we can then effectiviely compare their performance. 
