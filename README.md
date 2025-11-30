@@ -105,3 +105,11 @@ We created a script that can possibly be used for future model creation/evaluati
 
 For the baseline models, we chose one rule-based model and two machine learning method. For the rule based model, we collect name lists from GeoNames and the Austrian parliament API, turn them into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG/LOC, and writes the extracted entities to an output file. The other machine learning method we used was flair - which is a hugging face tokem classifier for the german language. 
 All of those methods are being called in our ner pipeline which first loads our XMI files and then runs the NER models. For all the models, we calculate the f1 score, the precision and the recal so that we can then effectiviely compare their performance. 
+
+### Results
+
+Spacy performs best overall: it has the highest macro-F1 (≈0.29) as well as the highest F1 for all three labels (LOC ≈0.26, PER ≈0.29, ORG ≈0.33).
+Flair performed weaker, with moderate recall but much lower precision, leading to an overall macro-F1 of ≈0.18.
+The rule-based system performed very poorly, with a macro-F1 near 0.06. 
+In general, none of our models had great performance. but we suspect that this is due to the data from our corpus not being of very high quality as well as suspecting that the ground truth values were also created with spacy. 
+
