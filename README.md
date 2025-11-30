@@ -90,7 +90,7 @@ Each word line in turn gives information about this particular word, most notabl
 
 ## MILESTONE 2:
 ### Preprocessing
-For this milestone, we changed the data gathering a preprocessing. We first fetched the raw xmi protocols from GerParCor using the ```/download_corpus.sh``` script which was created with the help of chatGPT.  It loads all stenographic records form the parliaments open data platform. The documentation of the API can be found under http://lrec2022.gerparcor.texttechnologylab.org/. The .tar files downaloaded are stored under ```/downloads```. The raw xmi files downloaded (are also renamed for standardization) and stored under The original .tar files downaloaded are stored under ```/data/raw_xmi```.
+For this milestone, we changed the data gathering and preprocessing from Milestone 1. We first fetched the raw xmi protocols from GerParCor using the ```/download_corpus.sh``` script which was created with the help of chatGPT.  It loads all stenographic records form the parliaments open data platform. The documentation of the API can be found under http://lrec2022.gerparcor.texttechnologylab.org/. The .tar files downaloaded are stored under ```/downloads```. The raw xmi files downloaded (are also renamed for standardization) and stored under The original .tar files downaloaded are stored under ```/data/raw_xmi```.
 
 The ```xmi_parser.py``` script then parses the raw xmi files using xml.etree.elementtree (https://docs.python.org/3/library/xml.etree.elementtree.html) to transform the xmi into simple json files (stored under ```/data/plain_text```). This extracts the original NER tags in the documents. Then the ```conllu_formatter.py``` script converts json into the CoNLL-U format with teh NER tags stored under ```/data/conllu```. We have the NER tags in BIO format, and we will be inspecting persons (PER), Organizations (ORG), and locations (LOC).
 
@@ -103,13 +103,14 @@ We created a script that can possibly be used for future model creation/evaluati
 
 ### Models 
 
-For the baseline models, we chose one rule-based model and two machine learning method. For the rule based model, we collect name lists from GeoNames and the Austrian parliament API, turn them into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG/LOC, and writes the extracted entities to an output file. The other machine learning method we used was flair - which is a hugging face tokem classifier for the german language. 
-All of those methods are being called in our ner pipeline which first loads our XMI files and then runs the NER models. For all the models, we calculate the f1 score, the precision and the recal so that we can then effectiviely compare their performance. 
+For the baseline models, we chose one rule-based model and two machine learning methods. For the rule based model, we collect name lists from GeoNames and the Austrian parliament API, turn them into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG/LOC, and writes the extracted entities to an output file. The other machine learning method we used was flair - which is a hugging face token classifier for the german language. 
+
+All of those methods are being called in our ner pipeline which first loads our XMI files and then runs the NER models. For all the models, we calculate the f1 score, the precision and the recall so that we can then effectiviely compare their performance. 
 
 ### Results
 
 Spacy performs best overall: it has the highest macro-F1 (≈0.29) as well as the highest F1 for all three labels (LOC ≈0.26, PER ≈0.29, ORG ≈0.33).
 Flair performed weaker, with moderate recall but much lower precision, leading to an overall macro-F1 of ≈0.18.
 The rule-based system performed very poorly, with a macro-F1 near 0.06. 
-In general, none of our models had great performance. but we suspect that this is due to the data from our corpus not being of very high quality as well as suspecting that the ground truth values were also created with spacy. 
+In general, none of our models had great performance, but we suspect that this is due to the data from our corpus not being of very high quality as well as suspecting that the ground truth values were also created with spacy. 
 
