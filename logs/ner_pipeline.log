@@ -28869,3 +28869,89 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 1, colum
 2025-11-30 16:05:44,699 [INFO] __main__ - Processing file 1018/4614
 2025-11-30 16:06:19,325 [INFO] __main__ - Processing file 1019/4614
 2025-11-30 16:13:41,993 [INFO] __main__ - Initializing classes
+2026-01-10 15:55:33,758 [INFO] __main__ - Initializing classes
+2026-01-10 15:56:11,944 [INFO] __main__ - loading files
+2026-01-10 15:56:12,161 [INFO] __main__ - loaded 4614 files
+2026-01-10 15:56:12,162 [INFO] __main__ - Processing file 1/4614
+2026-01-10 15:56:49,893 [INFO] __main__ - Processing file 2/4614
+2026-01-10 16:03:14,858 [INFO] __main__ - Processing file 3/4614
+2026-01-10 16:13:52,703 [INFO] __main__ - Processing file 4/4614
+2026-01-11 00:53:04,138 [INFO] __main__ - Initializing classes
+2026-01-11 00:53:28,686 [INFO] __main__ - loading files
+2026-01-11 00:53:28,899 [INFO] __main__ - loaded 4614 files
+2026-01-11 00:53:28,899 [INFO] __main__ - Processing file 1/4614
+2026-01-11 00:53:55,861 [INFO] __main__ - Processing file 2/4614
+2026-01-11 00:59:08,304 [INFO] __main__ - Processing file 3/4614
+2026-01-11 01:07:53,284 [INFO] __main__ - Processing file 4/4614
+2026-01-11 07:22:04,784 [INFO] __main__ - Processing file 5/4614
+2026-01-11 07:31:23,604 [INFO] __main__ - Processing file 6/4614
+2026-01-11 07:46:33,077 [INFO] __main__ - Processing file 7/4614
+2026-01-11 07:54:05,373 [INFO] __main__ - Processing file 8/4614
+2026-01-11 08:07:45,357 [INFO] __main__ - Processing file 9/4614
+2026-01-11 08:22:21,830 [INFO] __main__ - Processing file 10/4614
+2026-01-11 08:53:48,346 [ERROR] __main__ - Error parsing file data\raw_xmi\BR_1006.S_25.06.2021.xmi.gz
+Traceback (most recent call last):
+  File "C:\Users\saram\OneDrive\COURSES\NLP\project\NLP\milestone_2\ner_pipeline.py", line 82, in main
+    preds = annotator(plain_text)
+  File "C:\Users\saram\OneDrive\COURSES\NLP\project\NLP\milestone_2\ml_flair\flair_ner.py", line 20, in annotate
+    tagger.predict(sentence)
+    ~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\models\sequence_tagger_model.py", line 514, in predict
+    sentence_tensor, lengths = self._prepare_tensors(batch)
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\models\sequence_tagger_model.py", line 304, in _prepare_tensors
+    self.embeddings.embed(sentences)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\embeddings\base.py", line 51, in embed
+    self._add_embeddings_internal(data_points)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\embeddings\transformer.py", line 733, in _add_embeddings_internal
+    embeddings = self._forward_tensors(tensors)
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\embeddings\transformer.py", line 1511, in _forward_tensors
+    return self.forward(**tensors)
+           ~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\saram\AppData\Local\Programs\Python\Python313\Lib\site-packages\flair\embeddings\transformer.py", line 1415, in forward
+    hidden_states = torch.stack(hidden_states)
+RuntimeError: [enforce fail at alloc_cpu.cpp:121] data. DefaultCPUAllocator: not enough memory: you tried to allocate 22806528000 bytes.
+2026-01-11 08:53:48,647 [INFO] __main__ - Processing file 11/4614
+2026-01-11 08:58:33,629 [INFO] __main__ - Processing file 12/4614
+2026-01-11 09:05:28,428 [INFO] __main__ - Processing file 13/4614
+2026-01-11 09:08:22,896 [INFO] __main__ - Processing file 14/4614
+2026-01-11 09:16:16,141 [INFO] __main__ - Processing file 15/4614
+2026-01-11 09:18:55,301 [INFO] __main__ - Processing file 16/4614
+2026-01-11 09:22:42,875 [INFO] __main__ - Processing file 17/4614
+2026-01-11 09:26:27,442 [INFO] __main__ - Processing file 18/4614
+2026-01-11 09:34:54,569 [INFO] __main__ - Processing file 19/4614
+2026-01-11 09:36:32,844 [INFO] __main__ - Processing file 20/4614
+2026-01-11 09:37:26,256 [INFO] __main__ - Processing file 21/4614
+2026-01-11 09:43:40,339 [INFO] __main__ - Processing file 22/4614
+2026-01-11 09:45:31,418 [INFO] __main__ - Processing file 23/4614
+2026-01-11 09:47:49,595 [INFO] __main__ - Processing file 24/4614
+2026-01-11 09:52:55,260 [INFO] __main__ - Processing file 25/4614
+2026-01-11 09:56:37,659 [INFO] __main__ - Processing file 26/4614
+2026-01-11 10:01:33,158 [INFO] __main__ - Processing file 27/4614
+2026-01-11 10:08:02,221 [INFO] __main__ - Processing file 28/4614
+2026-01-11 10:12:54,701 [INFO] __main__ - Processing file 29/4614
+2026-01-11 10:15:18,041 [INFO] __main__ - Processing file 30/4614
+2026-01-11 10:18:59,000 [INFO] __main__ - Processing file 31/4614
+2026-01-11 10:26:20,993 [INFO] __main__ - Processing file 32/4614
+2026-01-11 10:31:36,370 [INFO] __main__ - Processing file 33/4614
+2026-01-11 10:36:11,694 [INFO] __main__ - Processing file 34/4614
+2026-01-11 10:44:24,461 [INFO] __main__ - Processing file 35/4614
+2026-01-11 10:48:27,974 [INFO] __main__ - Processing file 36/4614
+2026-01-11 10:57:48,179 [INFO] __main__ - Processing file 37/4614
+2026-01-11 11:02:40,389 [INFO] __main__ - Processing file 38/4614
+2026-01-11 11:07:15,673 [INFO] __main__ - Processing file 39/4614
+2026-01-11 11:09:40,867 [INFO] __main__ - Processing file 40/4614
+2026-01-11 11:14:42,969 [INFO] __main__ - Processing file 41/4614
+2026-01-11 11:17:24,790 [INFO] __main__ - Processing file 42/4614
+2026-01-11 11:21:26,028 [INFO] __main__ - Processing file 43/4614
+2026-01-11 11:27:11,330 [INFO] __main__ - Processing file 44/4614
+2026-01-11 11:31:20,370 [INFO] __main__ - Processing file 45/4614
+2026-01-11 11:37:21,186 [INFO] __main__ - Processing file 46/4614
+2026-01-11 11:42:27,795 [INFO] __main__ - Processing file 47/4614
+2026-01-11 11:45:29,747 [INFO] __main__ - Processing file 48/4614
+2026-01-11 11:53:43,626 [INFO] __main__ - Processing file 49/4614
+2026-01-11 11:54:49,373 [INFO] __main__ - Processing file 50/4614
+2026-01-11 11:59:00,865 [INFO] __main__ - Processing file 51/4614
+2026-01-11 12:02:34,944 [INFO] __main__ - Processing file 52/4614
