@@ -1,12 +1,19 @@
+import flair
 from flair.data import Sentence
 from flair.models import SequenceTagger
 from pathlib import Path
 import json
+import torch
 
 from ..entities import Entity
 
-#tagger = SequenceTagger.load("flair/ner-german")
-tagger = SequenceTagger.load("flair/ner-german-large")
+if torch.cuda.is_available():
+    flair.device = torch.device("cuda")
+else:
+    flair.device = torch.device("cpu")
+
+tagger = SequenceTagger.load("flair/ner-german")
+#tagger = SequenceTagger.load("flair/ner-german-large")
 # tagger = SequenceTagger.load("flair/ner-multi-fast")
 
 TARGETS = {"PER", "LOC", "ORG"}
