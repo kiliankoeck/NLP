@@ -1,0 +1,767 @@
+{
+  "filename": "23.05.2006_151._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Bundeskanzlers",
+      "label": "PER",
+      "start": 993,
+      "end": 1007
+    },
+    {
+      "text": "Mag. Terezija Stoisits,",
+      "label": "PER",
+      "start": 1041,
+      "end": 1064
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1114,
+      "end": 1142
+    },
+    {
+      "text": "Mag. Johann\\n\\nMaier,",
+      "label": "PER",
+      "start": 1176,
+      "end": 1194
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "PER",
+      "start": 1244,
+      "end": 1282
+    },
+    {
+      "text": "Katharina Pfeffer,",
+      "label": "PER",
+      "start": 1316,
+      "end": 1334
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1384,
+      "end": 1439
+    },
+    {
+      "text": "Theresia Haidlmayr,",
+      "label": "PER",
+      "start": 1473,
+      "end": 1492
+    },
+    {
+      "text": "Gabriele Binder-Maier,",
+      "label": "PER",
+      "start": 1622,
+      "end": 1644
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1735
+    },
+    {
+      "text": "Präsident Dr. Andreas Khol.",
+      "label": "PER",
+      "start": 1790,
+      "end": 1817
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 1834,
+      "end": 1851
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Felzmann,",
+      "label": "PER",
+      "start": 1947,
+      "end": 1956
+    },
+    {
+      "text": "Glaser",
+      "label": "PER",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek.",
+      "label": "PER",
+      "start": 1968,
+      "end": 1993
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 2028,
+      "end": 2045
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 2744,
+      "end": 2761
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2800
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 2824,
+      "end": 2827
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2978,
+      "end": 2997
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 1041,
+      "end": 1063
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1176,
+      "end": 1180
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 1181,
+      "end": 1187
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 1188,
+      "end": 1193
+    },
+    {
+      "text": "Katharina Pfeffer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1333
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1473,
+      "end": 1491
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1622,
+      "end": 1643
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1734
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1800,
+      "end": 1816
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1834,
+      "end": 1850
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Glaser",
+      "label": "PER",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1968,
+      "end": 1971
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1972,
+      "end": 1992
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2028,
+      "end": 2044
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "flair": [
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1181,
+      "end": 1193
+    },
+    {
+      "text": "Landesverteidigung",
+      "label": "ORG",
+      "start": 1264,
+      "end": 1282
+    },
+    {
+      "text": "Katharina Pfeffer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1333
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1384,
+      "end": 1439
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1473,
+      "end": 1491
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1622,
+      "end": 1643
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1678
+    },
+    {
+      "text": "JPR",
+      "label": "ORG",
+      "start": 1685,
+      "end": 1688
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1838,
+      "end": 1850
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Glaser",
+      "label": "PER",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1972,
+      "end": 1992
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2032,
+      "end": 2044
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2430,
+      "end": 2434
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2748,
+      "end": 2760
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 371,
+      "end": 473
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 633,
+      "end": 650
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1040
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1114,
+      "end": 1142
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1163,
+      "end": 1175
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1181,
+      "end": 1193
+    },
+    {
+      "text": "Katharina Pfeffer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1333
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1384,
+      "end": 1411
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1473,
+      "end": 1491
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1622,
+      "end": 1643
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1734
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1800,
+      "end": 1816
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1834,
+      "end": 1850
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1968,
+      "end": 1992
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2028,
+      "end": 2044
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2281,
+      "end": 2295
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 371,
+      "end": 473
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 633,
+      "end": 650
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1040
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1114,
+      "end": 1142
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1163,
+      "end": 1175
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1181,
+      "end": 1193
+    },
+    {
+      "text": "Katharina Pfeffer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1333
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1384,
+      "end": 1411
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1473,
+      "end": 1491
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1622,
+      "end": 1643
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1734
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1800,
+      "end": 1816
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1834,
+      "end": 1850
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1968,
+      "end": 1992
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2028,
+      "end": 2044
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2281,
+      "end": 2295
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 181,
+      "end": 189
+    },
+    {
+      "text": "Mag. Terezija Stois",
+      "label": "PER",
+      "start": 1041,
+      "end": 1060
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Glaser",
+      "label": "PER",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 1972,
+      "end": 1992
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2032,
+      "end": 2044
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2361,
+      "end": 2363
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2748,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1046,
+      "end": 1063
+    },
+    {
+      "text": "Felzmann",
+      "label": "PER",
+      "start": 1947,
+      "end": 1955
+    },
+    {
+      "text": "Glaser",
+      "label": "PER",
+      "start": 1957,
+      "end": 1963
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 1972,
+      "end": 1973
+    },
+    {
+      "text": "##lawischnig -",
+      "label": "PER",
+      "start": 1973,
+      "end": 1984
+    },
+    {
+      "text": "Piesczek",
+      "label": "PER",
+      "start": 1984,
+      "end": 1992
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2032,
+      "end": 2044
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2748,
+      "end": 2760
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2794
+    }
+  ]
+}

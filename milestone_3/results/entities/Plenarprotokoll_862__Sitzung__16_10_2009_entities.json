@@ -1,0 +1,9899 @@
+{
+  "filename": "Plenarprotokoll_862._Sitzung,_16.10.2009.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 513,
+      "end": 519
+    },
+    {
+      "text": "Jens B ö h r n s e n",
+      "label": "PER",
+      "start": 564,
+      "end": 584
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 612,
+      "end": 623
+    },
+    {
+      "text": "Peter M ü l l e r",
+      "label": "PER",
+      "start": 671,
+      "end": 688
+    },
+    {
+      "text": "Dr. Jürgen R ü t t g e r s",
+      "label": "PER",
+      "start": 749,
+      "end": 775
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 984,
+      "end": 1006
+    },
+    {
+      "text": "Karl R a u b e r",
+      "label": "PER",
+      "start": 1043,
+      "end": 1059
+    },
+    {
+      "text": "Andreas\\n\\nK r a u t s c h e i d",
+      "label": "PER",
+      "start": 1084,
+      "end": 1113
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.,",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1341
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH,",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1453
+    },
+    {
+      "text": "Prof. Dr. Angela\\n\\nK o l b",
+      "label": "PER",
+      "start": 1819,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Beate M e r k",
+      "label": "PER",
+      "start": 1882,
+      "end": 1899
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries,",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 2631,
+      "end": 2659
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2813,
+      "end": 2822
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 3639,
+      "end": 3651
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4378,
+      "end": 4389
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 4779,
+      "end": 4803
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Dr. Johannes Beermann",
+      "label": "PER",
+      "start": 4876,
+      "end": 4897
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5333,
+      "end": 5344
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 5612,
+      "end": 5629
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 5678,
+      "end": 5699
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 5746,
+      "end": 5773
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6078,
+      "end": 6087
+    },
+    {
+      "text": "P e t e r M ü l l e r",
+      "label": "PER",
+      "start": 6188,
+      "end": 6209
+    },
+    {
+      "text": "Jens Böhrnsen,",
+      "label": "PER",
+      "start": 6264,
+      "end": 6278
+    },
+    {
+      "text": "Senats,",
+      "label": "ORG",
+      "start": 6293,
+      "end": 6300
+    },
+    {
+      "text": "Dr. Kerstin Kießler,",
+      "label": "PER",
+      "start": 6378,
+      "end": 6398
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 6468,
+      "end": 6489
+    },
+    {
+      "text": "Dr. Kerstin Kießler",
+      "label": "PER",
+      "start": 6546,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust,",
+      "label": "PER",
+      "start": 6576,
+      "end": 6590
+    },
+    {
+      "text": "Senats,",
+      "label": "ORG",
+      "start": 6605,
+      "end": 6612
+    },
+    {
+      "text": "Dr. Till Steffen,",
+      "label": "PER",
+      "start": 6634,
+      "end": 6651
+    },
+    {
+      "text": "Justizbehörde",
+      "label": "ORG",
+      "start": 6672,
+      "end": 6685
+    },
+    {
+      "text": "Günther H. Oettinger,",
+      "label": "PER",
+      "start": 6706,
+      "end": 6727
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart,",
+      "label": "PER",
+      "start": 6754,
+      "end": 6782
+    },
+    {
+      "text": "Michael Boddenberg,",
+      "label": "PER",
+      "start": 6944,
+      "end": 6963
+    },
+    {
+      "text": "Tanja Gönner,",
+      "label": "PER",
+      "start": 7049,
+      "end": 7062
+    },
+    {
+      "text": "Jörg-Uwe Hahn,",
+      "label": "PER",
+      "start": 7081,
+      "end": 7095
+    },
+    {
+      "text": "Emilia Müller,",
+      "label": "PER",
+      "start": 7178,
+      "end": 7192
+    },
+    {
+      "text": "Jürgen Seidel,",
+      "label": "PER",
+      "start": 7302,
+      "end": 7316
+    },
+    {
+      "text": "Manuela Schwesig,",
+      "label": "PER",
+      "start": 7363,
+      "end": 7380
+    },
+    {
+      "text": "Klaus Wowereit,",
+      "label": "PER",
+      "start": 7429,
+      "end": 7444
+    },
+    {
+      "text": "Gisela von der Aue,",
+      "label": "PER",
+      "start": 7486,
+      "end": 7505
+    },
+    {
+      "text": "Christian Wulff,",
+      "label": "PER",
+      "start": 7527,
+      "end": 7543
+    },
+    {
+      "text": "Ulrich Junghanns,",
+      "label": "PER",
+      "start": 7576,
+      "end": 7593
+    },
+    {
+      "text": "Dr. Philipp Rösler,",
+      "label": "PER",
+      "start": 7619,
+      "end": 7638
+    },
+    {
+      "text": "Bernhard Busemann,",
+      "label": "PER",
+      "start": 7683,
+      "end": 7701
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7722,
+      "end": 7731
+    },
+    {
+      "text": "Prof. Dr. Andreas Pinkwart,",
+      "label": "PER",
+      "start": 7789,
+      "end": 7816
+    },
+    {
+      "text": "Peter Harry Carstensen,",
+      "label": "PER",
+      "start": 7903,
+      "end": 7926
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter,",
+      "label": "PER",
+      "start": 7989,
+      "end": 8018
+    },
+    {
+      "text": "Karl Peter Bruch,",
+      "label": "PER",
+      "start": 8054,
+      "end": 8071
+    },
+    {
+      "text": "Dieter Althaus,",
+      "label": "PER",
+      "start": 8118,
+      "end": 8133
+    },
+    {
+      "text": "Dr. Klaus Zeh,",
+      "label": "PER",
+      "start": 8152,
+      "end": 8166
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 8227,
+      "end": 8240
+    },
+    {
+      "text": "Peter Jacoby,",
+      "label": "PER",
+      "start": 8252,
+      "end": 8265
+    },
+    {
+      "text": "Gerold Wucherpfennig,",
+      "label": "PER",
+      "start": 8289,
+      "end": 8310
+    },
+    {
+      "text": "Karl Rauber,",
+      "label": "PER",
+      "start": 8359,
+      "end": 8371
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 8432,
+      "end": 8445
+    },
+    {
+      "text": "Bundesregierung:",
+      "label": "ORG",
+      "start": 8465,
+      "end": 8481
+    },
+    {
+      "text": "Brigitte Zypries,",
+      "label": "PER",
+      "start": 8483,
+      "end": 8500
+    },
+    {
+      "text": "Stanislaw Tillich,",
+      "label": "PER",
+      "start": 8530,
+      "end": 8548
+    },
+    {
+      "text": "Sven Morlok,",
+      "label": "PER",
+      "start": 8567,
+      "end": 8579
+    },
+    {
+      "text": "Dr. Johannes Beermann,",
+      "label": "PER",
+      "start": 8630,
+      "end": 8652
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 8681,
+      "end": 8694
+    },
+    {
+      "text": "Hermann Gröhe,",
+      "label": "PER",
+      "start": 8696,
+      "end": 8710
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 8734,
+      "end": 8749
+    },
+    {
+      "text": "Peter Altmaier,",
+      "label": "PER",
+      "start": 8750,
+      "end": 8765
+    },
+    {
+      "text": "Peter Hintze,",
+      "label": "PER",
+      "start": 8818,
+      "end": 8831
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer,",
+      "label": "PER",
+      "start": 8921,
+      "end": 8947
+    },
+    {
+      "text": "Michael Müller,",
+      "label": "PER",
+      "start": 8967,
+      "end": 8982
+    },
+    {
+      "text": "Jens Bullerjahn,",
+      "label": "PER",
+      "start": 9071,
+      "end": 9087
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb,",
+      "label": "PER",
+      "start": 9110,
+      "end": 9132
+    },
+    {
+      "text": "Dr. Klaus Theo Schröder,",
+      "label": "PER",
+      "start": 9156,
+      "end": 9180
+    },
+    {
+      "text": "Bundesministerium für Gesundheit",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9231
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9238,
+      "end": 9247
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 9371,
+      "end": 9384
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 9457,
+      "end": 9469
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9934,
+      "end": 9943
+    },
+    {
+      "text": "Dr. Eva-Maria S t a n g e",
+      "label": "PER",
+      "start": 9993,
+      "end": 10018
+    },
+    {
+      "text": "Thomas J u r k",
+      "label": "PER",
+      "start": 10051,
+      "end": 10065
+    },
+    {
+      "text": "Dr. Albrecht B u t t o l o",
+      "label": "PER",
+      "start": 10068,
+      "end": 10094
+    },
+    {
+      "text": "Geert M a c k e n r o t h",
+      "label": "PER",
+      "start": 10099,
+      "end": 10124
+    },
+    {
+      "text": "Staatsregierung",
+      "label": "ORG",
+      "start": 10155,
+      "end": 10170
+    },
+    {
+      "text": "Stanislaw T i l l i c h",
+      "label": "PER",
+      "start": 10233,
+      "end": 10256
+    },
+    {
+      "text": "Sven M o r l o k",
+      "label": "PER",
+      "start": 10361,
+      "end": 10377
+    },
+    {
+      "text": "Dr. Johannes\\n\\nB e e r m a n n",
+      "label": "PER",
+      "start": 10380,
+      "end": 10408
+    },
+    {
+      "text": "Professor Dr. Georg U n l a n d",
+      "label": "PER",
+      "start": 10413,
+      "end": 10444
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10464,
+      "end": 10475
+    },
+    {
+      "text": "Staatsregierung",
+      "label": "ORG",
+      "start": 10513,
+      "end": 10528
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10573,
+      "end": 10584
+    },
+    {
+      "text": "Petra W e r n i c k e",
+      "label": "PER",
+      "start": 10679,
+      "end": 10700
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 10720,
+      "end": 10735
+    },
+    {
+      "text": "Dr. Hermann Onko\\n\\nA e i k e n s",
+      "label": "PER",
+      "start": 10770,
+      "end": 10800
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10836,
+      "end": 10847
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 10953,
+      "end": 10965
+    },
+    {
+      "text": "O e t t i n g e r",
+      "label": "PER",
+      "start": 11168,
+      "end": 11185
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11727,
+      "end": 11736
+    },
+    {
+      "text": "Bundesrat,",
+      "label": "ORG",
+      "start": 12063,
+      "end": 12073
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12951,
+      "end": 12960
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13262,
+      "end": 13271
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13276,
+      "end": 13285
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 13582,
+      "end": 13593
+    },
+    {
+      "text": "Professor Reinhart",
+      "label": "PER",
+      "start": 13611,
+      "end": 13629
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16701,
+      "end": 16710
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17566,
+      "end": 17575
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17674,
+      "end": 17683
+    },
+    {
+      "text": "Bundesrat,",
+      "label": "ORG",
+      "start": 17841,
+      "end": 17851
+    },
+    {
+      "text": "Jens Böhrnsen,",
+      "label": "PER",
+      "start": 18183,
+      "end": 18197
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18218,
+      "end": 18229
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 18366,
+      "end": 18387
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18470,
+      "end": 18479
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 18520,
+      "end": 18541
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 18824,
+      "end": 18837
+    },
+    {
+      "text": "Jens B ö h r n s e n",
+      "label": "PER",
+      "start": 18892,
+      "end": 18912
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19035,
+      "end": 19046
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 19196,
+      "end": 19209
+    },
+    {
+      "text": "Dr. Jürgen\\n\\nRüttgers.",
+      "label": "PER",
+      "start": 19651,
+      "end": 19671
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 19892,
+      "end": 19900
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20097,
+      "end": 20109
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 20162,
+      "end": 20173
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20235,
+      "end": 20247
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 20333,
+      "end": 20355
+    },
+    {
+      "text": "Karl R a u b e r",
+      "label": "PER",
+      "start": 20398,
+      "end": 20414
+    },
+    {
+      "text": "Andreas K r a u t s c h e i d",
+      "label": "PER",
+      "start": 20487,
+      "end": 20516
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20586,
+      "end": 20598
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20739,
+      "end": 20751
+    },
+    {
+      "text": "Professor Dr. Angela K o l b",
+      "label": "PER",
+      "start": 21158,
+      "end": 21186
+    },
+    {
+      "text": "Dr. Beate\\n\\nM e r k",
+      "label": "PER",
+      "start": 21230,
+      "end": 21247
+    },
+    {
+      "text": "Herrn Wowereit,",
+      "label": "PER",
+      "start": 21707,
+      "end": 21722
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 21776,
+      "end": 21786
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22500,
+      "end": 22509
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27030,
+      "end": 27039
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28521,
+      "end": 28530
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 29896,
+      "end": 29909
+    },
+    {
+      "text": "Ole von Beust.",
+      "label": "PER",
+      "start": 30003,
+      "end": 30017
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 30048,
+      "end": 30058
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31661,
+      "end": 31669
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31773,
+      "end": 31781
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 33825,
+      "end": 33833
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34277,
+      "end": 34286
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 35553,
+      "end": 35566
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 35588,
+      "end": 35603
+    },
+    {
+      "text": "Frau Zypries.",
+      "label": "PER",
+      "start": 35664,
+      "end": 35677
+    },
+    {
+      "text": "Brigitte Zypries,",
+      "label": "PER",
+      "start": 35684,
+      "end": 35701
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 35749,
+      "end": 35759
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 39862,
+      "end": 39871
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40033,
+      "end": 40042
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Bundesministerium.",
+      "label": "ORG",
+      "start": 40391,
+      "end": 40409
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 40449,
+      "end": 40460
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 40678,
+      "end": 40691
+    },
+    {
+      "text": "Müller-Piepenkötter",
+      "label": "PER",
+      "start": 41173,
+      "end": 41192
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 41244,
+      "end": 41272
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 41301,
+      "end": 41311
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 45035,
+      "end": 45048
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45260,
+      "end": 45269
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "Gönner",
+      "label": "PER",
+      "start": 45895,
+      "end": 45901
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 45983,
+      "end": 45993
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49387,
+      "end": 49402
+    },
+    {
+      "text": "Junghanns",
+      "label": "PER",
+      "start": 50411,
+      "end": 50420
+    },
+    {
+      "text": "Dr. Beermann",
+      "label": "PER",
+      "start": 50459,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 50537,
+      "end": 50550
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50565,
+      "end": 50574
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51622,
+      "end": 51631
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 51715,
+      "end": 51726
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 51998,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 52086,
+      "end": 52096
+    },
+    {
+      "text": "Landessozialgerichts",
+      "label": "ORG",
+      "start": 54024,
+      "end": 54044
+    },
+    {
+      "text": "Professor Kolb",
+      "label": "PER",
+      "start": 54628,
+      "end": 54642
+    },
+    {
+      "text": "Professor Reinhart",
+      "label": "PER",
+      "start": 54691,
+      "end": 54709
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55600,
+      "end": 55609
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55750,
+      "end": 55765
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 57312,
+      "end": 57325
+    },
+    {
+      "text": "Professor\\n\\nDr. Kolb",
+      "label": "PER",
+      "start": 57376,
+      "end": 57394
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 57426,
+      "end": 57447
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 57471,
+      "end": 57481
+    },
+    {
+      "text": "Herr Busemann",
+      "label": "PER",
+      "start": 58047,
+      "end": 58060
+    },
+    {
+      "text": "Herr\\n\\nBusemann",
+      "label": "PER",
+      "start": 59005,
+      "end": 59018
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61404,
+      "end": 61413
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 61454,
+      "end": 61475
+    },
+    {
+      "text": "Professor Dr. Reinhart",
+      "label": "PER",
+      "start": 61671,
+      "end": 61693
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 62335,
+      "end": 62362
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 62389,
+      "end": 62399
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64320,
+      "end": 64335
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 64599,
+      "end": 64612
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 65432,
+      "end": 65441
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65933,
+      "end": 65942
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67111,
+      "end": 67120
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 67156,
+      "end": 67183
+    },
+    {
+      "text": "Peter Müller:",
+      "label": "PER",
+      "start": 69004,
+      "end": 69017
+    },
+    {
+      "text": "Professor Dr. Reinhart!",
+      "label": "PER",
+      "start": 69036,
+      "end": 69059
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 69546,
+      "end": 69558
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 69809,
+      "end": 69820
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70328,
+      "end": 70337
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 70468,
+      "end": 70479
+    },
+    {
+      "text": "Bundesrat:",
+      "label": "ORG",
+      "start": 70509,
+      "end": 70519
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 71824,
+      "end": 71835
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 72030,
+      "end": 72054
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73138,
+      "end": 73147
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73847,
+      "end": 73856
+    },
+    {
+      "text": "Dr. Johannes Beermann",
+      "label": "PER",
+      "start": 75711,
+      "end": 75732
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76374,
+      "end": 76387
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76607,
+      "end": 76620
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 76862,
+      "end": 76865
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "Bundesregierung,",
+      "label": "ORG",
+      "start": 77903,
+      "end": 77919
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 78364,
+      "end": 78367
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 78950,
+      "end": 78961
+    },
+    {
+      "text": "EU.",
+      "label": "ORG",
+      "start": 79126,
+      "end": 79129
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79267,
+      "end": 79276
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 80425,
+      "end": 80434
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 80447,
+      "end": 80462
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 341,
+      "end": 345
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 612,
+      "end": 623
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 671,
+      "end": 676
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 749,
+      "end": 752
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 753,
+      "end": 759
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 828,
+      "end": 832
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 984,
+      "end": 987
+    },
+    {
+      "text": "Reinhard",
+      "label": "PER",
+      "start": 988,
+      "end": 996
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 1043,
+      "end": 1047
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 1084,
+      "end": 1091
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 1181,
+      "end": 1185
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 1714,
+      "end": 1718
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1825,
+      "end": 1828
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 1829,
+      "end": 1835
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1882,
+      "end": 1885
+    },
+    {
+      "text": "Beate",
+      "label": "PER",
+      "start": 1886,
+      "end": 1891
+    },
+    {
+      "text": "Brigitte",
+      "label": "PER",
+      "start": 2244,
+      "end": 2252
+    },
+    {
+      "text": "Roswitha",
+      "label": "PER",
+      "start": 2631,
+      "end": 2639
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 2784,
+      "end": 2789
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2813,
+      "end": 2822
+    },
+    {
+      "text": "Tanja",
+      "label": "PER",
+      "start": 3639,
+      "end": 3644
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4378,
+      "end": 4389
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 4835,
+      "end": 4841
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4876,
+      "end": 4879
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 4880,
+      "end": 4888
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 5267,
+      "end": 5272
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5333,
+      "end": 5344
+    },
+    {
+      "text": "Bernhard",
+      "label": "PER",
+      "start": 5612,
+      "end": 5620
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5684,
+      "end": 5687
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 5688,
+      "end": 5694
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 5695,
+      "end": 5699
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5752,
+      "end": 5755
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 5756,
+      "end": 5764
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 5765,
+      "end": 5773
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6078,
+      "end": 6087
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6378,
+      "end": 6381
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 6382,
+      "end": 6389
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6474,
+      "end": 6477
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 6478,
+      "end": 6484
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 6485,
+      "end": 6489
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6546,
+      "end": 6549
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 6550,
+      "end": 6557
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6634,
+      "end": 6637
+    },
+    {
+      "text": "Günther",
+      "label": "PER",
+      "start": 6706,
+      "end": 6713
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6760,
+      "end": 6763
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 6764,
+      "end": 6772
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 6773,
+      "end": 6781
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 6944,
+      "end": 6951
+    },
+    {
+      "text": "Tanja",
+      "label": "PER",
+      "start": 7049,
+      "end": 7054
+    },
+    {
+      "text": "Hahn",
+      "label": "PER",
+      "start": 7090,
+      "end": 7094
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 7185,
+      "end": 7191
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 7302,
+      "end": 7308
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 7309,
+      "end": 7315
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 7429,
+      "end": 7434
+    },
+    {
+      "text": "Gisela",
+      "label": "PER",
+      "start": 7486,
+      "end": 7492
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 7527,
+      "end": 7536
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 7576,
+      "end": 7582
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7619,
+      "end": 7622
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 7623,
+      "end": 7630
+    },
+    {
+      "text": "Rösler",
+      "label": "PER",
+      "start": 7631,
+      "end": 7637
+    },
+    {
+      "text": "Bernhard",
+      "label": "PER",
+      "start": 7683,
+      "end": 7691
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7722,
+      "end": 7731
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7795,
+      "end": 7798
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 7799,
+      "end": 7806
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 7903,
+      "end": 7908
+    },
+    {
+      "text": "Harry",
+      "label": "PER",
+      "start": 7909,
+      "end": 7914
+    },
+    {
+      "text": "Roswitha",
+      "label": "PER",
+      "start": 7989,
+      "end": 7997
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 8054,
+      "end": 8058
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 8059,
+      "end": 8064
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 8118,
+      "end": 8124
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 8152,
+      "end": 8155
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 8156,
+      "end": 8161
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 8252,
+      "end": 8257
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 8359,
+      "end": 8363
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 8465,
+      "end": 8480
+    },
+    {
+      "text": "Brigitte",
+      "label": "PER",
+      "start": 8483,
+      "end": 8491
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 8630,
+      "end": 8633
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 8634,
+      "end": 8642
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 8696,
+      "end": 8703
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 8750,
+      "end": 8755
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 8818,
+      "end": 8823
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 8927,
+      "end": 8930
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 8931,
+      "end": 8939
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 8967,
+      "end": 8974
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 8975,
+      "end": 8981
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 9116,
+      "end": 9119
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 9120,
+      "end": 9126
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 9127,
+      "end": 9131
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 9156,
+      "end": 9159
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 9160,
+      "end": 9165
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9238,
+      "end": 9247
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 9371,
+      "end": 9376
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 9377,
+      "end": 9383
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9457,
+      "end": 9468
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9934,
+      "end": 9943
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 9993,
+      "end": 9996
+    },
+    {
+      "text": "Eva-Maria",
+      "label": "PER",
+      "start": 9997,
+      "end": 10006
+    },
+    {
+      "text": "Thomas",
+      "label": "PER",
+      "start": 10051,
+      "end": 10057
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10068,
+      "end": 10071
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 10072,
+      "end": 10080
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 10270,
+      "end": 10276
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10380,
+      "end": 10383
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 10384,
+      "end": 10392
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10423,
+      "end": 10426
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 10427,
+      "end": 10432
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10464,
+      "end": 10475
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10573,
+      "end": 10584
+    },
+    {
+      "text": "Petra",
+      "label": "PER",
+      "start": 10679,
+      "end": 10684
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10770,
+      "end": 10773
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 10774,
+      "end": 10781
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10836,
+      "end": 10847
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10953,
+      "end": 10964
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11727,
+      "end": 11736
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12063,
+      "end": 12072
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 12144,
+      "end": 12151
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 12541,
+      "end": 12546
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 12907,
+      "end": 12912
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12951,
+      "end": 12960
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 13006,
+      "end": 13011
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 13012,
+      "end": 13018
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13276,
+      "end": 13285
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 13582,
+      "end": 13593
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Marsch",
+      "label": "PER",
+      "start": 14630,
+      "end": 14636
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 15493,
+      "end": 15498
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16584,
+      "end": 16593
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16701,
+      "end": 16710
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17566,
+      "end": 17575
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17674,
+      "end": 17683
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 17808,
+      "end": 17814
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17841,
+      "end": 17850
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 17976,
+      "end": 17980
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18218,
+      "end": 18229
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 18250,
+      "end": 18254
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 18372,
+      "end": 18375
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 18376,
+      "end": 18382
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 18383,
+      "end": 18387
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18470,
+      "end": 18479
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 18526,
+      "end": 18529
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 18530,
+      "end": 18536
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 18537,
+      "end": 18541
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 18824,
+      "end": 18829
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 18830,
+      "end": 18836
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18873,
+      "end": 18877
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19035,
+      "end": 19046
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19060,
+      "end": 19064
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19110,
+      "end": 19114
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19157,
+      "end": 19161
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 19196,
+      "end": 19201
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 19202,
+      "end": 19208
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19386,
+      "end": 19390
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19463,
+      "end": 19467
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 19651,
+      "end": 19654
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 19655,
+      "end": 19661
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19879,
+      "end": 19883
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19907,
+      "end": 19911
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 20032,
+      "end": 20036
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 20162,
+      "end": 20173
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 20333,
+      "end": 20336
+    },
+    {
+      "text": "Reinhard",
+      "label": "PER",
+      "start": 20337,
+      "end": 20345
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 20398,
+      "end": 20402
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 20487,
+      "end": 20494
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 20842,
+      "end": 20846
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 20909,
+      "end": 20913
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 21070,
+      "end": 21074
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 21168,
+      "end": 21171
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 21172,
+      "end": 21178
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 21230,
+      "end": 21233
+    },
+    {
+      "text": "Beate",
+      "label": "PER",
+      "start": 21234,
+      "end": 21239
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 21739,
+      "end": 21744
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 21746,
+      "end": 21751
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21771,
+      "end": 21775
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22500,
+      "end": 22509
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 22545,
+      "end": 22550
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 23472,
+      "end": 23478
+    },
+    {
+      "text": "reich",
+      "label": "PER",
+      "start": 26056,
+      "end": 26061
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27030,
+      "end": 27039
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28521,
+      "end": 28530
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 28571,
+      "end": 28576
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 28746,
+      "end": 28751
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 29896,
+      "end": 29901
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 29902,
+      "end": 29908
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 30043,
+      "end": 30047
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 31760,
+      "end": 31764
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34277,
+      "end": 34286
+    },
+    {
+      "text": "Reich",
+      "label": "PER",
+      "start": 34548,
+      "end": 34553
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 35553,
+      "end": 35558
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 35559,
+      "end": 35565
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 35573,
+      "end": 35578
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 35588,
+      "end": 35603
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 35657,
+      "end": 35662
+    },
+    {
+      "text": "Brigitte",
+      "label": "PER",
+      "start": 35684,
+      "end": 35692
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 35744,
+      "end": 35748
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 36161,
+      "end": 36165
+    },
+    {
+      "text": "Deutsch",
+      "label": "PER",
+      "start": 36627,
+      "end": 36634
+    },
+    {
+      "text": "Deutsch",
+      "label": "PER",
+      "start": 36999,
+      "end": 37006
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 37825,
+      "end": 37830
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 38239,
+      "end": 38243
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 39862,
+      "end": 39871
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40033,
+      "end": 40042
+    },
+    {
+      "text": "Brigitte",
+      "label": "PER",
+      "start": 40100,
+      "end": 40108
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 40449,
+      "end": 40460
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 40678,
+      "end": 40683
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 40684,
+      "end": 40690
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 41231,
+      "end": 41236
+    },
+    {
+      "text": "Roswitha",
+      "label": "PER",
+      "start": 41244,
+      "end": 41252
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41296,
+      "end": 41300
+    },
+    {
+      "text": "Fast",
+      "label": "PER",
+      "start": 41444,
+      "end": 41448
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41723,
+      "end": 41727
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 42199,
+      "end": 42203
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 44873,
+      "end": 44878
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 45035,
+      "end": 45040
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 45041,
+      "end": 45047
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 45055,
+      "end": 45060
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45260,
+      "end": 45269
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 45315,
+      "end": 45320
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 45321,
+      "end": 45327
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 45937,
+      "end": 45942
+    },
+    {
+      "text": "Tanja",
+      "label": "PER",
+      "start": 45944,
+      "end": 45949
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 45978,
+      "end": 45982
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 46205,
+      "end": 46209
+    },
+    {
+      "text": "langer",
+      "label": "PER",
+      "start": 46611,
+      "end": 46617
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 46790,
+      "end": 46794
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 46972,
+      "end": 46979
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 48151,
+      "end": 48158
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 49342,
+      "end": 49347
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49387,
+      "end": 49402
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 50397,
+      "end": 50401
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 50439,
+      "end": 50443
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 50459,
+      "end": 50462
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 50537,
+      "end": 50542
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 50543,
+      "end": 50549
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50565,
+      "end": 50574
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 50625,
+      "end": 50630
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 50631,
+      "end": 50637
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51622,
+      "end": 51631
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 51715,
+      "end": 51726
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 52039,
+      "end": 52044
+    },
+    {
+      "text": "Bernhard",
+      "label": "PER",
+      "start": 52046,
+      "end": 52054
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 52081,
+      "end": 52085
+    },
+    {
+      "text": "knapp",
+      "label": "PER",
+      "start": 52628,
+      "end": 52633
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 52725,
+      "end": 52729
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 53163,
+      "end": 53167
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 53316,
+      "end": 53321
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 53382,
+      "end": 53387
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 54686,
+      "end": 54690
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55600,
+      "end": 55609
+    },
+    {
+      "text": "Bernhard",
+      "label": "PER",
+      "start": 55645,
+      "end": 55653
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55750,
+      "end": 55765
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 57295,
+      "end": 57300
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 57312,
+      "end": 57317
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 57318,
+      "end": 57324
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 57386,
+      "end": 57389
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 57390,
+      "end": 57394
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 57419,
+      "end": 57424
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 57432,
+      "end": 57435
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 57436,
+      "end": 57442
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 57443,
+      "end": 57447
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 57466,
+      "end": 57470
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 58047,
+      "end": 58051
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 59005,
+      "end": 59009
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 60092,
+      "end": 60097
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 60116,
+      "end": 60122
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 61319,
+      "end": 61325
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61404,
+      "end": 61413
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 61460,
+      "end": 61463
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 61464,
+      "end": 61470
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 61471,
+      "end": 61475
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61657,
+      "end": 61661
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 61681,
+      "end": 61684
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 61685,
+      "end": 61693
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 62341,
+      "end": 62344
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 62345,
+      "end": 62353
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 62354,
+      "end": 62362
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 62384,
+      "end": 62388
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 63902,
+      "end": 63907
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64320,
+      "end": 64335
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 64599,
+      "end": 64604
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64605,
+      "end": 64611
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 64619,
+      "end": 64624
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65933,
+      "end": 65942
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67111,
+      "end": 67120
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 67162,
+      "end": 67165
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 67166,
+      "end": 67174
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 67175,
+      "end": 67183
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67256,
+      "end": 67265
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67686,
+      "end": 67695
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 68604,
+      "end": 68610
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 69004,
+      "end": 69009
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 69010,
+      "end": 69016
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 69031,
+      "end": 69035
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 69046,
+      "end": 69049
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 69050,
+      "end": 69058
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 69546,
+      "end": 69557
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 69809,
+      "end": 69820
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70328,
+      "end": 70337
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 70468,
+      "end": 70479
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70509,
+      "end": 70518
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 71824,
+      "end": 71835
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 71977,
+      "end": 71982
+    },
+    {
+      "text": "Ulrich",
+      "label": "PER",
+      "start": 72108,
+      "end": 72114
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 72820,
+      "end": 72824
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73138,
+      "end": 73147
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 73206,
+      "end": 73211
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73847,
+      "end": 73856
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 75711,
+      "end": 75714
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 75715,
+      "end": 75723
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 76337,
+      "end": 76342
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77903,
+      "end": 77918
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 78759,
+      "end": 78764
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 78950,
+      "end": 78961
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79267,
+      "end": 79276
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 79683,
+      "end": 79688
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 80425,
+      "end": 80434
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 80447,
+      "end": 80462
+    }
+  ],
+  "flair": [
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 146,
+      "end": 162
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 524,
+      "end": 548
+    },
+    {
+      "text": "Jens B ö h r n s e n",
+      "label": "PER",
+      "start": 564,
+      "end": 584
+    },
+    {
+      "text": "Peter M ü l l e r",
+      "label": "PER",
+      "start": 671,
+      "end": 688
+    },
+    {
+      "text": "Jürgen R ü t t g e r s",
+      "label": "PER",
+      "start": 753,
+      "end": 775
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "Reinhard L o s k e",
+      "label": "PER",
+      "start": 988,
+      "end": 1006
+    },
+    {
+      "text": "Karl R a u b e r",
+      "label": "PER",
+      "start": 1043,
+      "end": 1059
+    },
+    {
+      "text": "Andreas K r a u t s c h e i d",
+      "label": "PER",
+      "start": 1084,
+      "end": 1113
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1452
+    },
+    {
+      "text": "Angela K o l b",
+      "label": "PER",
+      "start": 1829,
+      "end": 1843
+    },
+    {
+      "text": "Beate M e r k",
+      "label": "PER",
+      "start": 1886,
+      "end": 1899
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 2631,
+      "end": 2659
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 3639,
+      "end": 3651
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Consumer Safety Network",
+      "label": "ORG",
+      "start": 4514,
+      "end": 4537
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 4880,
+      "end": 4897
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 5612,
+      "end": 5629
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 5688,
+      "end": 5699
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 5756,
+      "end": 5773
+    },
+    {
+      "text": "P",
+      "label": "PER",
+      "start": 6188,
+      "end": 6189
+    },
+    {
+      "text": "e t e r M ü l l e r",
+      "label": "PER",
+      "start": 6190,
+      "end": 6209
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 6264,
+      "end": 6277
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6382,
+      "end": 6397
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 6478,
+      "end": 6489
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6550,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 6576,
+      "end": 6589
+    },
+    {
+      "text": "Till Steffen",
+      "label": "PER",
+      "start": 6638,
+      "end": 6650
+    },
+    {
+      "text": "Günther H. Oettinger",
+      "label": "PER",
+      "start": 6706,
+      "end": 6726
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 6764,
+      "end": 6781
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 6944,
+      "end": 6962
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 7049,
+      "end": 7061
+    },
+    {
+      "text": "Jörg-Uwe Hahn",
+      "label": "PER",
+      "start": 7081,
+      "end": 7094
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 7178,
+      "end": 7191
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 7302,
+      "end": 7315
+    },
+    {
+      "text": "Manuela Schwesig",
+      "label": "PER",
+      "start": 7363,
+      "end": 7379
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 7429,
+      "end": 7443
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 7486,
+      "end": 7504
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 7527,
+      "end": 7542
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 7576,
+      "end": 7592
+    },
+    {
+      "text": "Philipp Rösler",
+      "label": "PER",
+      "start": 7623,
+      "end": 7637
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 7664,
+      "end": 7670
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 7683,
+      "end": 7700
+    },
+    {
+      "text": "Andreas Pinkwart",
+      "label": "PER",
+      "start": 7799,
+      "end": 7815
+    },
+    {
+      "text": "Innovation",
+      "label": "ORG",
+      "start": 7830,
+      "end": 7840
+    },
+    {
+      "text": "Wissenschaft",
+      "label": "ORG",
+      "start": 7842,
+      "end": 7854
+    },
+    {
+      "text": "Forschung",
+      "label": "ORG",
+      "start": 7856,
+      "end": 7865
+    },
+    {
+      "text": "Peter Harry Carstensen",
+      "label": "PER",
+      "start": 7903,
+      "end": 7925
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 7970,
+      "end": 7976
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 7981,
+      "end": 7987
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 7989,
+      "end": 8017
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 8054,
+      "end": 8070
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 8118,
+      "end": 8132
+    },
+    {
+      "text": "Klaus Zeh",
+      "label": "PER",
+      "start": 8156,
+      "end": 8165
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 8252,
+      "end": 8264
+    },
+    {
+      "text": "Gerold Wucherpfennig",
+      "label": "PER",
+      "start": 8289,
+      "end": 8309
+    },
+    {
+      "text": "Bau, Landesentwicklung und Medien",
+      "label": "ORG",
+      "start": 8324,
+      "end": 8357
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 8359,
+      "end": 8370
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 8483,
+      "end": 8499
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 8530,
+      "end": 8547
+    },
+    {
+      "text": "Sven Morlok",
+      "label": "PER",
+      "start": 8567,
+      "end": 8578
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 8634,
+      "end": 8651
+    },
+    {
+      "text": "Hermann Gröhe",
+      "label": "PER",
+      "start": 8696,
+      "end": 8709
+    },
+    {
+      "text": "Peter Altmaier",
+      "label": "PER",
+      "start": 8750,
+      "end": 8764
+    },
+    {
+      "text": "Peter Hintze",
+      "label": "PER",
+      "start": 8818,
+      "end": 8830
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 8931,
+      "end": 8946
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 8967,
+      "end": 8981
+    },
+    {
+      "text": "Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit",
+      "label": "ORG",
+      "start": 9009,
+      "end": 9069
+    },
+    {
+      "text": "Jens Bullerjahn",
+      "label": "PER",
+      "start": 9071,
+      "end": 9086
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 9120,
+      "end": 9131
+    },
+    {
+      "text": "Klaus Theo Schröder",
+      "label": "PER",
+      "start": 9160,
+      "end": 9179
+    },
+    {
+      "text": "Bundesministerium für Gesundheit",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9231
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 9371,
+      "end": 9383
+    },
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9572
+    },
+    {
+      "text": "Eva-Maria S t a n g e",
+      "label": "PER",
+      "start": 9997,
+      "end": 10018
+    },
+    {
+      "text": "Thomas J u r k",
+      "label": "PER",
+      "start": 10051,
+      "end": 10065
+    },
+    {
+      "text": "Albrecht B u t t o l o",
+      "label": "PER",
+      "start": 10072,
+      "end": 10094
+    },
+    {
+      "text": "Geert M a c k e n r o t h",
+      "label": "PER",
+      "start": 10099,
+      "end": 10124
+    },
+    {
+      "text": "Stanislaw T i l l i c h",
+      "label": "PER",
+      "start": 10233,
+      "end": 10256
+    },
+    {
+      "text": "Sven M o r l o k",
+      "label": "PER",
+      "start": 10361,
+      "end": 10377
+    },
+    {
+      "text": "Johannes B e e r m a n n",
+      "label": "PER",
+      "start": 10384,
+      "end": 10408
+    },
+    {
+      "text": "Georg U n l a n d",
+      "label": "PER",
+      "start": 10427,
+      "end": 10444
+    },
+    {
+      "text": "Petra W e r n i c k e",
+      "label": "PER",
+      "start": 10679,
+      "end": 10700
+    },
+    {
+      "text": "Hermann Onko A e i k e n s",
+      "label": "PER",
+      "start": 10774,
+      "end": 10800
+    },
+    {
+      "text": "O",
+      "label": "PER",
+      "start": 11168,
+      "end": 11169
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 11170,
+      "end": 11171
+    },
+    {
+      "text": "t",
+      "label": "PER",
+      "start": 11172,
+      "end": 11173
+    },
+    {
+      "text": "t",
+      "label": "PER",
+      "start": 11174,
+      "end": 11175
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 11176,
+      "end": 11177
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 11178,
+      "end": 11179
+    },
+    {
+      "text": "g e",
+      "label": "PER",
+      "start": 11180,
+      "end": 11183
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 11184,
+      "end": 11185
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Freien Hansestadt",
+      "label": "ORG",
+      "start": 18137,
+      "end": 18154
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 18183,
+      "end": 18196
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18376,
+      "end": 18387
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18530,
+      "end": 18541
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 18824,
+      "end": 18836
+    },
+    {
+      "text": "Jens B ö h r n s e n",
+      "label": "PER",
+      "start": 18892,
+      "end": 18912
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 19196,
+      "end": 19208
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 19655,
+      "end": 19670
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 19892,
+      "end": 19900
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20097,
+      "end": 20109
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20235,
+      "end": 20247
+    },
+    {
+      "text": "Reinhard L o s k e",
+      "label": "PER",
+      "start": 20337,
+      "end": 20355
+    },
+    {
+      "text": "Karl R a u b e r",
+      "label": "PER",
+      "start": 20398,
+      "end": 20414
+    },
+    {
+      "text": "Andreas K r a u t s c h e i d",
+      "label": "PER",
+      "start": 20487,
+      "end": 20516
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20586,
+      "end": 20598
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20739,
+      "end": 20751
+    },
+    {
+      "text": "Angela K o l b",
+      "label": "PER",
+      "start": 21172,
+      "end": 21186
+    },
+    {
+      "text": "Beate M e r k",
+      "label": "PER",
+      "start": 21234,
+      "end": 21247
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 21713,
+      "end": 21721
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 21914,
+      "end": 21923
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "StGB",
+      "label": "ORG",
+      "start": 23366,
+      "end": 23370
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 29896,
+      "end": 29908
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30003,
+      "end": 30016
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31661,
+      "end": 31669
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31773,
+      "end": 31781
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 33825,
+      "end": 33833
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 35553,
+      "end": 35565
+    },
+    {
+      "text": "Zypries",
+      "label": "PER",
+      "start": 35669,
+      "end": 35676
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 35684,
+      "end": 35700
+    },
+    {
+      "text": "von Beust",
+      "label": "PER",
+      "start": 36166,
+      "end": 36175
+    },
+    {
+      "text": "von Beust",
+      "label": "PER",
+      "start": 38244,
+      "end": 38253
+    },
+    {
+      "text": "Nazis",
+      "label": "ORG",
+      "start": 38513,
+      "end": 38518
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 40678,
+      "end": 40690
+    },
+    {
+      "text": "Frauen",
+      "label": "ORG",
+      "start": 40838,
+      "end": 40844
+    },
+    {
+      "text": "Müller-Piepenkötter",
+      "label": "PER",
+      "start": 41173,
+      "end": 41192
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 41244,
+      "end": 41272
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45035,
+      "end": 45047
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "Gönner",
+      "label": "PER",
+      "start": 45895,
+      "end": 45901
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Europäischen",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47864
+    },
+    {
+      "text": "Junghanns",
+      "label": "PER",
+      "start": 50411,
+      "end": 50420
+    },
+    {
+      "text": "Beermann",
+      "label": "PER",
+      "start": 50463,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50537,
+      "end": 50549
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 50639,
+      "end": 50640
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 51998,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 57312,
+      "end": 57324
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 57390,
+      "end": 57394
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 57436,
+      "end": 57447
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 58052,
+      "end": 58060
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 59010,
+      "end": 59018
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 61464,
+      "end": 61475
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 61685,
+      "end": 61693
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 62345,
+      "end": 62362
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 64599,
+      "end": 64611
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 65432,
+      "end": 65441
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 67166,
+      "end": 67183
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 67270,
+      "end": 67279
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 68741,
+      "end": 68750
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 69004,
+      "end": 69016
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 69050,
+      "end": 69058
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 75715,
+      "end": 75732
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "National\nCouncil",
+      "label": "ORG",
+      "start": 146,
+      "end": 162
+    },
+    {
+      "text": "Senats der\nFreien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 513,
+      "end": 548
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 612,
+      "end": 623
+    },
+    {
+      "text": "Peter M",
+      "label": "PER",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 920,
+      "end": 925
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 984,
+      "end": 1006
+    },
+    {
+      "text": "Karl R a u b e r\n",
+      "label": "PER",
+      "start": 1043,
+      "end": 1060
+    },
+    {
+      "text": "Andreas\nK r a u t s",
+      "label": "PER",
+      "start": 1084,
+      "end": 1103
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1452
+    },
+    {
+      "text": "Amsterdamer Str.",
+      "label": "ORG",
+      "start": 1454,
+      "end": 1470
+    },
+    {
+      "text": "Dr. Angela\nK o l b",
+      "label": "PER",
+      "start": 1825,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Beate M e r k",
+      "label": "PER",
+      "start": 1882,
+      "end": 1899
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 3639,
+      "end": 3651
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Consumer\nSafety Network",
+      "label": "ORG",
+      "start": 4514,
+      "end": 4537
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 4562,
+      "end": 4574
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 4880,
+      "end": 4897
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 5612,
+      "end": 5629
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 5688,
+      "end": 5699
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 5701,
+      "end": 5714
+    },
+    {
+      "text": "P e",
+      "label": "ORG",
+      "start": 6188,
+      "end": 6191
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 6264,
+      "end": 6277
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6382,
+      "end": 6397
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6550,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 6576,
+      "end": 6589
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 6605,
+      "end": 6611
+    },
+    {
+      "text": "Till Steffen",
+      "label": "PER",
+      "start": 6638,
+      "end": 6650
+    },
+    {
+      "text": "Günther H. Oettinger",
+      "label": "PER",
+      "start": 6706,
+      "end": 6726
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 6764,
+      "end": 6781
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 6783,
+      "end": 6829
+    },
+    {
+      "text": "Staatsministeriums",
+      "label": "ORG",
+      "start": 6865,
+      "end": 6883
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 6944,
+      "end": 6962
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 6964,
+      "end": 7023
+    },
+    {
+      "text": "Jörg-Uwe Hahn",
+      "label": "PER",
+      "start": 7081,
+      "end": 7094
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 7178,
+      "end": 7191
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7317,
+      "end": 7340
+    },
+    {
+      "text": "Manuela Schwesig",
+      "label": "PER",
+      "start": 7363,
+      "end": 7379
+    },
+    {
+      "text": "Ministerin für Soziales",
+      "label": "ORG",
+      "start": 7381,
+      "end": 7404
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 7429,
+      "end": 7443
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 7486,
+      "end": 7504
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 7527,
+      "end": 7542
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 7576,
+      "end": 7592
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7594,
+      "end": 7617
+    },
+    {
+      "text": "Philipp Rösler",
+      "label": "PER",
+      "start": 7623,
+      "end": 7637
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7639,
+      "end": 7662
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 7683,
+      "end": 7700
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 7702,
+      "end": 7716
+    },
+    {
+      "text": "Andreas Pinkwart",
+      "label": "PER",
+      "start": 7799,
+      "end": 7815
+    },
+    {
+      "text": "Minister für Innovation",
+      "label": "ORG",
+      "start": 7817,
+      "end": 7840
+    },
+    {
+      "text": "Peter Harry Carstensen",
+      "label": "PER",
+      "start": 7903,
+      "end": 7925
+    },
+    {
+      "text": "Minister für Justiz, Arbeit",
+      "label": "ORG",
+      "start": 7949,
+      "end": 7976
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 7989,
+      "end": 8017
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 8054,
+      "end": 8070
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 8118,
+      "end": 8132
+    },
+    {
+      "text": "Klaus Zeh",
+      "label": "PER",
+      "start": 8156,
+      "end": 8165
+    },
+    {
+      "text": "Minister für Bundes- und\nEuropaangelegenheiten",
+      "label": "ORG",
+      "start": 8167,
+      "end": 8213
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 8252,
+      "end": 8264
+    },
+    {
+      "text": "Gerold Wucherpfennig",
+      "label": "PER",
+      "start": 8289,
+      "end": 8309
+    },
+    {
+      "text": "Minister für Bau, Landesentwicklung und Medien",
+      "label": "ORG",
+      "start": 8311,
+      "end": 8357
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 8359,
+      "end": 8370
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 8372,
+      "end": 8418
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 8483,
+      "end": 8499
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 8530,
+      "end": 8547
+    },
+    {
+      "text": "Sven Morlok",
+      "label": "PER",
+      "start": 8567,
+      "end": 8578
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 8634,
+      "end": 8651
+    },
+    {
+      "text": "Hermann Gröhe",
+      "label": "PER",
+      "start": 8696,
+      "end": 8709
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 8734,
+      "end": 8749
+    },
+    {
+      "text": "Peter Altmaier",
+      "label": "PER",
+      "start": 8750,
+      "end": 8764
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8766,
+      "end": 8770
+    },
+    {
+      "text": "Bundesminister des Innern\nPeter Hintze",
+      "label": "ORG",
+      "start": 8792,
+      "end": 8830
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8832,
+      "end": 8836
+    },
+    {
+      "text": "Bundesminister für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 8858,
+      "end": 8903
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 8931,
+      "end": 8946
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 8967,
+      "end": 8981
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8983,
+      "end": 8987
+    },
+    {
+      "text": "Bundesminister für Umwelt, Naturschutz",
+      "label": "ORG",
+      "start": 9009,
+      "end": 9047
+    },
+    {
+      "text": "Jens Bullerjahn",
+      "label": "PER",
+      "start": 9071,
+      "end": 9086
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 9120,
+      "end": 9131
+    },
+    {
+      "text": "Klaus Theo Schröder",
+      "label": "PER",
+      "start": 9160,
+      "end": 9179
+    },
+    {
+      "text": "Bundesministerium für Gesundheit\n\n",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9233
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 9371,
+      "end": 9383
+    },
+    {
+      "text": "National Council\nvon Namibia",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9584
+    },
+    {
+      "text": "Thomas J",
+      "label": "PER",
+      "start": 10051,
+      "end": 10059
+    },
+    {
+      "text": "Geert M a c k e",
+      "label": "PER",
+      "start": 10099,
+      "end": 10114
+    },
+    {
+      "text": "Stanislaw T i",
+      "label": "PER",
+      "start": 10233,
+      "end": 10246
+    },
+    {
+      "text": "Sven M o r l o k",
+      "label": "PER",
+      "start": 10361,
+      "end": 10377
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10464,
+      "end": 10475
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10573,
+      "end": 10584
+    },
+    {
+      "text": "Petra W e r n i c k e",
+      "label": "PER",
+      "start": 10679,
+      "end": 10700
+    },
+    {
+      "text": "Hermann Onko",
+      "label": "PER",
+      "start": 10774,
+      "end": 10786
+    },
+    {
+      "text": "Plenum",
+      "label": "ORG",
+      "start": 10919,
+      "end": 10925
+    },
+    {
+      "text": "Herzlichen Glückwunsch",
+      "label": "PER",
+      "start": 11258,
+      "end": 11280
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13262,
+      "end": 13271
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Senats der\nFreien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 18126,
+      "end": 18161
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 18183,
+      "end": 18196
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18218,
+      "end": 18229
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 18824,
+      "end": 18836
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 18892,
+      "end": 18898
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19035,
+      "end": 19046
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 19196,
+      "end": 19208
+    },
+    {
+      "text": "Herrn Dr. Jürgen\nRüttgers",
+      "label": "PER",
+      "start": 19645,
+      "end": 19670
+    },
+    {
+      "text": "Kollege Rüttgers",
+      "label": "PER",
+      "start": 19884,
+      "end": 19900
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 20333,
+      "end": 20355
+    },
+    {
+      "text": "Andreas K r a u t s c h e i d",
+      "label": "PER",
+      "start": 20487,
+      "end": 20516
+    },
+    {
+      "text": "Dr. Angela K o l b",
+      "label": "PER",
+      "start": 21168,
+      "end": 21186
+    },
+    {
+      "text": "Dr. Beate\nM e r k",
+      "label": "PER",
+      "start": 21230,
+      "end": 21247
+    },
+    {
+      "text": "Herrn Wowereit",
+      "label": "PER",
+      "start": 21707,
+      "end": 21721
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 21914,
+      "end": 21923
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "EG-Vertrag",
+      "label": "ORG",
+      "start": 26238,
+      "end": 26248
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Gemeinsamen Verfassungskommission",
+      "label": "ORG",
+      "start": 26992,
+      "end": 27025
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "z. B.",
+      "label": "ORG",
+      "start": 27824,
+      "end": 27829
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Plenum",
+      "label": "ORG",
+      "start": 29294,
+      "end": 29300
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 29896,
+      "end": 29908
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30003,
+      "end": 30016
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "Kollege Wowereit",
+      "label": "PER",
+      "start": 31765,
+      "end": 31781
+    },
+    {
+      "text": "Gesellschaft\n",
+      "label": "ORG",
+      "start": 31967,
+      "end": 31980
+    },
+    {
+      "text": "Milieus",
+      "label": "PER",
+      "start": 32188,
+      "end": 32195
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 33825,
+      "end": 33833
+    },
+    {
+      "text": "Zeit der Naziherrschaft",
+      "label": "ORG",
+      "start": 34026,
+      "end": 34049
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Zeit der Naziherrschaft",
+      "label": "ORG",
+      "start": 34605,
+      "end": 34628
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 35553,
+      "end": 35565
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 35567,
+      "end": 35579
+    },
+    {
+      "text": "Zypries",
+      "label": "PER",
+      "start": 35669,
+      "end": 35676
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 35684,
+      "end": 35700
+    },
+    {
+      "text": "Gesetzeswerke",
+      "label": "PER",
+      "start": 36029,
+      "end": 36042
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 36170,
+      "end": 36175
+    },
+    {
+      "text": "Homosexualtität",
+      "label": "PER",
+      "start": 37767,
+      "end": 37782
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 38248,
+      "end": 38253
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 40678,
+      "end": 40690
+    },
+    {
+      "text": "Justizvollzug",
+      "label": "ORG",
+      "start": 41937,
+      "end": 41950
+    },
+    {
+      "text": "Justizvollzug",
+      "label": "ORG",
+      "start": 42344,
+      "end": 42357
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45035,
+      "end": 45047
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 45049,
+      "end": 45061
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "Beratungsgegenstände",
+      "label": "ORG",
+      "start": 45459,
+      "end": 45479
+    },
+    {
+      "text": "Gönner",
+      "label": "PER",
+      "start": 45895,
+      "end": 45901
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48202,
+      "end": 48212
+    },
+    {
+      "text": "Junghanns",
+      "label": "PER",
+      "start": 50411,
+      "end": 50420
+    },
+    {
+      "text": "Dr. Beermann",
+      "label": "PER",
+      "start": 50459,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50537,
+      "end": 50549
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "Herrn Minister Busemann",
+      "label": "PER",
+      "start": 51983,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Verfahrensflut",
+      "label": "ORG",
+      "start": 52825,
+      "end": 52839
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 53854,
+      "end": 53877
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 54253,
+      "end": 54276
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Rasche",
+      "label": "PER",
+      "start": 54775,
+      "end": 54781
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Justizminister",
+      "label": "ORG",
+      "start": 56035,
+      "end": 56049
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 57312,
+      "end": 57324
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 58052,
+      "end": 58060
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 58673,
+      "end": 58696
+    },
+    {
+      "text": "Herr\nBusemann",
+      "label": "PER",
+      "start": 59005,
+      "end": 59018
+    },
+    {
+      "text": "Dr. Reinhart\n",
+      "label": "PER",
+      "start": 61681,
+      "end": 61694
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 64599,
+      "end": 64611
+    },
+    {
+      "text": "Videokonferenztechnik",
+      "label": "PER",
+      "start": 65382,
+      "end": 65403
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 65432,
+      "end": 65441
+    },
+    {
+      "text": "Justizministerkonferenz",
+      "label": "ORG",
+      "start": 66340,
+      "end": 66363
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 67270,
+      "end": 67279
+    },
+    {
+      "text": "Zentral",
+      "label": "PER",
+      "start": 67657,
+      "end": 67664
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 68741,
+      "end": 68750
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 69004,
+      "end": 69016
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 69546,
+      "end": 69557
+    },
+    {
+      "text": "Empfehlungsdrucksache",
+      "label": "PER",
+      "start": 71372,
+      "end": 71393
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 71824,
+      "end": 71835
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "Abstimmungsdefizite",
+      "label": "PER",
+      "start": 72286,
+      "end": 72305
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 73095,
+      "end": 73098
+    },
+    {
+      "text": "Feuerungsanlagenproduzenten",
+      "label": "ORG",
+      "start": 73486,
+      "end": 73513
+    },
+    {
+      "text": "Bundes-KÜO",
+      "label": "ORG",
+      "start": 73766,
+      "end": 73776
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 75257,
+      "end": 75260
+    },
+    {
+      "text": "Dr. Johannes Beermann",
+      "label": "PER",
+      "start": 75711,
+      "end": 75732
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76374,
+      "end": 76387
+    },
+    {
+      "text": "EG-Ebene",
+      "label": "ORG",
+      "start": 76551,
+      "end": 76559
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76607,
+      "end": 76620
+    },
+    {
+      "text": "EU-Rechts",
+      "label": "ORG",
+      "start": 76862,
+      "end": 76871
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 77874,
+      "end": 77877
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU-Recht",
+      "label": "ORG",
+      "start": 78364,
+      "end": 78372
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 78950,
+      "end": 78961
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 79126,
+      "end": 79128
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "National\nCouncil",
+      "label": "ORG",
+      "start": 146,
+      "end": 162
+    },
+    {
+      "text": "Senats der\nFreien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 513,
+      "end": 548
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 612,
+      "end": 623
+    },
+    {
+      "text": "Peter M",
+      "label": "PER",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 920,
+      "end": 925
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 984,
+      "end": 1006
+    },
+    {
+      "text": "Karl R a u b e r\n",
+      "label": "PER",
+      "start": 1043,
+      "end": 1060
+    },
+    {
+      "text": "Andreas\nK r a u t s",
+      "label": "PER",
+      "start": 1084,
+      "end": 1103
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1452
+    },
+    {
+      "text": "Amsterdamer Str.",
+      "label": "ORG",
+      "start": 1454,
+      "end": 1470
+    },
+    {
+      "text": "Dr. Angela\nK o l b",
+      "label": "PER",
+      "start": 1825,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Beate M e r k",
+      "label": "PER",
+      "start": 1882,
+      "end": 1899
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2813,
+      "end": 2822
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 3639,
+      "end": 3651
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Consumer\nSafety Network",
+      "label": "ORG",
+      "start": 4514,
+      "end": 4537
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 4562,
+      "end": 4574
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 4880,
+      "end": 4897
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 5612,
+      "end": 5629
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 5688,
+      "end": 5699
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 5701,
+      "end": 5714
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6078,
+      "end": 6087
+    },
+    {
+      "text": "P e",
+      "label": "ORG",
+      "start": 6188,
+      "end": 6191
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 6264,
+      "end": 6277
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6382,
+      "end": 6397
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6550,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 6576,
+      "end": 6589
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 6605,
+      "end": 6611
+    },
+    {
+      "text": "Till Steffen",
+      "label": "PER",
+      "start": 6638,
+      "end": 6650
+    },
+    {
+      "text": "Günther H. Oettinger",
+      "label": "PER",
+      "start": 6706,
+      "end": 6726
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 6764,
+      "end": 6781
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 6783,
+      "end": 6829
+    },
+    {
+      "text": "Staatsministeriums",
+      "label": "ORG",
+      "start": 6865,
+      "end": 6883
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 6944,
+      "end": 6962
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 6964,
+      "end": 7023
+    },
+    {
+      "text": "Jörg-Uwe Hahn",
+      "label": "PER",
+      "start": 7081,
+      "end": 7094
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 7178,
+      "end": 7191
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7317,
+      "end": 7340
+    },
+    {
+      "text": "Manuela Schwesig",
+      "label": "PER",
+      "start": 7363,
+      "end": 7379
+    },
+    {
+      "text": "Ministerin für Soziales",
+      "label": "ORG",
+      "start": 7381,
+      "end": 7404
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 7429,
+      "end": 7443
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 7486,
+      "end": 7504
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 7527,
+      "end": 7542
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 7576,
+      "end": 7592
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7594,
+      "end": 7617
+    },
+    {
+      "text": "Philipp Rösler",
+      "label": "PER",
+      "start": 7623,
+      "end": 7637
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 7639,
+      "end": 7662
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 7683,
+      "end": 7700
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 7702,
+      "end": 7716
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7722,
+      "end": 7731
+    },
+    {
+      "text": "Andreas Pinkwart",
+      "label": "PER",
+      "start": 7799,
+      "end": 7815
+    },
+    {
+      "text": "Minister für Innovation",
+      "label": "ORG",
+      "start": 7817,
+      "end": 7840
+    },
+    {
+      "text": "Peter Harry Carstensen",
+      "label": "PER",
+      "start": 7903,
+      "end": 7925
+    },
+    {
+      "text": "Minister für Justiz, Arbeit",
+      "label": "ORG",
+      "start": 7949,
+      "end": 7976
+    },
+    {
+      "text": "Roswitha Müller-Piepenkötter",
+      "label": "PER",
+      "start": 7989,
+      "end": 8017
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 8054,
+      "end": 8070
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 8118,
+      "end": 8132
+    },
+    {
+      "text": "Klaus Zeh",
+      "label": "PER",
+      "start": 8156,
+      "end": 8165
+    },
+    {
+      "text": "Minister für Bundes- und\nEuropaangelegenheiten",
+      "label": "ORG",
+      "start": 8167,
+      "end": 8213
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 8252,
+      "end": 8264
+    },
+    {
+      "text": "Gerold Wucherpfennig",
+      "label": "PER",
+      "start": 8289,
+      "end": 8309
+    },
+    {
+      "text": "Minister für Bau, Landesentwicklung und Medien",
+      "label": "ORG",
+      "start": 8311,
+      "end": 8357
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 8359,
+      "end": 8370
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 8372,
+      "end": 8418
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 8465,
+      "end": 8480
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 8483,
+      "end": 8499
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 8530,
+      "end": 8547
+    },
+    {
+      "text": "Sven Morlok",
+      "label": "PER",
+      "start": 8567,
+      "end": 8578
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 8634,
+      "end": 8651
+    },
+    {
+      "text": "Hermann Gröhe",
+      "label": "PER",
+      "start": 8696,
+      "end": 8709
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 8734,
+      "end": 8749
+    },
+    {
+      "text": "Peter Altmaier",
+      "label": "PER",
+      "start": 8750,
+      "end": 8764
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8766,
+      "end": 8770
+    },
+    {
+      "text": "Bundesminister des Innern\nPeter Hintze",
+      "label": "ORG",
+      "start": 8792,
+      "end": 8830
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8832,
+      "end": 8836
+    },
+    {
+      "text": "Bundesminister für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 8858,
+      "end": 8903
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 8931,
+      "end": 8946
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 8967,
+      "end": 8981
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 8983,
+      "end": 8987
+    },
+    {
+      "text": "Bundesminister für Umwelt, Naturschutz",
+      "label": "ORG",
+      "start": 9009,
+      "end": 9047
+    },
+    {
+      "text": "Jens Bullerjahn",
+      "label": "PER",
+      "start": 9071,
+      "end": 9086
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 9120,
+      "end": 9131
+    },
+    {
+      "text": "Klaus Theo Schröder",
+      "label": "PER",
+      "start": 9160,
+      "end": 9179
+    },
+    {
+      "text": "Bundesministerium für Gesundheit",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9231
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9238,
+      "end": 9247
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 9371,
+      "end": 9383
+    },
+    {
+      "text": "National Council\nvon Namibia",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9584
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9934,
+      "end": 9943
+    },
+    {
+      "text": "Thomas J",
+      "label": "PER",
+      "start": 10051,
+      "end": 10059
+    },
+    {
+      "text": "Geert M a c k e",
+      "label": "PER",
+      "start": 10099,
+      "end": 10114
+    },
+    {
+      "text": "Stanislaw T i",
+      "label": "PER",
+      "start": 10233,
+      "end": 10246
+    },
+    {
+      "text": "Sven M o r l o k",
+      "label": "PER",
+      "start": 10361,
+      "end": 10377
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10464,
+      "end": 10475
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10573,
+      "end": 10584
+    },
+    {
+      "text": "Petra W e r n i c k e",
+      "label": "PER",
+      "start": 10679,
+      "end": 10700
+    },
+    {
+      "text": "Hermann Onko",
+      "label": "PER",
+      "start": 10774,
+      "end": 10786
+    },
+    {
+      "text": "Plenum",
+      "label": "ORG",
+      "start": 10919,
+      "end": 10925
+    },
+    {
+      "text": "Herzlichen Glückwunsch",
+      "label": "PER",
+      "start": 11258,
+      "end": 11280
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11727,
+      "end": 11736
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12063,
+      "end": 12072
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12951,
+      "end": 12960
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13262,
+      "end": 13271
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13276,
+      "end": 13285
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16584,
+      "end": 16593
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16701,
+      "end": 16710
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17566,
+      "end": 17575
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17674,
+      "end": 17683
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17841,
+      "end": 17850
+    },
+    {
+      "text": "Senats der\nFreien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 18126,
+      "end": 18161
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 18183,
+      "end": 18196
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18218,
+      "end": 18229
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18470,
+      "end": 18479
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 18824,
+      "end": 18836
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 18892,
+      "end": 18898
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19035,
+      "end": 19046
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 19196,
+      "end": 19208
+    },
+    {
+      "text": "Herrn Dr. Jürgen\nRüttgers",
+      "label": "PER",
+      "start": 19645,
+      "end": 19670
+    },
+    {
+      "text": "Kollege Rüttgers",
+      "label": "PER",
+      "start": 19884,
+      "end": 19900
+    },
+    {
+      "text": "Dr. Reinhard L o s k e",
+      "label": "PER",
+      "start": 20333,
+      "end": 20355
+    },
+    {
+      "text": "Andreas K r a u t s c h e i d",
+      "label": "PER",
+      "start": 20487,
+      "end": 20516
+    },
+    {
+      "text": "Dr. Angela K o l b",
+      "label": "PER",
+      "start": 21168,
+      "end": 21186
+    },
+    {
+      "text": "Dr. Beate\nM e r k",
+      "label": "PER",
+      "start": 21230,
+      "end": 21247
+    },
+    {
+      "text": "Herrn Wowereit",
+      "label": "PER",
+      "start": 21707,
+      "end": 21721
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 21914,
+      "end": 21923
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22500,
+      "end": 22509
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "EG-Vertrag",
+      "label": "ORG",
+      "start": 26238,
+      "end": 26248
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Gemeinsamen Verfassungskommission",
+      "label": "ORG",
+      "start": 26992,
+      "end": 27025
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27030,
+      "end": 27039
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "z. B.",
+      "label": "ORG",
+      "start": 27824,
+      "end": 27829
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28521,
+      "end": 28530
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Plenum",
+      "label": "ORG",
+      "start": 29294,
+      "end": 29300
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 29896,
+      "end": 29908
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30003,
+      "end": 30016
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "Kollege Wowereit",
+      "label": "PER",
+      "start": 31765,
+      "end": 31781
+    },
+    {
+      "text": "Gesellschaft\n",
+      "label": "ORG",
+      "start": 31967,
+      "end": 31980
+    },
+    {
+      "text": "Milieus",
+      "label": "PER",
+      "start": 32188,
+      "end": 32195
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 33825,
+      "end": 33833
+    },
+    {
+      "text": "Zeit der Naziherrschaft",
+      "label": "ORG",
+      "start": 34026,
+      "end": 34049
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34277,
+      "end": 34286
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Zeit der Naziherrschaft",
+      "label": "ORG",
+      "start": 34605,
+      "end": 34628
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 35553,
+      "end": 35565
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 35567,
+      "end": 35579
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 35588,
+      "end": 35603
+    },
+    {
+      "text": "Zypries",
+      "label": "PER",
+      "start": 35669,
+      "end": 35676
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 35684,
+      "end": 35700
+    },
+    {
+      "text": "Gesetzeswerke",
+      "label": "PER",
+      "start": 36029,
+      "end": 36042
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 36170,
+      "end": 36175
+    },
+    {
+      "text": "Homosexualtität",
+      "label": "PER",
+      "start": 37767,
+      "end": 37782
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 38248,
+      "end": 38253
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 39862,
+      "end": 39871
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40033,
+      "end": 40042
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 40678,
+      "end": 40690
+    },
+    {
+      "text": "Justizvollzug",
+      "label": "ORG",
+      "start": 41937,
+      "end": 41950
+    },
+    {
+      "text": "Justizvollzug",
+      "label": "ORG",
+      "start": 42344,
+      "end": 42357
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45035,
+      "end": 45047
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 45049,
+      "end": 45061
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45260,
+      "end": 45269
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "Beratungsgegenstände",
+      "label": "ORG",
+      "start": 45459,
+      "end": 45479
+    },
+    {
+      "text": "Gönner",
+      "label": "PER",
+      "start": 45895,
+      "end": 45901
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48202,
+      "end": 48212
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49387,
+      "end": 49402
+    },
+    {
+      "text": "Junghanns",
+      "label": "PER",
+      "start": 50411,
+      "end": 50420
+    },
+    {
+      "text": "Dr. Beermann",
+      "label": "PER",
+      "start": 50459,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50537,
+      "end": 50549
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50565,
+      "end": 50574
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51622,
+      "end": 51631
+    },
+    {
+      "text": "Herrn Minister Busemann",
+      "label": "PER",
+      "start": 51983,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Verfahrensflut",
+      "label": "ORG",
+      "start": 52825,
+      "end": 52839
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 53854,
+      "end": 53877
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 54253,
+      "end": 54276
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Rasche",
+      "label": "PER",
+      "start": 54775,
+      "end": 54781
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55600,
+      "end": 55609
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55750,
+      "end": 55765
+    },
+    {
+      "text": "Justizminister",
+      "label": "ORG",
+      "start": 56035,
+      "end": 56049
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 57312,
+      "end": 57324
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 58052,
+      "end": 58060
+    },
+    {
+      "text": "Praktiker-Arbeitsgruppe",
+      "label": "ORG",
+      "start": 58673,
+      "end": 58696
+    },
+    {
+      "text": "Herr\nBusemann",
+      "label": "PER",
+      "start": 59005,
+      "end": 59018
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61404,
+      "end": 61413
+    },
+    {
+      "text": "Dr. Reinhart\n",
+      "label": "PER",
+      "start": 61681,
+      "end": 61694
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64320,
+      "end": 64335
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 64599,
+      "end": 64611
+    },
+    {
+      "text": "Videokonferenztechnik",
+      "label": "PER",
+      "start": 65382,
+      "end": 65403
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 65432,
+      "end": 65441
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65933,
+      "end": 65942
+    },
+    {
+      "text": "Justizministerkonferenz",
+      "label": "ORG",
+      "start": 66340,
+      "end": 66363
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67111,
+      "end": 67120
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67256,
+      "end": 67265
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 67270,
+      "end": 67279
+    },
+    {
+      "text": "Zentral",
+      "label": "PER",
+      "start": 67657,
+      "end": 67664
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67686,
+      "end": 67695
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 68741,
+      "end": 68750
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 69004,
+      "end": 69016
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 69546,
+      "end": 69557
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70328,
+      "end": 70337
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70509,
+      "end": 70518
+    },
+    {
+      "text": "Empfehlungsdrucksache",
+      "label": "PER",
+      "start": 71372,
+      "end": 71393
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 71824,
+      "end": 71835
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "Abstimmungsdefizite",
+      "label": "PER",
+      "start": 72286,
+      "end": 72305
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 73095,
+      "end": 73098
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73138,
+      "end": 73147
+    },
+    {
+      "text": "Feuerungsanlagenproduzenten",
+      "label": "ORG",
+      "start": 73486,
+      "end": 73513
+    },
+    {
+      "text": "Bundes-KÜO",
+      "label": "ORG",
+      "start": 73766,
+      "end": 73776
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73847,
+      "end": 73856
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 75257,
+      "end": 75260
+    },
+    {
+      "text": "Dr. Johannes Beermann",
+      "label": "PER",
+      "start": 75711,
+      "end": 75732
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76374,
+      "end": 76387
+    },
+    {
+      "text": "EG-Ebene",
+      "label": "ORG",
+      "start": 76551,
+      "end": 76559
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 76607,
+      "end": 76620
+    },
+    {
+      "text": "EU-Rechts",
+      "label": "ORG",
+      "start": 76862,
+      "end": 76871
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 77874,
+      "end": 77877
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77903,
+      "end": 77918
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU-Recht",
+      "label": "ORG",
+      "start": 78364,
+      "end": 78372
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 78950,
+      "end": 78961
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 79126,
+      "end": 79128
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79267,
+      "end": 79276
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 80425,
+      "end": 80434
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 80447,
+      "end": 80462
+    }
+  ],
+  "bert": [
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 146,
+      "end": 162
+    },
+    {
+      "text": "Namibia",
+      "label": "ORG",
+      "start": 167,
+      "end": 174
+    },
+    {
+      "text": "Hansestadt Bremen",
+      "label": "ORG",
+      "start": 531,
+      "end": 548
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "Peter M",
+      "label": "PER",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "Jürgen R",
+      "label": "PER",
+      "start": 753,
+      "end": 761
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "Reinhard L",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Karl R",
+      "label": "PER",
+      "start": 1043,
+      "end": 1049
+    },
+    {
+      "text": "Andreas K",
+      "label": "PER",
+      "start": 1084,
+      "end": 1093
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 1240,
+      "end": 1245
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1448
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 1759,
+      "end": 1764
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 2132,
+      "end": 2137
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 2591,
+      "end": 2596
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 2631,
+      "end": 2659
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "EUZ",
+      "label": "ORG",
+      "start": 4562,
+      "end": 4565
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 4880,
+      "end": 4897
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 5756,
+      "end": 5773
+    },
+    {
+      "text": "GO",
+      "label": "ORG",
+      "start": 6053,
+      "end": 6055
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 6264,
+      "end": 6277
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6382,
+      "end": 6397
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 6478,
+      "end": 6489
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6550,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 6576,
+      "end": 6589
+    },
+    {
+      "text": "Till Steffen",
+      "label": "PER",
+      "start": 6638,
+      "end": 6650
+    },
+    {
+      "text": "-",
+      "label": "ORG",
+      "start": 6692,
+      "end": 6693
+    },
+    {
+      "text": "Günther H. Oettinger",
+      "label": "PER",
+      "start": 6706,
+      "end": 6726
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 6764,
+      "end": 6781
+    },
+    {
+      "text": "Staat",
+      "label": "ORG",
+      "start": 6865,
+      "end": 6870
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 6944,
+      "end": 6962
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 7049,
+      "end": 7061
+    },
+    {
+      "text": "Jörg - Uwe Hahn",
+      "label": "PER",
+      "start": 7081,
+      "end": 7094
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 7178,
+      "end": 7191
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 7302,
+      "end": 7315
+    },
+    {
+      "text": "Manuela Schwesig",
+      "label": "PER",
+      "start": 7363,
+      "end": 7379
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 7429,
+      "end": 7443
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 7486,
+      "end": 7487
+    },
+    {
+      "text": "##isela von der Aue",
+      "label": "PER",
+      "start": 7487,
+      "end": 7504
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 7527,
+      "end": 7542
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 7576,
+      "end": 7592
+    },
+    {
+      "text": "Philipp Rösler",
+      "label": "PER",
+      "start": 7623,
+      "end": 7637
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 7683,
+      "end": 7700
+    },
+    {
+      "text": "Andreas Pinkwart",
+      "label": "PER",
+      "start": 7799,
+      "end": 7815
+    },
+    {
+      "text": "Peter Harry Carstensen",
+      "label": "PER",
+      "start": 7903,
+      "end": 7925
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 7989,
+      "end": 8017
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 8054,
+      "end": 8070
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 8118,
+      "end": 8132
+    },
+    {
+      "text": "Klaus Zeh",
+      "label": "PER",
+      "start": 8156,
+      "end": 8165
+    },
+    {
+      "text": "Staatskanzlei Saarland",
+      "label": "ORG",
+      "start": 8227,
+      "end": 8250
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 8252,
+      "end": 8264
+    },
+    {
+      "text": "Gerold Wucherpfennig",
+      "label": "PER",
+      "start": 8289,
+      "end": 8309
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 8359,
+      "end": 8370
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 8432,
+      "end": 8445
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 8483,
+      "end": 8499
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 8530,
+      "end": 8547
+    },
+    {
+      "text": "Sven Morlok",
+      "label": "PER",
+      "start": 8567,
+      "end": 8578
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 8634,
+      "end": 8651
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 8681,
+      "end": 8694
+    },
+    {
+      "text": "Hermann Gröhe",
+      "label": "PER",
+      "start": 8696,
+      "end": 8709
+    },
+    {
+      "text": "Peter Altmaier",
+      "label": "PER",
+      "start": 8750,
+      "end": 8764
+    },
+    {
+      "text": "Bundesminister",
+      "label": "ORG",
+      "start": 8792,
+      "end": 8806
+    },
+    {
+      "text": "Innern",
+      "label": "ORG",
+      "start": 8811,
+      "end": 8817
+    },
+    {
+      "text": "Peter Hintze",
+      "label": "PER",
+      "start": 8818,
+      "end": 8830
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 8931,
+      "end": 8946
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 8967,
+      "end": 8981
+    },
+    {
+      "text": "##schutz",
+      "label": "ORG",
+      "start": 9041,
+      "end": 9047
+    },
+    {
+      "text": "##aktor",
+      "label": "ORG",
+      "start": 9054,
+      "end": 9059
+    },
+    {
+      "text": "Jens Bullerjahn",
+      "label": "PER",
+      "start": 9071,
+      "end": 9086
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 9120,
+      "end": 9131
+    },
+    {
+      "text": "Klaus Theo Schröder",
+      "label": "PER",
+      "start": 9160,
+      "end": 9179
+    },
+    {
+      "text": "Bundesministerium für Gesundheit",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9231
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9238,
+      "end": 9247
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 9371,
+      "end": 9383
+    },
+    {
+      "text": "National Council von Namibia",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9584
+    },
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9572
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 9934,
+      "end": 9940
+    },
+    {
+      "text": "Eva - Maria S",
+      "label": "PER",
+      "start": 9997,
+      "end": 10008
+    },
+    {
+      "text": "Thomas J",
+      "label": "PER",
+      "start": 10051,
+      "end": 10059
+    },
+    {
+      "text": "Albrecht B",
+      "label": "PER",
+      "start": 10072,
+      "end": 10082
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 10099,
+      "end": 10100
+    },
+    {
+      "text": "##eert",
+      "label": "PER",
+      "start": 10100,
+      "end": 10104
+    },
+    {
+      "text": "Sächsische Staatsregierung",
+      "label": "ORG",
+      "start": 10144,
+      "end": 10170
+    },
+    {
+      "text": "Stanislaw",
+      "label": "PER",
+      "start": 10233,
+      "end": 10242
+    },
+    {
+      "text": "Sven",
+      "label": "PER",
+      "start": 10361,
+      "end": 10365
+    },
+    {
+      "text": "Johannes B",
+      "label": "PER",
+      "start": 10384,
+      "end": 10394
+    },
+    {
+      "text": "Georg U",
+      "label": "PER",
+      "start": 10427,
+      "end": 10434
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 10464,
+      "end": 10470
+    },
+    {
+      "text": "Staatsr",
+      "label": "ORG",
+      "start": 10513,
+      "end": 10520
+    },
+    {
+      "text": "##erung",
+      "label": "ORG",
+      "start": 10523,
+      "end": 10528
+    },
+    {
+      "text": "Petra W",
+      "label": "PER",
+      "start": 10679,
+      "end": 10686
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 10720,
+      "end": 10735
+    },
+    {
+      "text": "Hermann Onko",
+      "label": "PER",
+      "start": 10774,
+      "end": 10786
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 10836,
+      "end": 10842
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 10953,
+      "end": 10959
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13262,
+      "end": 13271
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 13276,
+      "end": 13282
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 16584,
+      "end": 16590
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 16701,
+      "end": 16707
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 17563,
+      "end": 17564
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 17566,
+      "end": 17572
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 17841,
+      "end": 17847
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 18183,
+      "end": 18196
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18376,
+      "end": 18387
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18530,
+      "end": 18541
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 18824,
+      "end": 18836
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 18892,
+      "end": 18898
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 19196,
+      "end": 19208
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 19655,
+      "end": 19670
+    },
+    {
+      "text": "Kollege Rüttgers",
+      "label": "PER",
+      "start": 19884,
+      "end": 19900
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20097,
+      "end": 20109
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20235,
+      "end": 20247
+    },
+    {
+      "text": "Reinhard L",
+      "label": "PER",
+      "start": 20337,
+      "end": 20347
+    },
+    {
+      "text": "Karl R",
+      "label": "PER",
+      "start": 20398,
+      "end": 20404
+    },
+    {
+      "text": "Andreas K",
+      "label": "PER",
+      "start": 20487,
+      "end": 20496
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20586,
+      "end": 20598
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20739,
+      "end": 20751
+    },
+    {
+      "text": "Angela K",
+      "label": "PER",
+      "start": 21172,
+      "end": 21180
+    },
+    {
+      "text": "Beate",
+      "label": "PER",
+      "start": 21234,
+      "end": 21239
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 21713,
+      "end": 21721
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "Nationalsozialisten",
+      "label": "ORG",
+      "start": 23590,
+      "end": 23609
+    },
+    {
+      "text": "Nationalsozialisten",
+      "label": "ORG",
+      "start": 24626,
+      "end": 24645
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Gemeinsamen Verfassungskommission",
+      "label": "ORG",
+      "start": 26992,
+      "end": 27025
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 27030,
+      "end": 27036
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 28521,
+      "end": 28527
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 29896,
+      "end": 29908
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30003,
+      "end": 30016
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31661,
+      "end": 31669
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 31765,
+      "end": 31767
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 31773,
+      "end": 31781
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 35553,
+      "end": 35565
+    },
+    {
+      "text": "Zypries",
+      "label": "PER",
+      "start": 35669,
+      "end": 35676
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 35684,
+      "end": 35700
+    },
+    {
+      "text": "von Beust",
+      "label": "PER",
+      "start": 36166,
+      "end": 36175
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 36170,
+      "end": 36175
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 38248,
+      "end": 38253
+    },
+    {
+      "text": "Nazis",
+      "label": "ORG",
+      "start": 38513,
+      "end": 38518
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 39862,
+      "end": 39871
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 40033,
+      "end": 40039
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Bundesministerium",
+      "label": "ORG",
+      "start": 40391,
+      "end": 40408
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 40678,
+      "end": 40690
+    },
+    {
+      "text": "Ausschuss für Frauen und Jugend",
+      "label": "ORG",
+      "start": 40824,
+      "end": 40855
+    },
+    {
+      "text": "Ausschuss für Innere Angelegenheiten",
+      "label": "ORG",
+      "start": 40866,
+      "end": 40902
+    },
+    {
+      "text": "Müller - Piepenkötter",
+      "label": "PER",
+      "start": 41173,
+      "end": 41192
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 41244,
+      "end": 41272
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45035,
+      "end": 45047
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 45166,
+      "end": 45186
+    },
+    {
+      "text": "Ausschuss",
+      "label": "ORG",
+      "start": 45197,
+      "end": 45206
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 45260,
+      "end": 45266
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "Gönner",
+      "label": "PER",
+      "start": 45895,
+      "end": 45901
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "Junghanns",
+      "label": "PER",
+      "start": 50411,
+      "end": 50420
+    },
+    {
+      "text": "Beermann",
+      "label": "PER",
+      "start": 50463,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50537,
+      "end": 50549
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50565,
+      "end": 50574
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 51939,
+      "end": 51941
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 51998,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Landessozialgerichts Niedersachsen - Bremen",
+      "label": "ORG",
+      "start": 54024,
+      "end": 54065
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 57312,
+      "end": 57324
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 57390,
+      "end": 57394
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 57436,
+      "end": 57447
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 58052,
+      "end": 58060
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 59010,
+      "end": 59018
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 61464,
+      "end": 61475
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 61685,
+      "end": 61693
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 62345,
+      "end": 62362
+    },
+    {
+      "text": "SGB",
+      "label": "ORG",
+      "start": 63789,
+      "end": 63792
+    },
+    {
+      "text": "SGB",
+      "label": "ORG",
+      "start": 64418,
+      "end": 64421
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 64599,
+      "end": 64611
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 65432,
+      "end": 65441
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 67166,
+      "end": 67183
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 69004,
+      "end": 69016
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 69050,
+      "end": 69058
+    },
+    {
+      "text": "Ausschuss für Arbeit und Sozialpolitik",
+      "label": "ORG",
+      "start": 69158,
+      "end": 69196
+    },
+    {
+      "text": "##usschus",
+      "label": "ORG",
+      "start": 69231,
+      "end": 69238
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 69245,
+      "end": 69265
+    },
+    {
+      "text": "Ausschuss für Innere Angelegenheiten",
+      "label": "ORG",
+      "start": 69271,
+      "end": 69307
+    },
+    {
+      "text": "Rechtsausschuss",
+      "label": "ORG",
+      "start": 69316,
+      "end": 69331
+    },
+    {
+      "text": "Bundesrats",
+      "label": "ORG",
+      "start": 69728,
+      "end": 69738
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 69991,
+      "end": 69996
+    },
+    {
+      "text": "GO",
+      "label": "ORG",
+      "start": 70177,
+      "end": 70179
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 70295,
+      "end": 70300
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 70328,
+      "end": 70334
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 72030,
+      "end": 72036
+    },
+    {
+      "text": "##fassung",
+      "label": "ORG",
+      "start": 72039,
+      "end": 72046
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73138,
+      "end": 73147
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 73766,
+      "end": 73772
+    },
+    {
+      "text": "##ÜO",
+      "label": "ORG",
+      "start": 73774,
+      "end": 73776
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73847,
+      "end": 73856
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 75715,
+      "end": 75732
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 76374,
+      "end": 76387
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 76607,
+      "end": 76620
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 79126,
+      "end": 79128
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 79267,
+      "end": 79273
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESR",
+      "label": "ORG",
+      "start": 21,
+      "end": 28
+    },
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 146,
+      "end": 162
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 415,
+      "end": 417
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 524,
+      "end": 548
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 564,
+      "end": 570
+    },
+    {
+      "text": "Peter M",
+      "label": "PER",
+      "start": 671,
+      "end": 678
+    },
+    {
+      "text": "Jürgen R",
+      "label": "PER",
+      "start": 753,
+      "end": 761
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 920,
+      "end": 925
+    },
+    {
+      "text": "Reinhard L",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Karl R",
+      "label": "PER",
+      "start": 1043,
+      "end": 1049
+    },
+    {
+      "text": "Andreas K",
+      "label": "PER",
+      "start": 1084,
+      "end": 1093
+    },
+    {
+      "text": "GO",
+      "label": "ORG",
+      "start": 1240,
+      "end": 1242
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 1243,
+      "end": 1245
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 1317,
+      "end": 1340
+    },
+    {
+      "text": "- und Offsetdruckerei",
+      "label": "ORG",
+      "start": 1346,
+      "end": 1367
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1414,
+      "end": 1452
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 1762,
+      "end": 1764
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 2132,
+      "end": 2137
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 2202,
+      "end": 2215
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 2591,
+      "end": 2596
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 2631,
+      "end": 2659
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 2784,
+      "end": 2798
+    },
+    {
+      "text": "##rabBIP",
+      "label": "ORG",
+      "start": 4114,
+      "end": 4120
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 4414,
+      "end": 4432
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 4779,
+      "end": 4803
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 4835,
+      "end": 4851
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 4880,
+      "end": 4897
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 5557,
+      "end": 5559
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 5756,
+      "end": 5773
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 5996,
+      "end": 5998
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 6056,
+      "end": 6058
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6078,
+      "end": 6087
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 6264,
+      "end": 6277
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6382,
+      "end": 6397
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 6432,
+      "end": 6456
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 6478,
+      "end": 6489
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 6550,
+      "end": 6565
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 6576,
+      "end": 6589
+    },
+    {
+      "text": "Till Steffen",
+      "label": "PER",
+      "start": 6638,
+      "end": 6650
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 6672,
+      "end": 6676
+    },
+    {
+      "text": "##behörde",
+      "label": "ORG",
+      "start": 6678,
+      "end": 6685
+    },
+    {
+      "text": "Günther H. Oettinger",
+      "label": "PER",
+      "start": 6706,
+      "end": 6726
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 6764,
+      "end": 6781
+    },
+    {
+      "text": "Staatsministerium",
+      "label": "ORG",
+      "start": 6865,
+      "end": 6882
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 6944,
+      "end": 6962
+    },
+    {
+      "text": "Tan",
+      "label": "PER",
+      "start": 7049,
+      "end": 7052
+    },
+    {
+      "text": "##ja Gönner",
+      "label": "PER",
+      "start": 7052,
+      "end": 7061
+    },
+    {
+      "text": "Jörg - Uwe Hahn",
+      "label": "PER",
+      "start": 7081,
+      "end": 7094
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 7178,
+      "end": 7191
+    },
+    {
+      "text": "##staates",
+      "label": "ORG",
+      "start": 7276,
+      "end": 7283
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 7302,
+      "end": 7315
+    },
+    {
+      "text": "Manuela Schwesig",
+      "label": "PER",
+      "start": 7363,
+      "end": 7379
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 7429,
+      "end": 7443
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 7486,
+      "end": 7504
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 7527,
+      "end": 7542
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 7576,
+      "end": 7592
+    },
+    {
+      "text": "Philipp Rösler",
+      "label": "PER",
+      "start": 7623,
+      "end": 7637
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 7683,
+      "end": 7700
+    },
+    {
+      "text": "Andreas Pinkwart",
+      "label": "PER",
+      "start": 7799,
+      "end": 7815
+    },
+    {
+      "text": "Peter Harry Carstensen",
+      "label": "PER",
+      "start": 7903,
+      "end": 7925
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 7989,
+      "end": 8017
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 8054,
+      "end": 8070
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 8118,
+      "end": 8132
+    },
+    {
+      "text": "Klaus Zeh",
+      "label": "PER",
+      "start": 8156,
+      "end": 8165
+    },
+    {
+      "text": "Staatskanzlei Saar",
+      "label": "ORG",
+      "start": 8227,
+      "end": 8246
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 8252,
+      "end": 8264
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 8289,
+      "end": 8290
+    },
+    {
+      "text": "##erold Wucherpfennig",
+      "label": "PER",
+      "start": 8290,
+      "end": 8309
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 8359,
+      "end": 8370
+    },
+    {
+      "text": "Staatskanzlei Von",
+      "label": "ORG",
+      "start": 8432,
+      "end": 8449
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 8465,
+      "end": 8480
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 8483,
+      "end": 8499
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 8522,
+      "end": 8528
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 8530,
+      "end": 8547
+    },
+    {
+      "text": "Sven Morlok",
+      "label": "PER",
+      "start": 8567,
+      "end": 8578
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 8634,
+      "end": 8651
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 8686,
+      "end": 8694
+    },
+    {
+      "text": "Hermann Gröhe",
+      "label": "PER",
+      "start": 8696,
+      "end": 8709
+    },
+    {
+      "text": "Peter Altmaier",
+      "label": "PER",
+      "start": 8750,
+      "end": 8764
+    },
+    {
+      "text": "Peter Hintze",
+      "label": "PER",
+      "start": 8818,
+      "end": 8830
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 8931,
+      "end": 8946
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 8967,
+      "end": 8981
+    },
+    {
+      "text": "Jens Bullerjahn",
+      "label": "PER",
+      "start": 9071,
+      "end": 9086
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 9120,
+      "end": 9131
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 9148,
+      "end": 9154
+    },
+    {
+      "text": "Klaus Theo Schröder",
+      "label": "PER",
+      "start": 9160,
+      "end": 9179
+    },
+    {
+      "text": "Bundesministerium für Gesundheit 387",
+      "label": "ORG",
+      "start": 9199,
+      "end": 9236
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 9371,
+      "end": 9383
+    },
+    {
+      "text": "National Council",
+      "label": "ORG",
+      "start": 9556,
+      "end": 9572
+    },
+    {
+      "text": "Eva - Maria S t",
+      "label": "PER",
+      "start": 9997,
+      "end": 10010
+    },
+    {
+      "text": "Thomas J",
+      "label": "PER",
+      "start": 10051,
+      "end": 10059
+    },
+    {
+      "text": "Albrecht B",
+      "label": "PER",
+      "start": 10072,
+      "end": 10082
+    },
+    {
+      "text": "Geert M",
+      "label": "PER",
+      "start": 10099,
+      "end": 10106
+    },
+    {
+      "text": "Stanislaw",
+      "label": "PER",
+      "start": 10233,
+      "end": 10242
+    },
+    {
+      "text": "Sven M",
+      "label": "PER",
+      "start": 10361,
+      "end": 10367
+    },
+    {
+      "text": "Johannes B",
+      "label": "PER",
+      "start": 10384,
+      "end": 10394
+    },
+    {
+      "text": "Georg U",
+      "label": "PER",
+      "start": 10427,
+      "end": 10434
+    },
+    {
+      "text": "Petra W",
+      "label": "PER",
+      "start": 10679,
+      "end": 10686
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 10720,
+      "end": 10735
+    },
+    {
+      "text": "Hermann Onko A",
+      "label": "PER",
+      "start": 10774,
+      "end": 10788
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 13006,
+      "end": 13018
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13262,
+      "end": 13271
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 13621,
+      "end": 13629
+    },
+    {
+      "text": "Föderalismuskommission",
+      "label": "ORG",
+      "start": 14048,
+      "end": 14070
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 18137,
+      "end": 18161
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 18183,
+      "end": 18196
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18376,
+      "end": 18387
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 18530,
+      "end": 18541
+    },
+    {
+      "text": "A )",
+      "label": "ORG",
+      "start": 18577,
+      "end": 18579
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 18824,
+      "end": 18836
+    },
+    {
+      "text": "Jens B",
+      "label": "PER",
+      "start": 18892,
+      "end": 18898
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 19119,
+      "end": 19132
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 19196,
+      "end": 19208
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 19655,
+      "end": 19670
+    },
+    {
+      "text": "Kollege",
+      "label": "PER",
+      "start": 19884,
+      "end": 19891
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 19892,
+      "end": 19900
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 20097,
+      "end": 20103
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20235,
+      "end": 20247
+    },
+    {
+      "text": "Reinhard L",
+      "label": "PER",
+      "start": 20337,
+      "end": 20347
+    },
+    {
+      "text": "Karl R a",
+      "label": "PER",
+      "start": 20398,
+      "end": 20406
+    },
+    {
+      "text": "Andreas K",
+      "label": "PER",
+      "start": 20487,
+      "end": 20496
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20586,
+      "end": 20598
+    },
+    {
+      "text": "Europakammer",
+      "label": "ORG",
+      "start": 20739,
+      "end": 20751
+    },
+    {
+      "text": "Angela K",
+      "label": "PER",
+      "start": 21172,
+      "end": 21180
+    },
+    {
+      "text": "Beate M",
+      "label": "PER",
+      "start": 21234,
+      "end": 21241
+    },
+    {
+      "text": "Wowereit",
+      "label": "PER",
+      "start": 21713,
+      "end": 21721
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21746,
+      "end": 21760
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 22545,
+      "end": 22559
+    },
+    {
+      "text": "Nationalsozialisten",
+      "label": "ORG",
+      "start": 23590,
+      "end": 23609
+    },
+    {
+      "text": "Nationalsozialisten",
+      "label": "ORG",
+      "start": 24626,
+      "end": 24645
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26258,
+      "end": 26276
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26771,
+      "end": 26773
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27044,
+      "end": 27053
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28521,
+      "end": 28530
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 28571,
+      "end": 28585
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 29896,
+      "end": 29908
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30003,
+      "end": 30016
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 30018,
+      "end": 30031
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 31648,
+      "end": 31656
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 34283,
+      "end": 34286
+    },
+    {
+      "text": "Ole von Beust",
+      "label": "PER",
+      "start": 34322,
+      "end": 34335
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 35553,
+      "end": 35565
+    },
+    {
+      "text": "Zypries",
+      "label": "PER",
+      "start": 35669,
+      "end": 35676
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 35684,
+      "end": 35700
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 36170,
+      "end": 36175
+    },
+    {
+      "text": "Beust",
+      "label": "PER",
+      "start": 38248,
+      "end": 38253
+    },
+    {
+      "text": "Nazis",
+      "label": "ORG",
+      "start": 38513,
+      "end": 38518
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 40100,
+      "end": 40116
+    },
+    {
+      "text": "Bundesministerium",
+      "label": "ORG",
+      "start": 40391,
+      "end": 40408
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 40678,
+      "end": 40690
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 40824,
+      "end": 40827
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 40866,
+      "end": 40869
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 41120,
+      "end": 41122
+    },
+    {
+      "text": "Müller - Piepenkötter",
+      "label": "PER",
+      "start": 41173,
+      "end": 41192
+    },
+    {
+      "text": "Roswitha Müller - Piepenkötter",
+      "label": "PER",
+      "start": 41244,
+      "end": 41272
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45035,
+      "end": 45047
+    },
+    {
+      "text": "Ausschuss für Inner",
+      "label": "ORG",
+      "start": 45197,
+      "end": 45216
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45260,
+      "end": 45269
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 45315,
+      "end": 45327
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 45895,
+      "end": 45896
+    },
+    {
+      "text": "Tanja Gönner",
+      "label": "PER",
+      "start": 45944,
+      "end": 45956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 47852,
+      "end": 47875
+    },
+    {
+      "text": "Jung",
+      "label": "PER",
+      "start": 50411,
+      "end": 50415
+    },
+    {
+      "text": "##hanns",
+      "label": "PER",
+      "start": 50415,
+      "end": 50420
+    },
+    {
+      "text": "Beermann",
+      "label": "PER",
+      "start": 50463,
+      "end": 50471
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50537,
+      "end": 50549
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 50625,
+      "end": 50637
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 51998,
+      "end": 52006
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 52046,
+      "end": 52063
+    },
+    {
+      "text": "Landessozialgericht",
+      "label": "ORG",
+      "start": 54024,
+      "end": 54043
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 54638,
+      "end": 54642
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54701,
+      "end": 54709
+    },
+    {
+      "text": "Bernhard Busemann",
+      "label": "PER",
+      "start": 55645,
+      "end": 55662
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 57312,
+      "end": 57324
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 57390,
+      "end": 57394
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 57436,
+      "end": 57447
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 58052,
+      "end": 58060
+    },
+    {
+      "text": "Busemann",
+      "label": "PER",
+      "start": 59010,
+      "end": 59018
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 61464,
+      "end": 61475
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 61685,
+      "end": 61693
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 62345,
+      "end": 62362
+    },
+    {
+      "text": "SGB V",
+      "label": "ORG",
+      "start": 63789,
+      "end": 63794
+    },
+    {
+      "text": "SGB II",
+      "label": "ORG",
+      "start": 64418,
+      "end": 64424
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 64599,
+      "end": 64611
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64605,
+      "end": 64611
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 67166,
+      "end": 67183
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 69004,
+      "end": 69016
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 69050,
+      "end": 69058
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 69245,
+      "end": 69265
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 69271,
+      "end": 69274
+    },
+    {
+      "text": "Bundesratsverwaltung",
+      "label": "ORG",
+      "start": 69728,
+      "end": 69748
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 69994,
+      "end": 69996
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 70180,
+      "end": 70182
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 70298,
+      "end": 70300
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 71860,
+      "end": 71878
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 72030,
+      "end": 72054
+    },
+    {
+      "text": "Ulrich Junghanns",
+      "label": "PER",
+      "start": 72108,
+      "end": 72124
+    },
+    {
+      "text": "BImSchV",
+      "label": "ORG",
+      "start": 72526,
+      "end": 72533
+    },
+    {
+      "text": "K",
+      "label": "ORG",
+      "start": 73095,
+      "end": 73096
+    },
+    {
+      "text": "K",
+      "label": "ORG",
+      "start": 73773,
+      "end": 73774
+    },
+    {
+      "text": "##O",
+      "label": "ORG",
+      "start": 73775,
+      "end": 73776
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 74006,
+      "end": 74007
+    },
+    {
+      "text": "K",
+      "label": "ORG",
+      "start": 74300,
+      "end": 74301
+    },
+    {
+      "text": "##ÜO",
+      "label": "ORG",
+      "start": 74301,
+      "end": 74303
+    },
+    {
+      "text": "K",
+      "label": "ORG",
+      "start": 75257,
+      "end": 75258
+    },
+    {
+      "text": "##ÜO",
+      "label": "ORG",
+      "start": 75258,
+      "end": 75260
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 75715,
+      "end": 75732
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 76374,
+      "end": 76387
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 76607,
+      "end": 76620
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 76862,
+      "end": 76864
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 77052,
+      "end": 77054
+    },
+    {
+      "text": "KÜO",
+      "label": "ORG",
+      "start": 77874,
+      "end": 77877
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78199,
+      "end": 78201
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78657,
+      "end": 78659
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 79126,
+      "end": 79128
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79267,
+      "end": 79276
+    }
+  ]
+}

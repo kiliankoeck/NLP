@@ -1,0 +1,1397 @@
+{
+  "filename": "05.07.2007_29._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 728,
+      "end": 748
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 768,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter\\nHaubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 977,
+      "end": 997
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1341,
+      "end": 1352
+    },
+    {
+      "text": "MBA",
+      "label": "PER",
+      "start": 1354,
+      "end": 1357
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1648,
+      "end": 1667
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 1965,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2539,
+      "end": 2559
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2765,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Mag. Kukacka",
+      "label": "PER",
+      "start": 2845,
+      "end": 2857
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Mag. Maier",
+      "label": "PER",
+      "start": 3191,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 728,
+      "end": 748
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 768,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 891,
+      "end": 896
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 897,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 977,
+      "end": 997
+    },
+    {
+      "text": "Werner Amon, MBA",
+      "label": "PER",
+      "start": 1341,
+      "end": 1357
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1648,
+      "end": 1667
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 1965,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2539,
+      "end": 2559
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2765,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2845,
+      "end": 2849
+    },
+    {
+      "text": "Kukacka",
+      "label": "PER",
+      "start": 2850,
+      "end": 2857
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3176,
+      "end": 3180
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 3181,
+      "end": 3189
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3191,
+      "end": 3195
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 3196,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 733,
+      "end": 748
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 773,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 997
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1341,
+      "end": 1352
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1500,
+      "end": 1514
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1970,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2559
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Kukacka",
+      "label": "PER",
+      "start": 2850,
+      "end": 2857
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 3181,
+      "end": 3189
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 3196,
+      "end": 3201
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 733,
+      "end": 748
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 768,
+      "end": 771
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 773,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter\nHaubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 977,
+      "end": 980
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 997
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1341,
+      "end": 1352
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1635,
+      "end": 1647
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1952,
+      "end": 1964
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1970,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2559
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2765,
+      "end": 2768
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2845,
+      "end": 2849
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 3196,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 733,
+      "end": 748
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 768,
+      "end": 771
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 773,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter\nHaubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 977,
+      "end": 980
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 997
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1341,
+      "end": 1352
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 1359,
+      "end": 1374
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1496,
+      "end": 1514
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1635,
+      "end": 1647
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1952,
+      "end": 1964
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1970,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2559
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2594,
+      "end": 2612
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2765,
+      "end": 2768
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2845,
+      "end": 2849
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 3196,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 733,
+      "end": 748
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 773,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 881,
+      "end": 889
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 997
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1306
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1965,
+      "end": 1969
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1970,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2559
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Mag. Kukacka",
+      "label": "PER",
+      "start": 2845,
+      "end": 2857
+    },
+    {
+      "text": "Umweltausschuss",
+      "label": "ORG",
+      "start": 2955,
+      "end": 2970
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Gesundheitsausschus",
+      "label": "ORG",
+      "start": 3108,
+      "end": 3127
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Mag. Maier",
+      "label": "PER",
+      "start": 3191,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 649,
+      "end": 660
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 728,
+      "end": 731
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 733,
+      "end": 748
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 768,
+      "end": 771
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 773,
+      "end": 788
+    },
+    {
+      "text": "Stauber",
+      "label": "PER",
+      "start": 862,
+      "end": 869
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 871,
+      "end": 879
+    },
+    {
+      "text": "##ruck",
+      "label": "PER",
+      "start": 885,
+      "end": 889
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 914,
+      "end": 919
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 924,
+      "end": 939
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 977,
+      "end": 980
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 997
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1965,
+      "end": 1968
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1970,
+      "end": 1987
+    },
+    {
+      "text": "Bettina Hradecsni",
+      "label": "PER",
+      "start": 2243,
+      "end": 2260
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 2370,
+      "end": 2385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2483
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2559
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2765,
+      "end": 2768
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 2839,
+      "end": 2843
+    },
+    {
+      "text": "Kukacka",
+      "label": "PER",
+      "start": 2850,
+      "end": 2857
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 3021,
+      "end": 3025
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 3196,
+      "end": 3201
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3310
+    }
+  ]
+}

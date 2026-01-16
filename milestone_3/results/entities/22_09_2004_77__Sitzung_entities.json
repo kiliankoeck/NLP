@@ -1,0 +1,833 @@
+{
+  "filename": "22.09.2004_77._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 742,
+      "end": 758
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 826,
+      "end": 839
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 887,
+      "end": 895
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 948,
+      "end": 964
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1529,
+      "end": 1548
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 1958,
+      "end": 1978
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2166,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2712,
+      "end": 2728
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2764,
+      "end": 2789
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2791,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Patentamtes",
+      "label": "ORG",
+      "start": 3784,
+      "end": 3795
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3947,
+      "end": 3963
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3989,
+      "end": 4002
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4475,
+      "end": 4494
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 742,
+      "end": 758
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 826,
+      "end": 839
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 887,
+      "end": 895
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 948,
+      "end": 964
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1529,
+      "end": 1532
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 1533,
+      "end": 1536
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 1958,
+      "end": 1978
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2166,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2712,
+      "end": 2728
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2764,
+      "end": 2789
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2791,
+      "end": 2794
+    },
+    {
+      "text": "Helene",
+      "label": "PER",
+      "start": 2795,
+      "end": 2801
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3947,
+      "end": 3963
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3989,
+      "end": 4002
+    }
+  ],
+  "flair": [
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 758
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 792
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 887,
+      "end": 895
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 900,
+      "end": 912
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 952,
+      "end": 964
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 1533,
+      "end": 1548
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 1962,
+      "end": 1978
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2716,
+      "end": 2728
+    },
+    {
+      "text": "Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2768,
+      "end": 2789
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2795,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3951,
+      "end": 3963
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 742,
+      "end": 758
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 826,
+      "end": 839
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 887,
+      "end": 895
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 948,
+      "end": 964
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1529,
+      "end": 1548
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1945,
+      "end": 1957
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 1958,
+      "end": 1978
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2153,
+      "end": 2165
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2712,
+      "end": 2728
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2764,
+      "end": 2789
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2791,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3947,
+      "end": 3963
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3989,
+      "end": 4002
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 742,
+      "end": 758
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 776,
+      "end": 792
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 826,
+      "end": 839
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 887,
+      "end": 895
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 948,
+      "end": 964
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1529,
+      "end": 1548
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1945,
+      "end": 1957
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 1958,
+      "end": 1978
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2153,
+      "end": 2165
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2712,
+      "end": 2728
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2764,
+      "end": 2789
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2791,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3947,
+      "end": 3963
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3989,
+      "end": 4002
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 758
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 792
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 952,
+      "end": 964
+    },
+    {
+      "text": "StEG",
+      "label": "ORG",
+      "start": 1901,
+      "end": 1905
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 1962,
+      "end": 1978
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2091,
+      "end": 2130
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2716,
+      "end": 2728
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 2768,
+      "end": 2789
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2795,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3951,
+      "end": 3963
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3989,
+      "end": 4002
+    },
+    {
+      "text": "Rechnungshofausschuss",
+      "label": "ORG",
+      "start": 4314,
+      "end": 4335
+    },
+    {
+      "text": "Rec",
+      "label": "ORG",
+      "start": 4367,
+      "end": 4370
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 758
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 792
+    },
+    {
+      "text": "Sc",
+      "label": "PER",
+      "start": 887,
+      "end": 889
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 952,
+      "end": 964
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 1901,
+      "end": 1903
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 1962,
+      "end": 1978
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2171,
+      "end": 2183
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2716,
+      "end": 2728
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 2768,
+      "end": 2773
+    },
+    {
+      "text": "-",
+      "label": "PER",
+      "start": 2773,
+      "end": 2774
+    },
+    {
+      "text": "Joseph Huainigg",
+      "label": "PER",
+      "start": 2774,
+      "end": 2789
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2795,
+      "end": 2813
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2954,
+      "end": 2972
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3951,
+      "end": 3963
+    },
+    {
+      "text": "VI",
+      "label": "ORG",
+      "start": 4294,
+      "end": 4296
+    },
+    {
+      "text": "Rec",
+      "label": "ORG",
+      "start": 4314,
+      "end": 4317
+    },
+    {
+      "text": "##shofausschuss",
+      "label": "ORG",
+      "start": 4322,
+      "end": 4335
+    },
+    {
+      "text": "Rec",
+      "label": "ORG",
+      "start": 4367,
+      "end": 4370
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4475,
+      "end": 4494
+    }
+  ]
+}

@@ -1,0 +1,1499 @@
+{
+  "filename": "27.04.2000_21._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 229,
+      "end": 242
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 894,
+      "end": 906
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit und Generationen",
+      "label": "PER",
+      "start": 933,
+      "end": 989
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Bundeskanzlers",
+      "label": "PER",
+      "start": 1070,
+      "end": 1084
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1118,
+      "end": 1138
+    },
+    {
+      "text": "Bundeskanzlers",
+      "label": "PER",
+      "start": 1174,
+      "end": 1188
+    },
+    {
+      "text": "Dr. Peter Kostelka",
+      "label": "PER",
+      "start": 1222,
+      "end": 1240
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1276,
+      "end": 1350
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1438,
+      "end": 1512
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1546,
+      "end": 1564
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1643
+    },
+    {
+      "text": "Dr. Heinz Fischer.",
+      "label": "PER",
+      "start": 1707,
+      "end": 1725
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 1742,
+      "end": 1760
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Mertel,",
+      "label": "PER",
+      "start": 1890,
+      "end": 1901
+    },
+    {
+      "text": "Dr. Partik-Pablé,",
+      "label": "PER",
+      "start": 1902,
+      "end": 1919
+    },
+    {
+      "text": "Dr. Povysil,",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Dr. Puttinger",
+      "label": "PER",
+      "start": 1933,
+      "end": 1946
+    },
+    {
+      "text": "Ing. Maderthaner.",
+      "label": "PER",
+      "start": 1951,
+      "end": 1968
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 2003,
+      "end": 2021
+    },
+    {
+      "text": "Dr. Gerhart Bruckmann,",
+      "label": "PER",
+      "start": 2443,
+      "end": 2465
+    },
+    {
+      "text": "Mag. Herbert Haupt",
+      "label": "PER",
+      "start": 2466,
+      "end": 2484
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 3118,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Elisabeth Pittermann,",
+      "label": "PER",
+      "start": 3253,
+      "end": 3278
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 3490,
+      "end": 3518
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3590
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3643,
+      "end": 3660
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 3702,
+      "end": 3716
+    },
+    {
+      "text": "Mag. Dr. Udo Grollitsch,",
+      "label": "PER",
+      "start": 3871,
+      "end": 3895
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 4012,
+      "end": 4030
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Dr. Kostelka",
+      "label": "PER",
+      "start": 4313,
+      "end": 4325
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4484,
+      "end": 4498
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4681,
+      "end": 4694
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4745,
+      "end": 4767
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 229,
+      "end": 242
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1118,
+      "end": 1138
+    },
+    {
+      "text": "Dr. Peter Kostelka",
+      "label": "PER",
+      "start": 1222,
+      "end": 1240
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1546,
+      "end": 1564
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1642
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1707,
+      "end": 1724
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1742,
+      "end": 1759
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1842
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1890,
+      "end": 1893
+    },
+    {
+      "text": "Mertel",
+      "label": "PER",
+      "start": 1894,
+      "end": 1900
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1902,
+      "end": 1905
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 1906,
+      "end": 1918
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1920,
+      "end": 1923
+    },
+    {
+      "text": "Povysil",
+      "label": "PER",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1933,
+      "end": 1936
+    },
+    {
+      "text": "Puttinger",
+      "label": "PER",
+      "start": 1937,
+      "end": 1946
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1951,
+      "end": 1955
+    },
+    {
+      "text": "Maderthaner",
+      "label": "PER",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2003,
+      "end": 2020
+    },
+    {
+      "text": "Dr. Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2443,
+      "end": 2464
+    },
+    {
+      "text": "Mag. Herbert Haupt",
+      "label": "PER",
+      "start": 2466,
+      "end": 2484
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 3118,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3253,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 3490,
+      "end": 3518
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3589
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3643,
+      "end": 3660
+    },
+    {
+      "text": "Mag. Dr. Udo Grollitsch",
+      "label": "PER",
+      "start": 3871,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4029
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4313,
+      "end": 4316
+    },
+    {
+      "text": "Kostelka",
+      "label": "PER",
+      "start": 4317,
+      "end": 4325
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4484,
+      "end": 4497
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4681,
+      "end": 4694
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministerin für soziale Sicherheit und Generationen",
+      "label": "ORG",
+      "start": 933,
+      "end": 989
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1123,
+      "end": 1138
+    },
+    {
+      "text": "Peter Kostelka",
+      "label": "PER",
+      "start": 1226,
+      "end": 1240
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1350
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1438,
+      "end": 1512
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1546,
+      "end": 1564
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1711,
+      "end": 1724
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1746,
+      "end": 1759
+    },
+    {
+      "text": "Mertel",
+      "label": "PER",
+      "start": 1894,
+      "end": 1900
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 1906,
+      "end": 1918
+    },
+    {
+      "text": "Povysil",
+      "label": "PER",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "text": "Puttinger",
+      "label": "PER",
+      "start": 1937,
+      "end": 1946
+    },
+    {
+      "text": "Maderthaner",
+      "label": "PER",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2007,
+      "end": 2020
+    },
+    {
+      "text": "Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2447,
+      "end": 2464
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "text": "Anliegen",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2583
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3257,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3500,
+      "end": 3518
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3647,
+      "end": 3660
+    },
+    {
+      "text": "Udo Grollitsch",
+      "label": "PER",
+      "start": 3880,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4016,
+      "end": 4029
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4241,
+      "end": 4274
+    },
+    {
+      "text": "Kostelka",
+      "label": "PER",
+      "start": 4317,
+      "end": 4325
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4745,
+      "end": 4767
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 229,
+      "end": 266
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit und Generationen",
+      "label": "ORG",
+      "start": 933,
+      "end": 989
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1105,
+      "end": 1117
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1123,
+      "end": 1138
+    },
+    {
+      "text": "Dr. Peter Kostelka",
+      "label": "PER",
+      "start": 1222,
+      "end": 1240
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1321
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1438,
+      "end": 1483
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1546,
+      "end": 1564
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1642
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1707,
+      "end": 1724
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1742,
+      "end": 1759
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1842
+    },
+    {
+      "text": "Dr. Mertel",
+      "label": "PER",
+      "start": 1890,
+      "end": 1900
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1902,
+      "end": 1918
+    },
+    {
+      "text": "Dr. Povysil",
+      "label": "PER",
+      "start": 1920,
+      "end": 1931
+    },
+    {
+      "text": "Dr. Puttinger",
+      "label": "PER",
+      "start": 1933,
+      "end": 1946
+    },
+    {
+      "text": "Ing. Maderthaner",
+      "label": "PER",
+      "start": 1951,
+      "end": 1967
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2003,
+      "end": 2020
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2264,
+      "end": 2275
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2430,
+      "end": 2442
+    },
+    {
+      "text": "Dr. Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2443,
+      "end": 2464
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3253,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3477,
+      "end": 3489
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3500,
+      "end": 3518
+    },
+    {
+      "text": "Dr. Heinz Fischer\nRechnungshofausschuss",
+      "label": "PER",
+      "start": 3643,
+      "end": 3682
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3858,
+      "end": 3870
+    },
+    {
+      "text": "Udo Grollitsch",
+      "label": "PER",
+      "start": 3880,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4029
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4082
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4300,
+      "end": 4312
+    },
+    {
+      "text": "Dr. Kostelka",
+      "label": "PER",
+      "start": 4313,
+      "end": 4325
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4484,
+      "end": 4497
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4681,
+      "end": 4694
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 229,
+      "end": 266
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 894,
+      "end": 906
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit und Generationen",
+      "label": "ORG",
+      "start": 933,
+      "end": 989
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1105,
+      "end": 1117
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1123,
+      "end": 1138
+    },
+    {
+      "text": "Dr. Peter Kostelka",
+      "label": "PER",
+      "start": 1222,
+      "end": 1240
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1276,
+      "end": 1321
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1384,
+      "end": 1402
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1438,
+      "end": 1483
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1546,
+      "end": 1564
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1642
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1707,
+      "end": 1724
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1742,
+      "end": 1759
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1842
+    },
+    {
+      "text": "Dr. Mertel",
+      "label": "PER",
+      "start": 1890,
+      "end": 1900
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1902,
+      "end": 1918
+    },
+    {
+      "text": "Dr. Povysil",
+      "label": "PER",
+      "start": 1920,
+      "end": 1931
+    },
+    {
+      "text": "Dr. Puttinger",
+      "label": "PER",
+      "start": 1933,
+      "end": 1946
+    },
+    {
+      "text": "Ing. Maderthaner",
+      "label": "PER",
+      "start": 1951,
+      "end": 1967
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2003,
+      "end": 2020
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2264,
+      "end": 2275
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2430,
+      "end": 2442
+    },
+    {
+      "text": "Dr. Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2443,
+      "end": 2464
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3253,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3477,
+      "end": 3489
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3500,
+      "end": 3518
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3589
+    },
+    {
+      "text": "Dr. Heinz Fischer\nRechnungshofausschuss",
+      "label": "PER",
+      "start": 3643,
+      "end": 3682
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3858,
+      "end": 3870
+    },
+    {
+      "text": "Udo Grollitsch",
+      "label": "PER",
+      "start": 3880,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4029
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4082
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4300,
+      "end": 4312
+    },
+    {
+      "text": "Dr. Kostelka",
+      "label": "PER",
+      "start": 4313,
+      "end": 4325
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4484,
+      "end": 4497
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4681,
+      "end": 4694
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 229,
+      "end": 242
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 256,
+      "end": 266
+    },
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Mag. Barbara",
+      "label": "PER",
+      "start": 1118,
+      "end": 1130
+    },
+    {
+      "text": "Partik - Pablé",
+      "label": "PER",
+      "start": 1906,
+      "end": 1918
+    },
+    {
+      "text": "Povysil",
+      "label": "PER",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "text": "Puttinger",
+      "label": "PER",
+      "start": 1937,
+      "end": 1946
+    },
+    {
+      "text": "Maderthaner",
+      "label": "PER",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2007,
+      "end": 2020
+    },
+    {
+      "text": "Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2447,
+      "end": 2464
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3257,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3500,
+      "end": 3518
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3647,
+      "end": 3660
+    },
+    {
+      "text": "Udo Grollitsch",
+      "label": "PER",
+      "start": 3880,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4016,
+      "end": 4029
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 4083,
+      "end": 4088
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4241,
+      "end": 4274
+    },
+    {
+      "text": "Kostelka",
+      "label": "PER",
+      "start": 4317,
+      "end": 4325
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 4439,
+      "end": 4448
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4484,
+      "end": 4492
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4681,
+      "end": 4689
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4745,
+      "end": 4767
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Franz Riepl",
+      "label": "PER",
+      "start": 1023,
+      "end": 1034
+    },
+    {
+      "text": "Genossen",
+      "label": "PER",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1118,
+      "end": 1121
+    },
+    {
+      "text": "Barbara",
+      "label": "PER",
+      "start": 1123,
+      "end": 1130
+    },
+    {
+      "text": "Parti",
+      "label": "PER",
+      "start": 1906,
+      "end": 1911
+    },
+    {
+      "text": "Pablé",
+      "label": "PER",
+      "start": 1913,
+      "end": 1918
+    },
+    {
+      "text": "Povysil",
+      "label": "PER",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "text": "Puttinger",
+      "label": "PER",
+      "start": 1937,
+      "end": 1946
+    },
+    {
+      "text": "Maderthaner",
+      "label": "PER",
+      "start": 1956,
+      "end": 1967
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2007,
+      "end": 2020
+    },
+    {
+      "text": "Gerhart Bruckmann",
+      "label": "PER",
+      "start": 2447,
+      "end": 2464
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Elisabeth Pittermann",
+      "label": "PER",
+      "start": 3257,
+      "end": 3277
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 3279,
+      "end": 3297
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3500,
+      "end": 3518
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3589
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3647,
+      "end": 3660
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 3702,
+      "end": 3716
+    },
+    {
+      "text": "Udo Grollitsch",
+      "label": "PER",
+      "start": 3880,
+      "end": 3894
+    },
+    {
+      "text": "Georg Schwarzenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3917
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4016,
+      "end": 4029
+    },
+    {
+      "text": "Rie",
+      "label": "ORG",
+      "start": 4083,
+      "end": 4086
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 4315,
+      "end": 4316
+    },
+    {
+      "text": "Kostelka",
+      "label": "PER",
+      "start": 4317,
+      "end": 4325
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4745,
+      "end": 4767
+    }
+  ]
+}

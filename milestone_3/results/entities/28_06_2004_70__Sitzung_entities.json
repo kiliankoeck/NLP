@@ -1,0 +1,1145 @@
+{
+  "filename": "28.06.2004_70._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 43,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 178,
+      "end": 192
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1067,
+      "end": 1082
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1196,
+      "end": 1212
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1280,
+      "end": 1293
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1341,
+      "end": 1349
+    },
+    {
+      "text": "Schiefermair ",
+      "label": "PER",
+      "start": 1351,
+      "end": 1364
+    },
+    {
+      "text": "Mag. Weinzinger",
+      "label": "PER",
+      "start": 1368,
+      "end": 1383
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1419,
+      "end": 1435
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1795
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 1797,
+      "end": 1812
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 1826,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2069,
+      "end": 2087
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2151,
+      "end": 2153
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2499,
+      "end": 2517
+    },
+    {
+      "text": "Bundesregierung ",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2804
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2846,
+      "end": 2855
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "ERPFonds",
+      "label": "ORG",
+      "start": 895,
+      "end": 903
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2934,
+      "end": 2943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3192,
+      "end": 3208
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3220,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3620,
+      "end": 3644
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 3646,
+      "end": 3659
+    },
+    {
+      "text": "KommAustria",
+      "label": "ORG",
+      "start": 3775,
+      "end": 3786
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3802,
+      "end": 3805
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3956
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4168
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 178,
+      "end": 191
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1067,
+      "end": 1082
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1196,
+      "end": 1212
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1280,
+      "end": 1293
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1341,
+      "end": 1349
+    },
+    {
+      "text": "Schiefermair",
+      "label": "PER",
+      "start": 1351,
+      "end": 1363
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1368,
+      "end": 1372
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 1373,
+      "end": 1383
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1419,
+      "end": 1435
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1795
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 1797,
+      "end": 1812
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 1826,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2069,
+      "end": 2087
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2499,
+      "end": 2517
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2803
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3192,
+      "end": 3208
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3220,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3620,
+      "end": 3623
+    },
+    {
+      "text": "Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3624,
+      "end": 3644
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3646,
+      "end": 3649
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 3650,
+      "end": 3659
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3956
+    }
+  ],
+  "flair": [
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "ERPFonds",
+      "label": "ORG",
+      "start": 895,
+      "end": 903
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1200,
+      "end": 1212
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1234,
+      "end": 1246
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1341,
+      "end": 1349
+    },
+    {
+      "text": "Schiefermair",
+      "label": "PER",
+      "start": 1351,
+      "end": 1363
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 1373,
+      "end": 1383
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1423,
+      "end": 1435
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1781,
+      "end": 1795
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 1802,
+      "end": 1812
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 1826,
+      "end": 1843
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2073,
+      "end": 2087
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2503,
+      "end": 2517
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2846,
+      "end": 2855
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2934,
+      "end": 2943
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3224,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3624,
+      "end": 3644
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 3650,
+      "end": 3659
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 178,
+      "end": 215
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 366,
+      "end": 468
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 496,
+      "end": 602
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1196,
+      "end": 1212
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1280,
+      "end": 1293
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1419,
+      "end": 1435
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1775
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1781,
+      "end": 1795
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 1802,
+      "end": 1812
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 1826,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2069,
+      "end": 2087
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2499,
+      "end": 2517
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2846,
+      "end": 2855
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2934,
+      "end": 2943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3192,
+      "end": 3208
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3220,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3620,
+      "end": 3644
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 3646,
+      "end": 3659
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3956
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 178,
+      "end": 215
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 366,
+      "end": 468
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 496,
+      "end": 602
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 807,
+      "end": 816
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1067,
+      "end": 1082
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1130
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1196,
+      "end": 1212
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1230,
+      "end": 1246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1280,
+      "end": 1293
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1419,
+      "end": 1435
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1775
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1781,
+      "end": 1795
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 1802,
+      "end": 1812
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1814,
+      "end": 1824
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 1826,
+      "end": 1843
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2069,
+      "end": 2087
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2499,
+      "end": 2517
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2803
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2846,
+      "end": 2855
+    },
+    {
+      "text": "ERP-Fonds",
+      "label": "ORG",
+      "start": 2934,
+      "end": 2943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3192,
+      "end": 3208
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3220,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3620,
+      "end": 3644
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 3646,
+      "end": 3659
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3956
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 178,
+      "end": 191
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 205,
+      "end": 215
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2073,
+      "end": 2087
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2503,
+      "end": 2517
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2803
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3224,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Ausschuss für Sportangelegenheiten",
+      "label": "ORG",
+      "start": 3534,
+      "end": 3568
+    },
+    {
+      "text": "Baumgartner",
+      "label": "PER",
+      "start": 3624,
+      "end": 3635
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 3636,
+      "end": 3644
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 3650,
+      "end": 3659
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3956
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "ERP",
+      "label": "ORG",
+      "start": 807,
+      "end": 810
+    },
+    {
+      "text": "Fonds",
+      "label": "ORG",
+      "start": 811,
+      "end": 816
+    },
+    {
+      "text": "ERP",
+      "label": "ORG",
+      "start": 832,
+      "end": 835
+    },
+    {
+      "text": "Fonds",
+      "label": "ORG",
+      "start": 836,
+      "end": 841
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2073,
+      "end": 2087
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2503,
+      "end": 2517
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2794
+    },
+    {
+      "text": "ER",
+      "label": "ORG",
+      "start": 2846,
+      "end": 2848
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3224,
+      "end": 3236
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3372,
+      "end": 3385
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 3387,
+      "end": 3405
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3407,
+      "end": 3423
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3425,
+      "end": 3437
+    },
+    {
+      "text": "Baumgartner",
+      "label": "PER",
+      "start": 3624,
+      "end": 3635
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 3636,
+      "end": 3644
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 3650,
+      "end": 3659
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3943,
+      "end": 3951
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4173
+    }
+  ]
+}

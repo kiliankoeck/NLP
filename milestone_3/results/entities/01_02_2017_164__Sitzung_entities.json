@@ -1,0 +1,851 @@
+{
+  "filename": "01.02.2017_164._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 816,
+      "end": 829
+    },
+    {
+      "text": "Dr. Feichtinger",
+      "label": "PER",
+      "start": 877,
+      "end": 892
+    },
+    {
+      "text": "Krainer",
+      "label": "PER",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "Mag. Groiß",
+      "label": "PER",
+      "start": 903,
+      "end": 913
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Pfurtscheller",
+      "label": "PER",
+      "start": 932,
+      "end": 962
+    },
+    {
+      "text": "Dr. Karlsböck",
+      "label": "PER",
+      "start": 964,
+      "end": 977
+    },
+    {
+      "text": "Ing. Schellenbacher",
+      "label": "PER",
+      "start": 979,
+      "end": 998
+    },
+    {
+      "text": "Mag. Schrangl",
+      "label": "PER",
+      "start": 1000,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Mag. Rossmann und Dr. Winter",
+      "label": "PER",
+      "start": 1034,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1604,
+      "end": 1618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1644,
+      "end": 1657
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 816,
+      "end": 829
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 877,
+      "end": 880
+    },
+    {
+      "text": "Feichtinger",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Krainer",
+      "label": "PER",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 903,
+      "end": 907
+    },
+    {
+      "text": "Groiß",
+      "label": "PER",
+      "start": 908,
+      "end": 913
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "Dipl.-Kffr.",
+      "label": "PER",
+      "start": 932,
+      "end": 943
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 949,
+      "end": 962
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 964,
+      "end": 967
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 979,
+      "end": 983
+    },
+    {
+      "text": "Schellenbacher",
+      "label": "PER",
+      "start": 984,
+      "end": 998
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1000,
+      "end": 1004
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1005,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1034,
+      "end": 1038
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1052,
+      "end": 1055
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1604,
+      "end": 1618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1644,
+      "end": 1657
+    }
+  ],
+  "flair": [
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Feichtinger",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Krainer",
+      "label": "PER",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "Groiß",
+      "label": "PER",
+      "start": 908,
+      "end": 913
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 945,
+      "end": 947
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 949,
+      "end": 962
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "Schellenbacher",
+      "label": "PER",
+      "start": 984,
+      "end": 998
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1005,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1604,
+      "end": 1618
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 664,
+      "end": 667
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 816,
+      "end": 829
+    },
+    {
+      "text": "Dr. Feichtinger",
+      "label": "PER",
+      "start": 877,
+      "end": 892
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "FH) Pfurtscheller",
+      "label": "ORG",
+      "start": 945,
+      "end": 962
+    },
+    {
+      "text": "Dr. Karlsböck",
+      "label": "PER",
+      "start": 964,
+      "end": 977
+    },
+    {
+      "text": "Ing. Schellenbacher",
+      "label": "PER",
+      "start": 979,
+      "end": 998
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1005,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "ORG",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1034,
+      "end": 1038
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1604,
+      "end": 1618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1644,
+      "end": 1657
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 664,
+      "end": 667
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 816,
+      "end": 829
+    },
+    {
+      "text": "Dr. Feichtinger",
+      "label": "PER",
+      "start": 877,
+      "end": 892
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "FH) Pfurtscheller",
+      "label": "ORG",
+      "start": 945,
+      "end": 962
+    },
+    {
+      "text": "Dr. Karlsböck",
+      "label": "PER",
+      "start": 964,
+      "end": 977
+    },
+    {
+      "text": "Ing. Schellenbacher",
+      "label": "PER",
+      "start": 979,
+      "end": 998
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1005,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "ORG",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1034,
+      "end": 1038
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1604,
+      "end": 1618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1644,
+      "end": 1657
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Feichtinger",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Krainer",
+      "label": "PER",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 903,
+      "end": 906
+    },
+    {
+      "text": "Groiß",
+      "label": "PER",
+      "start": 908,
+      "end": 913
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 945,
+      "end": 947
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 949,
+      "end": 962
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "Ing. Schellenbacher",
+      "label": "PER",
+      "start": 979,
+      "end": 998
+    },
+    {
+      "text": "Mag. Schrangl",
+      "label": "PER",
+      "start": 1000,
+      "end": 1013
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1015,
+      "end": 1022
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1034,
+      "end": 1037
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 735,
+      "end": 749
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 767,
+      "end": 781
+    },
+    {
+      "text": "Feichtinger",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Groiß",
+      "label": "PER",
+      "start": 908,
+      "end": 913
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 915,
+      "end": 930
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 945,
+      "end": 947
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 949,
+      "end": 962
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 968,
+      "end": 977
+    },
+    {
+      "text": "Schellenbacher",
+      "label": "PER",
+      "start": 984,
+      "end": 998
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1005,
+      "end": 1013
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1024,
+      "end": 1032
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1039,
+      "end": 1047
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1056,
+      "end": 1062
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1086,
+      "end": 1100
+    }
+  ]
+}

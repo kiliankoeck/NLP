@@ -1,0 +1,1535 @@
+{
+  "filename": "19.10.2000_42._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 231,
+      "end": 244
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 773,
+      "end": 790
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 808,
+      "end": 825
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 859,
+      "end": 872
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1016,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Dr. Ofner",
+      "label": "PER",
+      "start": 1047,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1125,
+      "end": 1142
+    },
+    {
+      "text": "Mag. Herbert Haupt",
+      "label": "PER",
+      "start": 1483,
+      "end": 1501
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 1503,
+      "end": 1526
+    },
+    {
+      "text": "Annemarie\\nReitsamer",
+      "label": "PER",
+      "start": 1528,
+      "end": 1547
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 1771,
+      "end": 1788
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1927,
+      "end": 1946
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 2039,
+      "end": 2054
+    },
+    {
+      "text": "Ing. Gerhard Fallent",
+      "label": "PER",
+      "start": 2056,
+      "end": 2076
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2484,
+      "end": 2514
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2516,
+      "end": 2534
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2690,
+      "end": 2701
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2757,
+      "end": 2774
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2805,
+      "end": 2835
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2837,
+      "end": 2855
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3197,
+      "end": 3227
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3648,
+      "end": 3663
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3787,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3880,
+      "end": 3893
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 231,
+      "end": 244
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 773,
+      "end": 790
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 808,
+      "end": 825
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 859,
+      "end": 872
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1016,
+      "end": 1019
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1047,
+      "end": 1050
+    },
+    {
+      "text": "Ofner",
+      "label": "PER",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1125,
+      "end": 1142
+    },
+    {
+      "text": "Mag. Herbert Haupt",
+      "label": "PER",
+      "start": 1483,
+      "end": 1501
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 1503,
+      "end": 1526
+    },
+    {
+      "text": "Annemarie",
+      "label": "PER",
+      "start": 1528,
+      "end": 1537
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1538,
+      "end": 1547
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 1771,
+      "end": 1788
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1927,
+      "end": 1946
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 2039,
+      "end": 2054
+    },
+    {
+      "text": "Ing. Gerhard Fallent",
+      "label": "PER",
+      "start": 2056,
+      "end": 2076
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2484,
+      "end": 2514
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2516,
+      "end": 2534
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2690,
+      "end": 2701
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2757,
+      "end": 2774
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2805,
+      "end": 2835
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2837,
+      "end": 2855
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3197,
+      "end": 3227
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3648,
+      "end": 3663
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3787,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3880,
+      "end": 3893
+    }
+  ],
+  "flair": [
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 790
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Ofner",
+      "label": "PER",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1142
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 1507,
+      "end": 1526
+    },
+    {
+      "text": "Annemarie Reitsamer",
+      "label": "PER",
+      "start": 1528,
+      "end": 1547
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 1776,
+      "end": 1788
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1932,
+      "end": 1946
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2044,
+      "end": 2054
+    },
+    {
+      "text": "Gerhard Fallent",
+      "label": "PER",
+      "start": 2061,
+      "end": 2076
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2493,
+      "end": 2514
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2520,
+      "end": 2534
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2761,
+      "end": 2774
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2814,
+      "end": 2835
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2841,
+      "end": 2855
+    },
+    {
+      "text": "Gesetz über die Erwerbs- und Wirtschaftsgenossenschaften",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3056
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3206,
+      "end": 3227
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 3233,
+      "end": 3247
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3791,
+      "end": 3804
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4082,
+      "end": 4104
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 231,
+      "end": 268
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 773,
+      "end": 790
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 808,
+      "end": 825
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 859,
+      "end": 872
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1016,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Dr. Ofner",
+      "label": "PER",
+      "start": 1047,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1125,
+      "end": 1142
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1470,
+      "end": 1482
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 1507,
+      "end": 1526
+    },
+    {
+      "text": "Annemarie\nReitsamer",
+      "label": "PER",
+      "start": 1528,
+      "end": 1547
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1758,
+      "end": 1770
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 1776,
+      "end": 1788
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1932,
+      "end": 1946
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2044,
+      "end": 2054
+    },
+    {
+      "text": "Gerhard Fallent",
+      "label": "PER",
+      "start": 2061,
+      "end": 2076
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2471,
+      "end": 2483
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2493,
+      "end": 2514
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2516,
+      "end": 2534
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2690,
+      "end": 2701
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2757,
+      "end": 2774
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2792,
+      "end": 2804
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2814,
+      "end": 2835
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2837,
+      "end": 2855
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3184,
+      "end": 3196
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3206,
+      "end": 3227
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "LWG",
+      "label": "ORG",
+      "start": 3744,
+      "end": 3747
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3787,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3880,
+      "end": 3893
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 231,
+      "end": 268
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 773,
+      "end": 790
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 808,
+      "end": 825
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 859,
+      "end": 872
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1016,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Dr. Ofner",
+      "label": "PER",
+      "start": 1047,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1125,
+      "end": 1142
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1470,
+      "end": 1482
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 1507,
+      "end": 1526
+    },
+    {
+      "text": "Annemarie\nReitsamer",
+      "label": "PER",
+      "start": 1528,
+      "end": 1547
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1758,
+      "end": 1770
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 1776,
+      "end": 1788
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1932,
+      "end": 1946
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2044,
+      "end": 2054
+    },
+    {
+      "text": "Gerhard Fallent",
+      "label": "PER",
+      "start": 2061,
+      "end": 2076
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2471,
+      "end": 2483
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2493,
+      "end": 2514
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2516,
+      "end": 2534
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2690,
+      "end": 2701
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2757,
+      "end": 2774
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2792,
+      "end": 2804
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2814,
+      "end": 2835
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 2837,
+      "end": 2855
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3184,
+      "end": 3196
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3206,
+      "end": 3227
+    },
+    {
+      "text": "Dr. Michael Krüger",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3648,
+      "end": 3663
+    },
+    {
+      "text": "LWG",
+      "label": "ORG",
+      "start": 3744,
+      "end": 3747
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3787,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3880,
+      "end": 3893
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 231,
+      "end": 239
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 790
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1038,
+      "end": 1045
+    },
+    {
+      "text": "Ofner",
+      "label": "PER",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "Reitsamer",
+      "label": "PER",
+      "start": 1058,
+      "end": 1067
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "text": "Zierler",
+      "label": "PER",
+      "start": 1082,
+      "end": 1089
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1142
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1932,
+      "end": 1946
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2044,
+      "end": 2054
+    },
+    {
+      "text": "Gerhard Fallent",
+      "label": "PER",
+      "start": 2061,
+      "end": 2076
+    },
+    {
+      "text": "Familien",
+      "label": "ORG",
+      "start": 2322,
+      "end": 2330
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2493,
+      "end": 2514
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2520,
+      "end": 2534
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2690,
+      "end": 2701
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2761,
+      "end": 2774
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2814,
+      "end": 2835
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2841,
+      "end": 2855
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3206,
+      "end": 3227
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 3233,
+      "end": 3247
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3595,
+      "end": 3634
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3791,
+      "end": 3804
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4082,
+      "end": 4104
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 790
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 990,
+      "end": 997
+    },
+    {
+      "text": "Egghart",
+      "label": "PER",
+      "start": 999,
+      "end": 1006
+    },
+    {
+      "text": "Fischl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "Ofner",
+      "label": "PER",
+      "start": 1051,
+      "end": 1056
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1142
+    },
+    {
+      "text": "Inge Jäger",
+      "label": "PER",
+      "start": 1915,
+      "end": 1925
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1932,
+      "end": 1946
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2044,
+      "end": 2054
+    },
+    {
+      "text": "Gerhard Fallent",
+      "label": "PER",
+      "start": 2061,
+      "end": 2076
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2493,
+      "end": 2514
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2520,
+      "end": 2534
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2761,
+      "end": 2774
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2814,
+      "end": 2835
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 2841,
+      "end": 2855
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 3206,
+      "end": 3227
+    },
+    {
+      "text": "Michael Krüger",
+      "label": "PER",
+      "start": 3233,
+      "end": 3247
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3648,
+      "end": 3663
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3791,
+      "end": 3804
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4082,
+      "end": 4104
+    }
+  ]
+}

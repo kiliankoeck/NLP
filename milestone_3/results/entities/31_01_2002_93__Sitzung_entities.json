@@ -1,0 +1,1601 @@
+{
+  "filename": "31.01.2002_93._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1070
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1143,
+      "end": 1164
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1182,
+      "end": 1203
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1225,
+      "end": 1238
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Dr. Hlavac",
+      "label": "PER",
+      "start": 1319,
+      "end": 1329
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1383,
+      "end": 1404
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1827,
+      "end": 1846
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll",
+      "label": "PER",
+      "start": 2015,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll",
+      "label": "PER",
+      "start": 2196,
+      "end": 2222
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2874,
+      "end": 2891
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3073,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3321,
+      "end": 3342
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3473,
+      "end": 3495
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3964
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4155,
+      "end": 4179
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4345,
+      "end": 4369
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 4552,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 4698,
+      "end": 4721
+    },
+    {
+      "text": "Mag. Helmut Kukacka",
+      "label": "PER",
+      "start": 4723,
+      "end": 4742
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4744,
+      "end": 4762
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4917,
+      "end": 4930
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4870,
+      "end": 4891
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5114,
+      "end": 5156
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1070
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1143,
+      "end": 1164
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1182,
+      "end": 1203
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1225,
+      "end": 1238
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1319,
+      "end": 1322
+    },
+    {
+      "text": "Hlavac",
+      "label": "PER",
+      "start": 1323,
+      "end": 1329
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1383,
+      "end": 1404
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1827,
+      "end": 1846
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2021,
+      "end": 2024
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2202,
+      "end": 2205
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2874,
+      "end": 2891
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3073,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3321,
+      "end": 3342
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3473,
+      "end": 3495
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3964
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4155,
+      "end": 4179
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4345,
+      "end": 4369
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 4552,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 4698,
+      "end": 4721
+    },
+    {
+      "text": "Mag. Helmut Kukacka",
+      "label": "PER",
+      "start": 4723,
+      "end": 4742
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4744,
+      "end": 4762
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4870,
+      "end": 4891
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4917,
+      "end": 4930
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 703,
+      "end": 777
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 875,
+      "end": 928
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1147,
+      "end": 1164
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1186,
+      "end": 1203
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Hlavac",
+      "label": "PER",
+      "start": 1323,
+      "end": 1329
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1387,
+      "end": 1404
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1832,
+      "end": 1846
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2019
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2196,
+      "end": 2200
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3078,
+      "end": 3095
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 3325,
+      "end": 3342
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3478,
+      "end": 3495
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3944,
+      "end": 3964
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4159,
+      "end": 4179
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4349,
+      "end": 4369
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4557,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4721
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 4728,
+      "end": 4742
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4748,
+      "end": 4762
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4874,
+      "end": 4891
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 5114,
+      "end": 5128
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5156
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 230,
+      "end": 267
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 703,
+      "end": 748
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 875,
+      "end": 903
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1070
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1143,
+      "end": 1164
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1182,
+      "end": 1203
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1225,
+      "end": 1238
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Dr. Hlavac",
+      "label": "PER",
+      "start": 1319,
+      "end": 1329
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1383,
+      "end": 1404
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1633,
+      "end": 1644
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1814,
+      "end": 1826
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1832,
+      "end": 1846
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2019
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2196,
+      "end": 2200
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2861,
+      "end": 2873
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3072
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3078,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3321,
+      "end": 3342
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3460,
+      "end": 3472
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3478,
+      "end": 3495
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3964
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4155,
+      "end": 4179
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4345,
+      "end": 4369
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4539,
+      "end": 4551
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4557,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4721
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 4728,
+      "end": 4742
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4748,
+      "end": 4762
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4870,
+      "end": 4891
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4917,
+      "end": 4930
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5156
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 230,
+      "end": 267
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 703,
+      "end": 748
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 811,
+      "end": 824
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 875,
+      "end": 903
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1070
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1143,
+      "end": 1164
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1182,
+      "end": 1203
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1225,
+      "end": 1238
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Dr. Hlavac",
+      "label": "PER",
+      "start": 1319,
+      "end": 1329
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1383,
+      "end": 1404
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1633,
+      "end": 1644
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1814,
+      "end": 1826
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1832,
+      "end": 1846
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2019
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2196,
+      "end": 2200
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2861,
+      "end": 2873
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3072
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3078,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3321,
+      "end": 3342
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3460,
+      "end": 3472
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3478,
+      "end": 3495
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3964
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4155,
+      "end": 4179
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4345,
+      "end": 4369
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4539,
+      "end": 4551
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4557,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4721
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 4728,
+      "end": 4742
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4748,
+      "end": 4762
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4870,
+      "end": 4891
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4917,
+      "end": 4930
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5156
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1070
+    },
+    {
+      "text": "Werner Fass",
+      "label": "PER",
+      "start": 1147,
+      "end": 1158
+    },
+    {
+      "text": "Werner Fass",
+      "label": "PER",
+      "start": 1186,
+      "end": 1197
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Hlavac",
+      "label": "PER",
+      "start": 1323,
+      "end": 1329
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 1387,
+      "end": 1393
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3073,
+      "end": 3077
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3078,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Werner Fasslab",
+      "label": "PER",
+      "start": 3325,
+      "end": 3339
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3409,
+      "end": 3412
+    },
+    {
+      "text": "Menschenrechte",
+      "label": "ORG",
+      "start": 3423,
+      "end": 3437
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3473,
+      "end": 3477
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3478,
+      "end": 3495
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3944,
+      "end": 3964
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4159,
+      "end": 4179
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4349,
+      "end": 4369
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4557,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4721
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 4728,
+      "end": 4742
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4748,
+      "end": 4762
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4874,
+      "end": 4891
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5114,
+      "end": 5156
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 815,
+      "end": 824
+    },
+    {
+      "text": "##nen",
+      "label": "PER",
+      "start": 834,
+      "end": 837
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 962,
+      "end": 976
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1067
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1147,
+      "end": 1164
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1186,
+      "end": 1203
+    },
+    {
+      "text": "Sodian",
+      "label": "PER",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1317
+    },
+    {
+      "text": "Hlavac",
+      "label": "PER",
+      "start": 1323,
+      "end": 1329
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1331,
+      "end": 1337
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1342,
+      "end": 1347
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 1387,
+      "end": 1393
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 1997,
+      "end": 2013
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2025,
+      "end": 2041
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2178,
+      "end": 2194
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2206,
+      "end": 2222
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2874,
+      "end": 2877
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3073,
+      "end": 3076
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3078,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3266
+    },
+    {
+      "text": "Werner Fa",
+      "label": "PER",
+      "start": 3325,
+      "end": 3334
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3473,
+      "end": 3476
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3478,
+      "end": 3495
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 3765,
+      "end": 3766
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3944,
+      "end": 3964
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4159,
+      "end": 4179
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 4349,
+      "end": 4369
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4557,
+      "end": 4569
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4703,
+      "end": 4721
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 4728,
+      "end": 4742
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4748,
+      "end": 4762
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4874,
+      "end": 4891
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5114,
+      "end": 5156
+    }
+  ]
+}

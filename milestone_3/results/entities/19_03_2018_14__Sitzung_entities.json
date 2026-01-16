@@ -1,0 +1,1163 @@
+{
+  "filename": "19.03.2018_14._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 179,
+      "end": 192
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 728,
+      "end": 747
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 907,
+      "end": 924
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 1080,
+      "end": 1100
+    },
+    {
+      "text": "MA",
+      "label": "PER",
+      "start": 1102,
+      "end": 1104
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 1232,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 1308,
+      "end": 1328
+    },
+    {
+      "text": "MA",
+      "label": "PER",
+      "start": 1330,
+      "end": 1332
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1528
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1602,
+      "end": 1613
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1634,
+      "end": 1645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1692
+    },
+    {
+      "text": "Berlakovich",
+      "label": "PER",
+      "start": 1740,
+      "end": 1751
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Grünberg",
+      "label": "PER",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1769,
+      "end": 1776
+    },
+    {
+      "text": "Obernosterer",
+      "label": "PER",
+      "start": 1778,
+      "end": 1790
+    },
+    {
+      "text": "Smodics-Neumann",
+      "label": "PER",
+      "start": 1792,
+      "end": 1807
+    },
+    {
+      "text": "Androsch",
+      "label": "PER",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1819,
+      "end": 1824
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1855,
+      "end": 1865
+    },
+    {
+      "text": "Cox",
+      "label": "PER",
+      "start": 1870,
+      "end": 1873
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 2391,
+      "end": 2410
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 2718,
+      "end": 2735
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2984,
+      "end": 3004
+    },
+    {
+      "text": "MA",
+      "label": "PER",
+      "start": 3006,
+      "end": 3008
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3198,
+      "end": 3211
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 179,
+      "end": 192
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 728,
+      "end": 747
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 907,
+      "end": 924
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1080,
+      "end": 1104
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1232,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1308,
+      "end": 1332
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1528
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1602,
+      "end": 1613
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1634,
+      "end": 1645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1692
+    },
+    {
+      "text": "Berlakovich",
+      "label": "PER",
+      "start": 1740,
+      "end": 1751
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Grünberg",
+      "label": "PER",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1769,
+      "end": 1776
+    },
+    {
+      "text": "Obernosterer",
+      "label": "PER",
+      "start": 1778,
+      "end": 1790
+    },
+    {
+      "text": "Androsch",
+      "label": "PER",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1819,
+      "end": 1824
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1855,
+      "end": 1865
+    },
+    {
+      "text": "Cox",
+      "label": "PER",
+      "start": 1870,
+      "end": 1873
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 2391,
+      "end": 2410
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 2718,
+      "end": 2735
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 2984,
+      "end": 3008
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3198,
+      "end": 3211
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 3463,
+      "end": 3471
+    }
+  ],
+  "flair": [
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 733,
+      "end": 747
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1084,
+      "end": 1100
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1312,
+      "end": 1328
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 1437,
+      "end": 1441
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1602,
+      "end": 1613
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1634,
+      "end": 1645
+    },
+    {
+      "text": "Berlakovich",
+      "label": "PER",
+      "start": 1740,
+      "end": 1751
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Grünberg",
+      "label": "PER",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1769,
+      "end": 1776
+    },
+    {
+      "text": "Obernosterer",
+      "label": "PER",
+      "start": 1778,
+      "end": 1790
+    },
+    {
+      "text": "Smodics-Neumann",
+      "label": "PER",
+      "start": 1792,
+      "end": 1807
+    },
+    {
+      "text": "Androsch",
+      "label": "PER",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1819,
+      "end": 1824
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1855,
+      "end": 1865
+    },
+    {
+      "text": "Cox",
+      "label": "PER",
+      "start": 1870,
+      "end": 1873
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2396,
+      "end": 2410
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 2722,
+      "end": 2735
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 2988,
+      "end": 3004
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 3463,
+      "end": 3478
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 179,
+      "end": 222
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 733,
+      "end": 747
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1084,
+      "end": 1100
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1232,
+      "end": 1245
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1312,
+      "end": 1328
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1528
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1534
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1602,
+      "end": 1613
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1634,
+      "end": 1645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1692
+    },
+    {
+      "text": "Berlakovich",
+      "label": "PER",
+      "start": 1740,
+      "end": 1751
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Grünberg",
+      "label": "PER",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1769,
+      "end": 1776
+    },
+    {
+      "text": "Smodics-Neumann",
+      "label": "PER",
+      "start": 1792,
+      "end": 1807
+    },
+    {
+      "text": "Androsch",
+      "label": "PER",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1819,
+      "end": 1824
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1855,
+      "end": 1865
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2151,
+      "end": 2165
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2396,
+      "end": 2410
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 2718,
+      "end": 2735
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 2888,
+      "end": 2892
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2984,
+      "end": 3004
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3198,
+      "end": 3211
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 3463,
+      "end": 3478
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 179,
+      "end": 222
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 733,
+      "end": 747
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1084,
+      "end": 1100
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1232,
+      "end": 1245
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1312,
+      "end": 1328
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1528
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1534
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1602,
+      "end": 1613
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1634,
+      "end": 1645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1692
+    },
+    {
+      "text": "Berlakovich",
+      "label": "PER",
+      "start": 1740,
+      "end": 1751
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "text": "Grünberg",
+      "label": "PER",
+      "start": 1759,
+      "end": 1767
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1769,
+      "end": 1776
+    },
+    {
+      "text": "Smodics-Neumann",
+      "label": "PER",
+      "start": 1792,
+      "end": 1807
+    },
+    {
+      "text": "Androsch",
+      "label": "PER",
+      "start": 1809,
+      "end": 1817
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1819,
+      "end": 1824
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 1826,
+      "end": 1835
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1837,
+      "end": 1845
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1847,
+      "end": 1853
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1855,
+      "end": 1865
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2151,
+      "end": 2165
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2396,
+      "end": 2410
+    },
+    {
+      "text": "Dr. Irmgard Griss",
+      "label": "PER",
+      "start": 2718,
+      "end": 2735
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 2888,
+      "end": 2892
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 2984,
+      "end": 3004
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3198,
+      "end": 3211
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 3463,
+      "end": 3478
+    }
+  ],
+  "bert": [
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 733,
+      "end": 747
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1084,
+      "end": 1100
+    },
+    {
+      "text": "Nikolaus Schera",
+      "label": "PER",
+      "start": 1312,
+      "end": 1327
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "Gesundheit",
+      "label": "ORG",
+      "start": 2340,
+      "end": 2350
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2396,
+      "end": 2410
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 2722,
+      "end": 2735
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 2988,
+      "end": 3004
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3198,
+      "end": 3211
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 3463,
+      "end": 3478
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 728,
+      "end": 731
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 733,
+      "end": 747
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 911,
+      "end": 924
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1084,
+      "end": 1100
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 1102,
+      "end": 1104
+    },
+    {
+      "text": "Nikolaus Schera",
+      "label": "PER",
+      "start": 1312,
+      "end": 1327
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1912,
+      "end": 1923
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2396,
+      "end": 2410
+    },
+    {
+      "text": "Irmgard Griss",
+      "label": "PER",
+      "start": 2722,
+      "end": 2735
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2942,
+      "end": 2953
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 2988,
+      "end": 3004
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3008
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3161,
+      "end": 3172
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 3463,
+      "end": 3478
+    }
+  ]
+}

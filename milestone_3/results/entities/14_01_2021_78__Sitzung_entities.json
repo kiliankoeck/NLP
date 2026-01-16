@@ -1,0 +1,1475 @@
+{
+  "filename": "14.01.2021_78._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 238,
+      "end": 251
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PER",
+      "start": 1361,
+      "end": 1383
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PER",
+      "start": 1538,
+      "end": 1560
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 1733,
+      "end": 1758
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1840,
+      "end": 1851
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1926,
+      "end": 1944
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2027
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1962,
+      "end": 1980
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2075,
+      "end": 2106
+    },
+    {
+      "text": "Mag. Andreas Hanger",
+      "label": "PER",
+      "start": 2108,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Dr. Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2154,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2274,
+      "end": 2292
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Mag. Thomas Drozda",
+      "label": "PER",
+      "start": 3036,
+      "end": 3054
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 3456,
+      "end": 3473
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3828
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3885,
+      "end": 3903
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3915,
+      "end": 3933
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4222,
+      "end": 4235
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 238,
+      "end": 251
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PER",
+      "start": 1361,
+      "end": 1383
+    },
+    {
+      "text": "Mag. Christian Drobits",
+      "label": "PER",
+      "start": 1538,
+      "end": 1560
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 1733,
+      "end": 1758
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1840,
+      "end": 1851
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1926,
+      "end": 1944
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1962,
+      "end": 1980
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2027
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2075,
+      "end": 2106
+    },
+    {
+      "text": "Mag. Andreas Hanger",
+      "label": "PER",
+      "start": 2108,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Dr. Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2154,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker, MA",
+      "label": "PER",
+      "start": 2180,
+      "end": 2204
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2274,
+      "end": 2292
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Mag. Thomas Drozda",
+      "label": "PER",
+      "start": 3036,
+      "end": 3054
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 3229,
+      "end": 3247
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 3456,
+      "end": 3473
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3828
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3885,
+      "end": 3903
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3915,
+      "end": 3933
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4222,
+      "end": 4235
+    }
+  ],
+  "flair": [
+    {
+      "text": "für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 737,
+      "end": 791
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 905,
+      "end": 959
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1072,
+      "end": 1143
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1327
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1366,
+      "end": 1383
+    },
+    {
+      "text": "für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1450,
+      "end": 1504
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1543,
+      "end": 1560
+    },
+    {
+      "text": "für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1628,
+      "end": 1699
+    },
+    {
+      "text": "Gerhard Deimek",
+      "label": "PER",
+      "start": 1744,
+      "end": 1758
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1931,
+      "end": 1944
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1967,
+      "end": 1980
+    },
+    {
+      "text": "Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2086,
+      "end": 2106
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 2113,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2279,
+      "end": 2292
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Thomas Drozda",
+      "label": "PER",
+      "start": 3041,
+      "end": 3054
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3234,
+      "end": 3247
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 3460,
+      "end": 3473
+    },
+    {
+      "text": "Ausschuss",
+      "label": "ORG",
+      "start": 3569,
+      "end": 3578
+    },
+    {
+      "text": "Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3583,
+      "end": 3616
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3890,
+      "end": 3903
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3920,
+      "end": 3933
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4103
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 238,
+      "end": 282
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 721,
+      "end": 761
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 889,
+      "end": 929
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1055,
+      "end": 1087
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1271
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1348,
+      "end": 1360
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1366,
+      "end": 1383
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 1434,
+      "end": 1474
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1525,
+      "end": 1537
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1543,
+      "end": 1560
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1611,
+      "end": 1643
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 1733,
+      "end": 1758
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1840,
+      "end": 1851
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1926,
+      "end": 1944
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1962,
+      "end": 1980
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2027
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2075,
+      "end": 2106
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2108,
+      "end": 2111
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 2113,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2274,
+      "end": 2292
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2520,
+      "end": 2534
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 2600,
+      "end": 2605
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3023,
+      "end": 3035
+    },
+    {
+      "text": "Thomas Drozda",
+      "label": "PER",
+      "start": 3041,
+      "end": 3054
+    },
+    {
+      "text": "Tourismusausschuss",
+      "label": "PER",
+      "start": 3175,
+      "end": 3193
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3216,
+      "end": 3228
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3234,
+      "end": 3247
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 3456,
+      "end": 3473
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3828
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3885,
+      "end": 3903
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3915,
+      "end": 3933
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4222,
+      "end": 4235
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 238,
+      "end": 282
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 721,
+      "end": 761
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 889,
+      "end": 929
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1055,
+      "end": 1087
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1271
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1348,
+      "end": 1360
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1366,
+      "end": 1383
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 1434,
+      "end": 1474
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1525,
+      "end": 1537
+    },
+    {
+      "text": "Christian Drobits",
+      "label": "PER",
+      "start": 1543,
+      "end": 1560
+    },
+    {
+      "text": "Bundesministerin für Klimaschutz",
+      "label": "ORG",
+      "start": 1611,
+      "end": 1643
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 1733,
+      "end": 1758
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1840,
+      "end": 1851
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1926,
+      "end": 1944
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1962,
+      "end": 1980
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2027
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2075,
+      "end": 2106
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2108,
+      "end": 2111
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 2113,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2274,
+      "end": 2292
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2520,
+      "end": 2534
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 2600,
+      "end": 2605
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3023,
+      "end": 3035
+    },
+    {
+      "text": "Thomas Drozda",
+      "label": "PER",
+      "start": 3041,
+      "end": 3054
+    },
+    {
+      "text": "Tourismusausschuss",
+      "label": "PER",
+      "start": 3175,
+      "end": 3193
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3216,
+      "end": 3228
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3234,
+      "end": 3247
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 3456,
+      "end": 3473
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3828
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3885,
+      "end": 3903
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3915,
+      "end": 3933
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4222,
+      "end": 4235
+    }
+  ],
+  "bert": [
+    {
+      "text": "##ziales",
+      "label": "ORG",
+      "start": 743,
+      "end": 749
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 889,
+      "end": 895
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 909,
+      "end": 917
+    },
+    {
+      "text": "Gesundheit",
+      "label": "ORG",
+      "start": 919,
+      "end": 929
+    },
+    {
+      "text": "Pflege",
+      "label": "ORG",
+      "start": 931,
+      "end": 937
+    },
+    {
+      "text": "Kons",
+      "label": "ORG",
+      "start": 942,
+      "end": 946
+    },
+    {
+      "text": "##nschutz",
+      "label": "ORG",
+      "start": 952,
+      "end": 959
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1931,
+      "end": 1944
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1967,
+      "end": 1980
+    },
+    {
+      "text": "Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2086,
+      "end": 2106
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 2113,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 2202,
+      "end": 2204
+    },
+    {
+      "text": "Douglas Hoyos - Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2279,
+      "end": 2292
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2588,
+      "end": 2590
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2600,
+      "end": 2602
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Thomas Drozda",
+      "label": "PER",
+      "start": 3041,
+      "end": 3054
+    },
+    {
+      "text": "##schuss",
+      "label": "ORG",
+      "start": 3187,
+      "end": 3193
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3234,
+      "end": 3247
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 3460,
+      "end": 3473
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3569,
+      "end": 3572
+    },
+    {
+      "text": "für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3579,
+      "end": 3616
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3828
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3890,
+      "end": 3903
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3920,
+      "end": 3933
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 3996,
+      "end": 4016
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4103
+    },
+    {
+      "text": "Justizausschuss",
+      "label": "ORG",
+      "start": 4172,
+      "end": 4187
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "text": "DE",
+      "label": "ORG",
+      "start": 14,
+      "end": 16
+    },
+    {
+      "text": "NATION",
+      "label": "ORG",
+      "start": 18,
+      "end": 24
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Republik",
+      "label": "ORG",
+      "start": 94,
+      "end": 102
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 238,
+      "end": 251
+    },
+    {
+      "text": "Alois Schroll",
+      "label": "PER",
+      "start": 825,
+      "end": 838
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 871,
+      "end": 873
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 993,
+      "end": 1004
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1037,
+      "end": 1039
+    },
+    {
+      "text": "Alois Kainz",
+      "label": "PER",
+      "start": 1177,
+      "end": 1188
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1221,
+      "end": 1223
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1931,
+      "end": 1944
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1962,
+      "end": 1966
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1967,
+      "end": 1980
+    },
+    {
+      "text": "Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 2086,
+      "end": 2106
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 2113,
+      "end": 2127
+    },
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 2129,
+      "end": 2152
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2178
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 2180,
+      "end": 2200
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 2202,
+      "end": 2204
+    },
+    {
+      "text": "Douglas Hoyos - Trauttmansdorff",
+      "label": "PER",
+      "start": 2209,
+      "end": 2238
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 2274,
+      "end": 2277
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2279,
+      "end": 2292
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2885,
+      "end": 2905
+    },
+    {
+      "text": "Mag. Thomas Drozda",
+      "label": "PER",
+      "start": 3036,
+      "end": 3054
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3234,
+      "end": 3247
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 3460,
+      "end": 3473
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3665
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3885,
+      "end": 3903
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3915,
+      "end": 3933
+    }
+  ]
+}

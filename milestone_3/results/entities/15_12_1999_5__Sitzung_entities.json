@@ -1,0 +1,1169 @@
+{
+  "filename": "15.12.1999_5._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 42,
+      "end": 55
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 692,
+      "end": 704
+    },
+    {
+      "text": "Dr. Heinz Fischer.",
+      "label": "PER",
+      "start": 768,
+      "end": 786
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 803,
+      "end": 821
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 894,
+      "end": 908
+    },
+    {
+      "text": "Hagenhofer.",
+      "label": "PER",
+      "start": 954,
+      "end": 965
+    },
+    {
+      "text": "Hostasch.",
+      "label": "PER",
+      "start": 1027,
+      "end": 1036
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 1071,
+      "end": 1089
+    },
+    {
+      "text": "Friedrich Verzetnitsch",
+      "label": "PER",
+      "start": 1512,
+      "end": 1534
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1738,
+      "end": 1757
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2272,
+      "end": 2300
+    },
+    {
+      "text": "Dr. Brigitte Povysil",
+      "label": "PER",
+      "start": 2563,
+      "end": 2583
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 2673,
+      "end": 2685
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2740,
+      "end": 2757
+    },
+    {
+      "text": "Dipl.-Ing. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2832,
+      "end": 2862
+    },
+    {
+      "text": "Dr. Martin Graf",
+      "label": "PER",
+      "start": 3008,
+      "end": 3023
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 3048,
+      "end": 3051
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Mag. Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3300,
+      "end": 3324
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 3627,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 3941,
+      "end": 3959
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4330,
+      "end": 4343
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4693
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 42,
+      "end": 55
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 768,
+      "end": 785
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 803,
+      "end": 820
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Hostasch",
+      "label": "PER",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1071,
+      "end": 1088
+    },
+    {
+      "text": "Friedrich Verzetnitsch",
+      "label": "PER",
+      "start": 1512,
+      "end": 1534
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1738,
+      "end": 1757
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2272,
+      "end": 2300
+    },
+    {
+      "text": "Dr. Brigitte Povysil",
+      "label": "PER",
+      "start": 2563,
+      "end": 2583
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2673,
+      "end": 2684
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2740,
+      "end": 2757
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 2832,
+      "end": 2842
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3008,
+      "end": 3011
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3012,
+      "end": 3023
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3300,
+      "end": 3304
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3305,
+      "end": 3308
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 3309,
+      "end": 3312
+    },
+    {
+      "text": "Bundesräte",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3436
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 3627,
+      "end": 3655
+    },
+    {
+      "text": "Reich",
+      "label": "PER",
+      "start": 3763,
+      "end": 3768
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3941,
+      "end": 3958
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4330,
+      "end": 4343
+    }
+  ],
+  "flair": [
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 772,
+      "end": 785
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 807,
+      "end": 820
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Hostasch",
+      "label": "PER",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1075,
+      "end": 1088
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1364,
+      "end": 1397
+    },
+    {
+      "text": "Friedrich Verzetnitsch",
+      "label": "PER",
+      "start": 1512,
+      "end": 1534
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "FLAF",
+      "label": "ORG",
+      "start": 2160,
+      "end": 2164
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2276,
+      "end": 2300
+    },
+    {
+      "text": "Brigitte Povysil",
+      "label": "PER",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2744,
+      "end": 2757
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3012,
+      "end": 3023
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3309,
+      "end": 3324
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3637,
+      "end": 3655
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3844,
+      "end": 3858
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3945,
+      "end": 3958
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4693
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 42,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 228,
+      "end": 265
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 768,
+      "end": 785
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 803,
+      "end": 820
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Hostasch",
+      "label": "PER",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1071,
+      "end": 1088
+    },
+    {
+      "text": "Friedrich Verzetnitsch",
+      "label": "PER",
+      "start": 1512,
+      "end": 1534
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1737
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2276,
+      "end": 2300
+    },
+    {
+      "text": "Brigitte Povysil",
+      "label": "PER",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2740,
+      "end": 2757
+    },
+    {
+      "text": "Dipl.-Ing. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2832,
+      "end": 2862
+    },
+    {
+      "text": "Dr. Martin Graf und Genossen",
+      "label": "PER",
+      "start": 3008,
+      "end": 3036
+    },
+    {
+      "text": "EU-Beitrittsbedingungen",
+      "label": "ORG",
+      "start": 3048,
+      "end": 3071
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3287,
+      "end": 3299
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3309,
+      "end": 3324
+    },
+    {
+      "text": "Bundesräte",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3436
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3614,
+      "end": 3626
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3637,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3941,
+      "end": 3958
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4330,
+      "end": 4343
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 42,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 228,
+      "end": 265
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 768,
+      "end": 785
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 803,
+      "end": 820
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Hostasch",
+      "label": "PER",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1071,
+      "end": 1088
+    },
+    {
+      "text": "Friedrich Verzetnitsch",
+      "label": "PER",
+      "start": 1512,
+      "end": 1534
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1737
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2276,
+      "end": 2300
+    },
+    {
+      "text": "Brigitte Povysil",
+      "label": "PER",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2673,
+      "end": 2684
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2740,
+      "end": 2757
+    },
+    {
+      "text": "Dipl.-Ing. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2832,
+      "end": 2862
+    },
+    {
+      "text": "Dr. Martin Graf und Genossen",
+      "label": "PER",
+      "start": 3008,
+      "end": 3036
+    },
+    {
+      "text": "EU-Beitrittsbedingungen",
+      "label": "ORG",
+      "start": 3048,
+      "end": 3071
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3287,
+      "end": 3299
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3309,
+      "end": 3324
+    },
+    {
+      "text": "Bundesräte",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3436
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3614,
+      "end": 3626
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3637,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3941,
+      "end": 3958
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4330,
+      "end": 4343
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 42,
+      "end": 55
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 69,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 772,
+      "end": 785
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 807,
+      "end": 820
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Hostasch",
+      "label": "PER",
+      "start": 1027,
+      "end": 1035
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1075,
+      "end": 1088
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 1374,
+      "end": 1377
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2276,
+      "end": 2300
+    },
+    {
+      "text": "Brigitte Povysil",
+      "label": "PER",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2673,
+      "end": 2684
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2744,
+      "end": 2757
+    },
+    {
+      "text": "##schuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2761,
+      "end": 2797
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3012,
+      "end": 3023
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3309,
+      "end": 3324
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "MMag",
+      "label": "PER",
+      "start": 3627,
+      "end": 3631
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3637,
+      "end": 3655
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3844,
+      "end": 3858
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3945,
+      "end": 3958
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4693
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 692,
+      "end": 703
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 772,
+      "end": 785
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 807,
+      "end": 820
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1075,
+      "end": 1088
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 1920,
+      "end": 1932
+    },
+    {
+      "text": "Edith Haller",
+      "label": "PER",
+      "start": 2056,
+      "end": 2068
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2276,
+      "end": 2300
+    },
+    {
+      "text": "Brigitte Povysil",
+      "label": "PER",
+      "start": 2567,
+      "end": 2583
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2673,
+      "end": 2684
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2744,
+      "end": 2757
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3012,
+      "end": 3023
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3150,
+      "end": 3167
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3309,
+      "end": 3324
+    },
+    {
+      "text": "Jürgen Weiss",
+      "label": "PER",
+      "start": 3437,
+      "end": 3449
+    },
+    {
+      "text": "##ossen",
+      "label": "ORG",
+      "start": 3457,
+      "end": 3462
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 3637,
+      "end": 3655
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3844,
+      "end": 3858
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3945,
+      "end": 3958
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4693
+    }
+  ]
+}

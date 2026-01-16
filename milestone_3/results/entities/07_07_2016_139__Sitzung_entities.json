@@ -1,0 +1,1373 @@
+{
+  "filename": "07.07.2016_139._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Christian\\nHafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "MA",
+      "label": "PER",
+      "start": 870,
+      "end": 872
+    },
+    {
+      "text": "Christian\\nHafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "MA",
+      "label": "PER",
+      "start": 1006,
+      "end": 1008
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1226
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1393
+    },
+    {
+      "text": "Knes",
+      "label": "PER",
+      "start": 1441,
+      "end": 1445
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1447,
+      "end": 1457
+    },
+    {
+      "text": "Kitzmüller",
+      "label": "PER",
+      "start": 1459,
+      "end": 1469
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1471,
+      "end": 1479
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1489
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1494,
+      "end": 1504
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1985,
+      "end": 2017
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2148,
+      "end": 2180
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2350,
+      "end": 2382
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2524,
+      "end": 2556
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2866,
+      "end": 2906
+    },
+    {
+      "text": "Franz\\nKirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3049
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3362,
+      "end": 3375
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 848,
+      "end": 857
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 858,
+      "end": 868
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 984,
+      "end": 993
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 994,
+      "end": 1004
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1226
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1393
+    },
+    {
+      "text": "Knes",
+      "label": "PER",
+      "start": 1441,
+      "end": 1445
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1447,
+      "end": 1457
+    },
+    {
+      "text": "Kitzmüller",
+      "label": "PER",
+      "start": 1459,
+      "end": 1469
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1471,
+      "end": 1479
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1489
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1494,
+      "end": 1504
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1985,
+      "end": 1988
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 1989,
+      "end": 1995
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2148,
+      "end": 2151
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2152,
+      "end": 2158
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2350,
+      "end": 2353
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2354,
+      "end": 2360
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2524,
+      "end": 2527
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2528,
+      "end": 2534
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2866,
+      "end": 2906
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 2908,
+      "end": 2913
+    },
+    {
+      "text": "Kirchgatterer",
+      "label": "PER",
+      "start": 2914,
+      "end": 2927
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3049
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3362,
+      "end": 3375
+    }
+  ],
+  "flair": [
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 724,
+      "end": 736
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Knes",
+      "label": "PER",
+      "start": 1441,
+      "end": 1445
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1447,
+      "end": 1457
+    },
+    {
+      "text": "Kitzmüller",
+      "label": "PER",
+      "start": 1459,
+      "end": 1469
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1471,
+      "end": 1479
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1489
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1494,
+      "end": 1504
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1930,
+      "end": 1949
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1989,
+      "end": 2017
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2152,
+      "end": 2180
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2354,
+      "end": 2382
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2528,
+      "end": 2556
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2879,
+      "end": 2881
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2883,
+      "end": 2906
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3049
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 658,
+      "end": 685
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 787,
+      "end": 814
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 923,
+      "end": 950
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1086
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1226
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1231
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1393
+    },
+    {
+      "text": "Knes",
+      "label": "PER",
+      "start": 1441,
+      "end": 1445
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1447,
+      "end": 1457
+    },
+    {
+      "text": "Kitzmüller",
+      "label": "PER",
+      "start": 1459,
+      "end": 1469
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1471,
+      "end": 1479
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1782,
+      "end": 1796
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1985,
+      "end": 2017
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2148,
+      "end": 2180
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2350,
+      "end": 2382
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2524,
+      "end": 2556
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2853,
+      "end": 2865
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2883,
+      "end": 2906
+    },
+    {
+      "text": "Franz\nKirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "IS",
+      "label": "ORG",
+      "start": 2965,
+      "end": 2967
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3051,
+      "end": 3054
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3362,
+      "end": 3375
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 658,
+      "end": 685
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 787,
+      "end": 814
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 923,
+      "end": 950
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1086
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1226
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1231
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1393
+    },
+    {
+      "text": "Knes",
+      "label": "PER",
+      "start": 1441,
+      "end": 1445
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1447,
+      "end": 1457
+    },
+    {
+      "text": "Kitzmüller",
+      "label": "PER",
+      "start": 1459,
+      "end": 1469
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1471,
+      "end": 1479
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1782,
+      "end": 1796
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1985,
+      "end": 2017
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2148,
+      "end": 2180
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2350,
+      "end": 2382
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2524,
+      "end": 2556
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2853,
+      "end": 2865
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2883,
+      "end": 2906
+    },
+    {
+      "text": "Franz\nKirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "IS",
+      "label": "ORG",
+      "start": 2965,
+      "end": 2967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3049
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3051,
+      "end": 3054
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3362,
+      "end": 3375
+    }
+  ],
+  "bert": [
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1226
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1916,
+      "end": 1949
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1989,
+      "end": 2008
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2009,
+      "end": 2017
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2152,
+      "end": 2171
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2172,
+      "end": 2180
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2354,
+      "end": 2373
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2374,
+      "end": 2382
+    },
+    {
+      "text": "für Kons",
+      "label": "ORG",
+      "start": 2467,
+      "end": 2475
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2528,
+      "end": 2547
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2548,
+      "end": 2556
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2631,
+      "end": 2634
+    },
+    {
+      "text": "für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2641,
+      "end": 2670
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "AMA",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2789
+    },
+    {
+      "text": "für Menschenrechte",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2830
+    },
+    {
+      "text": "Dipl",
+      "label": "PER",
+      "start": 2866,
+      "end": 2870
+    },
+    {
+      "text": "F",
+      "label": "PER",
+      "start": 2879,
+      "end": 2880
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2883,
+      "end": 2906
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3049
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3362,
+      "end": 3370
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 719,
+      "end": 736
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 848,
+      "end": 868
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 870,
+      "end": 872
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 905,
+      "end": 907
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 984,
+      "end": 1004
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 1006,
+      "end": 1008
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1168,
+      "end": 1170
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1223
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1299,
+      "end": 1313
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1331,
+      "end": 1345
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1989,
+      "end": 2008
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2009,
+      "end": 2017
+    },
+    {
+      "text": "##pa",
+      "label": "ORG",
+      "start": 2085,
+      "end": 2087
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2152,
+      "end": 2171
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2172,
+      "end": 2180
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2354,
+      "end": 2373
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2374,
+      "end": 2382
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2528,
+      "end": 2547
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2548,
+      "end": 2556
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2706,
+      "end": 2720
+    },
+    {
+      "text": "##esie",
+      "label": "ORG",
+      "start": 2793,
+      "end": 2797
+    },
+    {
+      "text": "Dipl",
+      "label": "ORG",
+      "start": 2866,
+      "end": 2870
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2879,
+      "end": 2881
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 2883,
+      "end": 2906
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "IS",
+      "label": "ORG",
+      "start": 2965,
+      "end": 2967
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3102,
+      "end": 3116
+    },
+    {
+      "text": "Unterrichtsausschuss",
+      "label": "ORG",
+      "start": 3118,
+      "end": 3138
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 3171,
+      "end": 3186
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    }
+  ]
+}

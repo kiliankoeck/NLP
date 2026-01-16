@@ -1,0 +1,1427 @@
+{
+  "filename": "05.11.2020_61._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "PER",
+      "start": 721,
+      "end": 791
+    },
+    {
+      "text": "Peter Wurm,",
+      "label": "PER",
+      "start": 825,
+      "end": 836
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 918,
+      "end": 930
+    },
+    {
+      "text": "Doris Bures.",
+      "label": "PER",
+      "start": 1004,
+      "end": 1016
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 1036,
+      "end": 1048
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1095
+    },
+    {
+      "text": "Mag. Michael Hammer,",
+      "label": "PER",
+      "start": 1142,
+      "end": 1162
+    },
+    {
+      "text": "Andreas\\n\\nKühberger,",
+      "label": "PER",
+      "start": 1163,
+      "end": 1181
+    },
+    {
+      "text": "Dr. Reinhold Lopatka,",
+      "label": "PER",
+      "start": 1182,
+      "end": 1203
+    },
+    {
+      "text": "Alexander Melchior,",
+      "label": "PER",
+      "start": 1204,
+      "end": 1223
+    },
+    {
+      "text": "Josef Muchitsch,",
+      "label": "PER",
+      "start": 1224,
+      "end": 1240
+    },
+    {
+      "text": "Dr. Susanne\\n\\nFürst,",
+      "label": "PER",
+      "start": 1241,
+      "end": 1259
+    },
+    {
+      "text": "Mag. Gerald Hauser,",
+      "label": "PER",
+      "start": 1260,
+      "end": 1279
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 1280,
+      "end": 1299
+    },
+    {
+      "text": "Mag. Christian Ragger,",
+      "label": "PER",
+      "start": 1300,
+      "end": 1322
+    },
+    {
+      "text": "Mag. Philipp\\n\\nSchrangl,",
+      "label": "PER",
+      "start": 1323,
+      "end": 1345
+    },
+    {
+      "text": "Mag. Faika El-Nagashi,",
+      "label": "PER",
+      "start": 1346,
+      "end": 1368
+    },
+    {
+      "text": "David Stögmüller",
+      "label": "PER",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "text": "Dipl.-Ing. Olga Voglauer.\\n\\n",
+      "label": "PER",
+      "start": 1390,
+      "end": 1415
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 1453,
+      "end": 1465
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka,",
+      "label": "PER",
+      "start": 1859,
+      "end": 1881
+    },
+    {
+      "text": "Doris Bures,",
+      "label": "PER",
+      "start": 1882,
+      "end": 1894
+    },
+    {
+      "text": "Christian\\n\\nHafenecker, MA,",
+      "label": "PER",
+      "start": 1895,
+      "end": 1920
+    },
+    {
+      "text": "Sigrid Maurer, BA,",
+      "label": "PER",
+      "start": 1921,
+      "end": 1939
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger, MES,",
+      "label": "PER",
+      "start": 1940,
+      "end": 1972
+    },
+    {
+      "text": "Henrike Brandstötter,",
+      "label": "PER",
+      "start": 2205,
+      "end": 2226
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 2309,
+      "end": 2321
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2478
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2698
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2890,
+      "end": 2909
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2945,
+      "end": 2964
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 239,
+      "end": 252
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 918,
+      "end": 929
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Mag. Michael Hammer",
+      "label": "PER",
+      "start": 1142,
+      "end": 1161
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 1163,
+      "end": 1170
+    },
+    {
+      "text": "Kühberger",
+      "label": "PER",
+      "start": 1171,
+      "end": 1180
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 1182,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1241,
+      "end": 1244
+    },
+    {
+      "text": "Susanne",
+      "label": "PER",
+      "start": 1245,
+      "end": 1252
+    },
+    {
+      "text": "Fürst",
+      "label": "PER",
+      "start": 1253,
+      "end": 1258
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 1260,
+      "end": 1278
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1280,
+      "end": 1298
+    },
+    {
+      "text": "Mag. Christian Ragger",
+      "label": "PER",
+      "start": 1300,
+      "end": 1321
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1323,
+      "end": 1327
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 1328,
+      "end": 1335
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1336,
+      "end": 1344
+    },
+    {
+      "text": "Mag. Faika El-Nagashi",
+      "label": "PER",
+      "start": 1346,
+      "end": 1367
+    },
+    {
+      "text": "David Stögmüller",
+      "label": "PER",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "text": "Dipl.-Ing. Olga Voglauer",
+      "label": "PER",
+      "start": 1390,
+      "end": 1414
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1453,
+      "end": 1464
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1859,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1882,
+      "end": 1893
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 1895,
+      "end": 1904
+    },
+    {
+      "text": "Hafenecker",
+      "label": "PER",
+      "start": 1905,
+      "end": 1915
+    },
+    {
+      "text": "Sigrid Maurer, BA",
+      "label": "PER",
+      "start": 1921,
+      "end": 1938
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger, MES",
+      "label": "PER",
+      "start": 1940,
+      "end": 1971
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2477
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2697
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "label": "ORG",
+      "start": 721,
+      "end": 791
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1147,
+      "end": 1161
+    },
+    {
+      "text": "Andreas Kühberger",
+      "label": "PER",
+      "start": 1163,
+      "end": 1180
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1245,
+      "end": 1258
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1285,
+      "end": 1298
+    },
+    {
+      "text": "Christian Ragger",
+      "label": "PER",
+      "start": 1305,
+      "end": 1321
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 1328,
+      "end": 1344
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1351,
+      "end": 1367
+    },
+    {
+      "text": "David Stögmüller",
+      "label": "PER",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "text": "Olga Voglauer",
+      "label": "PER",
+      "start": 1401,
+      "end": 1414
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1453,
+      "end": 1464
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1864,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1882,
+      "end": 1893
+    },
+    {
+      "text": "Christian Hafenecker",
+      "label": "PER",
+      "start": 1895,
+      "end": 1915
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1921,
+      "end": 1934
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1936,
+      "end": 1938
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1945,
+      "end": 1966
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2375,
+      "end": 2408
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 239,
+      "end": 283
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 721,
+      "end": 761
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 918,
+      "end": 929
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1141
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1147,
+      "end": 1161
+    },
+    {
+      "text": "Andreas\nKühberger",
+      "label": "PER",
+      "start": 1163,
+      "end": 1180
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Dr. Susanne\nFürst",
+      "label": "PER",
+      "start": 1241,
+      "end": 1258
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1280,
+      "end": 1298
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1300,
+      "end": 1303
+    },
+    {
+      "text": "Christian Ragger",
+      "label": "PER",
+      "start": 1305,
+      "end": 1321
+    },
+    {
+      "text": "Philipp\nSchrangl",
+      "label": "PER",
+      "start": 1328,
+      "end": 1344
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1351,
+      "end": 1367
+    },
+    {
+      "text": "David Stögmüller",
+      "label": "PER",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "text": "Dipl.-Ing. Olga Voglauer",
+      "label": "PER",
+      "start": 1390,
+      "end": 1414
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1453,
+      "end": 1464
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1692,
+      "end": 1706
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1864,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1882,
+      "end": 1893
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 1895,
+      "end": 1915
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1921,
+      "end": 1934
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1936,
+      "end": 1938
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1940,
+      "end": 1943
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1945,
+      "end": 1966
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1968,
+      "end": 1971
+    },
+    {
+      "text": "Parlamentsgebäudes",
+      "label": "ORG",
+      "start": 2075,
+      "end": 2093
+    },
+    {
+      "text": "PGSG",
+      "label": "ORG",
+      "start": 2130,
+      "end": 2134
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2477
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2697
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 239,
+      "end": 283
+    },
+    {
+      "text": "Bundesministers für Soziales, Gesundheit",
+      "label": "ORG",
+      "start": 721,
+      "end": 761
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 918,
+      "end": 929
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1141
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1147,
+      "end": 1161
+    },
+    {
+      "text": "Andreas\nKühberger",
+      "label": "PER",
+      "start": 1163,
+      "end": 1180
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Dr. Susanne\nFürst",
+      "label": "PER",
+      "start": 1241,
+      "end": 1258
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1280,
+      "end": 1298
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1300,
+      "end": 1303
+    },
+    {
+      "text": "Christian Ragger",
+      "label": "PER",
+      "start": 1305,
+      "end": 1321
+    },
+    {
+      "text": "Philipp\nSchrangl",
+      "label": "PER",
+      "start": 1328,
+      "end": 1344
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1351,
+      "end": 1367
+    },
+    {
+      "text": "David Stögmüller",
+      "label": "PER",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "text": "Dipl.-Ing. Olga Voglauer",
+      "label": "PER",
+      "start": 1390,
+      "end": 1414
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1453,
+      "end": 1464
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1692,
+      "end": 1706
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1864,
+      "end": 1880
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1882,
+      "end": 1893
+    },
+    {
+      "text": "Christian\nHafenecker",
+      "label": "PER",
+      "start": 1895,
+      "end": 1915
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1921,
+      "end": 1934
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1936,
+      "end": 1938
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1940,
+      "end": 1943
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1945,
+      "end": 1966
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1968,
+      "end": 1971
+    },
+    {
+      "text": "Parlamentsgebäudes",
+      "label": "ORG",
+      "start": 2075,
+      "end": 2093
+    },
+    {
+      "text": "PGSG",
+      "label": "ORG",
+      "start": 2130,
+      "end": 2134
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2477
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2697
+    }
+  ],
+  "bert": [
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 918,
+      "end": 929
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1147,
+      "end": 1161
+    },
+    {
+      "text": "Andreas Kühberger",
+      "label": "PER",
+      "start": 1163,
+      "end": 1180
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1245,
+      "end": 1258
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1285,
+      "end": 1298
+    },
+    {
+      "text": "ti",
+      "label": "PER",
+      "start": 1900,
+      "end": 1902
+    },
+    {
+      "text": "##an Hafenecker",
+      "label": "PER",
+      "start": 1902,
+      "end": 1915
+    },
+    {
+      "text": "Si",
+      "label": "PER",
+      "start": 1921,
+      "end": 1923
+    },
+    {
+      "text": "##grid Maurer",
+      "label": "PER",
+      "start": 1923,
+      "end": 1934
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1940,
+      "end": 1944
+    },
+    {
+      "text": "Beate Meinl - Reisinger",
+      "label": "PER",
+      "start": 1945,
+      "end": 1966
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2375,
+      "end": 2408
+    },
+    {
+      "text": "Umweltausschuss",
+      "label": "ORG",
+      "start": 2448,
+      "end": 2463
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2477
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    },
+    {
+      "text": "Tourismusausschuss",
+      "label": "ORG",
+      "start": 2574,
+      "end": 2592
+    },
+    {
+      "text": "Landesverteidigungsausschus",
+      "label": "ORG",
+      "start": 2621,
+      "end": 2648
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2684,
+      "end": 2697
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 825,
+      "end": 835
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 918,
+      "end": 926
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1004,
+      "end": 1015
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1142,
+      "end": 1145
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1147,
+      "end": 1161
+    },
+    {
+      "text": "Andreas Kühberger",
+      "label": "PER",
+      "start": 1163,
+      "end": 1180
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 1186,
+      "end": 1202
+    },
+    {
+      "text": "Alexander Melchior",
+      "label": "PER",
+      "start": 1204,
+      "end": 1222
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1224,
+      "end": 1239
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1245,
+      "end": 1258
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1285,
+      "end": 1298
+    },
+    {
+      "text": "ti",
+      "label": "PER",
+      "start": 1900,
+      "end": 1902
+    },
+    {
+      "text": "##an Hafenecker",
+      "label": "PER",
+      "start": 1902,
+      "end": 1915
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 1917,
+      "end": 1919
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1921,
+      "end": 1934
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1936,
+      "end": 1938
+    },
+    {
+      "text": "Beate Meinl - Reisinger",
+      "label": "PER",
+      "start": 1945,
+      "end": 1966
+    },
+    {
+      "text": "ME",
+      "label": "ORG",
+      "start": 1968,
+      "end": 1970
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 2205,
+      "end": 2225
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2309,
+      "end": 2320
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2537,
+      "end": 2548
+    }
+  ]
+}

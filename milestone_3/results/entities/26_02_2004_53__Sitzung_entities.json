@@ -1,0 +1,527 @@
+{
+  "filename": "26.02.2004_53._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 742,
+      "end": 759
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "Gradwohl, Mandak",
+      "label": "PER",
+      "start": 889,
+      "end": 905
+    },
+    {
+      "text": "Dr. BaumgartnerGabitzer",
+      "label": "PER",
+      "start": 907,
+      "end": 930
+    },
+    {
+      "text": "Mag. Scheucher-Pichler",
+      "label": "PER",
+      "start": 935,
+      "end": 957
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 979,
+      "end": 996
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1299,
+      "end": 1312
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 742,
+      "end": 759
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 828,
+      "end": 841
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 907,
+      "end": 910
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 935,
+      "end": 939
+    },
+    {
+      "text": "Scheucher-Pichler",
+      "label": "PER",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 979,
+      "end": 996
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1299,
+      "end": 1312
+    }
+  ],
+  "flair": [
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 746,
+      "end": 759
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 781,
+      "end": 794
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "BaumgartnerGabitzer",
+      "label": "PER",
+      "start": 911,
+      "end": 930
+    },
+    {
+      "text": "Scheucher-Pichler",
+      "label": "PER",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 983,
+      "end": 996
+    },
+    {
+      "text": "für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1212,
+      "end": 1235
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1260,
+      "end": 1273
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 742,
+      "end": 759
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 828,
+      "end": 841
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "Dr. BaumgartnerGabitzer",
+      "label": "ORG",
+      "start": 907,
+      "end": 930
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 935,
+      "end": 938
+    },
+    {
+      "text": "Scheucher-Pichler",
+      "label": "PER",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 979,
+      "end": 996
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1299,
+      "end": 1312
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 742,
+      "end": 759
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 777,
+      "end": 794
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 828,
+      "end": 841
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "Dr. BaumgartnerGabitzer",
+      "label": "ORG",
+      "start": 907,
+      "end": 930
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 935,
+      "end": 938
+    },
+    {
+      "text": "Scheucher-Pichler",
+      "label": "PER",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 979,
+      "end": 996
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1273
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1299,
+      "end": 1312
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 183,
+      "end": 191
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 746,
+      "end": 759
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 781,
+      "end": 794
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "BaumgartnerGabitzer",
+      "label": "PER",
+      "start": 911,
+      "end": 930
+    },
+    {
+      "text": "Mag. Scheucher - Pichler",
+      "label": "PER",
+      "start": 935,
+      "end": 957
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 983,
+      "end": 996
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1260,
+      "end": 1273
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 746,
+      "end": 759
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 781,
+      "end": 794
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 889,
+      "end": 897
+    },
+    {
+      "text": "Mandak",
+      "label": "PER",
+      "start": 899,
+      "end": 905
+    },
+    {
+      "text": "Baumgartner",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "##abitzer",
+      "label": "PER",
+      "start": 923,
+      "end": 930
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 935,
+      "end": 938
+    },
+    {
+      "text": "Scheucher - Pichler",
+      "label": "PER",
+      "start": 940,
+      "end": 957
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 983,
+      "end": 996
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1260,
+      "end": 1273
+    }
+  ]
+}

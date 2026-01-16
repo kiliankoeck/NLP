@@ -1,0 +1,2435 @@
+{
+  "filename": "27.06.2013_212._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Parlamentarischen Bundesheerkommission",
+      "label": "ORG",
+      "start": 818,
+      "end": 856
+    },
+    {
+      "text": "Bundesministers",
+      "label": "PER",
+      "start": 899,
+      "end": 914
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1199,
+      "end": 1231
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1345,
+      "end": 1377
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 1641,
+      "end": 1654
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1770,
+      "end": 1780
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1896,
+      "end": 1909
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1989,
+      "end": 2000
+    },
+    {
+      "text": "Heinz-Christian\\nStrache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "Heinz-Christian\\nStrache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2372,
+      "end": 2392
+    },
+    {
+      "text": "Mag. Dr. Martin\\nGraf",
+      "label": "PER",
+      "start": 2508,
+      "end": 2528
+    },
+    {
+      "text": "Mag. Dr. Martin\\nGraf",
+      "label": "PER",
+      "start": 2642,
+      "end": 2662
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 2807,
+      "end": 2825
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 3117,
+      "end": 3126
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 3153,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Dr. Strutz",
+      "label": "PER",
+      "start": 3188,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Mag. Jarmer",
+      "label": "PER",
+      "start": 3216,
+      "end": 3227
+    },
+    {
+      "text": "Mag. Musiol",
+      "label": "PER",
+      "start": 3229,
+      "end": 3240
+    },
+    {
+      "text": "Mag. Schatz",
+      "label": "PER",
+      "start": 3242,
+      "end": 3253
+    },
+    {
+      "text": "Windholz",
+      "label": "PER",
+      "start": 3255,
+      "end": 3263
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 3268,
+      "end": 3273
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 3280,
+      "end": 3285
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3767,
+      "end": 3792
+    },
+    {
+      "text": "Mag. Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3936,
+      "end": 3961
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3963,
+      "end": 3983
+    },
+    {
+      "text": "Parlamentarischen Bundesheerkommission",
+      "label": "ORG",
+      "start": 4317,
+      "end": 4355
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Mag. Gaßner",
+      "label": "PER",
+      "start": 4562,
+      "end": 4573
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 4575,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4794,
+      "end": 4805
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4869,
+      "end": 4882
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1199,
+      "end": 1202
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 1203,
+      "end": 1209
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1345,
+      "end": 1348
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 1349,
+      "end": 1355
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 1641,
+      "end": 1654
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1770,
+      "end": 1780
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1896,
+      "end": 1909
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1989,
+      "end": 2000
+    },
+    {
+      "text": "Heinz-Christian",
+      "label": "PER",
+      "start": 2079,
+      "end": 2094
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 2095,
+      "end": 2102
+    },
+    {
+      "text": "Heinz-Christian",
+      "label": "PER",
+      "start": 2216,
+      "end": 2231
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 2232,
+      "end": 2239
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2372,
+      "end": 2392
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2508,
+      "end": 2512
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2513,
+      "end": 2516
+    },
+    {
+      "text": "Martin",
+      "label": "PER",
+      "start": 2517,
+      "end": 2523
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 2524,
+      "end": 2528
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2642,
+      "end": 2646
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2647,
+      "end": 2650
+    },
+    {
+      "text": "Martin",
+      "label": "PER",
+      "start": 2651,
+      "end": 2657
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 2658,
+      "end": 2662
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 2807,
+      "end": 2825
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 3117,
+      "end": 3126
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3153,
+      "end": 3157
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 3158,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3188,
+      "end": 3191
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 3192,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3216,
+      "end": 3220
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 3221,
+      "end": 3227
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3229,
+      "end": 3233
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 3234,
+      "end": 3240
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3242,
+      "end": 3246
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 3247,
+      "end": 3253
+    },
+    {
+      "text": "Windholz",
+      "label": "PER",
+      "start": 3255,
+      "end": 3263
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 3268,
+      "end": 3273
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 3280,
+      "end": 3285
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3767,
+      "end": 3792
+    },
+    {
+      "text": "Mag. Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3936,
+      "end": 3961
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3963,
+      "end": 3983
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4562,
+      "end": 4566
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4575,
+      "end": 4578
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 4579,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4794,
+      "end": 4805
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4869,
+      "end": 4882
+    }
+  ],
+  "flair": [
+    {
+      "text": "Parlamentarischen Bundesheerkommission für Beschwerdewesen",
+      "label": "ORG",
+      "start": 818,
+      "end": 876
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 899,
+      "end": 947
+    },
+    {
+      "text": "BM f. Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 949,
+      "end": 983
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 1031,
+      "end": 1039
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "für Justiz",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1203,
+      "end": 1231
+    },
+    {
+      "text": "für Justiz",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1311
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1349,
+      "end": 1377
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 1451,
+      "end": 1459
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1561,
+      "end": 1607
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 1641,
+      "end": 1654
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1770,
+      "end": 1780
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1896,
+      "end": 1909
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 2308,
+      "end": 2338
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2517,
+      "end": 2528
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2651,
+      "end": 2662
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 2715,
+      "end": 2773
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2812,
+      "end": 2825
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 3117,
+      "end": 3126
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 3158,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 3192,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 3221,
+      "end": 3227
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 3234,
+      "end": 3240
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 3247,
+      "end": 3253
+    },
+    {
+      "text": "Windholz",
+      "label": "PER",
+      "start": 3255,
+      "end": 3263
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 3268,
+      "end": 3273
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 3280,
+      "end": 3285
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "Gerhard Deimek",
+      "label": "PER",
+      "start": 3778,
+      "end": 3792
+    },
+    {
+      "text": "Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3941,
+      "end": 3961
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3967,
+      "end": 3983
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4230,
+      "end": 4278
+    },
+    {
+      "text": "Parlamentarischen Bundesheerkommission für Beschwerdewesen",
+      "label": "ORG",
+      "start": 4317,
+      "end": 4375
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4398,
+      "end": 4446
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 4579,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "für Land",
+      "label": "ORG",
+      "start": 4720,
+      "end": 4728
+    },
+    {
+      "text": "und Forstwirtschaft",
+      "label": "ORG",
+      "start": 4730,
+      "end": 4749
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 899,
+      "end": 947
+    },
+    {
+      "text": "BM f. Landesverteidigung",
+      "label": "ORG",
+      "start": 949,
+      "end": 973
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1010,
+      "end": 1039
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1138,
+      "end": 1165
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1199,
+      "end": 1231
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1284,
+      "end": 1311
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1345,
+      "end": 1377
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1459
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1561,
+      "end": 1607
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 1641,
+      "end": 1654
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1707,
+      "end": 1736
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1770,
+      "end": 1780
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1833,
+      "end": 1862
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1896,
+      "end": 1909
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1989,
+      "end": 2000
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2016,
+      "end": 2045
+    },
+    {
+      "text": "Heinz-Christian\nStrache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 2155,
+      "end": 2182
+    },
+    {
+      "text": "Heinz-Christian\nStrache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 2292,
+      "end": 2338
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2359,
+      "end": 2371
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2445,
+      "end": 2474
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2495,
+      "end": 2507
+    },
+    {
+      "text": "Martin\nGraf",
+      "label": "PER",
+      "start": 2517,
+      "end": 2528
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 2581,
+      "end": 2608
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2629,
+      "end": 2641
+    },
+    {
+      "text": "Martin\nGraf",
+      "label": "PER",
+      "start": 2651,
+      "end": 2662
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 2715,
+      "end": 2741
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2812,
+      "end": 2825
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 3153,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Dr. Strutz",
+      "label": "PER",
+      "start": 3188,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "ORG",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 3221,
+      "end": 3227
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 3234,
+      "end": 3240
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 3563,
+      "end": 3577
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3767,
+      "end": 3792
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3923,
+      "end": 3935
+    },
+    {
+      "text": "Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3941,
+      "end": 3961
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3967,
+      "end": 3983
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4398,
+      "end": 4446
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4562,
+      "end": 4566
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 4575,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4794,
+      "end": 4805
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4869,
+      "end": 4882
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 899,
+      "end": 947
+    },
+    {
+      "text": "BM f. Landesverteidigung",
+      "label": "ORG",
+      "start": 949,
+      "end": 973
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1010,
+      "end": 1039
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1138,
+      "end": 1165
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1199,
+      "end": 1231
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1284,
+      "end": 1311
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 1345,
+      "end": 1377
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1459
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1493,
+      "end": 1508
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1561,
+      "end": 1607
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 1641,
+      "end": 1654
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1707,
+      "end": 1736
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1770,
+      "end": 1780
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1833,
+      "end": 1862
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1896,
+      "end": 1909
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1989,
+      "end": 2000
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2016,
+      "end": 2045
+    },
+    {
+      "text": "Heinz-Christian\nStrache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 2155,
+      "end": 2182
+    },
+    {
+      "text": "Heinz-Christian\nStrache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 2292,
+      "end": 2338
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2359,
+      "end": 2371
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2445,
+      "end": 2474
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2495,
+      "end": 2507
+    },
+    {
+      "text": "Martin\nGraf",
+      "label": "PER",
+      "start": 2517,
+      "end": 2528
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 2581,
+      "end": 2608
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2629,
+      "end": 2641
+    },
+    {
+      "text": "Martin\nGraf",
+      "label": "PER",
+      "start": 2651,
+      "end": 2662
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 2715,
+      "end": 2741
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2812,
+      "end": 2825
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2886
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 3153,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Dr. Strutz",
+      "label": "PER",
+      "start": 3188,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "ORG",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 3221,
+      "end": 3227
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 3234,
+      "end": 3240
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 3563,
+      "end": 3577
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3767,
+      "end": 3792
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3923,
+      "end": 3935
+    },
+    {
+      "text": "Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3941,
+      "end": 3961
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3967,
+      "end": 3983
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4398,
+      "end": 4446
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4562,
+      "end": 4566
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 4575,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4794,
+      "end": 4805
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4869,
+      "end": 4882
+    }
+  ],
+  "bert": [
+    {
+      "text": "Parlamentarischen Bundesheerkommission für Beschwerdewesen",
+      "label": "ORG",
+      "start": 818,
+      "end": 876
+    },
+    {
+      "text": "Landesverteidigung",
+      "label": "ORG",
+      "start": 919,
+      "end": 937
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 949,
+      "end": 951
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "ar",
+      "label": "PER",
+      "start": 1900,
+      "end": 1902
+    },
+    {
+      "text": "##d",
+      "label": "PER",
+      "start": 1902,
+      "end": 1903
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1904,
+      "end": 1909
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1940,
+      "end": 1942
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1989,
+      "end": 1997
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2136,
+      "end": 2138
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2273,
+      "end": 2275
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2426,
+      "end": 2428
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2517,
+      "end": 2528
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2562,
+      "end": 2564
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2651,
+      "end": 2662
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2696,
+      "end": 2698
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 2735,
+      "end": 2741
+    },
+    {
+      "text": "##ziale",
+      "label": "ORG",
+      "start": 2745,
+      "end": 2750
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2807,
+      "end": 2810
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2812,
+      "end": 2825
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2859,
+      "end": 2861
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2875,
+      "end": 2883
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 3117,
+      "end": 3126
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 3153,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Dr. Strutz",
+      "label": "PER",
+      "start": 3188,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Mag. Jarmer",
+      "label": "PER",
+      "start": 3216,
+      "end": 3227
+    },
+    {
+      "text": "Mag. Musiol",
+      "label": "PER",
+      "start": 3229,
+      "end": 3240
+    },
+    {
+      "text": "Mag. Schatz",
+      "label": "PER",
+      "start": 3242,
+      "end": 3253
+    },
+    {
+      "text": "Windholz",
+      "label": "PER",
+      "start": 3255,
+      "end": 3263
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 3268,
+      "end": 3273
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3941,
+      "end": 3961
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3967,
+      "end": 3983
+    },
+    {
+      "text": "Landesverteidigungsausschuss",
+      "label": "ORG",
+      "start": 4188,
+      "end": 4216
+    },
+    {
+      "text": "Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4250,
+      "end": 4278
+    },
+    {
+      "text": "Parlamentarischen Bundesheerkommission für Beschwerdewesen",
+      "label": "ORG",
+      "start": 4317,
+      "end": 4375
+    },
+    {
+      "text": "Landesverteidigung und Sport",
+      "label": "ORG",
+      "start": 4418,
+      "end": 4446
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 4579,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 4710,
+      "end": 4749
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4794,
+      "end": 4805
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4869,
+      "end": 4877
+    },
+    {
+      "text": "Gesundheitsausschus",
+      "label": "ORG",
+      "start": 5089,
+      "end": 5108
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Bundesheerkom",
+      "label": "ORG",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1073,
+      "end": 1085
+    },
+    {
+      "text": "##d Huber",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2079,
+      "end": 2102
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2216,
+      "end": 2239
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2381,
+      "end": 2392
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2517,
+      "end": 2528
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2651,
+      "end": 2662
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2807,
+      "end": 2810
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2812,
+      "end": 2825
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 2894,
+      "end": 2896
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2993,
+      "end": 3009
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3027,
+      "end": 3043
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 3117,
+      "end": 3126
+    },
+    {
+      "text": "Gahr",
+      "label": "PER",
+      "start": 3128,
+      "end": 3132
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 3134,
+      "end": 3138
+    },
+    {
+      "text": "Marek",
+      "label": "PER",
+      "start": 3140,
+      "end": 3145
+    },
+    {
+      "text": "Pack",
+      "label": "PER",
+      "start": 3147,
+      "end": 3151
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 3153,
+      "end": 3163
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 3165,
+      "end": 3171
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 3173,
+      "end": 3186
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 3192,
+      "end": 3198
+    },
+    {
+      "text": "Venier",
+      "label": "PER",
+      "start": 3200,
+      "end": 3206
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 3208,
+      "end": 3214
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 3221,
+      "end": 3227
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 3234,
+      "end": 3240
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 3247,
+      "end": 3253
+    },
+    {
+      "text": "Windholz",
+      "label": "PER",
+      "start": 3255,
+      "end": 3263
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 3268,
+      "end": 3273
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3321,
+      "end": 3337
+    },
+    {
+      "text": "Peter Michael Ikrath",
+      "label": "PER",
+      "start": 3941,
+      "end": 3961
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3967,
+      "end": 3983
+    },
+    {
+      "text": "Bundesheerkommission",
+      "label": "ORG",
+      "start": 4335,
+      "end": 4355
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4479,
+      "end": 4495
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 4550,
+      "end": 4560
+    },
+    {
+      "text": "Gaßner",
+      "label": "PER",
+      "start": 4567,
+      "end": 4573
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 4579,
+      "end": 4589
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 4591,
+      "end": 4596
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 4710,
+      "end": 4713
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4827,
+      "end": 4843
+    }
+  ]
+}

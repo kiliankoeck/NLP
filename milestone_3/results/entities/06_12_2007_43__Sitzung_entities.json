@@ -1,0 +1,1217 @@
+{
+  "filename": "06.12.2007_43._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 407,
+      "end": 427
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 775,
+      "end": 802
+    },
+    {
+      "text": "Josef Broukal,",
+      "label": "PER",
+      "start": 836,
+      "end": 850
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 900,
+      "end": 927
+    },
+    {
+      "text": "Sylvia Rinner,",
+      "label": "PER",
+      "start": 961,
+      "end": 975
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 1025,
+      "end": 1052
+    },
+    {
+      "text": "Leopold Mayerhofer,",
+      "label": "PER",
+      "start": 1086,
+      "end": 1105
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "PER",
+      "start": 1155,
+      "end": 1182
+    },
+    {
+      "text": "Mag. Helmut\\n\\nKukacka,",
+      "label": "PER",
+      "start": 1216,
+      "end": 1236
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1330
+    },
+    {
+      "text": "Mag. Barbara Prammer.",
+      "label": "PER",
+      "start": 1397,
+      "end": 1418
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 1437,
+      "end": 1458
+    },
+    {
+      "text": "Mag. Knoll,",
+      "label": "PER",
+      "start": 1531,
+      "end": 1542
+    },
+    {
+      "text": "Mag. Wurm,",
+      "label": "PER",
+      "start": 1543,
+      "end": 1553
+    },
+    {
+      "text": "Rauch-Kallat",
+      "label": "PER",
+      "start": 1554,
+      "end": 1566
+    },
+    {
+      "text": "Mag. Hauser.",
+      "label": "PER",
+      "start": 1571,
+      "end": 1583
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 1620,
+      "end": 1641
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 2071,
+      "end": 2090
+    },
+    {
+      "text": "Josef Bucher,",
+      "label": "PER",
+      "start": 2378,
+      "end": 2391
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 2505,
+      "end": 2526
+    },
+    {
+      "text": "Rosenkranz,",
+      "label": "PER",
+      "start": 2579,
+      "end": 2590
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2783
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 2940,
+      "end": 2961
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3087,
+      "end": 3099
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3158,
+      "end": 3178
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3401,
+      "end": 3420
+    },
+    {
+      "text": "Präsidialkonferenz",
+      "label": "ORG",
+      "start": 4300,
+      "end": 4318
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 4364,
+      "end": 4385
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5317,
+      "end": 5336
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 362,
+      "end": 373
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 407,
+      "end": 427
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1216,
+      "end": 1220
+    },
+    {
+      "text": "Helmut",
+      "label": "PER",
+      "start": 1221,
+      "end": 1227
+    },
+    {
+      "text": "Kukacka",
+      "label": "PER",
+      "start": 1228,
+      "end": 1235
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1329
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1397,
+      "end": 1417
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1437,
+      "end": 1457
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1531,
+      "end": 1535
+    },
+    {
+      "text": "Knoll",
+      "label": "PER",
+      "start": 1536,
+      "end": 1541
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1543,
+      "end": 1547
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 1548,
+      "end": 1552
+    },
+    {
+      "text": "Rauch-Kallat",
+      "label": "PER",
+      "start": 1554,
+      "end": 1566
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1571,
+      "end": 1575
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1576,
+      "end": 1582
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1620,
+      "end": 1640
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2071,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2505,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2782
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2940,
+      "end": 2960
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 3069,
+      "end": 3073
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3087,
+      "end": 3098
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3158,
+      "end": 3178
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1402,
+      "end": 1417
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1442,
+      "end": 1457
+    },
+    {
+      "text": "Knoll",
+      "label": "PER",
+      "start": 1536,
+      "end": 1541
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 1548,
+      "end": 1552
+    },
+    {
+      "text": "Rauch-Kallat",
+      "label": "PER",
+      "start": 1554,
+      "end": 1566
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1576,
+      "end": 1582
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1625,
+      "end": 1640
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2076,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2960
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3163,
+      "end": 3178
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 362,
+      "end": 373
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 407,
+      "end": 410
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 489,
+      "end": 591
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 619,
+      "end": 725
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 775,
+      "end": 802
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 900,
+      "end": 927
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1025,
+      "end": 1052
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1182
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1203,
+      "end": 1215
+    },
+    {
+      "text": "Helmut\nKukacka",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1329
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1402,
+      "end": 1417
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1437,
+      "end": 1440
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1442,
+      "end": 1457
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1518,
+      "end": 1530
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1531,
+      "end": 1534
+    },
+    {
+      "text": "Knoll",
+      "label": "PER",
+      "start": 1536,
+      "end": 1541
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1546
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1576,
+      "end": 1582
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1620,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1625,
+      "end": 1640
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1871,
+      "end": 1882
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2071,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2505,
+      "end": 2508
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2782
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2940,
+      "end": 2943
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2960
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3087,
+      "end": 3098
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3158,
+      "end": 3161
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3163,
+      "end": 3178
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3401,
+      "end": 3420
+    },
+    {
+      "text": "Fraktionen",
+      "label": "ORG",
+      "start": 3816,
+      "end": 3826
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 4364,
+      "end": 4385
+    },
+    {
+      "text": "Gute!\n",
+      "label": "ORG",
+      "start": 4793,
+      "end": 4799
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 362,
+      "end": 373
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 407,
+      "end": 410
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 489,
+      "end": 591
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 619,
+      "end": 725
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 775,
+      "end": 802
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 900,
+      "end": 927
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1025,
+      "end": 1052
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1182
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1203,
+      "end": 1215
+    },
+    {
+      "text": "Helmut\nKukacka",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1329
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1402,
+      "end": 1417
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1437,
+      "end": 1440
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1442,
+      "end": 1457
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1518,
+      "end": 1530
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1531,
+      "end": 1534
+    },
+    {
+      "text": "Knoll",
+      "label": "PER",
+      "start": 1536,
+      "end": 1541
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1546
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1576,
+      "end": 1582
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1620,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1625,
+      "end": 1640
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1871,
+      "end": 1882
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2071,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2505,
+      "end": 2508
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2782
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2940,
+      "end": 2943
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2960
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3087,
+      "end": 3098
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3158,
+      "end": 3161
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3163,
+      "end": 3178
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3401,
+      "end": 3420
+    },
+    {
+      "text": "Fraktionen",
+      "label": "ORG",
+      "start": 3816,
+      "end": 3826
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 4364,
+      "end": 4385
+    },
+    {
+      "text": "Gute!\n",
+      "label": "ORG",
+      "start": 4793,
+      "end": 4799
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 362,
+      "end": 373
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1216,
+      "end": 1219
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2036
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2076,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2769,
+      "end": 2782
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2960
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3087,
+      "end": 3098
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3163,
+      "end": 3178
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 4364,
+      "end": 4385
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 407,
+      "end": 410
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 412,
+      "end": 427
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 836,
+      "end": 849
+    },
+    {
+      "text": "Sylvia Rinner",
+      "label": "PER",
+      "start": 961,
+      "end": 974
+    },
+    {
+      "text": "Leopold Mayerhofer",
+      "label": "PER",
+      "start": 1086,
+      "end": 1104
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1216,
+      "end": 1219
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2036
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2076,
+      "end": 2089
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2505,
+      "end": 2508
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2525
+    },
+    {
+      "text": "Rosenkranz",
+      "label": "PER",
+      "start": 2579,
+      "end": 2589
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2940,
+      "end": 2943
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2960
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3158,
+      "end": 3161
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3163,
+      "end": 3178
+    },
+    {
+      "text": "##dialkonferenz",
+      "label": "ORG",
+      "start": 4305,
+      "end": 4318
+    }
+  ]
+}

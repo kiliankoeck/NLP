@@ -1,0 +1,1541 @@
+{
+  "filename": "23.10.2019_2._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 75,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 235,
+      "end": 248
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 734,
+      "end": 747
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1145,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1576,
+      "end": 1599
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1717,
+      "end": 1740
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1873,
+      "end": 1896
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 2285,
+      "end": 2308
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2528
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2620,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2940
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3340,
+      "end": 3358
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3479,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3852,
+      "end": 3870
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 3975,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4622,
+      "end": 4635
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5231,
+      "end": 5250
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5286,
+      "end": 5305
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 75,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 235,
+      "end": 248
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 734,
+      "end": 747
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner, MSc",
+      "label": "PER",
+      "start": 1145,
+      "end": 1173
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner, MSc",
+      "label": "PER",
+      "start": 1576,
+      "end": 1604
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner, MSc",
+      "label": "PER",
+      "start": 1717,
+      "end": 1745
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner, MSc",
+      "label": "PER",
+      "start": 1873,
+      "end": 1901
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner, MSc",
+      "label": "PER",
+      "start": 2285,
+      "end": 2313
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2528
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2620,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2940
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3340,
+      "end": 3358
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3479,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3852,
+      "end": 3870
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 3975,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4622,
+      "end": 4635
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    }
+  ],
+  "flair": [
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1149,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1580,
+      "end": 1599
+    },
+    {
+      "text": "Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1721,
+      "end": 1740
+    },
+    {
+      "text": "Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1877,
+      "end": 1896
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 2289,
+      "end": 2308
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2515,
+      "end": 2528
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2625,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2940
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3345,
+      "end": 3358
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3484,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3796,
+      "end": 3799
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3857,
+      "end": 3870
+    },
+    {
+      "text": "Markus Vogl",
+      "label": "PER",
+      "start": 3980,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 75,
+      "end": 101
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 235,
+      "end": 279
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 734,
+      "end": 747
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1145,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1576,
+      "end": 1599
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1717,
+      "end": 1740
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1873,
+      "end": 1896
+    },
+    {
+      "text": "KSMG",
+      "label": "ORG",
+      "start": 2091,
+      "end": 2095
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 2285,
+      "end": 2308
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2528
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2620,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2940
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3340,
+      "end": 3358
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3479,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "IS-Rückkehrer",
+      "label": "ORG",
+      "start": 3699,
+      "end": 3712
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3796,
+      "end": 3799
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3839,
+      "end": 3851
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3857,
+      "end": 3870
+    },
+    {
+      "text": "Bezirksgerichten",
+      "label": "PER",
+      "start": 3929,
+      "end": 3945
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 3975,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Arbeitsund Sozialgerichtsgesetz",
+      "label": "ORG",
+      "start": 4519,
+      "end": 4550
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4622,
+      "end": 4635
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5068,
+      "end": 5080
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik",
+      "label": "ORG",
+      "start": 75,
+      "end": 101
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 235,
+      "end": 279
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 734,
+      "end": 747
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1145,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1576,
+      "end": 1599
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1717,
+      "end": 1740
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 1873,
+      "end": 1896
+    },
+    {
+      "text": "KSMG",
+      "label": "ORG",
+      "start": 2091,
+      "end": 2095
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Dr. Pamela Rendi-Wagner",
+      "label": "PER",
+      "start": 2285,
+      "end": 2308
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2510,
+      "end": 2528
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2620,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2940
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3340,
+      "end": 3358
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3479,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "IS-Rückkehrer",
+      "label": "ORG",
+      "start": 3699,
+      "end": 3712
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3796,
+      "end": 3799
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3839,
+      "end": 3851
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3857,
+      "end": 3870
+    },
+    {
+      "text": "Bezirksgerichten",
+      "label": "PER",
+      "start": 3929,
+      "end": 3945
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 3975,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Arbeitsund Sozialgerichtsgesetz",
+      "label": "ORG",
+      "start": 4519,
+      "end": 4550
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4622,
+      "end": 4635
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5068,
+      "end": 5080
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Pamela Rendi - Wagner",
+      "label": "PER",
+      "start": 1149,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Pamela Rendi - Wagner",
+      "label": "PER",
+      "start": 2289,
+      "end": 2308
+    },
+    {
+      "text": "MSc",
+      "label": "ORG",
+      "start": 2310,
+      "end": 2313
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2510,
+      "end": 2514
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2515,
+      "end": 2528
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2625,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2929,
+      "end": 2937
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3345,
+      "end": 3358
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3484,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3796,
+      "end": 3799
+    },
+    {
+      "text": "Mag. Harald",
+      "label": "PER",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3852,
+      "end": 3870
+    },
+    {
+      "text": "Markus Vogl",
+      "label": "PER",
+      "start": 3980,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4622,
+      "end": 4635
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4851
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "DE",
+      "label": "ORG",
+      "start": 14,
+      "end": 16
+    },
+    {
+      "text": "NATION",
+      "label": "ORG",
+      "start": 18,
+      "end": 24
+    },
+    {
+      "text": "##RATE",
+      "label": "ORG",
+      "start": 26,
+      "end": 30
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 235,
+      "end": 243
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 573,
+      "end": 584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 659,
+      "end": 670
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 810,
+      "end": 821
+    },
+    {
+      "text": "Pamela Rendi",
+      "label": "PER",
+      "start": 1149,
+      "end": 1161
+    },
+    {
+      "text": "Wagner",
+      "label": "PER",
+      "start": 1162,
+      "end": 1168
+    },
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 1294,
+      "end": 1317
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1443,
+      "end": 1458
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2130,
+      "end": 2142
+    },
+    {
+      "text": "Pamela Rendi",
+      "label": "PER",
+      "start": 2289,
+      "end": 2301
+    },
+    {
+      "text": "Wagner",
+      "label": "PER",
+      "start": 2302,
+      "end": 2308
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2515,
+      "end": 2528
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2620,
+      "end": 2624
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2625,
+      "end": 2638
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2772,
+      "end": 2782
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2999,
+      "end": 3010
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3044,
+      "end": 3057
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3172,
+      "end": 3185
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3340,
+      "end": 3358
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3479,
+      "end": 3483
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3484,
+      "end": 3497
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3635,
+      "end": 3648
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 3745,
+      "end": 3758
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3796,
+      "end": 3799
+    },
+    {
+      "text": "Mag. Harald",
+      "label": "PER",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3852,
+      "end": 3856
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3857,
+      "end": 3870
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 3975,
+      "end": 3991
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3993,
+      "end": 4003
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 4182,
+      "end": 4194
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 4310,
+      "end": 4325
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4585,
+      "end": 4596
+    }
+  ]
+}

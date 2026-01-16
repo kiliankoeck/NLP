@@ -1,0 +1,1577 @@
+{
+  "filename": "19.01.2012_142._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 669,
+      "end": 727
+    },
+    {
+      "text": "Gerald Grosz,",
+      "label": "PER",
+      "start": 761,
+      "end": 774
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 825,
+      "end": 883
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill,",
+      "label": "PER",
+      "start": 917,
+      "end": 945
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1040
+    },
+    {
+      "text": "Mag. Dr. Martin Graf.",
+      "label": "PER",
+      "start": 1105,
+      "end": 1126
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 1143,
+      "end": 1164
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1198,
+      "end": 1212
+    },
+    {
+      "text": "Lueger,",
+      "label": "PER",
+      "start": 1259,
+      "end": 1266
+    },
+    {
+      "text": "Dr. Wittmann,",
+      "label": "PER",
+      "start": 1267,
+      "end": 1280
+    },
+    {
+      "text": "Jakob Auer,",
+      "label": "PER",
+      "start": 1281,
+      "end": 1292
+    },
+    {
+      "text": "Ing. Schultes,",
+      "label": "PER",
+      "start": 1293,
+      "end": 1307
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1308,
+      "end": 1332
+    },
+    {
+      "text": "Dr. Pilz.",
+      "label": "PER",
+      "start": 1337,
+      "end": 1346
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 1381,
+      "end": 1402
+    },
+    {
+      "text": "Mario Kunasek,",
+      "label": "PER",
+      "start": 1859,
+      "end": 1873
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 1975,
+      "end": 1994
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 2137,
+      "end": 2156
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 2318,
+      "end": 2337
+    },
+    {
+      "text": "Heinz-Christian Strache,",
+      "label": "PER",
+      "start": 2518,
+      "end": 2542
+    },
+    {
+      "text": "Anneliese Kitzmüller,",
+      "label": "PER",
+      "start": 2668,
+      "end": 2689
+    },
+    {
+      "text": "Josef Bucher,",
+      "label": "PER",
+      "start": 2869,
+      "end": 2882
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3036
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3092,
+      "end": 3112
+    },
+    {
+      "text": "Dr. Kurt Grünewald,",
+      "label": "PER",
+      "start": 3170,
+      "end": 3189
+    },
+    {
+      "text": "Josef Bucher,",
+      "label": "PER",
+      "start": 3431,
+      "end": 3444
+    },
+    {
+      "text": "Harald Jannach,",
+      "label": "PER",
+      "start": 3647,
+      "end": 3662
+    },
+    {
+      "text": "Josef Bucher,",
+      "label": "PER",
+      "start": 3825,
+      "end": 3838
+    },
+    {
+      "text": "ORF,",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3899
+    },
+    {
+      "text": "Elmar Mayer,",
+      "label": "PER",
+      "start": 3931,
+      "end": 3943
+    },
+    {
+      "text": "Werner Amon, MBA,",
+      "label": "PER",
+      "start": 3944,
+      "end": 3961
+    },
+    {
+      "text": "Dr. Kurt Grünewald,",
+      "label": "PER",
+      "start": 4162,
+      "end": 4181
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 4274,
+      "end": 4295
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4334
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4530,
+      "end": 4549
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 917,
+      "end": 944
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1039
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1105,
+      "end": 1125
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1143,
+      "end": 1163
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1198,
+      "end": 1211
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1267,
+      "end": 1270
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1271,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1293,
+      "end": 1297
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 1298,
+      "end": 1306
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1308,
+      "end": 1311
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1312,
+      "end": 1332
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1337,
+      "end": 1340
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1341,
+      "end": 1345
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1381,
+      "end": 1401
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1859,
+      "end": 1872
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1975,
+      "end": 1993
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2155
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2318,
+      "end": 2336
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3035
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3092,
+      "end": 3112
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 3170,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon, MBA",
+      "label": "PER",
+      "start": 3944,
+      "end": 3960
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 4162,
+      "end": 4180
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4274,
+      "end": 4294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4333
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 669,
+      "end": 727
+    },
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 825,
+      "end": 883
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 917,
+      "end": 944
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1125
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1271,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 1298,
+      "end": 1306
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1312,
+      "end": 1332
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1341,
+      "end": 1345
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1390,
+      "end": 1401
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1859,
+      "end": 1872
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1980,
+      "end": 1993
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2323,
+      "end": 2336
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3101,
+      "end": 3112
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3174,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3898
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 3944,
+      "end": 3955
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 4166,
+      "end": 4180
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4283,
+      "end": 4294
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 669,
+      "end": 695
+    },
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 825,
+      "end": 851
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 917,
+      "end": 944
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1039
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1125
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1143,
+      "end": 1146
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1198,
+      "end": 1211
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Dr. Wittmann",
+      "label": "PER",
+      "start": 1267,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1293,
+      "end": 1306
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1308,
+      "end": 1332
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1337,
+      "end": 1345
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1390,
+      "end": 1401
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1642,
+      "end": 1656
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1859,
+      "end": 1872
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1975,
+      "end": 1993
+    },
+    {
+      "text": "Arbeitskreises für Bedarfsorientierte Mindestsicherung",
+      "label": "ORG",
+      "start": 2047,
+      "end": 2101
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2155
+    },
+    {
+      "text": "Pflegegeldes",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2265
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2318,
+      "end": 2336
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3035
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3101,
+      "end": 3112
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3174,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3898
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 3944,
+      "end": 3955
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 4166,
+      "end": 4180
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4274,
+      "end": 4277
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4283,
+      "end": 4294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4333
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 669,
+      "end": 695
+    },
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 825,
+      "end": 851
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 917,
+      "end": 944
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1039
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1125
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1143,
+      "end": 1146
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1198,
+      "end": 1211
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Dr. Wittmann",
+      "label": "PER",
+      "start": 1267,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1293,
+      "end": 1306
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1308,
+      "end": 1332
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1337,
+      "end": 1345
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1390,
+      "end": 1401
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1642,
+      "end": 1656
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1859,
+      "end": 1872
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1975,
+      "end": 1993
+    },
+    {
+      "text": "Arbeitskreises für Bedarfsorientierte Mindestsicherung",
+      "label": "ORG",
+      "start": 2047,
+      "end": 2101
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2155
+    },
+    {
+      "text": "Pflegegeldes",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2265
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2318,
+      "end": 2336
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3035
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3101,
+      "end": 3112
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3174,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3898
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 3944,
+      "end": 3955
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 4166,
+      "end": 4180
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4274,
+      "end": 4277
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4283,
+      "end": 4294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4333
+    }
+  ],
+  "bert": [
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 689,
+      "end": 695
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 697,
+      "end": 705
+    },
+    {
+      "text": "Ko",
+      "label": "ORG",
+      "start": 710,
+      "end": 712
+    },
+    {
+      "text": "##ns",
+      "label": "ORG",
+      "start": 720,
+      "end": 722
+    },
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 845,
+      "end": 851
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 853,
+      "end": 861
+    },
+    {
+      "text": "Konsumentenschutz",
+      "label": "ORG",
+      "start": 866,
+      "end": 883
+    },
+    {
+      "text": "Tanja Windbüchler - Souschill",
+      "label": "PER",
+      "start": 917,
+      "end": 944
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1039
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1125
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1271,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1293,
+      "end": 1306
+    },
+    {
+      "text": "Glawischnig",
+      "label": "PER",
+      "start": 1312,
+      "end": 1323
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1975,
+      "end": 1979
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1980,
+      "end": 1993
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2137,
+      "end": 2141
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2318,
+      "end": 2322
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2323,
+      "end": 2336
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3032
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3101,
+      "end": 3112
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3174,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3572,
+      "end": 3611
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3898
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 3944,
+      "end": 3955
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 4166,
+      "end": 4180
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4283,
+      "end": 4294
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4328
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Gerald Grosz",
+      "label": "PER",
+      "start": 761,
+      "end": 773
+    },
+    {
+      "text": "Tanja Windbüchler",
+      "label": "PER",
+      "start": 917,
+      "end": 934
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 935,
+      "end": 944
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1036
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1125
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1152,
+      "end": 1163
+    },
+    {
+      "text": "Lueger",
+      "label": "PER",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 1271,
+      "end": 1279
+    },
+    {
+      "text": "Jakob Auer",
+      "label": "PER",
+      "start": 1281,
+      "end": 1291
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 1298,
+      "end": 1306
+    },
+    {
+      "text": "Glawischnig",
+      "label": "PER",
+      "start": 1312,
+      "end": 1323
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1975,
+      "end": 1993
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 2137,
+      "end": 2140
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2318,
+      "end": 2322
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2323,
+      "end": 2336
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2518,
+      "end": 2541
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 2668,
+      "end": 2688
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2869,
+      "end": 2881
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3024,
+      "end": 3035
+    },
+    {
+      "text": ". Martin Graf",
+      "label": "PER",
+      "start": 3099,
+      "end": 3112
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 3124,
+      "end": 3133
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3174,
+      "end": 3188
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3431,
+      "end": 3443
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3647,
+      "end": 3661
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 3781,
+      "end": 3784
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3825,
+      "end": 3837
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 3895,
+      "end": 3898
+    },
+    {
+      "text": "Elmar Mayer",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 3944,
+      "end": 3955
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 4166,
+      "end": 4180
+    },
+    {
+      "text": "Ho",
+      "label": "ORG",
+      "start": 4238,
+      "end": 4240
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4283,
+      "end": 4294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4320,
+      "end": 4333
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4530,
+      "end": 4554
+    }
+  ]
+}

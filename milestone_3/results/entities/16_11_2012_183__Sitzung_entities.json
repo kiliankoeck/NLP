@@ -1,0 +1,593 @@
+{
+  "filename": "16.11.2012_183._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "PER",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "tz Neugeba",
+      "label": "PER",
+      "start": 914,
+      "end": 924
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1607,
+      "end": 1609
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "ritz Neugeba",
+      "label": "PER",
+      "start": 2646,
+      "end": 2658
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3140
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "PER",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "Handel",
+      "label": "PER",
+      "start": 1805,
+      "end": 1811
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3140
+    }
+  ],
+  "flair": [
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "PER",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1217,
+      "end": 1236
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1607,
+      "end": 1609
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 1778,
+      "end": 1780
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "ORG",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1607,
+      "end": 1609
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 1778,
+      "end": 1780
+    },
+    {
+      "text": "FVwGG",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1951
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    },
+    {
+      "text": "Organisation des Bundesverwaltungsgerichtes",
+      "label": "ORG",
+      "start": 2733,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3140
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "ORG",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1607,
+      "end": 1609
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 1778,
+      "end": 1780
+    },
+    {
+      "text": "FVwGG",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1951
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    },
+    {
+      "text": "Organisation des Bundesverwaltungsgerichtes",
+      "label": "ORG",
+      "start": 2733,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3140
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "PER",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "##schuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1206,
+      "end": 1236
+    },
+    {
+      "text": "##sa",
+      "label": "ORG",
+      "start": 1980,
+      "end": 1982
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2438,
+      "end": 2477
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3127,
+      "end": 3140
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 651,
+      "end": 662
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 736,
+      "end": 752
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 770,
+      "end": 786
+    },
+    {
+      "text": "Klikovits",
+      "label": "PER",
+      "start": 860,
+      "end": 869
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "Tadler",
+      "label": "PER",
+      "start": 881,
+      "end": 887
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "SR",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1276
+    },
+    {
+      "text": "F",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1947
+    },
+    {
+      "text": "##V",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1948
+    },
+    {
+      "text": "Ausschuss für",
+      "label": "ORG",
+      "start": 2438,
+      "end": 2451
+    },
+    {
+      "text": "und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2458,
+      "end": 2477
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2575,
+      "end": 2586
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2645,
+      "end": 2661
+    },
+    {
+      "text": "TVR",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3081
+    }
+  ]
+}

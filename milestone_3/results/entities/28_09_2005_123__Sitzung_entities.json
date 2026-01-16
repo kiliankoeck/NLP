@@ -1,0 +1,1073 @@
+{
+  "filename": "28.09.2005_123._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 680,
+      "end": 702
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1032,
+      "end": 1048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1082,
+      "end": 1095
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1184,
+      "end": 1200
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 1694,
+      "end": 1713
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 2575,
+      "end": 2593
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2743,
+      "end": 2765
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2999,
+      "end": 3015
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3051,
+      "end": 3068
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3229,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Bundesminister\\nfür Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 3638,
+      "end": 3711
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 4155,
+      "end": 4170
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 4493,
+      "end": 4510
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4629,
+      "end": 4645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4684
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4899,
+      "end": 4918
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 680,
+      "end": 702
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1032,
+      "end": 1048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1082,
+      "end": 1095
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1184,
+      "end": 1200
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 1694,
+      "end": 1713
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 2575,
+      "end": 2593
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2743,
+      "end": 2765
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2999,
+      "end": 3015
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3051,
+      "end": 3068
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3229,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 4155,
+      "end": 4170
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 4493,
+      "end": 4510
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4629,
+      "end": 4645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4684
+    }
+  ],
+  "flair": [
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1002,
+      "end": 1014
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1036,
+      "end": 1048
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1188,
+      "end": 1200
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 1694,
+      "end": 1713
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 2579,
+      "end": 2593
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2748,
+      "end": 2765
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3003,
+      "end": 3015
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3056,
+      "end": 3068
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3234,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 3638,
+      "end": 3711
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 4160,
+      "end": 4170
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4498,
+      "end": 4510
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4633,
+      "end": 4645
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 493
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 521,
+      "end": 627
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1032,
+      "end": 1048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1082,
+      "end": 1095
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1184,
+      "end": 1200
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1415,
+      "end": 1429
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 1694,
+      "end": 1713
+    },
+    {
+      "text": "Bezugsnachzahlungen",
+      "label": "PER",
+      "start": 1848,
+      "end": 1867
+    },
+    {
+      "text": "ZÄG",
+      "label": "ORG",
+      "start": 2136,
+      "end": 2139
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 2579,
+      "end": 2593
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2730,
+      "end": 2742
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2748,
+      "end": 2765
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2999,
+      "end": 3015
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3050
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3056,
+      "end": 3068
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3216,
+      "end": 3228
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3234,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Bundesminister\nfür Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3638,
+      "end": 3682
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Offensiv-Konzept",
+      "label": "ORG",
+      "start": 3923,
+      "end": 3939
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 4160,
+      "end": 4170
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4480,
+      "end": 4492
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4498,
+      "end": 4510
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4629,
+      "end": 4645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4684
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 493
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 521,
+      "end": 627
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1032,
+      "end": 1048
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1082,
+      "end": 1095
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1184,
+      "end": 1200
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1415,
+      "end": 1429
+    },
+    {
+      "text": "Marianne Hagenhofer",
+      "label": "PER",
+      "start": 1694,
+      "end": 1713
+    },
+    {
+      "text": "Bezugsnachzahlungen",
+      "label": "PER",
+      "start": 1848,
+      "end": 1867
+    },
+    {
+      "text": "ZÄG",
+      "label": "ORG",
+      "start": 2136,
+      "end": 2139
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 2579,
+      "end": 2593
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2730,
+      "end": 2742
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2748,
+      "end": 2765
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2939
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2999,
+      "end": 3015
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3050
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3056,
+      "end": 3068
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3216,
+      "end": 3228
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3234,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Bundesminister\nfür Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3638,
+      "end": 3682
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Offensiv-Konzept",
+      "label": "ORG",
+      "start": 3923,
+      "end": 3939
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 4160,
+      "end": 4170
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4480,
+      "end": 4492
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4498,
+      "end": 4510
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4629,
+      "end": 4645
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4684
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 187,
+      "end": 195
+    },
+    {
+      "text": "Mag. Terezija Stois",
+      "label": "PER",
+      "start": 680,
+      "end": 699
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1002,
+      "end": 1014
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1036,
+      "end": 1048
+    },
+    {
+      "text": "Riener",
+      "label": "PER",
+      "start": 1142,
+      "end": 1148
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1188,
+      "end": 1200
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 2579,
+      "end": 2593
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2743,
+      "end": 2765
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2936
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3003,
+      "end": 3015
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3051,
+      "end": 3054
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3056,
+      "end": 3068
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3229,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 4160,
+      "end": 4170
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4498,
+      "end": 4510
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4633,
+      "end": 4645
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 685,
+      "end": 702
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1002,
+      "end": 1014
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1036,
+      "end": 1048
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1188,
+      "end": 1200
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 2579,
+      "end": 2593
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2743,
+      "end": 2746
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2748,
+      "end": 2765
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3003,
+      "end": 3015
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3051,
+      "end": 3054
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3056,
+      "end": 3068
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3133,
+      "end": 3135
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3229,
+      "end": 3232
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3234,
+      "end": 3251
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 3527,
+      "end": 3541
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 3871,
+      "end": 3884
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 4139,
+      "end": 4153
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 4160,
+      "end": 4170
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4493,
+      "end": 4497
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 4498,
+      "end": 4510
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4633,
+      "end": 4645
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "filename": "20.10.2008_74._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 655,
+      "end": 667
+    },
+    {
+      "text": "Mag. Barbara Prammer.",
+      "label": "PER",
+      "start": 734,
+      "end": 755
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 774,
+      "end": 795
+    },
+    {
+      "text": "Angela Lueger,",
+      "label": "PER",
+      "start": 868,
+      "end": 882
+    },
+    {
+      "text": "Mag. Melitta Trunk,",
+      "label": "PER",
+      "start": 883,
+      "end": 902
+    },
+    {
+      "text": "Hedwig Wechner,",
+      "label": "PER",
+      "start": 903,
+      "end": 918
+    },
+    {
+      "text": "Rainer Wimmer,",
+      "label": "PER",
+      "start": 919,
+      "end": 933
+    },
+    {
+      "text": "Dr. Sebastian Eder,",
+      "label": "PER",
+      "start": 934,
+      "end": 953
+    },
+    {
+      "text": "Michaela Sburny,",
+      "label": "PER",
+      "start": 954,
+      "end": 970
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek,",
+      "label": "PER",
+      "start": 971,
+      "end": 996
+    },
+    {
+      "text": "Mag. Brigid Weinzinger,",
+      "label": "PER",
+      "start": 997,
+      "end": 1020
+    },
+    {
+      "text": "Dr. Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1021,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger.",
+      "label": "PER",
+      "start": 1046,
+      "end": 1062
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 1085,
+      "end": 1106
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1400,
+      "end": 1413
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1711,
+      "end": 1730
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 655,
+      "end": 666
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 734,
+      "end": 754
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 774,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Mag. Melitta Trunk",
+      "label": "PER",
+      "start": 883,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Sebastian Eder",
+      "label": "PER",
+      "start": 934,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 971,
+      "end": 974
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 975,
+      "end": 995
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 997,
+      "end": 1019
+    },
+    {
+      "text": "Dr. Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1021,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1085,
+      "end": 1105
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1400,
+      "end": 1413
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 739,
+      "end": 754
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Melitta Trunk",
+      "label": "PER",
+      "start": 888,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Sebastian Eder",
+      "label": "PER",
+      "start": 938,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 975,
+      "end": 995
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 655,
+      "end": 666
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 739,
+      "end": 754
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 774,
+      "end": 777
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Melitta Trunk",
+      "label": "PER",
+      "start": 888,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Sebastian Eder",
+      "label": "PER",
+      "start": 934,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 971,
+      "end": 995
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1111,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1400,
+      "end": 1413
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 655,
+      "end": 666
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 739,
+      "end": 754
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 774,
+      "end": 777
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Melitta Trunk",
+      "label": "PER",
+      "start": 888,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Sebastian Eder",
+      "label": "PER",
+      "start": 934,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 971,
+      "end": 995
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1111,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1400,
+      "end": 1413
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 655,
+      "end": 666
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 739,
+      "end": 754
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Melitta Trunk",
+      "label": "PER",
+      "start": 888,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Sebastian Eder",
+      "label": "PER",
+      "start": 938,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 975,
+      "end": 995
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 734,
+      "end": 737
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 739,
+      "end": 754
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 774,
+      "end": 777
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 779,
+      "end": 794
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 868,
+      "end": 881
+    },
+    {
+      "text": "Melitta Trunk",
+      "label": "PER",
+      "start": 888,
+      "end": 901
+    },
+    {
+      "text": "Hedwig Wechner",
+      "label": "PER",
+      "start": 903,
+      "end": 917
+    },
+    {
+      "text": "Rainer Wimmer",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Sebastian Eder",
+      "label": "PER",
+      "start": 938,
+      "end": 952
+    },
+    {
+      "text": "Michaela Sburny",
+      "label": "PER",
+      "start": 954,
+      "end": 969
+    },
+    {
+      "text": "Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 975,
+      "end": 995
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1002,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Kurzmann",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 1046,
+      "end": 1061
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    }
+  ]
+}

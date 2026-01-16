@@ -1,0 +1,9623 @@
+{
+  "filename": "Plenarprotokoll_801._Sitzung,_01.07.2004.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 94,
+      "end": 115
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 181,
+      "end": 198
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 278,
+      "end": 289
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Dr. h.c. Johannes Rau",
+      "label": "PER",
+      "start": 448,
+      "end": 469
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 548,
+      "end": 570
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 629,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co., Buch- und Offsetdruckerei",
+      "label": "ORG",
+      "start": 679,
+      "end": 729
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 776,
+      "end": 814
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 992,
+      "end": 998
+    },
+    {
+      "text": "A l t h a u s",
+      "label": "PER",
+      "start": 1006,
+      "end": 1019
+    },
+    {
+      "text": "rates",
+      "label": "ORG",
+      "start": 999,
+      "end": 1004
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 1036,
+      "end": 1042
+    },
+    {
+      "text": "Dr. Kerstin Kießler",
+      "label": "PER",
+      "start": 1053,
+      "end": 1072
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Birgit Schnieber-Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Dr. Edmund Stoiber",
+      "label": "PER",
+      "start": 1429,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Prof. Dr. Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1716,
+      "end": 1742
+    },
+    {
+      "text": "Dr. Beate Merk",
+      "label": "PER",
+      "start": 1772,
+      "end": 1786
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Methling",
+      "label": "PER",
+      "start": 1842,
+      "end": 1869
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg Junge-Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister-Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans-Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Dr. Heidi Knake-Werner",
+      "label": "PER",
+      "start": 2310,
+      "end": 2332
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "Bärbel Höhn",
+      "label": "PER",
+      "start": 2440,
+      "end": 2451
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2620,
+      "end": 2629
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2721,
+      "end": 2735
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2760,
+      "end": 2769
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2979,
+      "end": 3004
+    },
+    {
+      "text": "Prof. Dr. Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3024,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Klaus-Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3175,
+      "end": 3186
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 3267,
+      "end": 3291
+    },
+    {
+      "text": "Dr. Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3351,
+      "end": 3372
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3532,
+      "end": 3541
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3651
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 3738,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3897,
+      "end": 3908
+    },
+    {
+      "text": "Dr. Johannes Rau",
+      "label": "PER",
+      "start": 4167,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Professor Horst Köhler",
+      "label": "PER",
+      "start": 4280,
+      "end": 4302
+    },
+    {
+      "text": "Eva\\nKöhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 4412,
+      "end": 4429
+    },
+    {
+      "text": "Johannes Rau ",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 5279,
+      "end": 5296
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 5372,
+      "end": 5389
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Parlamenten",
+      "label": "ORG",
+      "start": 5912,
+      "end": 5923
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 6799,
+      "end": 6814
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7045,
+      "end": 7054
+    },
+    {
+      "text": "Bundestages",
+      "label": "PER",
+      "start": 7110,
+      "end": 7121
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "ORG",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Willy Brandts",
+      "label": "PER",
+      "start": 7163,
+      "end": 7176
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 7538,
+      "end": 7547
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 7726,
+      "end": 7741
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 8154,
+      "end": 8166
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 9909,
+      "end": 9924
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "Gustav Heinemanns",
+      "label": "PER",
+      "start": 10915,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 11731,
+      "end": 11740
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 11834,
+      "end": 11849
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 12236,
+      "end": 12251
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Präsidenten",
+      "label": "PER",
+      "start": 12328,
+      "end": 12339
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13079,
+      "end": 13088
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13154
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 13155,
+      "end": 13171
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendts",
+      "label": "PER",
+      "start": 14575,
+      "end": 14589
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Bürgerpräsident",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "CDU/CSU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16290
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Frau\\nRau",
+      "label": "PER",
+      "start": 17166,
+      "end": 17174
+    },
+    {
+      "text": "Herr Rau",
+      "label": "PER",
+      "start": 17402,
+      "end": 17410
+    },
+    {
+      "text": "Frau Rau",
+      "label": "PER",
+      "start": 17421,
+      "end": 17429
+    },
+    {
+      "text": "Herr Köhler",
+      "label": "PER",
+      "start": 17670,
+      "end": 17681
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 18040,
+      "end": 18055
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 18468,
+      "end": 18477
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18647,
+      "end": 18658
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18686,
+      "end": 18695
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18757,
+      "end": 18768
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18900,
+      "end": 18909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18914,
+      "end": 18923
+    },
+    {
+      "text": "Professor Horst\\nKöhler",
+      "label": "PER",
+      "start": 18956,
+      "end": 18978
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19110,
+      "end": 19121
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 21984,
+      "end": 21993
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22141,
+      "end": 22152
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 23789,
+      "end": 23804
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24244,
+      "end": 24253
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 24482,
+      "end": 24491
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24496,
+      "end": 24505
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 28261,
+      "end": 28278
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 28698,
+      "end": 28709
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 28812,
+      "end": 28818
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 29126,
+      "end": 29141
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 29175,
+      "end": 29184
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Europäischen Bank für\\nWiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29906,
+      "end": 29915
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 29961,
+      "end": 29972
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 30079,
+      "end": 30096
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 30457,
+      "end": 30463
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 31052,
+      "end": 31063
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Dr. h.c. Johannes Rau",
+      "label": "PER",
+      "start": 31305,
+      "end": 31326
+    },
+    {
+      "text": "Bundestagspräsident",
+      "label": "PER",
+      "start": 31333,
+      "end": 31352
+    },
+    {
+      "text": "Bundesratspräsident",
+      "label": "PER",
+      "start": 31359,
+      "end": 31378
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 31694,
+      "end": 31711
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 31817,
+      "end": 31823
+    },
+    {
+      "text": "Präsidenten",
+      "label": "PER",
+      "start": 31977,
+      "end": 31988
+    },
+    {
+      "text": "Gustav\\nHeinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "Frau",
+      "label": "PER",
+      "start": 32428,
+      "end": 32432
+    },
+    {
+      "text": "Frau des\\nBundespräsidenten",
+      "label": "PER",
+      "start": 32732,
+      "end": 32758
+    },
+    {
+      "text": "Bundespräsidialamt",
+      "label": "ORG",
+      "start": 32868,
+      "end": 32886
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 35291,
+      "end": 35300
+    },
+    {
+      "text": "Dr. h.c. Johannes Rau",
+      "label": "PER",
+      "start": 35331,
+      "end": 35352
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38025
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38034,
+      "end": 38045
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Professor\\nDr. Horst Köhler",
+      "label": "PER",
+      "start": 38272,
+      "end": 38298
+    },
+    {
+      "text": "Professor\\nDr. Horst Köhler",
+      "label": "PER",
+      "start": 38366,
+      "end": 38392
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 38557,
+      "end": 38572
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38644
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38653,
+      "end": 38664
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 38711,
+      "end": 38726
+    },
+    {
+      "text": "Präsidenten",
+      "label": "PER",
+      "start": 38799,
+      "end": 38810
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38815,
+      "end": 38826
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 38863,
+      "end": 38878
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 39007,
+      "end": 39029
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 39359,
+      "end": 39374
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 39562,
+      "end": 39577
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 39776,
+      "end": 39782
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 39873,
+      "end": 39895
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 39902,
+      "end": 39911
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39937
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 39944,
+      "end": 39953
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 39958,
+      "end": 39969
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Frau Rau",
+      "label": "PER",
+      "start": 40011,
+      "end": 40019
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 40026,
+      "end": 40039
+    },
+    {
+      "text": "Präsident des Bundesverfassungsgerichts",
+      "label": "PER",
+      "start": 40046,
+      "end": 40085
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40154,
+      "end": 40163
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 40211,
+      "end": 40233
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Herr Rau",
+      "label": "PER",
+      "start": 40968,
+      "end": 40976
+    },
+    {
+      "text": "Frau Rau",
+      "label": "PER",
+      "start": 41242,
+      "end": 41250
+    },
+    {
+      "text": "Frau Rau",
+      "label": "PER",
+      "start": 41630,
+      "end": 41638
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45725,
+      "end": 45734
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 47509,
+      "end": 47524
+    },
+    {
+      "text": "Europäischen\\nUnion",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Weltwährungsfonds",
+      "label": "ORG",
+      "start": 48871,
+      "end": 48888
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50798,
+      "end": 50807
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 50855,
+      "end": 50877
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 51201,
+      "end": 51210
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51231,
+      "end": 51240
+    },
+    {
+      "text": "Gottfried Wilhelm",
+      "label": "PER",
+      "start": 52075,
+      "end": 52092
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 52849,
+      "end": 52860
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 52880,
+      "end": 52891
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55270,
+      "end": 55279
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 55326,
+      "end": 55348
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60590,
+      "end": 60599
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 60647,
+      "end": 60669
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65427,
+      "end": 65436
+    },
+    {
+      "text": "Prof. Dr. Horst Köhler",
+      "label": "PER",
+      "start": 65483,
+      "end": 65505
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 67475,
+      "end": 67490
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 67749,
+      "end": 67760
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 181,
+      "end": 198
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 290,
+      "end": 298
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 381,
+      "end": 387
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 430,
+      "end": 447
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 448,
+      "end": 451
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 457,
+      "end": 465
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 512,
+      "end": 529
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 554,
+      "end": 557
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 558,
+      "end": 563
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 593,
+      "end": 610
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 635,
+      "end": 638
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 639,
+      "end": 644
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 992,
+      "end": 998
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1053,
+      "end": 1056
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 1057,
+      "end": 1064
+    },
+    {
+      "text": "Erwin",
+      "label": "PER",
+      "start": 1177,
+      "end": 1182
+    },
+    {
+      "text": "Teufel",
+      "label": "PER",
+      "start": 1183,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 1209,
+      "end": 1215
+    },
+    {
+      "text": "Birgit",
+      "label": "PER",
+      "start": 1304,
+      "end": 1310
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1429,
+      "end": 1432
+    },
+    {
+      "text": "Edmund",
+      "label": "PER",
+      "start": 1433,
+      "end": 1439
+    },
+    {
+      "text": "Roland",
+      "label": "PER",
+      "start": 1467,
+      "end": 1473
+    },
+    {
+      "text": "Koch",
+      "label": "PER",
+      "start": 1474,
+      "end": 1478
+    },
+    {
+      "text": "Erwin",
+      "label": "PER",
+      "start": 1498,
+      "end": 1503
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 1504,
+      "end": 1509
+    },
+    {
+      "text": "Jochen",
+      "label": "PER",
+      "start": 1604,
+      "end": 1610
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1722,
+      "end": 1725
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 1726,
+      "end": 1730
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1772,
+      "end": 1775
+    },
+    {
+      "text": "Beate",
+      "label": "PER",
+      "start": 1776,
+      "end": 1781
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1848,
+      "end": 1851
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 1852,
+      "end": 1860
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 1910,
+      "end": 1915
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 1952,
+      "end": 1961
+    },
+    {
+      "text": "Karin",
+      "label": "PER",
+      "start": 1987,
+      "end": 1992
+    },
+    {
+      "text": "Harald",
+      "label": "PER",
+      "start": 2044,
+      "end": 2050
+    },
+    {
+      "text": "Wolf",
+      "label": "PER",
+      "start": 2051,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg",
+      "label": "PER",
+      "start": 2117,
+      "end": 2125
+    },
+    {
+      "text": "Elisabeth",
+      "label": "PER",
+      "start": 2171,
+      "end": 2180
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2310,
+      "end": 2313
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 2406,
+      "end": 2414
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 2530,
+      "end": 2538
+    },
+    {
+      "text": "Jörg",
+      "label": "PER",
+      "start": 2584,
+      "end": 2588
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 2620,
+      "end": 2624
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 2625,
+      "end": 2629
+    },
+    {
+      "text": "Barbara",
+      "label": "PER",
+      "start": 2649,
+      "end": 2656
+    },
+    {
+      "text": "Gernot",
+      "label": "PER",
+      "start": 2721,
+      "end": 2727
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2760,
+      "end": 2769
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 2811,
+      "end": 2816
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 2817,
+      "end": 2823
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 2843,
+      "end": 2848
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 2905,
+      "end": 2909
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2985,
+      "end": 2988
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 2989,
+      "end": 2997
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3030,
+      "end": 3033
+    },
+    {
+      "text": "Karl-Heinz",
+      "label": "PER",
+      "start": 3034,
+      "end": 3044
+    },
+    {
+      "text": "Rainer",
+      "label": "PER",
+      "start": 3074,
+      "end": 3080
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 3175,
+      "end": 3181
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 3182,
+      "end": 3186
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3273,
+      "end": 3276
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 3277,
+      "end": 3282
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 3311,
+      "end": 3316
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3351,
+      "end": 3354
+    },
+    {
+      "text": "Karl Heinz",
+      "label": "PER",
+      "start": 3355,
+      "end": 3365
+    },
+    {
+      "text": "Gasser",
+      "label": "PER",
+      "start": 3366,
+      "end": 3372
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 3389,
+      "end": 3393
+    },
+    {
+      "text": "Kaiser",
+      "label": "PER",
+      "start": 3394,
+      "end": 3400
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3532,
+      "end": 3541
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 3696,
+      "end": 3704
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3897,
+      "end": 3908
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4166
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4167,
+      "end": 4170
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 4171,
+      "end": 4179
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 4262,
+      "end": 4279
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 4290,
+      "end": 4295
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 4318,
+      "end": 4321
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 4412,
+      "end": 4429
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 4466,
+      "end": 4474
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 4621,
+      "end": 4629
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 5279,
+      "end": 5296
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 5372,
+      "end": 5389
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 5409,
+      "end": 5415
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 5537,
+      "end": 5541
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 5542,
+      "end": 5557
+    },
+    {
+      "text": "Parlamenten",
+      "label": "ORG",
+      "start": 5912,
+      "end": 5923
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 6799,
+      "end": 6814
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 7009,
+      "end": 7017
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7045,
+      "end": 7054
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 7122,
+      "end": 7130
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 7281,
+      "end": 7286
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 7457,
+      "end": 7465
+    },
+    {
+      "text": "Wunder",
+      "label": "PER",
+      "start": 7496,
+      "end": 7502
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 7516,
+      "end": 7524
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 7726,
+      "end": 7741
+    },
+    {
+      "text": "Roman",
+      "label": "PER",
+      "start": 8154,
+      "end": 8159
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 8160,
+      "end": 8166
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 8270,
+      "end": 8287
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 8296,
+      "end": 8304
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 8401,
+      "end": 8409
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 9130,
+      "end": 9138
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 9282,
+      "end": 9288
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 9492,
+      "end": 9500
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 9547,
+      "end": 9555
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 9661,
+      "end": 9667
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 9909,
+      "end": 9924
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 10798,
+      "end": 10806
+    },
+    {
+      "text": "Gustav",
+      "label": "PER",
+      "start": 10915,
+      "end": 10921
+    },
+    {
+      "text": "Freund",
+      "label": "PER",
+      "start": 11365,
+      "end": 11371
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 11475,
+      "end": 11492
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 11532,
+      "end": 11540
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 11834,
+      "end": 11849
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 12231,
+      "end": 12235
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 12236,
+      "end": 12251
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 12263,
+      "end": 12271
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13079,
+      "end": 13088
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 13155,
+      "end": 13163
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 13669,
+      "end": 13677
+    },
+    {
+      "text": "Ernst",
+      "label": "PER",
+      "start": 13874,
+      "end": 13879
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 13923,
+      "end": 13940
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 14222,
+      "end": 14230
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 14391,
+      "end": 14397
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 14532,
+      "end": 14537
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 14646,
+      "end": 14663
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 14887,
+      "end": 14893
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 15548,
+      "end": 15556
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 16292,
+      "end": 16296
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 16297,
+      "end": 16312
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 16485,
+      "end": 16493
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 16891,
+      "end": 16899
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17402,
+      "end": 17406
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17670,
+      "end": 17674
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 17751,
+      "end": 17768
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 18040,
+      "end": 18055
+    },
+    {
+      "text": "Groß",
+      "label": "PER",
+      "start": 18394,
+      "end": 18398
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 18468,
+      "end": 18477
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 18565,
+      "end": 18570
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18647,
+      "end": 18658
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 18660,
+      "end": 18666
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18686,
+      "end": 18695
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 18727,
+      "end": 18733
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18757,
+      "end": 18768
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18796,
+      "end": 18800
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18914,
+      "end": 18923
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 18966,
+      "end": 18971
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 18989,
+      "end": 19006
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19110,
+      "end": 19121
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 19138,
+      "end": 19155
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 19156,
+      "end": 19164
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 19173,
+      "end": 19179
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19234,
+      "end": 19238
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 19239,
+      "end": 19254
+    },
+    {
+      "text": "Gustav",
+      "label": "PER",
+      "start": 20143,
+      "end": 20149
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 20543,
+      "end": 20547
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 20548,
+      "end": 20563
+    },
+    {
+      "text": "Gustav",
+      "label": "PER",
+      "start": 20844,
+      "end": 20850
+    },
+    {
+      "text": "Helene",
+      "label": "PER",
+      "start": 20867,
+      "end": 20873
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 21166,
+      "end": 21172
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 21256,
+      "end": 21264
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 21296,
+      "end": 21313
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21867,
+      "end": 21871
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 21872,
+      "end": 21887
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 21959,
+      "end": 21963
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 21984,
+      "end": 21993
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22141,
+      "end": 22152
+    },
+    {
+      "text": "Ruf",
+      "label": "PER",
+      "start": 22663,
+      "end": 22666
+    },
+    {
+      "text": "Ruf",
+      "label": "PER",
+      "start": 22718,
+      "end": 22721
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 22858,
+      "end": 22862
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 22863,
+      "end": 22878
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23784,
+      "end": 23788
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 23789,
+      "end": 23804
+    },
+    {
+      "text": "Wille",
+      "label": "PER",
+      "start": 24159,
+      "end": 24164
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24244,
+      "end": 24253
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 24298,
+      "end": 24309
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 24310,
+      "end": 24316
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 24399,
+      "end": 24404
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24496,
+      "end": 24505
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 24653,
+      "end": 24657
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 24658,
+      "end": 24673
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 25757,
+      "end": 25761
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 25762,
+      "end": 25777
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 27770,
+      "end": 27779
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 27854,
+      "end": 27858
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 27859,
+      "end": 27874
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 28031,
+      "end": 28042
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 28261,
+      "end": 28278
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 28698,
+      "end": 28709
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 28791,
+      "end": 28795
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 28796,
+      "end": 28811
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 28837,
+      "end": 28841
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 28880,
+      "end": 28885
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 28925,
+      "end": 28930
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 29126,
+      "end": 29141
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29906,
+      "end": 29915
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 29961,
+      "end": 29972
+    },
+    {
+      "text": "Dieter",
+      "label": "PER",
+      "start": 29973,
+      "end": 29979
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 30066,
+      "end": 30070
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 30079,
+      "end": 30096
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 30436,
+      "end": 30440
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 30441,
+      "end": 30456
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 31052,
+      "end": 31063
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 31238,
+      "end": 31246
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 31256,
+      "end": 31260
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 31305,
+      "end": 31308
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 31314,
+      "end": 31322
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 31328,
+      "end": 31332
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 31354,
+      "end": 31358
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 31694,
+      "end": 31711
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 31796,
+      "end": 31800
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 31801,
+      "end": 31816
+    },
+    {
+      "text": "Gustav",
+      "label": "PER",
+      "start": 32047,
+      "end": 32053
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 32741,
+      "end": 32758
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 34856,
+      "end": 34861
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 35291,
+      "end": 35300
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 35331,
+      "end": 35334
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 35340,
+      "end": 35348
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 36242,
+      "end": 36248
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 37916,
+      "end": 37924
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 37934,
+      "end": 37938
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38034,
+      "end": 38045
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 38124,
+      "end": 38132
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38248,
+      "end": 38265
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 38282,
+      "end": 38285
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 38286,
+      "end": 38291
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 38303,
+      "end": 38320
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 38361,
+      "end": 38365
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 38376,
+      "end": 38379
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 38380,
+      "end": 38385
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38405,
+      "end": 38422
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 38427,
+      "end": 38431
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 38481,
+      "end": 38498
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 38557,
+      "end": 38572
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38653,
+      "end": 38664
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 38706,
+      "end": 38710
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 38711,
+      "end": 38726
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38815,
+      "end": 38826
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 38858,
+      "end": 38862
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 38863,
+      "end": 38878
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 38991,
+      "end": 39006
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 39013,
+      "end": 39016
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 39017,
+      "end": 39022
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 39059,
+      "end": 39064
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 39336,
+      "end": 39344
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39354,
+      "end": 39358
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 39359,
+      "end": 39374
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39557,
+      "end": 39561
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 39562,
+      "end": 39577
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39755,
+      "end": 39759
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 39760,
+      "end": 39775
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 39857,
+      "end": 39872
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 39879,
+      "end": 39882
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 39883,
+      "end": 39888
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39897,
+      "end": 39901
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39939,
+      "end": 39943
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 39958,
+      "end": 39969
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 39971,
+      "end": 39975
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 39976,
+      "end": 39991
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 40021,
+      "end": 40025
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 40041,
+      "end": 40045
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40154,
+      "end": 40163
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 40195,
+      "end": 40210
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 40217,
+      "end": 40220
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 40221,
+      "end": 40226
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 40373,
+      "end": 40377
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 40378,
+      "end": 40393
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 40642,
+      "end": 40646
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 40688,
+      "end": 40694
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 40968,
+      "end": 40972
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 41814,
+      "end": 41831
+    },
+    {
+      "text": "Jung",
+      "label": "PER",
+      "start": 42973,
+      "end": 42977
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 44169,
+      "end": 44184
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 45053,
+      "end": 45057
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 45228,
+      "end": 45232
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45725,
+      "end": 45734
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 45765,
+      "end": 45780
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 45787,
+      "end": 45790
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 45791,
+      "end": 45796
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 45883,
+      "end": 45888
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 47509,
+      "end": 47524
+    },
+    {
+      "text": "Klima",
+      "label": "PER",
+      "start": 50154,
+      "end": 50159
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 50283,
+      "end": 50298
+    },
+    {
+      "text": "Roman",
+      "label": "PER",
+      "start": 50299,
+      "end": 50304
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 50305,
+      "end": 50311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50798,
+      "end": 50807
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 50839,
+      "end": 50854
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 50861,
+      "end": 50864
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 50865,
+      "end": 50870
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51231,
+      "end": 51240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51777,
+      "end": 51792
+    },
+    {
+      "text": "Gottfried",
+      "label": "PER",
+      "start": 52075,
+      "end": 52084
+    },
+    {
+      "text": "Wilhelm",
+      "label": "PER",
+      "start": 52085,
+      "end": 52092
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 52721,
+      "end": 52725
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 52880,
+      "end": 52891
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 53066,
+      "end": 53071
+    },
+    {
+      "text": "Konrad",
+      "label": "PER",
+      "start": 54386,
+      "end": 54392
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55270,
+      "end": 55279
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 55310,
+      "end": 55325
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 55332,
+      "end": 55335
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 55336,
+      "end": 55341
+    },
+    {
+      "text": "Wunder",
+      "label": "PER",
+      "start": 55736,
+      "end": 55742
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 57118,
+      "end": 57124
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 58490,
+      "end": 58494
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 58992,
+      "end": 58997
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 59137,
+      "end": 59142
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 59844,
+      "end": 59850
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60590,
+      "end": 60599
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 60631,
+      "end": 60646
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 60653,
+      "end": 60656
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 60657,
+      "end": 60662
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 62143,
+      "end": 62148
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 63341,
+      "end": 63346
+    },
+    {
+      "text": "Jung",
+      "label": "PER",
+      "start": 64770,
+      "end": 64774
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 65022,
+      "end": 65027
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 65305,
+      "end": 65310
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 65339,
+      "end": 65344
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 65385,
+      "end": 65390
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65427,
+      "end": 65436
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 65467,
+      "end": 65482
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 65489,
+      "end": 65492
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 65493,
+      "end": 65498
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 66102,
+      "end": 66106
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 67043,
+      "end": 67047
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 67452,
+      "end": 67460
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 67470,
+      "end": 67474
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 67475,
+      "end": 67490
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 67749,
+      "end": 67760
+    }
+  ],
+  "flair": [
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 94,
+      "end": 115
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 278,
+      "end": 289
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 558,
+      "end": 570
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 639,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 776,
+      "end": 814
+    },
+    {
+      "text": "Dieter rates  A l t h a u s",
+      "label": "PER",
+      "start": 992,
+      "end": 1019
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1057,
+      "end": 1072
+    },
+    {
+      "text": "Hansestadt Bremen",
+      "label": "ORG",
+      "start": 1114,
+      "end": 1131
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 1137,
+      "end": 1141
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Birgit Schnieber-Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Behörde für Soziales und Familie",
+      "label": "ORG",
+      "start": 1379,
+      "end": 1411
+    },
+    {
+      "text": "Edmund Stoiber",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "Beate Merk",
+      "label": "PER",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 2099,
+      "end": 2105
+    },
+    {
+      "text": "Ingeborg Junge-Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister-Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans-Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Heidi Knake-Werner",
+      "label": "PER",
+      "start": 2314,
+      "end": 2332
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 2360,
+      "end": 2368
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "Bärbel Höhn",
+      "label": "PER",
+      "start": 2440,
+      "end": 2451
+    },
+    {
+      "text": "und Naturschutz, Landwirtschaft",
+      "label": "ORG",
+      "start": 2475,
+      "end": 2506
+    },
+    {
+      "text": "Verbraucherschutz",
+      "label": "ORG",
+      "start": 2511,
+      "end": 2528
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2620,
+      "end": 2629
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2721,
+      "end": 2735
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2989,
+      "end": 3004
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3034,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Klaus-Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3175,
+      "end": 3186
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 3242,
+      "end": 3246
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3277,
+      "end": 3291
+    },
+    {
+      "text": "Horst Rasch",
+      "label": "PER",
+      "start": 3311,
+      "end": 3322
+    },
+    {
+      "text": "Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3355,
+      "end": 3372
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3651
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3728,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4171,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 4290,
+      "end": 4302
+    },
+    {
+      "text": "Eva Köhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 6341,
+      "end": 6348
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7100,
+      "end": 7121
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Willy Brandts",
+      "label": "PER",
+      "start": 7163,
+      "end": 7176
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 8154,
+      "end": 8166
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "Gesamtdeutsche Volkspartei Gustav Heinemanns",
+      "label": "ORG",
+      "start": 10888,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13154
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 13155,
+      "end": 13171
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendts",
+      "label": "PER",
+      "start": 14575,
+      "end": 14589
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 15548,
+      "end": 15560
+    },
+    {
+      "text": "C",
+      "label": "ORG",
+      "start": 16263,
+      "end": 16264
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16286
+    },
+    {
+      "text": "CSU",
+      "label": "ORG",
+      "start": 16287,
+      "end": 16290
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16891,
+      "end": 16903
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17171,
+      "end": 17174
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17407,
+      "end": 17410
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17426,
+      "end": 17429
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 17436,
+      "end": 17437
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17675,
+      "end": 17681
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 18966,
+      "end": 18978
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gesamtdeutschen Volkspartei",
+      "label": "ORG",
+      "start": 20778,
+      "end": 20805
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 24482,
+      "end": 24491
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24496,
+      "end": 24505
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Milosevic",
+      "label": "PER",
+      "start": 27410,
+      "end": 27419
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 28812,
+      "end": 28818
+    },
+    {
+      "text": "Europäischen Bank für Wiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 30457,
+      "end": 30463
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 31314,
+      "end": 31326
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 31817,
+      "end": 31823
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 35252,
+      "end": 35259
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 35340,
+      "end": 35352
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38025
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38286,
+      "end": 38298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38380,
+      "end": 38392
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38644
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39017,
+      "end": 39029
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 39776,
+      "end": 39782
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39883,
+      "end": 39895
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39937
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40016,
+      "end": 40019
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 40221,
+      "end": 40233
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40973,
+      "end": 40976
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41247,
+      "end": 41250
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41635,
+      "end": 41638
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 45791,
+      "end": 45803
+    },
+    {
+      "text": "Technischen Hilfswerk",
+      "label": "ORG",
+      "start": 46529,
+      "end": 46550
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Weltwährungsfonds",
+      "label": "ORG",
+      "start": 48871,
+      "end": 48888
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 50865,
+      "end": 50877
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PER",
+      "start": 52075,
+      "end": 52100
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 55336,
+      "end": 55348
+    },
+    {
+      "text": "Berliner Stadtmission",
+      "label": "ORG",
+      "start": 56433,
+      "end": 56454
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 60657,
+      "end": 60669
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 65493,
+      "end": 65505
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Deutschen Bundestages\n",
+      "label": "ORG",
+      "start": 94,
+      "end": 116
+    },
+    {
+      "text": "Donnerstag",
+      "label": "PER",
+      "start": 124,
+      "end": 134
+    },
+    {
+      "text": "Deutschen\n.",
+      "label": "ORG",
+      "start": 258,
+      "end": 269
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 278,
+      "end": 289
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Dr. Horst Köhler",
+      "label": "PER",
+      "start": 554,
+      "end": 570
+    },
+    {
+      "text": "Dr. Horst Köhler",
+      "label": "PER",
+      "start": 635,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 776,
+      "end": 814
+    },
+    {
+      "text": "Amsterdamer Str.",
+      "label": "ORG",
+      "start": 816,
+      "end": 832
+    },
+    {
+      "text": "Bundes-\n\nBremen",
+      "label": "ORG",
+      "start": 1036,
+      "end": 1051
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1057,
+      "end": 1072
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Bund\n\nHamburg",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1302
+    },
+    {
+      "text": "Birgit Schnieber-Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Behörde für\nSoziales und Familie\n\nBayern",
+      "label": "ORG",
+      "start": 1379,
+      "end": 1419
+    },
+    {
+      "text": "Edmund Stoiber",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 1619,
+      "end": 1665
+    },
+    {
+      "text": "Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "Beate Merk",
+      "label": "PER",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Umweltminister",
+      "label": "ORG",
+      "start": 1871,
+      "end": 1885
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg Junge-Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister-Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans-Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Umweltminister",
+      "label": "ORG",
+      "start": 2237,
+      "end": 2251
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Heidi Knake-Werner",
+      "label": "PER",
+      "start": 2314,
+      "end": 2332
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 2425,
+      "end": 2439
+    },
+    {
+      "text": "Bärbel Höhn",
+      "label": "PER",
+      "start": 2440,
+      "end": 2451
+    },
+    {
+      "text": "Ministerin für Umwelt und Naturschutz",
+      "label": "ORG",
+      "start": 2453,
+      "end": 2490
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2721,
+      "end": 2735
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "Minister für Finanzen und Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2857,
+      "end": 2904
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2989,
+      "end": 3004
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3034,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Klaus-Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3277,
+      "end": 3291
+    },
+    {
+      "text": "Horst Rasch",
+      "label": "PER",
+      "start": 3311,
+      "end": 3322
+    },
+    {
+      "text": "Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3355,
+      "end": 3372
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 3374,
+      "end": 3388
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 3402,
+      "end": 3448
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3651
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3728,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Dr. Johannes Rau",
+      "label": "PER",
+      "start": 4167,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 4290,
+      "end": 4302
+    },
+    {
+      "text": "Eva\nKöhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 6341,
+      "end": 6348
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7100,
+      "end": 7121
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Willy Brandts",
+      "label": "PER",
+      "start": 7163,
+      "end": 7176
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "Gesamtdeutsche Volkspartei",
+      "label": "ORG",
+      "start": 10888,
+      "end": 10914
+    },
+    {
+      "text": "Gustav Heinemanns",
+      "label": "PER",
+      "start": 10915,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13154
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 13155,
+      "end": 13171
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Ernst der Politik",
+      "label": "PER",
+      "start": 13874,
+      "end": 13891
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendts",
+      "label": "PER",
+      "start": 14575,
+      "end": 14589
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 15548,
+      "end": 15560
+    },
+    {
+      "text": "CDU/CSU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16290
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16891,
+      "end": 16903
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17171,
+      "end": 17174
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17407,
+      "end": 17410
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17426,
+      "end": 17429
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17675,
+      "end": 17681
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 17751,
+      "end": 17768
+    },
+    {
+      "text": "deutsche\nParlament",
+      "label": "ORG",
+      "start": 18459,
+      "end": 18477
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18647,
+      "end": 18658
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18757,
+      "end": 18768
+    },
+    {
+      "text": "Exzellenzen!",
+      "label": "ORG",
+      "start": 18816,
+      "end": 18828
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18900,
+      "end": 18909
+    },
+    {
+      "text": "Horst\nKöhler",
+      "label": "PER",
+      "start": 18966,
+      "end": 18978
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19110,
+      "end": 19121
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "Christen",
+      "label": "PER",
+      "start": 20230,
+      "end": 20238
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gesamtdeutschen Volkspartei",
+      "label": "ORG",
+      "start": 20778,
+      "end": 20805
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Sozialdemokratie",
+      "label": "ORG",
+      "start": 21099,
+      "end": 21115
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 21296,
+      "end": 21313
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22141,
+      "end": 22152
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 22513,
+      "end": 22516
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 22803,
+      "end": 22816
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 23044,
+      "end": 23052
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Kommission von\nBundestag",
+      "label": "ORG",
+      "start": 24467,
+      "end": 24491
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Dazugekommenen",
+      "label": "ORG",
+      "start": 26703,
+      "end": 26717
+    },
+    {
+      "text": "israelischen Parlament",
+      "label": "ORG",
+      "start": 27757,
+      "end": 27779
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 28796,
+      "end": 28818
+    },
+    {
+      "text": "Europäischen Bank für\nWiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 30079,
+      "end": 30096
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 30441,
+      "end": 30463
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 31052,
+      "end": 31063
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 31801,
+      "end": 31823
+    },
+    {
+      "text": "Gustav\nHeinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "Partei",
+      "label": "ORG",
+      "start": 32079,
+      "end": 32085
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 35252,
+      "end": 35259
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38025
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 38071,
+      "end": 38087
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38248,
+      "end": 38265
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38286,
+      "end": 38298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38380,
+      "end": 38392
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38405,
+      "end": 38422
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38644
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38653,
+      "end": 38664
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38815,
+      "end": 38826
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 39079,
+      "end": 39095
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 39760,
+      "end": 39782
+    },
+    {
+      "text": "Deutschen Bundestages!",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39938
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40016,
+      "end": 40019
+    },
+    {
+      "text": "Bundesverfassungsgerichts!",
+      "label": "ORG",
+      "start": 40060,
+      "end": 40086
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Zentrum Ihres Denkens und Handelns",
+      "label": "ORG",
+      "start": 40727,
+      "end": 40761
+    },
+    {
+      "text": "Lieber Herr Rau",
+      "label": "PER",
+      "start": 40961,
+      "end": 40976
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41247,
+      "end": 41250
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41635,
+      "end": 41638
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 46506,
+      "end": 46523
+    },
+    {
+      "text": "Technischen Hilfswerk",
+      "label": "ORG",
+      "start": 46529,
+      "end": 46550
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 51201,
+      "end": 51210
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PER",
+      "start": 52075,
+      "end": 52100
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 52849,
+      "end": 52860
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 52880,
+      "end": 52891
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Wahr",
+      "label": "PER",
+      "start": 54989,
+      "end": 54993
+    },
+    {
+      "text": "deutsche Technologie-",
+      "label": "ORG",
+      "start": 56245,
+      "end": 56266
+    },
+    {
+      "text": "deutschen katholischen\nBischöfe",
+      "label": "ORG",
+      "start": 58840,
+      "end": 58871
+    },
+    {
+      "text": "Wohlweislich",
+      "label": "PER",
+      "start": 58890,
+      "end": 58902
+    },
+    {
+      "text": "Neues",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60230
+    },
+    {
+      "text": "Wir Männer",
+      "label": "ORG",
+      "start": 61581,
+      "end": 61591
+    },
+    {
+      "text": "Alten!",
+      "label": "ORG",
+      "start": 64433,
+      "end": 64439
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Deutschen Bundestages\n",
+      "label": "ORG",
+      "start": 94,
+      "end": 116
+    },
+    {
+      "text": "Donnerstag",
+      "label": "PER",
+      "start": 124,
+      "end": 134
+    },
+    {
+      "text": "Deutschen\n.",
+      "label": "ORG",
+      "start": 258,
+      "end": 269
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 278,
+      "end": 289
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Dr. Horst Köhler",
+      "label": "PER",
+      "start": 554,
+      "end": 570
+    },
+    {
+      "text": "Dr. Horst Köhler",
+      "label": "PER",
+      "start": 635,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 776,
+      "end": 814
+    },
+    {
+      "text": "Amsterdamer Str.",
+      "label": "ORG",
+      "start": 816,
+      "end": 832
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Bundes-\n\nBremen",
+      "label": "ORG",
+      "start": 1036,
+      "end": 1051
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1057,
+      "end": 1072
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Bund\n\nHamburg",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1302
+    },
+    {
+      "text": "Birgit Schnieber-Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Behörde für\nSoziales und Familie\n\nBayern",
+      "label": "ORG",
+      "start": 1379,
+      "end": 1419
+    },
+    {
+      "text": "Edmund Stoiber",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 1619,
+      "end": 1665
+    },
+    {
+      "text": "Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "Beate Merk",
+      "label": "PER",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Umweltminister",
+      "label": "ORG",
+      "start": 1871,
+      "end": 1885
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg Junge-Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister-Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans-Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Umweltminister",
+      "label": "ORG",
+      "start": 2237,
+      "end": 2251
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Heidi Knake-Werner",
+      "label": "PER",
+      "start": 2314,
+      "end": 2332
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 2425,
+      "end": 2439
+    },
+    {
+      "text": "Bärbel Höhn",
+      "label": "PER",
+      "start": 2440,
+      "end": 2451
+    },
+    {
+      "text": "Ministerin für Umwelt und Naturschutz",
+      "label": "ORG",
+      "start": 2453,
+      "end": 2490
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2721,
+      "end": 2735
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2760,
+      "end": 2769
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "Minister für Finanzen und Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2857,
+      "end": 2904
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2989,
+      "end": 3004
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3034,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Klaus-Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3277,
+      "end": 3291
+    },
+    {
+      "text": "Horst Rasch",
+      "label": "PER",
+      "start": 3311,
+      "end": 3322
+    },
+    {
+      "text": "Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3355,
+      "end": 3372
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 3374,
+      "end": 3388
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 3402,
+      "end": 3448
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3532,
+      "end": 3541
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3651
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3728,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Dr. Johannes Rau",
+      "label": "PER",
+      "start": 4167,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 4290,
+      "end": 4302
+    },
+    {
+      "text": "Eva\nKöhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 6341,
+      "end": 6348
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7045,
+      "end": 7054
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7100,
+      "end": 7121
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Willy Brandts",
+      "label": "PER",
+      "start": 7163,
+      "end": 7176
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "Gesamtdeutsche Volkspartei",
+      "label": "ORG",
+      "start": 10888,
+      "end": 10914
+    },
+    {
+      "text": "Gustav Heinemanns",
+      "label": "PER",
+      "start": 10915,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13079,
+      "end": 13088
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13154
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 13155,
+      "end": 13171
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Ernst der Politik",
+      "label": "PER",
+      "start": 13874,
+      "end": 13891
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendts",
+      "label": "PER",
+      "start": 14575,
+      "end": 14589
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 15548,
+      "end": 15560
+    },
+    {
+      "text": "CDU/CSU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16290
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16891,
+      "end": 16903
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17171,
+      "end": 17174
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17407,
+      "end": 17410
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17426,
+      "end": 17429
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17675,
+      "end": 17681
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 17751,
+      "end": 17768
+    },
+    {
+      "text": "deutsche\n",
+      "label": "ORG",
+      "start": 18459,
+      "end": 18468
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 18468,
+      "end": 18477
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18647,
+      "end": 18658
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18686,
+      "end": 18695
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18757,
+      "end": 18768
+    },
+    {
+      "text": "Exzellenzen!",
+      "label": "ORG",
+      "start": 18816,
+      "end": 18828
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18900,
+      "end": 18909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18914,
+      "end": 18923
+    },
+    {
+      "text": "Horst\nKöhler",
+      "label": "PER",
+      "start": 18966,
+      "end": 18978
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19110,
+      "end": 19121
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "Christen",
+      "label": "PER",
+      "start": 20230,
+      "end": 20238
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gesamtdeutschen Volkspartei",
+      "label": "ORG",
+      "start": 20778,
+      "end": 20805
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Sozialdemokratie",
+      "label": "ORG",
+      "start": 21099,
+      "end": 21115
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 21296,
+      "end": 21313
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 21984,
+      "end": 21993
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22141,
+      "end": 22152
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 22513,
+      "end": 22516
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 22803,
+      "end": 22816
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 23044,
+      "end": 23052
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24244,
+      "end": 24253
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Kommission von\nBundestag",
+      "label": "ORG",
+      "start": 24467,
+      "end": 24491
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24496,
+      "end": 24505
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Dazugekommenen",
+      "label": "ORG",
+      "start": 26703,
+      "end": 26717
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 27770,
+      "end": 27779
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 28796,
+      "end": 28818
+    },
+    {
+      "text": "Europäischen Bank für\nWiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29906,
+      "end": 29915
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 30079,
+      "end": 30096
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 30441,
+      "end": 30463
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 31052,
+      "end": 31063
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 31801,
+      "end": 31823
+    },
+    {
+      "text": "Gustav\nHeinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "Partei",
+      "label": "ORG",
+      "start": 32079,
+      "end": 32085
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 35252,
+      "end": 35259
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 35291,
+      "end": 35300
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38025
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 38071,
+      "end": 38087
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38248,
+      "end": 38265
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38286,
+      "end": 38298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38380,
+      "end": 38392
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 38405,
+      "end": 38422
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38644
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38653,
+      "end": 38664
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38815,
+      "end": 38826
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 39079,
+      "end": 39095
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 39760,
+      "end": 39782
+    },
+    {
+      "text": "Deutschen Bundestages!",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39938
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40016,
+      "end": 40019
+    },
+    {
+      "text": "Bundesverfassungsgerichts!",
+      "label": "ORG",
+      "start": 40060,
+      "end": 40086
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40154,
+      "end": 40163
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Zentrum Ihres Denkens und Handelns",
+      "label": "ORG",
+      "start": 40727,
+      "end": 40761
+    },
+    {
+      "text": "Lieber Herr Rau",
+      "label": "PER",
+      "start": 40961,
+      "end": 40976
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41247,
+      "end": 41250
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41635,
+      "end": 41638
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 41814,
+      "end": 41831
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45725,
+      "end": 45734
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 46506,
+      "end": 46523
+    },
+    {
+      "text": "Technischen Hilfswerk",
+      "label": "ORG",
+      "start": 46529,
+      "end": 46550
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50798,
+      "end": 50807
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 51201,
+      "end": 51210
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51231,
+      "end": 51240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51777,
+      "end": 51792
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PER",
+      "start": 52075,
+      "end": 52100
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 52849,
+      "end": 52860
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 52880,
+      "end": 52891
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Wahr",
+      "label": "PER",
+      "start": 54989,
+      "end": 54993
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55270,
+      "end": 55279
+    },
+    {
+      "text": "deutsche Technologie-",
+      "label": "ORG",
+      "start": 56245,
+      "end": 56266
+    },
+    {
+      "text": "deutschen katholischen\nBischöfe",
+      "label": "ORG",
+      "start": 58840,
+      "end": 58871
+    },
+    {
+      "text": "Wohlweislich",
+      "label": "PER",
+      "start": 58890,
+      "end": 58902
+    },
+    {
+      "text": "Neues",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60230
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60590,
+      "end": 60599
+    },
+    {
+      "text": "Wir Männer",
+      "label": "ORG",
+      "start": 61581,
+      "end": 61591
+    },
+    {
+      "text": "Alten!",
+      "label": "ORG",
+      "start": 64433,
+      "end": 64439
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65427,
+      "end": 65436
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ],
+  "bert": [
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 94,
+      "end": 113
+    },
+    {
+      "text": "Deutschen..... Bundestag",
+      "label": "ORG",
+      "start": 258,
+      "end": 287
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 558,
+      "end": 570
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 639,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "Dieter rates",
+      "label": "PER",
+      "start": 992,
+      "end": 1004
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1057,
+      "end": 1072
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Birgit Schnieber - Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Edmund Stoiber",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "##skan",
+      "label": "ORG",
+      "start": 1594,
+      "end": 1598
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "Beate Merk",
+      "label": "PER",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Justiz Mecklenburg -",
+      "label": "ORG",
+      "start": 1809,
+      "end": 1829
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg Junge - Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister - Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans - Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Heidi Knake - Werner",
+      "label": "PER",
+      "start": 2314,
+      "end": 2332
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "Bärbel Höhn",
+      "label": "PER",
+      "start": 2440,
+      "end": 2451
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2620,
+      "end": 2629
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 2721,
+      "end": 2722
+    },
+    {
+      "text": "##ernot Mittler",
+      "label": "PER",
+      "start": 2722,
+      "end": 2735
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2760,
+      "end": 2769
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "##n",
+      "label": "ORG",
+      "start": 2877,
+      "end": 2878
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Staatskanzlei III",
+      "label": "ORG",
+      "start": 2943,
+      "end": 2961
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2989,
+      "end": 3004
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 3034,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 3116,
+      "end": 3129
+    },
+    {
+      "text": "Klaus - Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3175,
+      "end": 3186
+    },
+    {
+      "text": "Thüringen",
+      "label": "ORG",
+      "start": 3247,
+      "end": 3256
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3277,
+      "end": 3291
+    },
+    {
+      "text": "Horst Rasch",
+      "label": "PER",
+      "start": 3311,
+      "end": 3322
+    },
+    {
+      "text": "Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3355,
+      "end": 3372
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "Bundes -",
+      "label": "ORG",
+      "start": 3415,
+      "end": 3422
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 3427,
+      "end": 3433
+    },
+    {
+      "text": "##legen",
+      "label": "ORG",
+      "start": 3437,
+      "end": 3442
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 3456,
+      "end": 3469
+    },
+    {
+      "text": "Thüringen",
+      "label": "ORG",
+      "start": 3506,
+      "end": 3515
+    },
+    {
+      "text": "Bund 311 Bundesrat",
+      "label": "ORG",
+      "start": 3521,
+      "end": 3541
+    },
+    {
+      "text": "Deutschen Bundestages Berlin",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3659
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3728,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3886
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4171,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 4290,
+      "end": 4302
+    },
+    {
+      "text": "Eva Köhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 6341,
+      "end": 6348
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 7100,
+      "end": 7119
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Willy Brandt",
+      "label": "PER",
+      "start": 7163,
+      "end": 7175
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 8154,
+      "end": 8166
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "An",
+      "label": "PER",
+      "start": 8680,
+      "end": 8682
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "Gesamtdeutsche Volkspartei",
+      "label": "ORG",
+      "start": 10888,
+      "end": 10914
+    },
+    {
+      "text": "Gustav Heinemanns",
+      "label": "PER",
+      "start": 10915,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13152
+    },
+    {
+      "text": "Wolfgang Thiers",
+      "label": "PER",
+      "start": 13155,
+      "end": 13170
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendt",
+      "label": "PER",
+      "start": 14575,
+      "end": 14588
+    },
+    {
+      "text": "B",
+      "label": "PER",
+      "start": 14669,
+      "end": 14670
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 15548,
+      "end": 15560
+    },
+    {
+      "text": "CDU / CSU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16290
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16891,
+      "end": 16903
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17171,
+      "end": 17174
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17407,
+      "end": 17410
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17426,
+      "end": 17429
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17675,
+      "end": 17681
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 18686,
+      "end": 18692
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18900,
+      "end": 18909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18914,
+      "end": 18923
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 18966,
+      "end": 18978
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gesamtdeutschen Volkspartei",
+      "label": "ORG",
+      "start": 20778,
+      "end": 20805
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 24244,
+      "end": 24250
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 24482,
+      "end": 24491
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24496,
+      "end": 24505
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Milosevic",
+      "label": "PER",
+      "start": 27410,
+      "end": 27419
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 28812,
+      "end": 28818
+    },
+    {
+      "text": "Europäischen Bank für Wiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 30457,
+      "end": 30463
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 31314,
+      "end": 31326
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 31817,
+      "end": 31823
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 35297,
+      "end": 35300
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 35340,
+      "end": 35352
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38025
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 38034,
+      "end": 38045
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38023
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38286,
+      "end": 38298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38380,
+      "end": 38392
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38642
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39017,
+      "end": 39029
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 39313,
+      "end": 39317
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 39776,
+      "end": 39782
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39883,
+      "end": 39895
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39937
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39935
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40016,
+      "end": 40019
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 40060,
+      "end": 40084
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 40154,
+      "end": 40160
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 40221,
+      "end": 40233
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40973,
+      "end": 40976
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41247,
+      "end": 41250
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41635,
+      "end": 41638
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 45791,
+      "end": 45803
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 46506,
+      "end": 46523
+    },
+    {
+      "text": "Technischen Hilfswerk",
+      "label": "ORG",
+      "start": 46529,
+      "end": 46550
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 50865,
+      "end": 50877
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PER",
+      "start": 52075,
+      "end": 52100
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 52849,
+      "end": 52860
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 55270,
+      "end": 55276
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 55336,
+      "end": 55348
+    },
+    {
+      "text": "Berliner Stadtmission",
+      "label": "ORG",
+      "start": 56433,
+      "end": 56454
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 60590,
+      "end": 60596
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 60657,
+      "end": 60669
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 65427,
+      "end": 65433
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 65493,
+      "end": 65505
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESR",
+      "label": "ORG",
+      "start": 21,
+      "end": 28
+    },
+    {
+      "text": "Deutschen Bundestages Berlin",
+      "label": "ORG",
+      "start": 94,
+      "end": 122
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 290,
+      "end": 306
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 381,
+      "end": 395
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 558,
+      "end": 570
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 639,
+      "end": 651
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "text": "und Offsetdruck",
+      "label": "ORG",
+      "start": 710,
+      "end": 725
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "##bH",
+      "label": "ORG",
+      "start": 812,
+      "end": 814
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Dieter rates",
+      "label": "PER",
+      "start": 992,
+      "end": 1004
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1057,
+      "end": 1072
+    },
+    {
+      "text": "Freien Hans",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1118
+    },
+    {
+      "text": "Bremen",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1131
+    },
+    {
+      "text": "Erwin Teufel",
+      "label": "PER",
+      "start": 1177,
+      "end": 1189
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1209,
+      "end": 1223
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1293
+    },
+    {
+      "text": "Birgit Schnieber - Jastram",
+      "label": "PER",
+      "start": 1304,
+      "end": 1328
+    },
+    {
+      "text": "Edmund Stoiber",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Roland Koch",
+      "label": "PER",
+      "start": 1467,
+      "end": 1478
+    },
+    {
+      "text": "Erwin Huber",
+      "label": "PER",
+      "start": 1498,
+      "end": 1509
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 1594,
+      "end": 1602
+    },
+    {
+      "text": "Jochen Riebel",
+      "label": "PER",
+      "start": 1604,
+      "end": 1617
+    },
+    {
+      "text": "Kurt Faltlhauser",
+      "label": "PER",
+      "start": 1726,
+      "end": 1742
+    },
+    {
+      "text": "Beate Merk",
+      "label": "PER",
+      "start": 1776,
+      "end": 1786
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 1809,
+      "end": 1813
+    },
+    {
+      "text": "Vo",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1831
+    },
+    {
+      "text": "##po",
+      "label": "ORG",
+      "start": 1833,
+      "end": 1835
+    },
+    {
+      "text": "##n",
+      "label": "ORG",
+      "start": 1839,
+      "end": 1840
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 1952,
+      "end": 1967
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 2044,
+      "end": 2055
+    },
+    {
+      "text": "Ingeborg Junge - Reyer",
+      "label": "PER",
+      "start": 2117,
+      "end": 2137
+    },
+    {
+      "text": "Elisabeth Heister - Neumann",
+      "label": "PER",
+      "start": 2171,
+      "end": 2196
+    },
+    {
+      "text": "Hans - Heinrich Sander",
+      "label": "PER",
+      "start": 2215,
+      "end": 2235
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2274,
+      "end": 2289
+    },
+    {
+      "text": "Heidi Knake - Werner",
+      "label": "PER",
+      "start": 2314,
+      "end": 2332
+    },
+    {
+      "text": "##ers",
+      "label": "ORG",
+      "start": 2382,
+      "end": 2385
+    },
+    {
+      "text": "Wolfgang Gerhards",
+      "label": "PER",
+      "start": 2406,
+      "end": 2423
+    },
+    {
+      "text": "B",
+      "label": "PER",
+      "start": 2440,
+      "end": 2441
+    },
+    {
+      "text": "##ärbel Höhn",
+      "label": "PER",
+      "start": 2441,
+      "end": 2451
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2530,
+      "end": 2547
+    },
+    {
+      "text": "Jörg Schönbohm",
+      "label": "PER",
+      "start": 2584,
+      "end": 2598
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2620,
+      "end": 2629
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2649,
+      "end": 2666
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 2721,
+      "end": 2722
+    },
+    {
+      "text": "##ernot Mittler",
+      "label": "PER",
+      "start": 2722,
+      "end": 2735
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 2766,
+      "end": 2769
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 2811,
+      "end": 2823
+    },
+    {
+      "text": "Peter Jacoby",
+      "label": "PER",
+      "start": 2843,
+      "end": 2855
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2905,
+      "end": 2916
+    },
+    {
+      "text": "Staatskanzlei III",
+      "label": "ORG",
+      "start": 2943,
+      "end": 2961
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 2989,
+      "end": 3004
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 3034,
+      "end": 3050
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 3074,
+      "end": 3086
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 3116,
+      "end": 3129
+    },
+    {
+      "text": "Klaus - Jürgen Jeziorsky",
+      "label": "PER",
+      "start": 3130,
+      "end": 3152
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3175,
+      "end": 3186
+    },
+    {
+      "text": "Bund Thüringen",
+      "label": "ORG",
+      "start": 3242,
+      "end": 3256
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3277,
+      "end": 3291
+    },
+    {
+      "text": "Horst Rasch",
+      "label": "PER",
+      "start": 3311,
+      "end": 3322
+    },
+    {
+      "text": "Karl Heinz Gasser",
+      "label": "PER",
+      "start": 3355,
+      "end": 3372
+    },
+    {
+      "text": "Hans Kaiser",
+      "label": "PER",
+      "start": 3389,
+      "end": 3400
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 3461,
+      "end": 3469
+    },
+    {
+      "text": "Bund 311 Bundesrat",
+      "label": "ORG",
+      "start": 3521,
+      "end": 3541
+    },
+    {
+      "text": "Deutschen Bundestages Berlin",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3659
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 3696,
+      "end": 3712
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3728,
+      "end": 3749
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3888
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 3867,
+      "end": 3886
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4171,
+      "end": 4183
+    },
+    {
+      "text": "Christina Rau",
+      "label": "PER",
+      "start": 4199,
+      "end": 4212
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 4290,
+      "end": 4302
+    },
+    {
+      "text": "Eva Köhler",
+      "label": "PER",
+      "start": 4318,
+      "end": 4328
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4466,
+      "end": 4478
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 4621,
+      "end": 4633
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 5558,
+      "end": 5561
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 6745,
+      "end": 6763
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7009,
+      "end": 7021
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 7100,
+      "end": 7119
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 7122,
+      "end": 7138
+    },
+    {
+      "text": "Willy Brandts",
+      "label": "PER",
+      "start": 7163,
+      "end": 7176
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7394,
+      "end": 7412
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7457,
+      "end": 7469
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 7516,
+      "end": 7528
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 8154,
+      "end": 8166
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8296,
+      "end": 8308
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9130,
+      "end": 9142
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 9492,
+      "end": 9505
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 9547,
+      "end": 9559
+    },
+    {
+      "text": "Johannes Raus",
+      "label": "PER",
+      "start": 10798,
+      "end": 10811
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 10888,
+      "end": 10889
+    },
+    {
+      "text": "##mtdeutsche Volkspartei",
+      "label": "ORG",
+      "start": 10892,
+      "end": 10914
+    },
+    {
+      "text": "Gustav Heinemanns",
+      "label": "PER",
+      "start": 10915,
+      "end": 10932
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 11532,
+      "end": 11544
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 12263,
+      "end": 12275
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 13133,
+      "end": 13154
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 13155,
+      "end": 13171
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 13669,
+      "end": 13681
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 14222,
+      "end": 14234
+    },
+    {
+      "text": "Hannah Arendt",
+      "label": "PER",
+      "start": 14575,
+      "end": 14588
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 15548,
+      "end": 15560
+    },
+    {
+      "text": "CDU / CSU",
+      "label": "ORG",
+      "start": 16283,
+      "end": 16290
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 16313,
+      "end": 16316
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16485,
+      "end": 16497
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 16891,
+      "end": 16903
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 16959,
+      "end": 16968
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17171,
+      "end": 17174
+    },
+    {
+      "text": "Ra",
+      "label": "PER",
+      "start": 17407,
+      "end": 17409
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 17426,
+      "end": 17429
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17675,
+      "end": 17681
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18660,
+      "end": 18674
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 18727,
+      "end": 18741
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18900,
+      "end": 18909
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 18966,
+      "end": 18978
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 19156,
+      "end": 19168
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 19185,
+      "end": 19194
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 19255,
+      "end": 19258
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20143,
+      "end": 20159
+    },
+    {
+      "text": "##bel",
+      "label": "ORG",
+      "start": 20190,
+      "end": 20193
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 20564,
+      "end": 20567
+    },
+    {
+      "text": "Gesamtdeutschen Volkspartei",
+      "label": "ORG",
+      "start": 20778,
+      "end": 20805
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 20844,
+      "end": 20860
+    },
+    {
+      "text": "Helene Wessel",
+      "label": "PER",
+      "start": 20867,
+      "end": 20880
+    },
+    {
+      "text": "Christina",
+      "label": "PER",
+      "start": 21225,
+      "end": 21234
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 21256,
+      "end": 21272
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 21888,
+      "end": 21891
+    },
+    {
+      "text": "SED",
+      "label": "ORG",
+      "start": 22492,
+      "end": 22495
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 22879,
+      "end": 22882
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 24310,
+      "end": 24324
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 24482,
+      "end": 24491
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 24674,
+      "end": 24677
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 25778,
+      "end": 25781
+    },
+    {
+      "text": "Milosevic",
+      "label": "PER",
+      "start": 27410,
+      "end": 27419
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 27875,
+      "end": 27878
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 28182,
+      "end": 28185
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 28812,
+      "end": 28818
+    },
+    {
+      "text": "Europäischen Bank für Wiederaufbau und Entwicklung",
+      "label": "ORG",
+      "start": 29464,
+      "end": 29514
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 29556,
+      "end": 29585
+    },
+    {
+      "text": "Dieter Althaus",
+      "label": "PER",
+      "start": 29973,
+      "end": 29987
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 30457,
+      "end": 30463
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 31238,
+      "end": 31254
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 31271,
+      "end": 31274
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 31314,
+      "end": 31326
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 31817,
+      "end": 31823
+    },
+    {
+      "text": "Gustav Heinemann",
+      "label": "PER",
+      "start": 32047,
+      "end": 32063
+    },
+    {
+      "text": "##dialam",
+      "label": "ORG",
+      "start": 32879,
+      "end": 32885
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 35252,
+      "end": 35259
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 35340,
+      "end": 35352
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 37916,
+      "end": 37932
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 37949,
+      "end": 37952
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 38014,
+      "end": 38023
+    },
+    {
+      "text": "Johannes Rau",
+      "label": "PER",
+      "start": 38124,
+      "end": 38136
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38286,
+      "end": 38298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 38380,
+      "end": 38392
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 38633,
+      "end": 38642
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39017,
+      "end": 39029
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 39313,
+      "end": 39317
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 39336,
+      "end": 39352
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 39776,
+      "end": 39782
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 39883,
+      "end": 39895
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39937
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 39992,
+      "end": 39995
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 39916,
+      "end": 39935
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40016,
+      "end": 40019
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 40221,
+      "end": 40233
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40394,
+      "end": 40397
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40647,
+      "end": 40650
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 40973,
+      "end": 40976
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41247,
+      "end": 41250
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 41635,
+      "end": 41638
+    },
+    {
+      "text": "Rau",
+      "label": "PER",
+      "start": 44185,
+      "end": 44188
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 45791,
+      "end": 45803
+    },
+    {
+      "text": "##zs",
+      "label": "ORG",
+      "start": 46516,
+      "end": 46518
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 46997,
+      "end": 47015
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 48128,
+      "end": 48146
+    },
+    {
+      "text": "Vereinten Nationen",
+      "label": "ORG",
+      "start": 48633,
+      "end": 48651
+    },
+    {
+      "text": "Roman Herzog",
+      "label": "PER",
+      "start": 50299,
+      "end": 50311
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 50865,
+      "end": 50877
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 51201,
+      "end": 51210
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PER",
+      "start": 52075,
+      "end": 52100
+    },
+    {
+      "text": "Althaus",
+      "label": "PER",
+      "start": 52746,
+      "end": 52753
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 52849,
+      "end": 52858
+    },
+    {
+      "text": "Leibniz",
+      "label": "PER",
+      "start": 53879,
+      "end": 53886
+    },
+    {
+      "text": "Newton",
+      "label": "PER",
+      "start": 53912,
+      "end": 53918
+    },
+    {
+      "text": "Konrad Zuses",
+      "label": "PER",
+      "start": 54386,
+      "end": 54398
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 55336,
+      "end": 55348
+    },
+    {
+      "text": "Berliner Stadtmission",
+      "label": "ORG",
+      "start": 56433,
+      "end": 56454
+    },
+    {
+      "text": "Zentrum Lehrter Straße",
+      "label": "ORG",
+      "start": 56530,
+      "end": 56552
+    },
+    {
+      "text": "Sport",
+      "label": "ORG",
+      "start": 59303,
+      "end": 59308
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 59314,
+      "end": 59315
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 60657,
+      "end": 60669
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 65493,
+      "end": 65505
+    },
+    {
+      "text": "Goethe",
+      "label": "PER",
+      "start": 67011,
+      "end": 67017
+    },
+    {
+      "text": "Wolfgang Thierse",
+      "label": "PER",
+      "start": 67452,
+      "end": 67468
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67719,
+      "end": 67740
+    },
+    {
+      "text": "##rates",
+      "label": "ORG",
+      "start": 67755,
+      "end": 67760
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 67797,
+      "end": 67818
+    }
+  ]
+}

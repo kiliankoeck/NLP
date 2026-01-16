@@ -1,0 +1,1223 @@
+{
+  "filename": "28.10.2008_2._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 784,
+      "end": 808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 841,
+      "end": 854
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 902,
+      "end": 923
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 947,
+      "end": 971
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1990,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2215,
+      "end": 2233
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2450,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2708
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2764,
+      "end": 2788
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2821,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3084,
+      "end": 3112
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 3254,
+      "end": 3273
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3425,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3541,
+      "end": 3554
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3926,
+      "end": 3937
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3917
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4159,
+      "end": 4178
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 784,
+      "end": 808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 841,
+      "end": 854
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 884,
+      "end": 888
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 902,
+      "end": 923
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 947,
+      "end": 971
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1990,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2215,
+      "end": 2233
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2450,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2708
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2764,
+      "end": 2788
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2821,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3084,
+      "end": 3112
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 3254,
+      "end": 3273
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3425,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3541,
+      "end": 3554
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3917
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3926,
+      "end": 3937
+    }
+  ],
+  "flair": [
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 746,
+      "end": 766
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 788,
+      "end": 808
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 951,
+      "end": 971
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1999,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2220,
+      "end": 2233
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2455,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2768,
+      "end": 2788
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2826,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3088,
+      "end": 3112
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3259,
+      "end": 3273
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 43,
+      "end": 86
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 182,
+      "end": 225
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 484
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 512,
+      "end": 618
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 784,
+      "end": 808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 841,
+      "end": 854
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 889,
+      "end": 901
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 947,
+      "end": 971
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1999,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2215,
+      "end": 2233
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2450,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2708
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2764,
+      "end": 2788
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2821,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3084,
+      "end": 3112
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3241,
+      "end": 3253
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3259,
+      "end": 3273
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3425,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3541,
+      "end": 3554
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3917
+    },
+    {
+      "text": "ausgegebenem",
+      "label": "PER",
+      "start": 4057,
+      "end": 4069
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 43,
+      "end": 86
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 182,
+      "end": 225
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 484
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 512,
+      "end": 618
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 784,
+      "end": 808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 841,
+      "end": 854
+    },
+    {
+      "text": "Abgeordneter",
+      "label": "ORG",
+      "start": 889,
+      "end": 901
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 947,
+      "end": 971
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1775,
+      "end": 1787
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1999,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2215,
+      "end": 2233
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2450,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2708
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 2764,
+      "end": 2788
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2821,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3084,
+      "end": 3112
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3241,
+      "end": 3253
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3259,
+      "end": 3273
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3425,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3541,
+      "end": 3554
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3917
+    },
+    {
+      "text": "ausgegebenem",
+      "label": "PER",
+      "start": 4057,
+      "end": 4069
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 746,
+      "end": 766
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 788,
+      "end": 808
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 951,
+      "end": 971
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1999,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2220,
+      "end": 2233
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2455,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2708
+    },
+    {
+      "text": "XXIV. GP",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2718
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2768,
+      "end": 2788
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2826,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 3088,
+      "end": 3112
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3254,
+      "end": 3257
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3259,
+      "end": 3273
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3541,
+      "end": 3549
+    },
+    {
+      "text": "Unvereinbarkeitsausschus",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3830
+    },
+    {
+      "text": "Immunitätsausschus",
+      "label": "ORG",
+      "start": 3839,
+      "end": 3857
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 3866,
+      "end": 3868
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3917
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 3926,
+      "end": 3932
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 657,
+      "end": 665
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 746,
+      "end": 766
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 788,
+      "end": 808
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 841,
+      "end": 849
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 902,
+      "end": 923
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 951,
+      "end": 971
+    },
+    {
+      "text": "Otto Pendl",
+      "label": "PER",
+      "start": 1960,
+      "end": 1970
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1972,
+      "end": 1988
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1999,
+      "end": 2010
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2012,
+      "end": 2024
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2026,
+      "end": 2038
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 2215,
+      "end": 2218
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2220,
+      "end": 2233
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2333,
+      "end": 2356
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2455,
+      "end": 2468
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 2564,
+      "end": 2581
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 2768,
+      "end": 2788
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2826,
+      "end": 2839
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 2930,
+      "end": 2945
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Piesczek",
+      "label": "PER",
+      "start": 3104,
+      "end": 3112
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3259,
+      "end": 3273
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Un",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3808
+    },
+    {
+      "text": "##barkeitsausschusses",
+      "label": "ORG",
+      "start": 3814,
+      "end": 3833
+    },
+    {
+      "text": "Im",
+      "label": "ORG",
+      "start": 3839,
+      "end": 3841
+    },
+    {
+      "text": "##itätsausschusses",
+      "label": "ORG",
+      "start": 3844,
+      "end": 3860
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4159,
+      "end": 4183
+    }
+  ]
+}

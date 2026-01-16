@@ -1,0 +1,1205 @@
+{
+  "filename": "20.10.2011_125._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 745,
+      "end": 765
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 783,
+      "end": 803
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 838,
+      "end": 851
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Mag. Fuhrmann",
+      "label": "PER",
+      "start": 906,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 931,
+      "end": 941
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 946,
+      "end": 956
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 992,
+      "end": 1012
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1644,
+      "end": 1656
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 1989,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2681
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 2795,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3491,
+      "end": 3509
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 3722,
+      "end": 3740
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 3906,
+      "end": 3929
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4012,
+      "end": 4032
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4071
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4250,
+      "end": 4269
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 745,
+      "end": 765
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 783,
+      "end": 803
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 838,
+      "end": 851
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 931,
+      "end": 935
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 936,
+      "end": 941
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 946,
+      "end": 949
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 992,
+      "end": 1012
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1644,
+      "end": 1656
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 1989,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2681
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 2795,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 3308,
+      "end": 3314
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3491,
+      "end": 3509
+    },
+    {
+      "text": "Mag. Helene Jarmer",
+      "label": "PER",
+      "start": 3722,
+      "end": 3740
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 3906,
+      "end": 3929
+    },
+    {
+      "text": "Handel",
+      "label": "PER",
+      "start": 3967,
+      "end": 3973
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4012,
+      "end": 4032
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4071
+    }
+  ],
+  "flair": [
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 936,
+      "end": 941
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1001,
+      "end": 1012
+    },
+    {
+      "text": "Arbeit und",
+      "label": "ORG",
+      "start": 1315,
+      "end": 1325
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1644,
+      "end": 1656
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1735,
+      "end": 1786
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 1994,
+      "end": 2012
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 2199,
+      "end": 2203
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2748,
+      "end": 2759
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2800,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3496,
+      "end": 3509
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 3727,
+      "end": 3740
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 3911,
+      "end": 3929
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4021,
+      "end": 4032
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 745,
+      "end": 748
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 783,
+      "end": 786
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 838,
+      "end": 851
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 931,
+      "end": 941
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 946,
+      "end": 956
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1001,
+      "end": 1012
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1644,
+      "end": 1656
+    },
+    {
+      "text": "Weltraumaktivitäten",
+      "label": "ORG",
+      "start": 1826,
+      "end": 1845
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1976,
+      "end": 1988
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 1994,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2681
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2748,
+      "end": 2759
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2782,
+      "end": 2794
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2800,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3478,
+      "end": 3490
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3496,
+      "end": 3509
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3709,
+      "end": 3721
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 3727,
+      "end": 3740
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3893,
+      "end": 3905
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 3911,
+      "end": 3929
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4012,
+      "end": 4015
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4021,
+      "end": 4032
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4071
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 745,
+      "end": 748
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 783,
+      "end": 786
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 838,
+      "end": 851
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 931,
+      "end": 941
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 946,
+      "end": 956
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1001,
+      "end": 1012
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1644,
+      "end": 1656
+    },
+    {
+      "text": "Weltraumaktivitäten",
+      "label": "ORG",
+      "start": 1826,
+      "end": 1845
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1976,
+      "end": 1988
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 1994,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2681
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2748,
+      "end": 2759
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2782,
+      "end": 2794
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2800,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3478,
+      "end": 3490
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3496,
+      "end": 3509
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3709,
+      "end": 3721
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 3727,
+      "end": 3740
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3893,
+      "end": 3905
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 3911,
+      "end": 3929
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4012,
+      "end": 4015
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4021,
+      "end": 4032
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4071
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 661,
+      "end": 672
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 906,
+      "end": 909
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 921,
+      "end": 929
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 931,
+      "end": 934
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 936,
+      "end": 941
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1001,
+      "end": 1012
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1334
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 1994,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2678
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2748,
+      "end": 2759
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2795,
+      "end": 2798
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2800,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "##wirtschaft",
+      "label": "ORG",
+      "start": 3125,
+      "end": 3135
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3496,
+      "end": 3509
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3722,
+      "end": 3725
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 3727,
+      "end": 3740
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3832,
+      "end": 3870
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 3911,
+      "end": 3929
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4021,
+      "end": 4032
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4071
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 792,
+      "end": 803
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 899,
+      "end": 904
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 936,
+      "end": 941
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 950,
+      "end": 956
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1001,
+      "end": 1012
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1989,
+      "end": 1992
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 1994,
+      "end": 2012
+    },
+    {
+      "text": "Christian Lausch",
+      "label": "PER",
+      "start": 2268,
+      "end": 2284
+    },
+    {
+      "text": "Justizauss",
+      "label": "ORG",
+      "start": 2386,
+      "end": 2396
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2670,
+      "end": 2681
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2748,
+      "end": 2759
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2795,
+      "end": 2798
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 2800,
+      "end": 2813
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2962,
+      "end": 2974
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3171,
+      "end": 3184
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3491,
+      "end": 3494
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3496,
+      "end": 3509
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3722,
+      "end": 3725
+    },
+    {
+      "text": "Helene Jarmer",
+      "label": "PER",
+      "start": 3727,
+      "end": 3740
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3906,
+      "end": 3909
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 3911,
+      "end": 3929
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4021,
+      "end": 4032
+    }
+  ]
+}

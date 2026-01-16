@@ -1,0 +1,1517 @@
+{
+  "filename": "13.01.2004_44._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 664,
+      "end": 690
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter,",
+      "label": "PER",
+      "start": 724,
+      "end": 755
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 805,
+      "end": 831
+    },
+    {
+      "text": "Mag. Gisela Wurm,",
+      "label": "PER",
+      "start": 865,
+      "end": 882
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "PER",
+      "start": 932,
+      "end": 960
+    },
+    {
+      "text": "Dr. Reinhold\\n\\nLopatka,",
+      "label": "PER",
+      "start": 994,
+      "end": 1015
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "PER",
+      "start": 1065,
+      "end": 1093
+    },
+    {
+      "text": "Mag. Gisela\\n\\nWurm,",
+      "label": "PER",
+      "start": 1127,
+      "end": 1144
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "PER",
+      "start": 1194,
+      "end": 1222
+    },
+    {
+      "text": "Erika Scharer,",
+      "label": "PER",
+      "start": 1256,
+      "end": 1270
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "PER",
+      "start": 1320,
+      "end": 1394
+    },
+    {
+      "text": "Mag. Christine Lapp,",
+      "label": "PER",
+      "start": 1428,
+      "end": 1448
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1498,
+      "end": 1553
+    },
+    {
+      "text": "Erika Scharer,",
+      "label": "PER",
+      "start": 1587,
+      "end": 1601
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1682,
+      "end": 1694
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1709,
+      "end": 1764
+    },
+    {
+      "text": "Erika Scharer,",
+      "label": "PER",
+      "start": 1798,
+      "end": 1812
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1862,
+      "end": 1917
+    },
+    {
+      "text": "Dr. Robert Rada,",
+      "label": "PER",
+      "start": 1951,
+      "end": 1967
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2026
+    },
+    {
+      "text": "Dr. Heinz Fischer.",
+      "label": "PER",
+      "start": 2133,
+      "end": 2151
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 2168,
+      "end": 2186
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 2219,
+      "end": 2233
+    },
+    {
+      "text": "Christine Marek,",
+      "label": "PER",
+      "start": 2280,
+      "end": 2296
+    },
+    {
+      "text": "Mag. Hans Langreiter,",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Dr. Christian Puswald",
+      "label": "PER",
+      "start": 2319,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr.",
+      "label": "PER",
+      "start": 2345,
+      "end": 2356
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 2391,
+      "end": 2409
+    },
+    {
+      "text": "Heidrun Silhavy,",
+      "label": "PER",
+      "start": 2939,
+      "end": 2955
+    },
+    {
+      "text": "Heidrun Silhavy,",
+      "label": "PER",
+      "start": 3092,
+      "end": 3108
+    },
+    {
+      "text": "Europäischen Gemeinschaften",
+      "label": "ORG",
+      "start": 3419,
+      "end": 3446
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 3578,
+      "end": 3581
+    },
+    {
+      "text": "EG-",
+      "label": "ORG",
+      "start": 3527,
+      "end": 3530
+    },
+    {
+      "text": "EG-",
+      "label": "ORG",
+      "start": 3548,
+      "end": 3551
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 3602,
+      "end": 3605
+    },
+    {
+      "text": "Dr. Eva Glawischnig,",
+      "label": "PER",
+      "start": 3890,
+      "end": 3910
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4122
+    },
+    {
+      "text": "Dr. Heinz Fischer\\n\\n",
+      "label": "PER",
+      "start": 4143,
+      "end": 4160
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 4270,
+      "end": 4288
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4355,
+      "end": 4368
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4552,
+      "end": 4571
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 724,
+      "end": 754
+    },
+    {
+      "text": "Mag. Gisela Wurm",
+      "label": "PER",
+      "start": 865,
+      "end": 881
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 994,
+      "end": 997
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 998,
+      "end": 1006
+    },
+    {
+      "text": "Lopatka",
+      "label": "PER",
+      "start": 1007,
+      "end": 1014
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1127,
+      "end": 1131
+    },
+    {
+      "text": "Gisela",
+      "label": "PER",
+      "start": 1132,
+      "end": 1138
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 1139,
+      "end": 1143
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1428,
+      "end": 1432
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1600
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1682,
+      "end": 1693
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1798,
+      "end": 1811
+    },
+    {
+      "text": "Dr. Robert Rada",
+      "label": "PER",
+      "start": 1951,
+      "end": 1966
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2025
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2133,
+      "end": 2150
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2168,
+      "end": 2185
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2219,
+      "end": 2232
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Mag. Hans Langreiter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2317
+    },
+    {
+      "text": "Dr. Christian Puswald",
+      "label": "PER",
+      "start": 2319,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2391,
+      "end": 2408
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 3181,
+      "end": 3186
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3890,
+      "end": 3893
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 3894,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4121
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4143,
+      "end": 4160
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4270,
+      "end": 4287
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4355,
+      "end": 4368
+    }
+  ],
+  "flair": [
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1132,
+      "end": 1143
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1394
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1553
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1600
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1709,
+      "end": 1764
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1798,
+      "end": 1811
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1862,
+      "end": 1917
+    },
+    {
+      "text": "Robert Rada",
+      "label": "PER",
+      "start": 1955,
+      "end": 1966
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2172,
+      "end": 2185
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Hans Langreiter",
+      "label": "PER",
+      "start": 2302,
+      "end": 2317
+    },
+    {
+      "text": "Christian Puswald",
+      "label": "PER",
+      "start": 2323,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2408
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2805
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "Europäischen Gemeinschaften",
+      "label": "ORG",
+      "start": 3419,
+      "end": 3446
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3894,
+      "end": 3909
+    },
+    {
+      "text": "Forum",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4050
+    },
+    {
+      "text": "Film",
+      "label": "ORG",
+      "start": 4068,
+      "end": 4072
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4147,
+      "end": 4160
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4274,
+      "end": 4287
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 480
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 508,
+      "end": 614
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 664,
+      "end": 690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 711,
+      "end": 723
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 805,
+      "end": 831
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 932,
+      "end": 960
+    },
+    {
+      "text": "Dr. Reinhold\nLopatka",
+      "label": "PER",
+      "start": 994,
+      "end": 1014
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1065,
+      "end": 1093
+    },
+    {
+      "text": "Gisela\nWurm",
+      "label": "PER",
+      "start": 1132,
+      "end": 1143
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1194,
+      "end": 1222
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1358
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1498,
+      "end": 1525
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1600
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1682,
+      "end": 1693
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1709,
+      "end": 1736
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1798,
+      "end": 1811
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1862,
+      "end": 1889
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1938,
+      "end": 1950
+    },
+    {
+      "text": "Dr. Robert Rada",
+      "label": "PER",
+      "start": 1951,
+      "end": 1966
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2025
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2133,
+      "end": 2150
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2168,
+      "end": 2185
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2219,
+      "end": 2232
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Hans Langreiter",
+      "label": "PER",
+      "start": 2302,
+      "end": 2317
+    },
+    {
+      "text": "Christian Puswald",
+      "label": "PER",
+      "start": 2323,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2391,
+      "end": 2408
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2658,
+      "end": 2669
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3890,
+      "end": 3909
+    },
+    {
+      "text": "Forum österreichischer Film",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4121
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4143,
+      "end": 4160
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4270,
+      "end": 4287
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4355,
+      "end": 4368
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 480
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 508,
+      "end": 614
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 664,
+      "end": 690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 711,
+      "end": 723
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 805,
+      "end": 831
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 932,
+      "end": 960
+    },
+    {
+      "text": "Dr. Reinhold\nLopatka",
+      "label": "PER",
+      "start": 994,
+      "end": 1014
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1065,
+      "end": 1093
+    },
+    {
+      "text": "Gisela\nWurm",
+      "label": "PER",
+      "start": 1132,
+      "end": 1143
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1194,
+      "end": 1222
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1358
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1433,
+      "end": 1447
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1498,
+      "end": 1525
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1600
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1682,
+      "end": 1693
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1709,
+      "end": 1736
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1798,
+      "end": 1811
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1862,
+      "end": 1889
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1938,
+      "end": 1950
+    },
+    {
+      "text": "Dr. Robert Rada",
+      "label": "PER",
+      "start": 1951,
+      "end": 1966
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2025
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2133,
+      "end": 2150
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2168,
+      "end": 2185
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2219,
+      "end": 2232
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Hans Langreiter",
+      "label": "PER",
+      "start": 2302,
+      "end": 2317
+    },
+    {
+      "text": "Christian Puswald",
+      "label": "PER",
+      "start": 2323,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2391,
+      "end": 2408
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2658,
+      "end": 2669
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3890,
+      "end": 3909
+    },
+    {
+      "text": "Forum österreichischer Film",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4121
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4143,
+      "end": 4160
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4270,
+      "end": 4287
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4355,
+      "end": 4368
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1132,
+      "end": 1143
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Robert Rada",
+      "label": "PER",
+      "start": 1955,
+      "end": 1966
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2014,
+      "end": 2022
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2172,
+      "end": 2185
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2219,
+      "end": 2227
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Hans Langreiter",
+      "label": "PER",
+      "start": 2302,
+      "end": 2317
+    },
+    {
+      "text": "Christian Puswald",
+      "label": "PER",
+      "start": 2323,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2408
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2735,
+      "end": 2737
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2772,
+      "end": 2805
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 3419,
+      "end": 3444
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3894,
+      "end": 3909
+    },
+    {
+      "text": "Diagonal",
+      "label": "ORG",
+      "start": 4007,
+      "end": 4015
+    },
+    {
+      "text": "Forum österreichischer Film",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4121
+    },
+    {
+      "text": "XXII",
+      "label": "ORG",
+      "start": 4123,
+      "end": 4127
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4147,
+      "end": 4160
+    },
+    {
+      "text": "##sausschuss",
+      "label": "ORG",
+      "start": 4169,
+      "end": 4179
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4274,
+      "end": 4287
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4355,
+      "end": 4363
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 733,
+      "end": 754
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 870,
+      "end": 871
+    },
+    {
+      "text": "##isela Wurm",
+      "label": "PER",
+      "start": 871,
+      "end": 881
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1127,
+      "end": 1130
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1132,
+      "end": 1143
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 1256,
+      "end": 1269
+    },
+    {
+      "text": "Robert Rada",
+      "label": "PER",
+      "start": 1955,
+      "end": 1966
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2172,
+      "end": 2185
+    },
+    {
+      "text": "Christine Marek",
+      "label": "PER",
+      "start": 2280,
+      "end": 2295
+    },
+    {
+      "text": "Hans Langreiter",
+      "label": "PER",
+      "start": 2302,
+      "end": 2317
+    },
+    {
+      "text": "Christian Puswald",
+      "label": "PER",
+      "start": 2323,
+      "end": 2340
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 2345,
+      "end": 2355
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2408
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2939,
+      "end": 2954
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 3092,
+      "end": 3107
+    },
+    {
+      "text": "Europäischen Gemeinschaften",
+      "label": "ORG",
+      "start": 3419,
+      "end": 3446
+    },
+    {
+      "text": "He",
+      "label": "ORG",
+      "start": 3817,
+      "end": 3819
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3894,
+      "end": 3909
+    },
+    {
+      "text": "Forum österreichischer Film",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4121
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4147,
+      "end": 4160
+    },
+    {
+      "text": "Verkehrsausschuss",
+      "label": "ORG",
+      "start": 4162,
+      "end": 4179
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4274,
+      "end": 4287
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4552,
+      "end": 4576
+    }
+  ]
+}

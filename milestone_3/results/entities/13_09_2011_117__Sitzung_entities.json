@@ -1,0 +1,809 @@
+{
+  "filename": "13.09.2011_117._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1187
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1418,
+      "end": 1429
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Mag. Muttonen",
+      "label": "PER",
+      "start": 1627,
+      "end": 1640
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1642,
+      "end": 1652
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1654,
+      "end": 1660
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1662,
+      "end": 1683
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1685,
+      "end": 1690
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Dr. Königshofer",
+      "label": "PER",
+      "start": 1704,
+      "end": 1719
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3191,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3522
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4538,
+      "end": 4551
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1418,
+      "end": 1429
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1627,
+      "end": 1631
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 1632,
+      "end": 1640
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1642,
+      "end": 1646
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1647,
+      "end": 1652
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1654,
+      "end": 1660
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1662,
+      "end": 1683
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1685,
+      "end": 1690
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1704,
+      "end": 1707
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1708,
+      "end": 1719
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3191,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3522
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4538,
+      "end": 4551
+    }
+  ],
+  "flair": [
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1187
+    },
+    {
+      "text": "CEATS",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1362
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 1632,
+      "end": 1640
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1647,
+      "end": 1652
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1654,
+      "end": 1660
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1662,
+      "end": 1683
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1685,
+      "end": 1690
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1708,
+      "end": 1719
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 2616,
+      "end": 2667
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3206,
+      "end": 3225
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 4079,
+      "end": 4103
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "...........................................................................................",
+      "label": "ORG",
+      "start": 665,
+      "end": 756
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 904,
+      "end": 913
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1187
+    },
+    {
+      "text": "CEATS",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1362
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1418,
+      "end": 1429
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1614,
+      "end": 1626
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1642,
+      "end": 1652
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1654,
+      "end": 1660
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Dr. Königshofer",
+      "label": "PER",
+      "start": 1704,
+      "end": 1719
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 2497,
+      "end": 2506
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3191,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3522
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "EZG",
+      "label": "ORG",
+      "start": 3651,
+      "end": 3654
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "CEATS",
+      "label": "ORG",
+      "start": 4033,
+      "end": 4038
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4538,
+      "end": 4551
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "...........................................................................................",
+      "label": "ORG",
+      "start": 665,
+      "end": 756
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 904,
+      "end": 913
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1187
+    },
+    {
+      "text": "CEATS",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1362
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1418,
+      "end": 1429
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1537,
+      "end": 1553
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1614,
+      "end": 1626
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1642,
+      "end": 1652
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1654,
+      "end": 1660
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Dr. Königshofer",
+      "label": "PER",
+      "start": 1704,
+      "end": 1719
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1755,
+      "end": 1771
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 2497,
+      "end": 2506
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3191,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3522
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "EZG",
+      "label": "ORG",
+      "start": 3651,
+      "end": 3654
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 3852,
+      "end": 3863
+    },
+    {
+      "text": "CEATS",
+      "label": "ORG",
+      "start": 4033,
+      "end": 4038
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4538,
+      "end": 4551
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 72,
+      "end": 82
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 188,
+      "end": 196
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1187
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 2616,
+      "end": 2667
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 3124,
+      "end": 3155
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3206,
+      "end": 3225
+    },
+    {
+      "text": "Landesverteidigungsausschus",
+      "label": "ORG",
+      "start": 3400,
+      "end": 3427
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3519
+    },
+    {
+      "text": "Fritz Neuge",
+      "label": "PER",
+      "start": 3582,
+      "end": 3593
+    },
+    {
+      "text": "##bauer Umweltausschuss",
+      "label": "ORG",
+      "start": 3593,
+      "end": 3615
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4103
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4538,
+      "end": 4551
+    },
+    {
+      "text": "Budgetausschuss",
+      "label": "ORG",
+      "start": 4726,
+      "end": 4741
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3206,
+      "end": 3225
+    },
+    {
+      "text": "Hon",
+      "label": "PER",
+      "start": 3304,
+      "end": 3307
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3511,
+      "end": 3522
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3582,
+      "end": 3598
+    },
+    {
+      "text": "E",
+      "label": "ORG",
+      "start": 3651,
+      "end": 3652
+    },
+    {
+      "text": "CE",
+      "label": "ORG",
+      "start": 4033,
+      "end": 4035
+    },
+    {
+      "text": "Ausschuss für Wirtschaft",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4089
+    },
+    {
+      "text": "Industrie",
+      "label": "ORG",
+      "start": 4094,
+      "end": 4103
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4496,
+      "end": 4512
+    },
+    {
+      "text": "Lokal VI",
+      "label": "ORG",
+      "start": 4745,
+      "end": 4753
+    }
+  ]
+}

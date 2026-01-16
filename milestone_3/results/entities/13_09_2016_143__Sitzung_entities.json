@@ -1,0 +1,1667 @@
+{
+  "filename": "13.09.2016_143._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 45,
+      "end": 59
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 187,
+      "end": 201
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "PER",
+      "start": 670,
+      "end": 698
+    },
+    {
+      "text": "Dr. Harald\\n\\nWalser",
+      "label": "PER",
+      "start": 732,
+      "end": 749
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 800,
+      "end": 858
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 892,
+      "end": 914
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 965,
+      "end": 992
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1026,
+      "end": 1040
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 1091,
+      "end": 1118
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1152,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 1394,
+      "end": 1408
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1468,
+      "end": 1473
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1475,
+      "end": 1486
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "Angerer",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1510,
+      "end": 1515
+    },
+    {
+      "text": "Lausch",
+      "label": "PER",
+      "start": 1517,
+      "end": 1523
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1535,
+      "end": 1549
+    },
+    {
+      "text": "Mag. Loacker",
+      "label": "PER",
+      "start": 1551,
+      "end": 1563
+    },
+    {
+      "text": " Doppler",
+      "label": "PER",
+      "start": 1564,
+      "end": 1572
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1574,
+      "end": 1584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1622,
+      "end": 1633
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Mag. Andreas Schieder",
+      "label": "PER",
+      "start": 2776,
+      "end": 2797
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 2799,
+      "end": 2819
+    },
+    {
+      "text": " Dr.\\n\\nEva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 2820,
+      "end": 2849
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2851,
+      "end": 2875
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PER",
+      "start": 3305,
+      "end": 3322
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PER",
+      "start": 3440,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3981
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4183,
+      "end": 4202
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 732,
+      "end": 735
+    },
+    {
+      "text": "Harald",
+      "label": "PER",
+      "start": 736,
+      "end": 742
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 743,
+      "end": 749
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 892,
+      "end": 914
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1026,
+      "end": 1040
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1152,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1394,
+      "end": 1407
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1468,
+      "end": 1473
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1475,
+      "end": 1486
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "Angerer",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1510,
+      "end": 1515
+    },
+    {
+      "text": "Lausch",
+      "label": "PER",
+      "start": 1517,
+      "end": 1523
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1535,
+      "end": 1538
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 1539,
+      "end": 1549
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1551,
+      "end": 1555
+    },
+    {
+      "text": "Loacker",
+      "label": "PER",
+      "start": 1556,
+      "end": 1563
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 1565,
+      "end": 1572
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1574,
+      "end": 1577
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1578,
+      "end": 1584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1622,
+      "end": 1633
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Mag. Andreas Schieder",
+      "label": "PER",
+      "start": 2776,
+      "end": 2797
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 2799,
+      "end": 2819
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2821,
+      "end": 2824
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 2825,
+      "end": 2849
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2851,
+      "end": 2875
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PER",
+      "start": 3305,
+      "end": 3322
+    },
+    {
+      "text": "Mag. Nikolaus Alm",
+      "label": "PER",
+      "start": 3440,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3981
+    }
+  ],
+  "flair": [
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 736,
+      "end": 749
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 800,
+      "end": 858
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 897,
+      "end": 914
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1030,
+      "end": 1040
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "Krist",
+      "label": "PER",
+      "start": 1468,
+      "end": 1473
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1475,
+      "end": 1486
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "Angerer",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1510,
+      "end": 1515
+    },
+    {
+      "text": "Lausch",
+      "label": "PER",
+      "start": 1517,
+      "end": 1523
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 1539,
+      "end": 1549
+    },
+    {
+      "text": "Loacker",
+      "label": "PER",
+      "start": 1556,
+      "end": 1563
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 1565,
+      "end": 1572
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1578,
+      "end": 1584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1622,
+      "end": 1633
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 2781,
+      "end": 2797
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 2803,
+      "end": 2819
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 2825,
+      "end": 2849
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3014,
+      "end": 3038
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3310,
+      "end": 3322
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3445,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 670,
+      "end": 698
+    },
+    {
+      "text": "Harald\nWalser",
+      "label": "PER",
+      "start": 736,
+      "end": 749
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 800,
+      "end": 826
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 897,
+      "end": 914
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 965,
+      "end": 992
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1026,
+      "end": 1040
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1091,
+      "end": 1118
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1152,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1268
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1394,
+      "end": 1407
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1455,
+      "end": 1467
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "Angerer",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1510,
+      "end": 1515
+    },
+    {
+      "text": "Lausch",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1523
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1535,
+      "end": 1549
+    },
+    {
+      "text": "Loacker",
+      "label": "PER",
+      "start": 1556,
+      "end": 1563
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 1565,
+      "end": 1572
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1574,
+      "end": 1584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1622,
+      "end": 1633
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1861,
+      "end": 1875
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1941,
+      "end": 1946
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "UWG",
+      "label": "ORG",
+      "start": 2658,
+      "end": 2661
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2763,
+      "end": 2775
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 2781,
+      "end": 2797
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 2799,
+      "end": 2819
+    },
+    {
+      "text": "Dr.\nEva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 2821,
+      "end": 2849
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3199,
+      "end": 3202
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3310,
+      "end": 3322
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3445,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3981
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 670,
+      "end": 698
+    },
+    {
+      "text": "Harald\nWalser",
+      "label": "PER",
+      "start": 736,
+      "end": 749
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 800,
+      "end": 826
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 897,
+      "end": 914
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 965,
+      "end": 992
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1026,
+      "end": 1040
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1091,
+      "end": 1118
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1152,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1268
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1360,
+      "end": 1371
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1394,
+      "end": 1407
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1455,
+      "end": 1467
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1488,
+      "end": 1499
+    },
+    {
+      "text": "Angerer",
+      "label": "PER",
+      "start": 1501,
+      "end": 1508
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1510,
+      "end": 1515
+    },
+    {
+      "text": "Lausch",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1523
+    },
+    {
+      "text": "Themessl",
+      "label": "PER",
+      "start": 1525,
+      "end": 1533
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1535,
+      "end": 1549
+    },
+    {
+      "text": "Loacker",
+      "label": "PER",
+      "start": 1556,
+      "end": 1563
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 1565,
+      "end": 1572
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1574,
+      "end": 1584
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1622,
+      "end": 1633
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1861,
+      "end": 1875
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1941,
+      "end": 1946
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "UWG",
+      "label": "ORG",
+      "start": 2658,
+      "end": 2661
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2763,
+      "end": 2775
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 2781,
+      "end": 2797
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 2799,
+      "end": 2819
+    },
+    {
+      "text": "Dr.\nEva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 2821,
+      "end": 2849
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3199,
+      "end": 3202
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3310,
+      "end": 3322
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3445,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3981
+    }
+  ],
+  "bert": [
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 736,
+      "end": 749
+    },
+    {
+      "text": "Bundesminister",
+      "label": "ORG",
+      "start": 800,
+      "end": 814
+    },
+    {
+      "text": "für Arbeit",
+      "label": "ORG",
+      "start": 816,
+      "end": 826
+    },
+    {
+      "text": "Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 828,
+      "end": 858
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 897,
+      "end": 914
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1030,
+      "end": 1040
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "AB B",
+      "label": "ORG",
+      "start": 1941,
+      "end": 1945
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2776,
+      "end": 2779
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 2781,
+      "end": 2797
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 2803,
+      "end": 2819
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 2825,
+      "end": 2849
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Wirtschaft",
+      "label": "ORG",
+      "start": 3014,
+      "end": 3024
+    },
+    {
+      "text": "Industrie",
+      "label": "ORG",
+      "start": 3029,
+      "end": 3038
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3305,
+      "end": 3308
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3310,
+      "end": 3322
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3440,
+      "end": 3443
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3445,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3968,
+      "end": 3981
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 736,
+      "end": 749
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 782,
+      "end": 784
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 897,
+      "end": 914
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 947,
+      "end": 949
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1030,
+      "end": 1040
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1252,
+      "end": 1263
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2057,
+      "end": 2080
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 2157,
+      "end": 2175
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2244,
+      "end": 2260
+    },
+    {
+      "text": "UWG",
+      "label": "ORG",
+      "start": 2658,
+      "end": 2661
+    },
+    {
+      "text": "Verfassungsausschus",
+      "label": "ORG",
+      "start": 2723,
+      "end": 2742
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 2781,
+      "end": 2797
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 2803,
+      "end": 2819
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 2825,
+      "end": 2849
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "BP",
+      "label": "ORG",
+      "start": 2978,
+      "end": 2980
+    },
+    {
+      "text": "##r",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2981
+    },
+    {
+      "text": "##W",
+      "label": "ORG",
+      "start": 2983,
+      "end": 2984
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3074,
+      "end": 3090
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3258,
+      "end": 3269
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3310,
+      "end": 3322
+    },
+    {
+      "text": "Nikolaus Alm",
+      "label": "PER",
+      "start": 3445,
+      "end": 3457
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 3557,
+      "end": 3573
+    },
+    {
+      "text": "Wissenschaftsauss",
+      "label": "ORG",
+      "start": 3709,
+      "end": 3726
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 3767,
+      "end": 3787
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3931,
+      "end": 3942
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4183,
+      "end": 4207
+    }
+  ]
+}

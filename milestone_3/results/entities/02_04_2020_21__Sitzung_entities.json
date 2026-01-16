@@ -1,0 +1,1697 @@
+{
+  "filename": "02.04.2020_21._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 236,
+      "end": 249
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 702,
+      "end": 714
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka.",
+      "label": "PER",
+      "start": 780,
+      "end": 802
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka:",
+      "label": "PER",
+      "start": 819,
+      "end": 841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1089,
+      "end": 1108
+    },
+    {
+      "text": "Angela Baumgartner,",
+      "label": "PER",
+      "start": 1180,
+      "end": 1199
+    },
+    {
+      "text": "Mag. Andreas Hanger,",
+      "label": "PER",
+      "start": 1200,
+      "end": 1220
+    },
+    {
+      "text": "Peter Haubner,",
+      "label": "PER",
+      "start": 1221,
+      "end": 1235
+    },
+    {
+      "text": "Karlheinz Kopf,",
+      "label": "PER",
+      "start": 1236,
+      "end": 1251
+    },
+    {
+      "text": "Ing. Klaus\\n\\nLindinger, BSc,",
+      "label": "PER",
+      "start": 1252,
+      "end": 1278
+    },
+    {
+      "text": "Nico Marchetti,",
+      "label": "PER",
+      "start": 1279,
+      "end": 1294
+    },
+    {
+      "text": "Gabriel Obernosterer,",
+      "label": "PER",
+      "start": 1295,
+      "end": 1316
+    },
+    {
+      "text": "Laurenz Pöttinger,",
+      "label": "PER",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka,",
+      "label": "PER",
+      "start": 1336,
+      "end": 1358
+    },
+    {
+      "text": "Mag. Michaela Steinacker,",
+      "label": "PER",
+      "start": 1359,
+      "end": 1384
+    },
+    {
+      "text": "August Wöginger,",
+      "label": "PER",
+      "start": 1385,
+      "end": 1401
+    },
+    {
+      "text": "Doris Bures,",
+      "label": "PER",
+      "start": 1402,
+      "end": 1414
+    },
+    {
+      "text": "Gabriele\\n\\nHeinisch-Hosek,",
+      "label": "PER",
+      "start": 1415,
+      "end": 1439
+    },
+    {
+      "text": "Andreas Kollross,",
+      "label": "PER",
+      "start": 1440,
+      "end": 1457
+    },
+    {
+      "text": "Kai Jan Krainer,",
+      "label": "PER",
+      "start": 1458,
+      "end": 1474
+    },
+    {
+      "text": "Philip Kucher,",
+      "label": "PER",
+      "start": 1475,
+      "end": 1489
+    },
+    {
+      "text": "Mag. Andrea Kuntzl,",
+      "label": "PER",
+      "start": 1490,
+      "end": 1509
+    },
+    {
+      "text": "Mag. Jörg Leichtfried,",
+      "label": "PER",
+      "start": 1510,
+      "end": 1532
+    },
+    {
+      "text": "Dr. Christoph Matznetter,",
+      "label": "PER",
+      "start": 1533,
+      "end": 1558
+    },
+    {
+      "text": "Josef Muchitsch,",
+      "label": "PER",
+      "start": 1559,
+      "end": 1575
+    },
+    {
+      "text": "Dr. Pamela RendiWagner, MSc,",
+      "label": "PER",
+      "start": 1576,
+      "end": 1604
+    },
+    {
+      "text": "Alois Stöger,",
+      "label": "PER",
+      "start": 1605,
+      "end": 1618
+    },
+    {
+      "text": "diplômé, Ing. Markus Vogl,",
+      "label": "PER",
+      "start": 1619,
+      "end": 1645
+    },
+    {
+      "text": "Erwin Angerer,",
+      "label": "PER",
+      "start": 1646,
+      "end": 1660
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch,",
+      "label": "PER",
+      "start": 1661,
+      "end": 1685
+    },
+    {
+      "text": "MMag. DDr. Hubert Fuchs,",
+      "label": "PER",
+      "start": 1686,
+      "end": 1710
+    },
+    {
+      "text": "Mag. Gerhard Kaniak,",
+      "label": "PER",
+      "start": 1711,
+      "end": 1731
+    },
+    {
+      "text": "Ing. Mag. Volker Reifenberger,",
+      "label": "PER",
+      "start": 1732,
+      "end": 1762
+    },
+    {
+      "text": "Dr. Elisabeth Götze,",
+      "label": "PER",
+      "start": 1763,
+      "end": 1783
+    },
+    {
+      "text": "Sigrid Maurer, BA,",
+      "label": "PER",
+      "start": 1784,
+      "end": 1802
+    },
+    {
+      "text": "Mag. Dr. Jakob Schwarz, BA,",
+      "label": "PER",
+      "start": 1803,
+      "end": 1830
+    },
+    {
+      "text": "Mag. Nina Tomaselli,",
+      "label": "PER",
+      "start": 1831,
+      "end": 1851
+    },
+    {
+      "text": "Josef Schellhorn,",
+      "label": "PER",
+      "start": 1852,
+      "end": 1869
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1870,
+      "end": 1894
+    },
+    {
+      "text": "Pia Philippa Strache.",
+      "label": "PER",
+      "start": 1899,
+      "end": 1920
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka:",
+      "label": "PER",
+      "start": 2045,
+      "end": 2067
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2347
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2689,
+      "end": 2708
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2744,
+      "end": 2763
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 236,
+      "end": 249
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 780,
+      "end": 801
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 819,
+      "end": 840
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Mag. Andreas Hanger",
+      "label": "PER",
+      "start": 1200,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1252,
+      "end": 1256
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 1257,
+      "end": 1262
+    },
+    {
+      "text": "Lindinger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1272
+    },
+    {
+      "text": "BSc",
+      "label": "PER",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 1279,
+      "end": 1293
+    },
+    {
+      "text": "Gabriel Obernosterer",
+      "label": "PER",
+      "start": 1295,
+      "end": 1315
+    },
+    {
+      "text": "Laurenz Pöttinger",
+      "label": "PER",
+      "start": 1317,
+      "end": 1334
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1336,
+      "end": 1357
+    },
+    {
+      "text": "Mag. Michaela Steinacker",
+      "label": "PER",
+      "start": 1359,
+      "end": 1383
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1385,
+      "end": 1400
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1402,
+      "end": 1413
+    },
+    {
+      "text": "Gabriele",
+      "label": "PER",
+      "start": 1415,
+      "end": 1423
+    },
+    {
+      "text": "Heinisch-Hosek",
+      "label": "PER",
+      "start": 1424,
+      "end": 1438
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 1440,
+      "end": 1456
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1458,
+      "end": 1473
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 1475,
+      "end": 1488
+    },
+    {
+      "text": "Mag. Andrea Kuntzl",
+      "label": "PER",
+      "start": 1490,
+      "end": 1508
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PER",
+      "start": 1510,
+      "end": 1531
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1557
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1559,
+      "end": 1574
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1576,
+      "end": 1579
+    },
+    {
+      "text": "Pamela",
+      "label": "PER",
+      "start": 1580,
+      "end": 1586
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1600,
+      "end": 1603
+    },
+    {
+      "text": "Alois Stöger, diplômé",
+      "label": "PER",
+      "start": 1605,
+      "end": 1626
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 1628,
+      "end": 1644
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 1646,
+      "end": 1659
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1661,
+      "end": 1684
+    },
+    {
+      "text": "MMag. DDr. Hubert Fuchs",
+      "label": "PER",
+      "start": 1686,
+      "end": 1709
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PER",
+      "start": 1711,
+      "end": 1730
+    },
+    {
+      "text": "Ing. Mag. Volker Reifenberger",
+      "label": "PER",
+      "start": 1732,
+      "end": 1761
+    },
+    {
+      "text": "Dr. Elisabeth Götze",
+      "label": "PER",
+      "start": 1763,
+      "end": 1782
+    },
+    {
+      "text": "Sigrid Maurer, BA",
+      "label": "PER",
+      "start": 1784,
+      "end": 1801
+    },
+    {
+      "text": "Mag. Dr. Jakob Schwarz, BA",
+      "label": "PER",
+      "start": 1803,
+      "end": 1829
+    },
+    {
+      "text": "Mag. Nina Tomaselli",
+      "label": "PER",
+      "start": 1831,
+      "end": 1850
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1852,
+      "end": 1868
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1870,
+      "end": 1894
+    },
+    {
+      "text": "Pia Philippa",
+      "label": "PER",
+      "start": 1899,
+      "end": 1911
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 1912,
+      "end": 1919
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2045,
+      "end": 2066
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2347
+    }
+  ],
+  "flair": [
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Klaus Lindinger",
+      "label": "PER",
+      "start": 1257,
+      "end": 1272
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 1279,
+      "end": 1293
+    },
+    {
+      "text": "Gabriel Obernosterer",
+      "label": "PER",
+      "start": 1295,
+      "end": 1315
+    },
+    {
+      "text": "Laurenz Pöttinger",
+      "label": "PER",
+      "start": 1317,
+      "end": 1334
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1341,
+      "end": 1357
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 1364,
+      "end": 1383
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1385,
+      "end": 1400
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1402,
+      "end": 1413
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 1415,
+      "end": 1438
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 1440,
+      "end": 1456
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1458,
+      "end": 1473
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 1475,
+      "end": 1488
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1495,
+      "end": 1508
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 1515,
+      "end": 1531
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 1537,
+      "end": 1557
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1559,
+      "end": 1574
+    },
+    {
+      "text": "Pamela RendiWagner",
+      "label": "PER",
+      "start": 1580,
+      "end": 1598
+    },
+    {
+      "text": "Alois Stöger",
+      "label": "PER",
+      "start": 1605,
+      "end": 1617
+    },
+    {
+      "text": "Markus Vogl",
+      "label": "PER",
+      "start": 1633,
+      "end": 1644
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 1646,
+      "end": 1659
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1665,
+      "end": 1684
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 1716,
+      "end": 1730
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 1742,
+      "end": 1761
+    },
+    {
+      "text": "Elisabeth Götze",
+      "label": "PER",
+      "start": 1767,
+      "end": 1782
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1797
+    },
+    {
+      "text": "Jakob Schwarz",
+      "label": "PER",
+      "start": 1812,
+      "end": 1825
+    },
+    {
+      "text": "Nina Tomaselli",
+      "label": "PER",
+      "start": 1836,
+      "end": 1850
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1852,
+      "end": 1868
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1874,
+      "end": 1890
+    },
+    {
+      "text": "Pia Philippa Strache",
+      "label": "PER",
+      "start": 1899,
+      "end": 1919
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 236,
+      "end": 280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 819,
+      "end": 822
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Ing. Klaus\nLindinger",
+      "label": "PER",
+      "start": 1252,
+      "end": 1272
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 1279,
+      "end": 1293
+    },
+    {
+      "text": "Gabriel Obernosterer",
+      "label": "PER",
+      "start": 1295,
+      "end": 1315
+    },
+    {
+      "text": "Laurenz Pöttinger",
+      "label": "PER",
+      "start": 1317,
+      "end": 1334
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1336,
+      "end": 1339
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1341,
+      "end": 1357
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1362
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 1364,
+      "end": 1383
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1385,
+      "end": 1400
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1402,
+      "end": 1413
+    },
+    {
+      "text": "Gabriele\nHeinisch-Hosek",
+      "label": "PER",
+      "start": 1415,
+      "end": 1438
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 1440,
+      "end": 1456
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1458,
+      "end": 1473
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 1475,
+      "end": 1488
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1495,
+      "end": 1508
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 1515,
+      "end": 1531
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1557
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1559,
+      "end": 1574
+    },
+    {
+      "text": "Dr. Pamela RendiWagner",
+      "label": "PER",
+      "start": 1576,
+      "end": 1598
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1600,
+      "end": 1603
+    },
+    {
+      "text": "Alois Stöger",
+      "label": "PER",
+      "start": 1605,
+      "end": 1617
+    },
+    {
+      "text": "diplômé",
+      "label": "PER",
+      "start": 1619,
+      "end": 1626
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 1628,
+      "end": 1644
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 1646,
+      "end": 1659
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1661,
+      "end": 1684
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 1692,
+      "end": 1695
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 1716,
+      "end": 1730
+    },
+    {
+      "text": "Ing. Mag",
+      "label": "PER",
+      "start": 1732,
+      "end": 1740
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 1742,
+      "end": 1761
+    },
+    {
+      "text": "Elisabeth Götze",
+      "label": "PER",
+      "start": 1767,
+      "end": 1782
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1797
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1799,
+      "end": 1801
+    },
+    {
+      "text": "Jakob Schwarz",
+      "label": "PER",
+      "start": 1812,
+      "end": 1825
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1827,
+      "end": 1829
+    },
+    {
+      "text": "Nina Tomaselli",
+      "label": "PER",
+      "start": 1836,
+      "end": 1850
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1852,
+      "end": 1868
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 1870,
+      "end": 1890
+    },
+    {
+      "text": "Pia Philippa Strache",
+      "label": "PER",
+      "start": 1899,
+      "end": 1919
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1997
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2045,
+      "end": 2048
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2347
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 236,
+      "end": 280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 819,
+      "end": 822
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Ing. Klaus\nLindinger",
+      "label": "PER",
+      "start": 1252,
+      "end": 1272
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 1279,
+      "end": 1293
+    },
+    {
+      "text": "Gabriel Obernosterer",
+      "label": "PER",
+      "start": 1295,
+      "end": 1315
+    },
+    {
+      "text": "Laurenz Pöttinger",
+      "label": "PER",
+      "start": 1317,
+      "end": 1334
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1336,
+      "end": 1339
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1341,
+      "end": 1357
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1362
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 1364,
+      "end": 1383
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1385,
+      "end": 1400
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1402,
+      "end": 1413
+    },
+    {
+      "text": "Gabriele\nHeinisch-Hosek",
+      "label": "PER",
+      "start": 1415,
+      "end": 1438
+    },
+    {
+      "text": "Andreas Kollross",
+      "label": "PER",
+      "start": 1440,
+      "end": 1456
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 1458,
+      "end": 1473
+    },
+    {
+      "text": "Philip Kucher",
+      "label": "PER",
+      "start": 1475,
+      "end": 1488
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 1495,
+      "end": 1508
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 1515,
+      "end": 1531
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1557
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 1559,
+      "end": 1574
+    },
+    {
+      "text": "Dr. Pamela RendiWagner",
+      "label": "PER",
+      "start": 1576,
+      "end": 1598
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1600,
+      "end": 1603
+    },
+    {
+      "text": "Alois Stöger",
+      "label": "PER",
+      "start": 1605,
+      "end": 1617
+    },
+    {
+      "text": "diplômé",
+      "label": "PER",
+      "start": 1619,
+      "end": 1626
+    },
+    {
+      "text": "Ing. Markus Vogl",
+      "label": "PER",
+      "start": 1628,
+      "end": 1644
+    },
+    {
+      "text": "Erwin Angerer",
+      "label": "PER",
+      "start": 1646,
+      "end": 1659
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1661,
+      "end": 1684
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 1692,
+      "end": 1695
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 1716,
+      "end": 1730
+    },
+    {
+      "text": "Ing. Mag",
+      "label": "PER",
+      "start": 1732,
+      "end": 1740
+    },
+    {
+      "text": "Volker Reifenberger",
+      "label": "PER",
+      "start": 1742,
+      "end": 1761
+    },
+    {
+      "text": "Elisabeth Götze",
+      "label": "PER",
+      "start": 1767,
+      "end": 1782
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1797
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1799,
+      "end": 1801
+    },
+    {
+      "text": "Jakob Schwarz",
+      "label": "PER",
+      "start": 1812,
+      "end": 1825
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1827,
+      "end": 1829
+    },
+    {
+      "text": "Nina Tomaselli",
+      "label": "PER",
+      "start": 1836,
+      "end": 1850
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1852,
+      "end": 1868
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 1870,
+      "end": 1890
+    },
+    {
+      "text": "Pia Philippa Strache",
+      "label": "PER",
+      "start": 1899,
+      "end": 1919
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1997
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2045,
+      "end": 2048
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2347
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 702,
+      "end": 710
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Klaus Lindinger",
+      "label": "PER",
+      "start": 1257,
+      "end": 1272
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "Nico Marche",
+      "label": "PER",
+      "start": 1279,
+      "end": 1290
+    },
+    {
+      "text": "Philippa Strache",
+      "label": "PER",
+      "start": 1903,
+      "end": 1919
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "Budgetausschuss",
+      "label": "ORG",
+      "start": 2205,
+      "end": 2220
+    },
+    {
+      "text": "Budgetausschuss",
+      "label": "ORG",
+      "start": 2284,
+      "end": 2299
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2347
+    },
+    {
+      "text": "Budgetausschusses",
+      "label": "ORG",
+      "start": 2533,
+      "end": 2550
+    },
+    {
+      "text": "gv",
+      "label": "ORG",
+      "start": 2936,
+      "end": 2938
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "text": "##TION",
+      "label": "ORG",
+      "start": 20,
+      "end": 24
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 702,
+      "end": 710
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 785,
+      "end": 801
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 819,
+      "end": 822
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 824,
+      "end": 840
+    },
+    {
+      "text": "##äsidialkonferenz",
+      "label": "ORG",
+      "start": 947,
+      "end": 963
+    },
+    {
+      "text": "Angela Baumgartner",
+      "label": "PER",
+      "start": 1180,
+      "end": 1198
+    },
+    {
+      "text": "Andreas Hanger",
+      "label": "PER",
+      "start": 1205,
+      "end": 1219
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1236,
+      "end": 1250
+    },
+    {
+      "text": "Klaus Lindinger",
+      "label": "PER",
+      "start": 1257,
+      "end": 1272
+    },
+    {
+      "text": "BS",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1276
+    },
+    {
+      "text": "Nico Marche",
+      "label": "PER",
+      "start": 1279,
+      "end": 1290
+    },
+    {
+      "text": "Philippa Strache",
+      "label": "PER",
+      "start": 1903,
+      "end": 1919
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    }
+  ]
+}

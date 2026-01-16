@@ -1,0 +1,1307 @@
+{
+  "filename": "17.10.2012_176._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 787,
+      "end": 819
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "BM f. Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1445,
+      "end": 1489
+    },
+    {
+      "text": "BM f.\\nFrauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1440
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1541
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1607,
+      "end": 1627
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1645,
+      "end": 1665
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1700,
+      "end": 1713
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1782
+    },
+    {
+      "text": "Mag. Musiol",
+      "label": "PER",
+      "start": 1784,
+      "end": 1795
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "Mag. Schatz",
+      "label": "PER",
+      "start": 1807,
+      "end": 1818
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1854,
+      "end": 1874
+    },
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 2505,
+      "end": 2537
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 2817,
+      "end": 2829
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3031,
+      "end": 3043
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3142,
+      "end": 3162
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3164,
+      "end": 3182
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3379
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3437,
+      "end": 3457
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 3533,
+      "end": 3556
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3558,
+      "end": 3576
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3578,
+      "end": 3597
+    },
+    {
+      "text": "Bundesministerin für Frauen und öffentlichen Dienst",
+      "label": "PER",
+      "start": 3954,
+      "end": 4005
+    },
+    {
+      "text": "Bundesminister für Arbeit,\\nSoziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 4014,
+      "end": 4071
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4104,
+      "end": 4124
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4150,
+      "end": 4163
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4354,
+      "end": 4373
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1541
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1607,
+      "end": 1627
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1645,
+      "end": 1665
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1700,
+      "end": 1713
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1782
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1784,
+      "end": 1788
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1807,
+      "end": 1811
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 1812,
+      "end": 1818
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1854,
+      "end": 1874
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 2817,
+      "end": 2829
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3031,
+      "end": 3043
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3142,
+      "end": 3162
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3164,
+      "end": 3182
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3379
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3437,
+      "end": 3457
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 3533,
+      "end": 3556
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3558,
+      "end": 3576
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3578,
+      "end": 3597
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4104,
+      "end": 4124
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4150,
+      "end": 4163
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 787,
+      "end": 819
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "BM f. Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1440
+    },
+    {
+      "text": "BM f. Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1445,
+      "end": 1489
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1616,
+      "end": 1627
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1782
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 1812,
+      "end": 1818
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1863,
+      "end": 1874
+    },
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 2505,
+      "end": 2537
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3168,
+      "end": 3182
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3556
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3563,
+      "end": 3576
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Bundesministerin für Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 3954,
+      "end": 4005
+    },
+    {
+      "text": "Bundesminister für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 4014,
+      "end": 4071
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4113,
+      "end": 4124
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "................................................................................................................",
+      "label": "PER",
+      "start": 649,
+      "end": 761
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "Regierungsvorlage .............................................................................................",
+      "label": "ORG",
+      "start": 912,
+      "end": 1023
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 1155,
+      "end": 1268
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1406
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1541
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1616,
+      "end": 1627
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1645,
+      "end": 1648
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1700,
+      "end": 1713
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1782
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1807,
+      "end": 1810
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1863,
+      "end": 1874
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2102,
+      "end": 2116
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 2142,
+      "end": 2159
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "slowakischen Nationalrats",
+      "label": "ORG",
+      "start": 2804,
+      "end": 2829
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "slowakischen Nationalrats",
+      "label": "ORG",
+      "start": 3018,
+      "end": 3043
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3168,
+      "end": 3182
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3379
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3520,
+      "end": 3532
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3556
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3558,
+      "end": 3576
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 3954,
+      "end": 3981
+    },
+    {
+      "text": "Bundesminister für Arbeit",
+      "label": "ORG",
+      "start": 4014,
+      "end": 4039
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4104,
+      "end": 4107
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4113,
+      "end": 4124
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4150,
+      "end": 4163
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "................................................................................................................",
+      "label": "PER",
+      "start": 649,
+      "end": 761
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "Regierungsvorlage .............................................................................................",
+      "label": "ORG",
+      "start": 912,
+      "end": 1023
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 1155,
+      "end": 1268
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1406
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1530,
+      "end": 1541
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1616,
+      "end": 1627
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1645,
+      "end": 1648
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1700,
+      "end": 1713
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1776,
+      "end": 1782
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "text": "Grosz",
+      "label": "PER",
+      "start": 1797,
+      "end": 1802
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1807,
+      "end": 1810
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1863,
+      "end": 1874
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2102,
+      "end": 2116
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 2142,
+      "end": 2159
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "slowakischen Nationalrats",
+      "label": "ORG",
+      "start": 2804,
+      "end": 2829
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "slowakischen Nationalrats",
+      "label": "ORG",
+      "start": 3018,
+      "end": 3043
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3168,
+      "end": 3182
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3379
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3520,
+      "end": 3532
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3556
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3558,
+      "end": 3576
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 3954,
+      "end": 3981
+    },
+    {
+      "text": "Bundesminister für Arbeit",
+      "label": "ORG",
+      "start": 4014,
+      "end": 4039
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4104,
+      "end": 4107
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4113,
+      "end": 4124
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4150,
+      "end": 4163
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 72,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 213,
+      "end": 223
+    },
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 787,
+      "end": 819
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "Bundesfach",
+      "label": "ORG",
+      "start": 2505,
+      "end": 2515
+    },
+    {
+      "text": "##schule für Flugtechnik",
+      "label": "ORG",
+      "start": 2515,
+      "end": 2537
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3168,
+      "end": 3182
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3368,
+      "end": 3379
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3459,
+      "end": 3462
+    },
+    {
+      "text": "##schuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3462,
+      "end": 3497
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3556
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3563,
+      "end": 3576
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 4029,
+      "end": 4071
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4113,
+      "end": 4124
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4150,
+      "end": 4158
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 787,
+      "end": 819
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 821,
+      "end": 824
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 897,
+      "end": 910
+    },
+    {
+      "text": "Bürgerini",
+      "label": "ORG",
+      "start": 2457,
+      "end": 2466
+    },
+    {
+      "text": "Bundesfachschule für Flugtechnik",
+      "label": "ORG",
+      "start": 2505,
+      "end": 2537
+    },
+    {
+      "text": "BFS",
+      "label": "ORG",
+      "start": 2539,
+      "end": 2542
+    },
+    {
+      "text": "Anna Höllerer",
+      "label": "PER",
+      "start": 2594,
+      "end": 2607
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2939,
+      "end": 2952
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3168,
+      "end": 3182
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3446,
+      "end": 3457
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3533,
+      "end": 3536
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3556
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3563,
+      "end": 3576
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 4014,
+      "end": 4020
+    },
+    {
+      "text": "B",
+      "label": "PER",
+      "start": 4083,
+      "end": 4084
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4113,
+      "end": 4124
+    }
+  ]
+}

@@ -1,0 +1,1169 @@
+{
+  "filename": "23.10.2003_36._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1313
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 673,
+      "end": 728
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 762,
+      "end": 779
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 828,
+      "end": 883
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "Bundesministers für Wirtschaft und Arbeit",
+      "label": "PER",
+      "start": 990,
+      "end": 1031
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1065,
+      "end": 1083
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "Präsidenten des Nationalrates",
+      "label": "PER",
+      "start": 1138,
+      "end": 1167
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1413,
+      "end": 1429
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 1524,
+      "end": 1537
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1539,
+      "end": 1554
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1556,
+      "end": 1576
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1581,
+      "end": 1595
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1631,
+      "end": 1647
+    },
+    {
+      "text": "Tiroler Flughafenbetriebsgesellschaft mbH",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2358
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2472,
+      "end": 2489
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3126,
+      "end": 3142
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3200,
+      "end": 3219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3411,
+      "end": 3427
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3488,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3752
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3950,
+      "end": 3969
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 762,
+      "end": 779
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1065,
+      "end": 1083
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1154,
+      "end": 1167
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1313
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1413,
+      "end": 1429
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 1524,
+      "end": 1537
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1539,
+      "end": 1554
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1556,
+      "end": 1576
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1581,
+      "end": 1595
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1631,
+      "end": 1647
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2004
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2472,
+      "end": 2489
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3126,
+      "end": 3142
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3200,
+      "end": 3203
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 3204,
+      "end": 3207
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3411,
+      "end": 3427
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3488,
+      "end": 3491
+    },
+    {
+      "text": "Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3492,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3752
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 673,
+      "end": 728
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 828,
+      "end": 883
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 921,
+      "end": 941
+    },
+    {
+      "text": "Bundesministers für Wirtschaft und Arbeit",
+      "label": "ORG",
+      "start": 990,
+      "end": 1031
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1250,
+      "end": 1254
+    },
+    {
+      "text": "JPR",
+      "label": "ORG",
+      "start": 1261,
+      "end": 1264
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1383,
+      "end": 1395
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1417,
+      "end": 1429
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 1524,
+      "end": 1537
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1539,
+      "end": 1554
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1561,
+      "end": 1576
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1585,
+      "end": 1595
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1635,
+      "end": 1647
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2010,
+      "end": 2014
+    },
+    {
+      "text": "Tiroler Flughafenbetriebsgesellschaft mbH",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2358
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3130,
+      "end": 3142
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3204,
+      "end": 3219
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3415,
+      "end": 3427
+    },
+    {
+      "text": "Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3492,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 673,
+      "end": 700
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 828,
+      "end": 855
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "Bundesministers für Wirtschaft und Arbeit",
+      "label": "ORG",
+      "start": 990,
+      "end": 1031
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1154,
+      "end": 1167
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1313
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1413,
+      "end": 1429
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 1524,
+      "end": 1537
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1539,
+      "end": 1554
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1561,
+      "end": 1576
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1581,
+      "end": 1595
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1631,
+      "end": 1647
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1878,
+      "end": 1889
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2004
+    },
+    {
+      "text": "Tiroler Flughafenbetriebsgesellschaft mbH",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2358
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2459,
+      "end": 2471
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "Jurisdiktionsnorm",
+      "label": "PER",
+      "start": 2721,
+      "end": 2738
+    },
+    {
+      "text": "FinSG",
+      "label": "ORG",
+      "start": 2945,
+      "end": 2950
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3126,
+      "end": 3142
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3200,
+      "end": 3219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3411,
+      "end": 3427
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3488,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3752
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 673,
+      "end": 700
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 828,
+      "end": 855
+    },
+    {
+      "text": "Dr. Evelin Lichtenberger",
+      "label": "PER",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "text": "Bundesministers für Wirtschaft und Arbeit",
+      "label": "ORG",
+      "start": 990,
+      "end": 1031
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1154,
+      "end": 1167
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1313
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1379,
+      "end": 1395
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1413,
+      "end": 1429
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1463,
+      "end": 1476
+    },
+    {
+      "text": "Josef Broukal",
+      "label": "PER",
+      "start": 1524,
+      "end": 1537
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1539,
+      "end": 1554
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1561,
+      "end": 1576
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1581,
+      "end": 1595
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1631,
+      "end": 1647
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1878,
+      "end": 1889
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2004
+    },
+    {
+      "text": "Tiroler Flughafenbetriebsgesellschaft mbH",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2358
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2459,
+      "end": 2471
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "Jurisdiktionsnorm",
+      "label": "PER",
+      "start": 2721,
+      "end": 2738
+    },
+    {
+      "text": "FinSG",
+      "label": "ORG",
+      "start": 2945,
+      "end": 2950
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3126,
+      "end": 3142
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 3200,
+      "end": 3219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3411,
+      "end": 3427
+    },
+    {
+      "text": "Dr. Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3488,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3752
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 762,
+      "end": 779
+    },
+    {
+      "text": "Verkehr",
+      "label": "ORG",
+      "start": 848,
+      "end": 855
+    },
+    {
+      "text": "Innovation",
+      "label": "ORG",
+      "start": 857,
+      "end": 867
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 921,
+      "end": 941
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1313
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1383,
+      "end": 1395
+    },
+    {
+      "text": "Tiroler Flughafenbetriebsgesellschaft",
+      "label": "ORG",
+      "start": 2317,
+      "end": 2354
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3130,
+      "end": 3142
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3204,
+      "end": 3219
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3415,
+      "end": 3427
+    },
+    {
+      "text": "Baumgartner",
+      "label": "PER",
+      "start": 3492,
+      "end": 3503
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 3504,
+      "end": 3512
+    },
+    {
+      "text": "Scheibner",
+      "label": "PER",
+      "start": 3514,
+      "end": 3523
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3747
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 762,
+      "end": 765
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 811,
+      "end": 813
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 921,
+      "end": 941
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 973,
+      "end": 975
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1069,
+      "end": 1083
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1115,
+      "end": 1117
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1201,
+      "end": 1219
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1250,
+      "end": 1254
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1310
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1383,
+      "end": 1395
+    },
+    {
+      "text": "##betriebsgesellschaft",
+      "label": "ORG",
+      "start": 2334,
+      "end": 2354
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2489
+    },
+    {
+      "text": "Fin",
+      "label": "ORG",
+      "start": 2945,
+      "end": 2948
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3058,
+      "end": 3069
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3130,
+      "end": 3142
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3204,
+      "end": 3219
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3415,
+      "end": 3427
+    },
+    {
+      "text": "Baumgartner",
+      "label": "PER",
+      "start": 3492,
+      "end": 3503
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 3504,
+      "end": 3512
+    },
+    {
+      "text": "Sc",
+      "label": "PER",
+      "start": 3514,
+      "end": 3516
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3739,
+      "end": 3752
+    }
+  ]
+}

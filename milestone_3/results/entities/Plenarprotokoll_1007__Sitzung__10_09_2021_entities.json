@@ -1,0 +1,7313 @@
+{
+  "filename": "Plenarprotokoll_1007._Sitzung,_10.09.2021.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 22,
+      "end": 31
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 652,
+      "end": 664
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 741,
+      "end": 754
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 785,
+      "end": 799
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 829,
+      "end": 843
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 1106,
+      "end": 1125
+    },
+    {
+      "text": "Prof. Dr. Kurt Biedenkopf",
+      "label": "PER",
+      "start": 1261,
+      "end": 1286
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Dr. Markus Richter",
+      "label": "PER",
+      "start": 2117,
+      "end": 2135
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2583,
+      "end": 2592
+    },
+    {
+      "text": "D r . R e i n e r H a s e l o f f",
+      "label": "PER",
+      "start": 2677,
+      "end": 2710
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 3444,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Dr. Olaf Joachim",
+      "label": "PER",
+      "start": 3543,
+      "end": 3559
+    },
+    {
+      "text": "Dr. Andreas Dressel",
+      "label": "PER",
+      "start": 3637,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Dr. Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 3887,
+      "end": 3916
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4390,
+      "end": 4399
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 4454,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 4593,
+      "end": 4625
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4787,
+      "end": 4810
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Dr. Markus Richter",
+      "label": "PER",
+      "start": 5089,
+      "end": 5107
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 5177,
+      "end": 5186
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 5303,
+      "end": 5322
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5428,
+      "end": 5439
+    },
+    {
+      "text": "Professor Dr. Kurt Hans\\nBiedenkopf",
+      "label": "PER",
+      "start": 7416,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7860,
+      "end": 7881
+    },
+    {
+      "text": "Landtag",
+      "label": "ORG",
+      "start": 7992,
+      "end": 7999
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8298,
+      "end": 8307
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8539,
+      "end": 8550
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8663,
+      "end": 8674
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8712
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 10012,
+      "end": 10021
+    },
+    {
+      "text": "Professor Dr. Kurt Biedenkopf",
+      "label": "PER",
+      "start": 10452,
+      "end": 10481
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 10088,
+      "end": 10097
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11315,
+      "end": 11326
+    },
+    {
+      "text": "Senat",
+      "label": "ORG",
+      "start": 11353,
+      "end": 11358
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11406,
+      "end": 11415
+    },
+    {
+      "text": "Dr. Claudia B o g e dan",
+      "label": "PER",
+      "start": 11477,
+      "end": 11500
+    },
+    {
+      "text": "Sascha Karolin A u l e p p",
+      "label": "PER",
+      "start": 11517,
+      "end": 11543
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11601,
+      "end": 11612
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Aulepp",
+      "label": "PER",
+      "start": 11740,
+      "end": 11746
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13287,
+      "end": 13296
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13443,
+      "end": 13452
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13575,
+      "end": 13584
+    },
+    {
+      "text": "Deutschen\\nJugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "DJI",
+      "label": "ORG",
+      "start": 16262,
+      "end": 16265
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 17322,
+      "end": 17341
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 17368,
+      "end": 17372
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 17554,
+      "end": 17563
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 17673,
+      "end": 17685
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18860,
+      "end": 18869
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 20105,
+      "end": 20114
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 21424,
+      "end": 21435
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 21614,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 21787,
+      "end": 21796
+    },
+    {
+      "text": "Herr Weil",
+      "label": "PER",
+      "start": 21982,
+      "end": 21991
+    },
+    {
+      "text": "Herr Laschet",
+      "label": "PER",
+      "start": 22063,
+      "end": 22075
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24572,
+      "end": 24581
+    },
+    {
+      "text": "Herr Laschet",
+      "label": "PER",
+      "start": 25743,
+      "end": 25755
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 26431,
+      "end": 26450
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 26485,
+      "end": 26492
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 26631,
+      "end": 26640
+    },
+    {
+      "text": "Hermann\\nG r ö h e",
+      "label": "PER",
+      "start": 27732,
+      "end": 27749
+    },
+    {
+      "text": "Manuela S c h w e s i g",
+      "label": "PER",
+      "start": 27754,
+      "end": 27777
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27902,
+      "end": 27911
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29855,
+      "end": 29864
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 31190,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31449,
+      "end": 31458
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 32243,
+      "end": 32252
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32364,
+      "end": 32373
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 32570,
+      "end": 32579
+    },
+    {
+      "text": "Kollege",
+      "label": "PER",
+      "start": 32716,
+      "end": 32723
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34731,
+      "end": 34740
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 35166,
+      "end": 35181
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 37351,
+      "end": 37366
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37604,
+      "end": 37613
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 38319,
+      "end": 38340
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38419,
+      "end": 38434
+    },
+    {
+      "text": "Vizekanzler",
+      "label": "PER",
+      "start": 38484,
+      "end": 38495
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 38536,
+      "end": 38551
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40090,
+      "end": 40099
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40437,
+      "end": 40446
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 41529,
+      "end": 41548
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 41566,
+      "end": 41572
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 41693,
+      "end": 41702
+    },
+    {
+      "text": "Bürgermeisterin",
+      "label": "PER",
+      "start": 43366,
+      "end": 43381
+    },
+    {
+      "text": "Frau Dreyer",
+      "label": "PER",
+      "start": 44209,
+      "end": 44220
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44417
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45935,
+      "end": 45944
+    },
+    {
+      "text": "Freiwillige Feuerwehr",
+      "label": "ORG",
+      "start": 46128,
+      "end": 46149
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 46642,
+      "end": 46657
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47548
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 47636,
+      "end": 47647
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50713,
+      "end": 50722
+    },
+    {
+      "text": "Umweltministerium",
+      "label": "ORG",
+      "start": 50834,
+      "end": 50851
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51437,
+      "end": 51446
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "Herrn B r o e m m e",
+      "label": "PER",
+      "start": 52151,
+      "end": 52170
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 54777,
+      "end": 54792
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55713,
+      "end": 55728
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 55974,
+      "end": 55983
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 56388,
+      "end": 56403
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 56854,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 56910,
+      "end": 56919
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57268,
+      "end": 57283
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 59214,
+      "end": 59229
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 61329,
+      "end": 61344
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 61455,
+      "end": 61474
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 61513,
+      "end": 61519
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 61576,
+      "end": 61583
+    },
+    {
+      "text": "Bundesministerium des Innern, für Bau und\\nHeimat",
+      "label": "ORG",
+      "start": 61588,
+      "end": 61636
+    },
+    {
+      "text": "Dr. Markus Richter",
+      "label": "PER",
+      "start": 61638,
+      "end": 61656
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 61745,
+      "end": 61754
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62277
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 62294,
+      "end": 62304
+    },
+    {
+      "text": "Bundespolizei",
+      "label": "ORG",
+      "start": 62374,
+      "end": 62387
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 62528,
+      "end": 62537
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 62625,
+      "end": 62640
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Bundesministeriums des Innern, für Bau und Heimat",
+      "label": "ORG",
+      "start": 62829,
+      "end": 62878
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64192,
+      "end": 64207
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 64495,
+      "end": 64514
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 64553,
+      "end": 64560
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 64962,
+      "end": 64971
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65401,
+      "end": 65410
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65648,
+      "end": 65657
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65790,
+      "end": 65799
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 65943,
+      "end": 65954
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66264,
+      "end": 66273
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66656,
+      "end": 66665
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66847,
+      "end": 66862
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67461,
+      "end": 67476
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69063,
+      "end": 69078
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 70294,
+      "end": 70309
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 22,
+      "end": 31
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 652,
+      "end": 659
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 741,
+      "end": 746
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 785,
+      "end": 791
+    },
+    {
+      "text": "Stefanie",
+      "label": "PER",
+      "start": 829,
+      "end": 837
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1106,
+      "end": 1109
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 1110,
+      "end": 1116
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1212
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1267,
+      "end": 1270
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 1271,
+      "end": 1275
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 1993,
+      "end": 1998
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 2037,
+      "end": 2043
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2117,
+      "end": 2120
+    },
+    {
+      "text": "Markus",
+      "label": "PER",
+      "start": 2121,
+      "end": 2127
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 2128,
+      "end": 2135
+    },
+    {
+      "text": "Daniela",
+      "label": "PER",
+      "start": 2242,
+      "end": 2249
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2583,
+      "end": 2592
+    },
+    {
+      "text": "Stefanie",
+      "label": "PER",
+      "start": 2978,
+      "end": 2986
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 3085,
+      "end": 3091
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 3196,
+      "end": 3203
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 3228,
+      "end": 3236
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 3270,
+      "end": 3275
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 3322,
+      "end": 3329
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 3330,
+      "end": 3336
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3444,
+      "end": 3447
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 3448,
+      "end": 3455
+    },
+    {
+      "text": "Katrin",
+      "label": "PER",
+      "start": 3482,
+      "end": 3488
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3543,
+      "end": 3546
+    },
+    {
+      "text": "Joachim",
+      "label": "PER",
+      "start": 3552,
+      "end": 3559
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3637,
+      "end": 3640
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 3641,
+      "end": 3648
+    },
+    {
+      "text": "Birgit",
+      "label": "PER",
+      "start": 3693,
+      "end": 3699
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 3854,
+      "end": 3859
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3887,
+      "end": 3890
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 3891,
+      "end": 3898
+    },
+    {
+      "text": "Daniela",
+      "label": "PER",
+      "start": 4079,
+      "end": 4086
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 4176,
+      "end": 4180
+    },
+    {
+      "text": "Petra",
+      "label": "PER",
+      "start": 4308,
+      "end": 4313
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4390,
+      "end": 4399
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4454,
+      "end": 4457
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 4458,
+      "end": 4464
+    },
+    {
+      "text": "Daniel",
+      "label": "PER",
+      "start": 4514,
+      "end": 4520
+    },
+    {
+      "text": "Günther",
+      "label": "PER",
+      "start": 4521,
+      "end": 4528
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 4548,
+      "end": 4554
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4599,
+      "end": 4602
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 4770,
+      "end": 4785
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4787,
+      "end": 4790
+    },
+    {
+      "text": "Sabine",
+      "label": "PER",
+      "start": 4953,
+      "end": 4959
+    },
+    {
+      "text": "Weiss",
+      "label": "PER",
+      "start": 4960,
+      "end": 4965
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 5025,
+      "end": 5031
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5089,
+      "end": 5092
+    },
+    {
+      "text": "Markus",
+      "label": "PER",
+      "start": 5093,
+      "end": 5099
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 5100,
+      "end": 5107
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 5177,
+      "end": 5186
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5303,
+      "end": 5306
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 5307,
+      "end": 5313
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5428,
+      "end": 5439
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 6336,
+      "end": 6343
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 7343,
+      "end": 7349
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 7411,
+      "end": 7415
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7426,
+      "end": 7429
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 7430,
+      "end": 7434
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 7435,
+      "end": 7439
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 7501,
+      "end": 7505
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8298,
+      "end": 8307
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 8448,
+      "end": 8453
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 8479,
+      "end": 8485
+    },
+    {
+      "text": "Sommer",
+      "label": "PER",
+      "start": 8513,
+      "end": 8519
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8539,
+      "end": 8550
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 8597,
+      "end": 8601
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8663,
+      "end": 8674
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8712
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 8751,
+      "end": 8755
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 8994,
+      "end": 9000
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 9436,
+      "end": 9440
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 9929,
+      "end": 9934
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 9959,
+      "end": 9966
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 10007,
+      "end": 10011
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 10088,
+      "end": 10097
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10462,
+      "end": 10465
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 10466,
+      "end": 10470
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11315,
+      "end": 11326
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11406,
+      "end": 11415
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 11477,
+      "end": 11480
+    },
+    {
+      "text": "Claudia",
+      "label": "PER",
+      "start": 11481,
+      "end": 11488
+    },
+    {
+      "text": "Sascha",
+      "label": "PER",
+      "start": 11517,
+      "end": 11523
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11601,
+      "end": 11612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13287,
+      "end": 13296
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13443,
+      "end": 13452
+    },
+    {
+      "text": "knapp",
+      "label": "PER",
+      "start": 13526,
+      "end": 13531
+    },
+    {
+      "text": "Kern",
+      "label": "PER",
+      "start": 14531,
+      "end": 14535
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 15451,
+      "end": 15456
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 17322,
+      "end": 17325
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 17326,
+      "end": 17332
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17456,
+      "end": 17460
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 17512,
+      "end": 17517
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17549,
+      "end": 17553
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 17673,
+      "end": 17680
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18860,
+      "end": 18869
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 20023,
+      "end": 20028
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 20105,
+      "end": 20114
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 21424,
+      "end": 21435
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 21614,
+      "end": 21617
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 21618,
+      "end": 21624
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 21745,
+      "end": 21751
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21782,
+      "end": 21786
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21982,
+      "end": 21986
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 22063,
+      "end": 22067
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 22204,
+      "end": 22209
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 22836,
+      "end": 22840
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24572,
+      "end": 24581
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 25743,
+      "end": 25747
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 26431,
+      "end": 26434
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 26435,
+      "end": 26441
+    },
+    {
+      "text": "Stefanie",
+      "label": "PER",
+      "start": 26571,
+      "end": 26579
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 26626,
+      "end": 26630
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 27732,
+      "end": 27739
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27902,
+      "end": 27911
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29855,
+      "end": 29864
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 30225,
+      "end": 30229
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 30258,
+      "end": 30262
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 30294,
+      "end": 30300
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 31190,
+      "end": 31193
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 31194,
+      "end": 31200
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31449,
+      "end": 31458
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 32238,
+      "end": 32242
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32364,
+      "end": 32373
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 32678,
+      "end": 32683
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 32730,
+      "end": 32735
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 32975,
+      "end": 32992
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 33035,
+      "end": 33041
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 33995,
+      "end": 34001
+    },
+    {
+      "text": "mag.",
+      "label": "PER",
+      "start": 34021,
+      "end": 34025
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34731,
+      "end": 34740
+    },
+    {
+      "text": "Wille",
+      "label": "PER",
+      "start": 36278,
+      "end": 36283
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 36801,
+      "end": 36808
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 37056,
+      "end": 37060
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 37180,
+      "end": 37187
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 37351,
+      "end": 37366
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37604,
+      "end": 37613
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38419,
+      "end": 38434
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 38505,
+      "end": 38512
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 38749,
+      "end": 38753
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 39559,
+      "end": 39564
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40090,
+      "end": 40099
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40437,
+      "end": 40446
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 40587,
+      "end": 40594
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 41529,
+      "end": 41532
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 41533,
+      "end": 41539
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 41651,
+      "end": 41656
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41688,
+      "end": 41692
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 42676,
+      "end": 42680
+    },
+    {
+      "text": "Sommer",
+      "label": "PER",
+      "start": 42871,
+      "end": 42877
+    },
+    {
+      "text": "Häuser",
+      "label": "PER",
+      "start": 43460,
+      "end": 43466
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 44272,
+      "end": 44276
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 44632,
+      "end": 44636
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45935,
+      "end": 45944
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 46751,
+      "end": 46756
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 47150,
+      "end": 47155
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 47340,
+      "end": 47345
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 47475,
+      "end": 47481
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 47636,
+      "end": 47647
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 48086,
+      "end": 48093
+    },
+    {
+      "text": "Häuser",
+      "label": "PER",
+      "start": 48574,
+      "end": 48580
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 50454,
+      "end": 50459
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50713,
+      "end": 50722
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51437,
+      "end": 51446
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 54777,
+      "end": 54792
+    },
+    {
+      "text": "Wille",
+      "label": "PER",
+      "start": 54950,
+      "end": 54955
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 55198,
+      "end": 55202
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55613,
+      "end": 55628
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55713,
+      "end": 55728
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 55890,
+      "end": 55896
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 55969,
+      "end": 55973
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 56332,
+      "end": 56336
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 56371,
+      "end": 56377
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 56628,
+      "end": 56633
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 56854,
+      "end": 56857
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 56858,
+      "end": 56864
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 56910,
+      "end": 56919
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 57091,
+      "end": 57097
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57268,
+      "end": 57283
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 59214,
+      "end": 59229
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60240
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 61228,
+      "end": 61235
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 61329,
+      "end": 61344
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 61455,
+      "end": 61458
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 61459,
+      "end": 61465
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61493,
+      "end": 61497
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61556,
+      "end": 61560
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 61576,
+      "end": 61583
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 61638,
+      "end": 61641
+    },
+    {
+      "text": "Markus",
+      "label": "PER",
+      "start": 61642,
+      "end": 61648
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 61649,
+      "end": 61656
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61740,
+      "end": 61744
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 62528,
+      "end": 62537
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 62625,
+      "end": 62640
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64192,
+      "end": 64207
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 64495,
+      "end": 64498
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 64499,
+      "end": 64505
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 64533,
+      "end": 64537
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 64553,
+      "end": 64560
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 64962,
+      "end": 64971
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65401,
+      "end": 65410
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65648,
+      "end": 65657
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65790,
+      "end": 65799
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 65943,
+      "end": 65954
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66264,
+      "end": 66273
+    },
+    {
+      "text": "Rainer",
+      "label": "PER",
+      "start": 66401,
+      "end": 66407
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66656,
+      "end": 66665
+    },
+    {
+      "text": "Daniela",
+      "label": "PER",
+      "start": 66742,
+      "end": 66749
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66847,
+      "end": 66862
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 67073,
+      "end": 67080
+    },
+    {
+      "text": "enge",
+      "label": "PER",
+      "start": 67156,
+      "end": 67160
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 67340,
+      "end": 67345
+    },
+    {
+      "text": "höher",
+      "label": "PER",
+      "start": 67443,
+      "end": 67448
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67461,
+      "end": 67476
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 67703,
+      "end": 67708
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69063,
+      "end": 69078
+    }
+  ],
+  "flair": [
+    {
+      "text": "GG",
+      "label": "ORG",
+      "start": 342,
+      "end": 344
+    },
+    {
+      "text": "GG",
+      "label": "ORG",
+      "start": 486,
+      "end": 488
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 652,
+      "end": 664
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 741,
+      "end": 754
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 785,
+      "end": 799
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 829,
+      "end": 843
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 1271,
+      "end": 1286
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 2070,
+      "end": 2100
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 2121,
+      "end": 2135
+    },
+    {
+      "text": "Bundesministerium des Innern, für Bau und Heimat",
+      "label": "ORG",
+      "start": 2155,
+      "end": 2203
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "R",
+      "label": "PER",
+      "start": 2683,
+      "end": 2684
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 2685,
+      "end": 2686
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 2687,
+      "end": 2688
+    },
+    {
+      "text": "n e r H a s e l o f f",
+      "label": "PER",
+      "start": 2689,
+      "end": 2710
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2914,
+      "end": 2918
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Soziales, Integration und Gleichstellung",
+      "label": "ORG",
+      "start": 3009,
+      "end": 3049
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 3448,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 3547,
+      "end": 3559
+    },
+    {
+      "text": "Hansestadt Bremen",
+      "label": "ORG",
+      "start": 3600,
+      "end": 3617
+    },
+    {
+      "text": "Bund Hamburg",
+      "label": "ORG",
+      "start": 3623,
+      "end": 3635
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 3641,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 3891,
+      "end": 3916
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Wirtschaft, Verkehr, Landwirtschaft und Weinbau",
+      "label": "ORG",
+      "start": 4111,
+      "end": 4158
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Bund Sachsen",
+      "label": "ORG",
+      "start": 4294,
+      "end": 4306
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 4603,
+      "end": 4625
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4810
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Familie, Senioren, Frauen und Jugend",
+      "label": "ORG",
+      "start": 4916,
+      "end": 4952
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Bundesministerium",
+      "label": "ORG",
+      "start": 5058,
+      "end": 5075
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 5080,
+      "end": 5088
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 5093,
+      "end": 5107
+    },
+    {
+      "text": "Bundesministerium des Innern, für Bau und Heimat",
+      "label": "ORG",
+      "start": 5127,
+      "end": 5175
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 5307,
+      "end": 5322
+    },
+    {
+      "text": "Kurt Hans Biedenkopf",
+      "label": "PER",
+      "start": 7430,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "RuhrUniversität",
+      "label": "ORG",
+      "start": 7685,
+      "end": 7700
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7860,
+      "end": 7881
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "VA",
+      "label": "ORG",
+      "start": 9507,
+      "end": 9509
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 10466,
+      "end": 10481
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 11363,
+      "end": 11387
+    },
+    {
+      "text": "Claudia B o g e dan",
+      "label": "PER",
+      "start": 11481,
+      "end": 11500
+    },
+    {
+      "text": "Sascha Karolin A u l e p p",
+      "label": "PER",
+      "start": 11517,
+      "end": 11543
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Aulepp",
+      "label": "PER",
+      "start": 11740,
+      "end": 11746
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13443,
+      "end": 13452
+    },
+    {
+      "text": "Deutschen Jugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "DJI",
+      "label": "ORG",
+      "start": 16262,
+      "end": 16265
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 17326,
+      "end": 17341
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 17368,
+      "end": 17372
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 17673,
+      "end": 17685
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 18101,
+      "end": 18105
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 21618,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 21987,
+      "end": 21991
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 22068,
+      "end": 22075
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 25748,
+      "end": 25755
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 26435,
+      "end": 26450
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 26485,
+      "end": 26492
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Hermann G r ö h e",
+      "label": "PER",
+      "start": 27732,
+      "end": 27749
+    },
+    {
+      "text": "Manuela S c h w e s i g",
+      "label": "PER",
+      "start": 27754,
+      "end": 27777
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 31194,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 38319,
+      "end": 38340
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 41533,
+      "end": 41548
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 41566,
+      "end": 41572
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 44214,
+      "end": 44220
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44417
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47548
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "B r o e m m e",
+      "label": "PER",
+      "start": 52157,
+      "end": 52170
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55923,
+      "end": 55953
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 56858,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 61459,
+      "end": 61474
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 61513,
+      "end": 61519
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 61576,
+      "end": 61583
+    },
+    {
+      "text": "Bundesministerium des Innern, für Bau und Heimat",
+      "label": "ORG",
+      "start": 61588,
+      "end": 61636
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 61642,
+      "end": 61656
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 61676,
+      "end": 61704
+    },
+    {
+      "text": "für Bau und Heimat",
+      "label": "ORG",
+      "start": 61706,
+      "end": 61724
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62277
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Bundesministeriums des Innern, für Bau und Heimat",
+      "label": "ORG",
+      "start": 62829,
+      "end": 62878
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 64499,
+      "end": 64514
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 64553,
+      "end": 64560
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 66513,
+      "end": 66515
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 78,
+      "end": 85
+    },
+    {
+      "text": "GaFöG",
+      "label": "ORG",
+      "start": 619,
+      "end": 624
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 1106,
+      "end": 1125
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 2070,
+      "end": 2100
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 2121,
+      "end": 2135
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 2329,
+      "end": 2337
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 3448,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 3547,
+      "end": 3559
+    },
+    {
+      "text": "Bund\nHamburg",
+      "label": "ORG",
+      "start": 3623,
+      "end": 3635
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 3641,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 3891,
+      "end": 3916
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 3931,
+      "end": 3962
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Ministerin für Wirtschaft",
+      "label": "ORG",
+      "start": 4096,
+      "end": 4121
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Bund\nSachsen",
+      "label": "ORG",
+      "start": 4294,
+      "end": 4306
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Finanzministerin",
+      "label": "PER",
+      "start": 4564,
+      "end": 4580
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 4710,
+      "end": 4736
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4810
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 4864,
+      "end": 4868
+    },
+    {
+      "text": "Bundesministerin für Familie",
+      "label": "ORG",
+      "start": 4895,
+      "end": 4923
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 4967,
+      "end": 4971
+    },
+    {
+      "text": "Bundesminister für Gesundheit",
+      "label": "ORG",
+      "start": 4995,
+      "end": 5024
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 5303,
+      "end": 5322
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5428,
+      "end": 5439
+    },
+    {
+      "text": "Starkregen",
+      "label": "PER",
+      "start": 5522,
+      "end": 5532
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 6872,
+      "end": 6882
+    },
+    {
+      "text": "Kurt Hans\nBiedenkopf",
+      "label": "PER",
+      "start": 7430,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "Rechtsund",
+      "label": "PER",
+      "start": 7579,
+      "end": 7588
+    },
+    {
+      "text": "RuhrUniversität",
+      "label": "ORG",
+      "start": 7685,
+      "end": 7700
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 8127,
+      "end": 8130
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "VA",
+      "label": "ORG",
+      "start": 9507,
+      "end": 9509
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 10561,
+      "end": 10569
+    },
+    {
+      "text": "Kita",
+      "label": "ORG",
+      "start": 10808,
+      "end": 10812
+    },
+    {
+      "text": "Dr. Claudia B",
+      "label": "PER",
+      "start": 11477,
+      "end": 11490
+    },
+    {
+      "text": "Sascha Karolin A u l e",
+      "label": "PER",
+      "start": 11517,
+      "end": 11539
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Bund und Ländern",
+      "label": "ORG",
+      "start": 12934,
+      "end": 12950
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13575,
+      "end": 13584
+    },
+    {
+      "text": "Deutschen\nJugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 17322,
+      "end": 17341
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 17673,
+      "end": 17680
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "meine Partei",
+      "label": "ORG",
+      "start": 18380,
+      "end": 18392
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 21614,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 21814,
+      "end": 21821
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 21987,
+      "end": 21991
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 22068,
+      "end": 22075
+    },
+    {
+      "text": "Kita",
+      "label": "ORG",
+      "start": 22617,
+      "end": 22621
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Länderseite",
+      "label": "PER",
+      "start": 24733,
+      "end": 24744
+    },
+    {
+      "text": "Bildungschancen – Herr Laschet",
+      "label": "ORG",
+      "start": 25725,
+      "end": 25755
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 26431,
+      "end": 26450
+    },
+    {
+      "text": "Heinold!",
+      "label": "PER",
+      "start": 26485,
+      "end": 26493
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Hermann\nG r ö h e",
+      "label": "PER",
+      "start": 27732,
+      "end": 27749
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Bildungschancen",
+      "label": "ORG",
+      "start": 28192,
+      "end": 28207
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 31190,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "RheinlandPfalz",
+      "label": "ORG",
+      "start": 35510,
+      "end": 35524
+    },
+    {
+      "text": "Zukunftskonferenzen",
+      "label": "ORG",
+      "start": 35564,
+      "end": 35583
+    },
+    {
+      "text": "europäischen\nBeihilferechtes",
+      "label": "ORG",
+      "start": 36358,
+      "end": 36386
+    },
+    {
+      "text": "Planungsund",
+      "label": "PER",
+      "start": 37408,
+      "end": 37419
+    },
+    {
+      "text": "Vizekanzler",
+      "label": "ORG",
+      "start": 38484,
+      "end": 38495
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 38536,
+      "end": 38551
+    },
+    {
+      "text": "Gemeinschaft der Bürger und Bürgerinnen",
+      "label": "ORG",
+      "start": 40268,
+      "end": 40307
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 41529,
+      "end": 41548
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 41566,
+      "end": 41572
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 44214,
+      "end": 44220
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44417
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 46642,
+      "end": 46657
+    },
+    {
+      "text": "Feuermann",
+      "label": "PER",
+      "start": 46834,
+      "end": 46843
+    },
+    {
+      "text": "Sohn",
+      "label": "PER",
+      "start": 46903,
+      "end": 46907
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47548
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 47636,
+      "end": 47647
+    },
+    {
+      "text": "Bundesratssitzung",
+      "label": "ORG",
+      "start": 47677,
+      "end": 47694
+    },
+    {
+      "text": "Wir brauchen–",
+      "label": "ORG",
+      "start": 50540,
+      "end": 50553
+    },
+    {
+      "text": "Gesetzespaketes",
+      "label": "ORG",
+      "start": 52044,
+      "end": 52059
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "Herrn B",
+      "label": "PER",
+      "start": 52151,
+      "end": 52158
+    },
+    {
+      "text": "Bundesratssitzung",
+      "label": "ORG",
+      "start": 53208,
+      "end": 53225
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55923,
+      "end": 55953
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 56388,
+      "end": 56403
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 56854,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Bundesinfrastruktur",
+      "label": "ORG",
+      "start": 57046,
+      "end": 57065
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 61455,
+      "end": 61474
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 61642,
+      "end": 61656
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62277
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 62294,
+      "end": 62304
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 64495,
+      "end": 64514
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 65360,
+      "end": 65373
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "Einkommenskompensationen",
+      "label": "PER",
+      "start": 67794,
+      "end": 67818
+    },
+    {
+      "text": "bundesgesetzlich",
+      "label": "PER",
+      "start": 69088,
+      "end": 69104
+    },
+    {
+      "text": "Bundesrecht",
+      "label": "ORG",
+      "start": 69387,
+      "end": 69398
+    },
+    {
+      "text": "Abfallentsorgungsgebühren",
+      "label": "PER",
+      "start": 70521,
+      "end": 70546
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 78,
+      "end": 85
+    },
+    {
+      "text": "GaFöG",
+      "label": "ORG",
+      "start": 619,
+      "end": 624
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 1106,
+      "end": 1125
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 2070,
+      "end": 2100
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 2121,
+      "end": 2135
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 2329,
+      "end": 2337
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2583,
+      "end": 2592
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 3448,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 3547,
+      "end": 3559
+    },
+    {
+      "text": "Bund\nHamburg",
+      "label": "ORG",
+      "start": 3623,
+      "end": 3635
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 3641,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 3891,
+      "end": 3916
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 3931,
+      "end": 3962
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Ministerin für Wirtschaft",
+      "label": "ORG",
+      "start": 4096,
+      "end": 4121
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Bund\nSachsen",
+      "label": "ORG",
+      "start": 4294,
+      "end": 4306
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4390,
+      "end": 4399
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Finanzministerin",
+      "label": "PER",
+      "start": 4564,
+      "end": 4580
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 4710,
+      "end": 4736
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 4770,
+      "end": 4785
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4810
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 4864,
+      "end": 4868
+    },
+    {
+      "text": "Bundesministerin für Familie",
+      "label": "ORG",
+      "start": 4895,
+      "end": 4923
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 4967,
+      "end": 4971
+    },
+    {
+      "text": "Bundesminister für Gesundheit",
+      "label": "ORG",
+      "start": 4995,
+      "end": 5024
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 5177,
+      "end": 5186
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 5303,
+      "end": 5322
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5428,
+      "end": 5439
+    },
+    {
+      "text": "Starkregen",
+      "label": "PER",
+      "start": 5522,
+      "end": 5532
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 6872,
+      "end": 6882
+    },
+    {
+      "text": "Kurt Hans\nBiedenkopf",
+      "label": "PER",
+      "start": 7430,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "Rechtsund",
+      "label": "PER",
+      "start": 7579,
+      "end": 7588
+    },
+    {
+      "text": "RuhrUniversität",
+      "label": "ORG",
+      "start": 7685,
+      "end": 7700
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 8127,
+      "end": 8130
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8298,
+      "end": 8307
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8703,
+      "end": 8712
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "VA",
+      "label": "ORG",
+      "start": 9507,
+      "end": 9509
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 10088,
+      "end": 10097
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 10561,
+      "end": 10569
+    },
+    {
+      "text": "Kita",
+      "label": "ORG",
+      "start": 10808,
+      "end": 10812
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11406,
+      "end": 11415
+    },
+    {
+      "text": "Dr. Claudia B",
+      "label": "PER",
+      "start": 11477,
+      "end": 11490
+    },
+    {
+      "text": "Sascha Karolin A u l e",
+      "label": "PER",
+      "start": 11517,
+      "end": 11539
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Bund und Ländern",
+      "label": "ORG",
+      "start": 12934,
+      "end": 12950
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13287,
+      "end": 13296
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13443,
+      "end": 13452
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13575,
+      "end": 13584
+    },
+    {
+      "text": "Deutschen\nJugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 17322,
+      "end": 17341
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 17673,
+      "end": 17680
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "meine Partei",
+      "label": "ORG",
+      "start": 18380,
+      "end": 18392
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18860,
+      "end": 18869
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 20105,
+      "end": 20114
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 21614,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 21814,
+      "end": 21821
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 21987,
+      "end": 21991
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 22068,
+      "end": 22075
+    },
+    {
+      "text": "Kita",
+      "label": "ORG",
+      "start": 22617,
+      "end": 22621
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24572,
+      "end": 24581
+    },
+    {
+      "text": "Länderseite",
+      "label": "PER",
+      "start": 24733,
+      "end": 24744
+    },
+    {
+      "text": "Bildungschancen – Herr Laschet",
+      "label": "ORG",
+      "start": 25725,
+      "end": 25755
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 26431,
+      "end": 26450
+    },
+    {
+      "text": "Heinold!",
+      "label": "PER",
+      "start": 26485,
+      "end": 26493
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Hermann\nG r ö h e",
+      "label": "PER",
+      "start": 27732,
+      "end": 27749
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27902,
+      "end": 27911
+    },
+    {
+      "text": "Bildungschancen",
+      "label": "ORG",
+      "start": 28192,
+      "end": 28207
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29855,
+      "end": 29864
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 31190,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31449,
+      "end": 31458
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32364,
+      "end": 32373
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 34731,
+      "end": 34740
+    },
+    {
+      "text": "RheinlandPfalz",
+      "label": "ORG",
+      "start": 35510,
+      "end": 35524
+    },
+    {
+      "text": "Zukunftskonferenzen",
+      "label": "ORG",
+      "start": 35564,
+      "end": 35583
+    },
+    {
+      "text": "europäischen\nBeihilferechtes",
+      "label": "ORG",
+      "start": 36358,
+      "end": 36386
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 37351,
+      "end": 37366
+    },
+    {
+      "text": "Planungsund",
+      "label": "PER",
+      "start": 37408,
+      "end": 37419
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37604,
+      "end": 37613
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38419,
+      "end": 38434
+    },
+    {
+      "text": "Vizekanzler",
+      "label": "ORG",
+      "start": 38484,
+      "end": 38495
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 38536,
+      "end": 38551
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40090,
+      "end": 40099
+    },
+    {
+      "text": "Gemeinschaft der Bürger und Bürgerinnen",
+      "label": "ORG",
+      "start": 40268,
+      "end": 40307
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 40437,
+      "end": 40446
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 41529,
+      "end": 41548
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 41566,
+      "end": 41572
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 44214,
+      "end": 44220
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44417
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 45935,
+      "end": 45944
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 46642,
+      "end": 46657
+    },
+    {
+      "text": "Feuermann",
+      "label": "PER",
+      "start": 46834,
+      "end": 46843
+    },
+    {
+      "text": "Sohn",
+      "label": "PER",
+      "start": 46903,
+      "end": 46907
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47548
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 47636,
+      "end": 47647
+    },
+    {
+      "text": "Bundesratssitzung",
+      "label": "ORG",
+      "start": 47677,
+      "end": 47694
+    },
+    {
+      "text": "Wir brauchen–",
+      "label": "ORG",
+      "start": 50540,
+      "end": 50553
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50713,
+      "end": 50722
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51437,
+      "end": 51446
+    },
+    {
+      "text": "Gesetzespaketes",
+      "label": "ORG",
+      "start": 52044,
+      "end": 52059
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "Herrn B",
+      "label": "PER",
+      "start": 52151,
+      "end": 52158
+    },
+    {
+      "text": "Bundesratssitzung",
+      "label": "ORG",
+      "start": 53208,
+      "end": 53225
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 54777,
+      "end": 54792
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55613,
+      "end": 55628
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55713,
+      "end": 55728
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55923,
+      "end": 55953
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 56388,
+      "end": 56403
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 56854,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 56910,
+      "end": 56919
+    },
+    {
+      "text": "Bundesinfrastruktur",
+      "label": "ORG",
+      "start": 57046,
+      "end": 57065
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57268,
+      "end": 57283
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 59214,
+      "end": 59229
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 61329,
+      "end": 61344
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 61455,
+      "end": 61474
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 61642,
+      "end": 61656
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62277
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 62294,
+      "end": 62304
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 62528,
+      "end": 62537
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 62625,
+      "end": 62640
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64192,
+      "end": 64207
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 64495,
+      "end": 64514
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 64962,
+      "end": 64971
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 65360,
+      "end": 65373
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65401,
+      "end": 65410
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65648,
+      "end": 65657
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65790,
+      "end": 65799
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66264,
+      "end": 66273
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66656,
+      "end": 66665
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66847,
+      "end": 66862
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67461,
+      "end": 67476
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "Einkommenskompensationen",
+      "label": "PER",
+      "start": 67794,
+      "end": 67818
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69063,
+      "end": 69078
+    },
+    {
+      "text": "bundesgesetzlich",
+      "label": "PER",
+      "start": 69088,
+      "end": 69104
+    },
+    {
+      "text": "Bundesrecht",
+      "label": "ORG",
+      "start": 69387,
+      "end": 69398
+    },
+    {
+      "text": "Abfallentsorgungsgebühren",
+      "label": "PER",
+      "start": 70521,
+      "end": 70546
+    }
+  ],
+  "bert": [
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 652,
+      "end": 664
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 741,
+      "end": 754
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 785,
+      "end": 799
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 829,
+      "end": 843
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 1271,
+      "end": 1286
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 2070,
+      "end": 2100
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 2121,
+      "end": 2135
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 2155,
+      "end": 2183
+    },
+    {
+      "text": "für Bau und Heimat",
+      "label": "ORG",
+      "start": 2185,
+      "end": 2203
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Mecklenburg - Vorpommern",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2941
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 3448,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 3547,
+      "end": 3559
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 3641,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 3891,
+      "end": 3916
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 4239,
+      "end": 4252
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 4603,
+      "end": 4625
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 4695,
+      "end": 4708
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4810
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 5058,
+      "end": 5088
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 5093,
+      "end": 5107
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 5127,
+      "end": 5155
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 5307,
+      "end": 5322
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 6872,
+      "end": 6882
+    },
+    {
+      "text": "Kurt Hans Biedenkopf",
+      "label": "PER",
+      "start": 7430,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "RuhrUniversität",
+      "label": "ORG",
+      "start": 7685,
+      "end": 7700
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7860,
+      "end": 7881
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "VA",
+      "label": "ORG",
+      "start": 9507,
+      "end": 9509
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 10466,
+      "end": 10481
+    },
+    {
+      "text": "Claudia B",
+      "label": "PER",
+      "start": 11481,
+      "end": 11490
+    },
+    {
+      "text": "Sascha Karolin",
+      "label": "PER",
+      "start": 11517,
+      "end": 11531
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Aulepp",
+      "label": "PER",
+      "start": 11740,
+      "end": 11746
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 13575,
+      "end": 13584
+    },
+    {
+      "text": "Deutschen Jugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 17326,
+      "end": 17341
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 17368,
+      "end": 17372
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 17673,
+      "end": 17685
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18860,
+      "end": 18869
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 20105,
+      "end": 20114
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 21618,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 21987,
+      "end": 21991
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 22068,
+      "end": 22075
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24572,
+      "end": 24581
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 25748,
+      "end": 25755
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 26435,
+      "end": 26450
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 26485,
+      "end": 26492
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Landesregierung Mecklenburg - Vorpommern",
+      "label": "ORG",
+      "start": 27004,
+      "end": 27042
+    },
+    {
+      "text": "Hermann G",
+      "label": "PER",
+      "start": 27732,
+      "end": 27741
+    },
+    {
+      "text": "Manuela S",
+      "label": "PER",
+      "start": 27754,
+      "end": 27763
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 31194,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37604,
+      "end": 37613
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 38319,
+      "end": 38340
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 41533,
+      "end": 41548
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 44214,
+      "end": 44220
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44417
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47546
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 50713,
+      "end": 50719
+    },
+    {
+      "text": "Umweltministerium",
+      "label": "ORG",
+      "start": 50834,
+      "end": 50851
+    },
+    {
+      "text": "Cell - Broadcasting",
+      "label": "ORG",
+      "start": 51904,
+      "end": 51921
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55923,
+      "end": 55953
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 56858,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 56910,
+      "end": 56916
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 60225,
+      "end": 60231
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 61459,
+      "end": 61474
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 61513,
+      "end": 61519
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 61576,
+      "end": 61583
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 61588,
+      "end": 61616
+    },
+    {
+      "text": "Bau",
+      "label": "ORG",
+      "start": 61622,
+      "end": 61625
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 61642,
+      "end": 61656
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 61676,
+      "end": 61704
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62277
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 62294,
+      "end": 62304
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62795
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Bundesministeriums des Innern",
+      "label": "ORG",
+      "start": 62829,
+      "end": 62858
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 64499,
+      "end": 64514
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 64553,
+      "end": 64560
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "- Anhalt",
+      "label": "ORG",
+      "start": 66379,
+      "end": 66386
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 66510,
+      "end": 66515
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 66629,
+      "end": 66634
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "Landesregierung Rheinland - Pfalz",
+      "label": "ORG",
+      "start": 70294,
+      "end": 70325
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 22,
+      "end": 31
+    },
+    {
+      "text": "##F",
+      "label": "ORG",
+      "start": 621,
+      "end": 622
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 652,
+      "end": 664
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 741,
+      "end": 754
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 785,
+      "end": 799
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 829,
+      "end": 843
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 1271,
+      "end": 1286
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 1945,
+      "end": 1956
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 1993,
+      "end": 2006
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 2070,
+      "end": 2100
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 2121,
+      "end": 2135
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 2155,
+      "end": 2183
+    },
+    {
+      "text": "Bau",
+      "label": "ORG",
+      "start": 2189,
+      "end": 2192
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 2301,
+      "end": 2327
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 2548,
+      "end": 2550
+    },
+    {
+      "text": "D r. R",
+      "label": "ORG",
+      "start": 2677,
+      "end": 2684
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 2774,
+      "end": 2787
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2806,
+      "end": 2820
+    },
+    {
+      "text": "Katy Hoffmeister",
+      "label": "PER",
+      "start": 2943,
+      "end": 2959
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 2978,
+      "end": 2992
+    },
+    {
+      "text": "Rudolf Hoogvliet",
+      "label": "PER",
+      "start": 3085,
+      "end": 3101
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 3196,
+      "end": 3208
+    },
+    {
+      "text": "Reinhold Hilbers",
+      "label": "PER",
+      "start": 3228,
+      "end": 3244
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 3270,
+      "end": 3286
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 3307,
+      "end": 3313
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 3322,
+      "end": 3336
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 3364,
+      "end": 3377
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 3448,
+      "end": 3462
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 3547,
+      "end": 3559
+    },
+    {
+      "text": "##t Bremen",
+      "label": "ORG",
+      "start": 3609,
+      "end": 3617
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 3623,
+      "end": 3627
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 3641,
+      "end": 3656
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 3693,
+      "end": 3704
+    },
+    {
+      "text": "Bund Nordrhein",
+      "label": "ORG",
+      "start": 3828,
+      "end": 3842
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 3854,
+      "end": 3867
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 3891,
+      "end": 3916
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 4046,
+      "end": 4057
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 4079,
+      "end": 4094
+    },
+    {
+      "text": "Tobias Hans",
+      "label": "PER",
+      "start": 4169,
+      "end": 4180
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 4200,
+      "end": 4212
+    },
+    {
+      "text": "Petra Köpping",
+      "label": "PER",
+      "start": 4308,
+      "end": 4321
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 4458,
+      "end": 4473
+    },
+    {
+      "text": "Daniel Günther",
+      "label": "PER",
+      "start": 4514,
+      "end": 4528
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 4548,
+      "end": 4562
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 4603,
+      "end": 4625
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 4695,
+      "end": 4708
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 4770,
+      "end": 4785
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 4791,
+      "end": 4810
+    },
+    {
+      "text": "Caren Marks",
+      "label": "PER",
+      "start": 4851,
+      "end": 4862
+    },
+    {
+      "text": "Sabine Weiss",
+      "label": "PER",
+      "start": 4953,
+      "end": 4965
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 5025,
+      "end": 5038
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 5058,
+      "end": 5088
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 5093,
+      "end": 5107
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 5127,
+      "end": 5155
+    },
+    {
+      "text": "Bau",
+      "label": "ORG",
+      "start": 5161,
+      "end": 5164
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 5307,
+      "end": 5322
+    },
+    {
+      "text": "Kurt Hans Biedenkopf",
+      "label": "PER",
+      "start": 7430,
+      "end": 7450
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 7501,
+      "end": 7516
+    },
+    {
+      "text": "RuhrUniversität",
+      "label": "ORG",
+      "start": 7685,
+      "end": 7700
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 7801,
+      "end": 7804
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7860,
+      "end": 7881
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8597,
+      "end": 8612
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 8751,
+      "end": 8766
+    },
+    {
+      "text": "Ministerpräsident",
+      "label": "PER",
+      "start": 9441,
+      "end": 9458
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 9459,
+      "end": 9463
+    },
+    {
+      "text": "VA",
+      "label": "ORG",
+      "start": 9507,
+      "end": 9509
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 9959,
+      "end": 9971
+    },
+    {
+      "text": "Kurt Biedenkopf",
+      "label": "PER",
+      "start": 10466,
+      "end": 10481
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 11363,
+      "end": 11387
+    },
+    {
+      "text": "Claudia B",
+      "label": "PER",
+      "start": 11481,
+      "end": 11490
+    },
+    {
+      "text": "Sascha Karolin A",
+      "label": "PER",
+      "start": 11517,
+      "end": 11533
+    },
+    {
+      "text": "Bogedan",
+      "label": "PER",
+      "start": 11649,
+      "end": 11656
+    },
+    {
+      "text": "Aulepp",
+      "label": "PER",
+      "start": 11740,
+      "end": 11746
+    },
+    {
+      "text": "Deutschen Jugendinstituts",
+      "label": "ORG",
+      "start": 16102,
+      "end": 16127
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 17326,
+      "end": 17341
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 17479,
+      "end": 17486
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 17512,
+      "end": 17525
+    },
+    {
+      "text": "Stephan Weil",
+      "label": "PER",
+      "start": 17673,
+      "end": 17685
+    },
+    {
+      "text": "Kretschmann",
+      "label": "PER",
+      "start": 18003,
+      "end": 18014
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 18860,
+      "end": 18866
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 21618,
+      "end": 21633
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 21660,
+      "end": 21667
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 21713,
+      "end": 21720
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 21745,
+      "end": 21759
+    },
+    {
+      "text": "Weil",
+      "label": "PER",
+      "start": 21987,
+      "end": 21991
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 22068,
+      "end": 22075
+    },
+    {
+      "text": "HSH Nordbank",
+      "label": "ORG",
+      "start": 24005,
+      "end": 24017
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24572,
+      "end": 24581
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 25748,
+      "end": 25755
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 26435,
+      "end": 26450
+    },
+    {
+      "text": "Heinold",
+      "label": "PER",
+      "start": 26485,
+      "end": 26492
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 26537,
+      "end": 26542
+    },
+    {
+      "text": "Stefanie Drese",
+      "label": "PER",
+      "start": 26571,
+      "end": 26585
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 27004,
+      "end": 27019
+    },
+    {
+      "text": "Hermann G",
+      "label": "PER",
+      "start": 27732,
+      "end": 27741
+    },
+    {
+      "text": "Manuela",
+      "label": "PER",
+      "start": 27754,
+      "end": 27761
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 27820,
+      "end": 27829
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29855,
+      "end": 29864
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 31194,
+      "end": 31209
+    },
+    {
+      "text": "Drese",
+      "label": "PER",
+      "start": 31240,
+      "end": 31245
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 32106,
+      "end": 32112
+    },
+    {
+      "text": "Malu Dreyer",
+      "label": "PER",
+      "start": 32134,
+      "end": 32145
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 38319,
+      "end": 38340
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 41533,
+      "end": 41548
+    },
+    {
+      "text": "Dre",
+      "label": "PER",
+      "start": 41566,
+      "end": 41569
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 41620,
+      "end": 41627
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 41651,
+      "end": 41664
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 44214,
+      "end": 44220
+    },
+    {
+      "text": "T",
+      "label": "ORG",
+      "start": 44414,
+      "end": 44415
+    },
+    {
+      "text": "##H",
+      "label": "ORG",
+      "start": 44415,
+      "end": 44416
+    },
+    {
+      "text": "Johanniter",
+      "label": "ORG",
+      "start": 45191,
+      "end": 45201
+    },
+    {
+      "text": "Malteser",
+      "label": "ORG",
+      "start": 45203,
+      "end": 45211
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 45216,
+      "end": 45219
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 47537,
+      "end": 47546
+    },
+    {
+      "text": "Umweltministerium",
+      "label": "ORG",
+      "start": 50834,
+      "end": 50851
+    },
+    {
+      "text": "Cell",
+      "label": "ORG",
+      "start": 51904,
+      "end": 51908
+    },
+    {
+      "text": "THW",
+      "label": "ORG",
+      "start": 52146,
+      "end": 52149
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 55218,
+      "end": 55224
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55229,
+      "end": 55259
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 55613,
+      "end": 55619
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 55890,
+      "end": 55903
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 55923,
+      "end": 55953
+    },
+    {
+      "text": "Dreyer",
+      "label": "PER",
+      "start": 56324,
+      "end": 56330
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56355,
+      "end": 56362
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 56689,
+      "end": 56707
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 56858,
+      "end": 56873
+    },
+    {
+      "text": "Laschet",
+      "label": "PER",
+      "start": 56900,
+      "end": 56907
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 61329,
+      "end": 61335
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 61459,
+      "end": 61474
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 61513,
+      "end": 61519
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 61588,
+      "end": 61616
+    },
+    {
+      "text": "Markus Richter",
+      "label": "PER",
+      "start": 61642,
+      "end": 61656
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 61676,
+      "end": 61704
+    },
+    {
+      "text": "T",
+      "label": "ORG",
+      "start": 62274,
+      "end": 62275
+    },
+    {
+      "text": "##HW",
+      "label": "ORG",
+      "start": 62275,
+      "end": 62277
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 62294,
+      "end": 62304
+    },
+    {
+      "text": "Bundesministeriums der Finanzen",
+      "label": "ORG",
+      "start": 62789,
+      "end": 62820
+    },
+    {
+      "text": "Bundesministeriums des Innern",
+      "label": "ORG",
+      "start": 62829,
+      "end": 62858
+    },
+    {
+      "text": "Cell",
+      "label": "ORG",
+      "start": 63789,
+      "end": 63793
+    },
+    {
+      "text": "Broadcasting",
+      "label": "ORG",
+      "start": 63794,
+      "end": 63806
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 64499,
+      "end": 64514
+    },
+    {
+      "text": "Schmitt",
+      "label": "PER",
+      "start": 64584,
+      "end": 64591
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 66401,
+      "end": 66413
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 66513,
+      "end": 66515
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 66510,
+      "end": 66515
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 66629,
+      "end": 66634
+    },
+    {
+      "text": "Daniela Schmitt",
+      "label": "PER",
+      "start": 66742,
+      "end": 66757
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67461,
+      "end": 67476
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67513,
+      "end": 67531
+    },
+    {
+      "text": "Landesregierung Rheinland - Pfalz",
+      "label": "ORG",
+      "start": 70294,
+      "end": 70325
+    }
+  ]
+}

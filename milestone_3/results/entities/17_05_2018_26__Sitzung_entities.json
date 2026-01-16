@@ -1,0 +1,1511 @@
+{
+  "filename": "17.05.2018_26._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Mag. Gerald\\nLoacker",
+      "label": "PER",
+      "start": 719,
+      "end": 738
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1206,
+      "end": 1227
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1245,
+      "end": 1266
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1297,
+      "end": 1310
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1380,
+      "end": 1404
+    },
+    {
+      "text": "Hans-Jörg\\nJenewein",
+      "label": "PER",
+      "start": 1406,
+      "end": 1424
+    },
+    {
+      "text": "MA, Petra Steger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1442
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1499,
+      "end": 1520
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox, BA",
+      "label": "PER",
+      "start": 2229,
+      "end": 2246
+    },
+    {
+      "text": "Dr. Alfred J. Noll",
+      "label": "PER",
+      "start": 2428,
+      "end": 2446
+    },
+    {
+      "text": "Dipl.-Ing. (FH) Martha Bißmann",
+      "label": "PER",
+      "start": 2582,
+      "end": 2612
+    },
+    {
+      "text": "Mag. Dr. Rudolf Taschner",
+      "label": "PER",
+      "start": 2737,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3089
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3142,
+      "end": 3163
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3719,
+      "end": 3740
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3973
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 719,
+      "end": 723
+    },
+    {
+      "text": "Gerald",
+      "label": "PER",
+      "start": 724,
+      "end": 730
+    },
+    {
+      "text": "Loacker",
+      "label": "PER",
+      "start": 731,
+      "end": 738
+    },
+    {
+      "text": "Irene",
+      "label": "PER",
+      "start": 848,
+      "end": 853
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 1026,
+      "end": 1029
+    },
+    {
+      "text": "Maria",
+      "label": "PER",
+      "start": 1030,
+      "end": 1035
+    },
+    {
+      "text": "Holzleitner",
+      "label": "PER",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "text": "BSc",
+      "label": "PER",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1206,
+      "end": 1227
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1245,
+      "end": 1266
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1297,
+      "end": 1310
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1380,
+      "end": 1404
+    },
+    {
+      "text": "Hans-Jörg",
+      "label": "PER",
+      "start": 1406,
+      "end": 1415
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 1416,
+      "end": 1424
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 1430,
+      "end": 1442
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1499,
+      "end": 1520
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox, BA",
+      "label": "PER",
+      "start": 2229,
+      "end": 2246
+    },
+    {
+      "text": "Dr. Alfred J. Noll",
+      "label": "PER",
+      "start": 2428,
+      "end": 2446
+    },
+    {
+      "text": "Dipl.-Ing. (FH) Martha Bißmann",
+      "label": "PER",
+      "start": 2582,
+      "end": 2612
+    },
+    {
+      "text": "Mag. Dr. Rudolf Taschner",
+      "label": "PER",
+      "start": 2737,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas",
+      "label": "PER",
+      "start": 2941,
+      "end": 2948
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3089
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3142,
+      "end": 3163
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3719,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3973
+    }
+  ],
+  "flair": [
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz",
+      "label": "ORG",
+      "start": 921,
+      "end": 992
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1250,
+      "end": 1266
+    },
+    {
+      "text": "Reinhold Einwallner",
+      "label": "PER",
+      "start": 1385,
+      "end": 1404
+    },
+    {
+      "text": "Hans-Jörg Jenewein",
+      "label": "PER",
+      "start": 1406,
+      "end": 1424
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 1430,
+      "end": 1442
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1504,
+      "end": 1520
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 2229,
+      "end": 2242
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2244,
+      "end": 2246
+    },
+    {
+      "text": "Alfred J. Noll",
+      "label": "PER",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "Martha Bißmann",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Rudolf Taschner",
+      "label": "PER",
+      "start": 2746,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3147,
+      "end": 3163
+    },
+    {
+      "text": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3165,
+      "end": 3212
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "KMU",
+      "label": "ORG",
+      "start": 3646,
+      "end": 3649
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3724,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 182,
+      "end": 225
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 658,
+      "end": 685
+    },
+    {
+      "text": "Gerald\nLoacker",
+      "label": "PER",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 787,
+      "end": 814
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 921,
+      "end": 948
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1142,
+      "end": 1146
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1245,
+      "end": 1248
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1250,
+      "end": 1266
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1297,
+      "end": 1310
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1380,
+      "end": 1404
+    },
+    {
+      "text": "Hans-Jörg\nJenewein",
+      "label": "PER",
+      "start": 1406,
+      "end": 1424
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 1430,
+      "end": 1442
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1499,
+      "end": 1502
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1504,
+      "end": 1520
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1748,
+      "end": 1762
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 2229,
+      "end": 2242
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2244,
+      "end": 2246
+    },
+    {
+      "text": "Alfred J. Noll",
+      "label": "PER",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 2582,
+      "end": 2592
+    },
+    {
+      "text": "Martha Bißmann",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2724,
+      "end": 2736
+    },
+    {
+      "text": "Rudolf Taschner",
+      "label": "PER",
+      "start": 2746,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3089
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 3091,
+      "end": 3095
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3147,
+      "end": 3163
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3234,
+      "end": 3246
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3371,
+      "end": 3383
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "Welthandelskrieg",
+      "label": "ORG",
+      "start": 3651,
+      "end": 3667
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3719,
+      "end": 3722
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3724,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3973
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 182,
+      "end": 225
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 658,
+      "end": 685
+    },
+    {
+      "text": "Gerald\nLoacker",
+      "label": "PER",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 787,
+      "end": 814
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 921,
+      "end": 948
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1142,
+      "end": 1146
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1245,
+      "end": 1248
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1250,
+      "end": 1266
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1297,
+      "end": 1310
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1380,
+      "end": 1404
+    },
+    {
+      "text": "Hans-Jörg\nJenewein",
+      "label": "PER",
+      "start": 1406,
+      "end": 1424
+    },
+    {
+      "text": "Petra Steger",
+      "label": "PER",
+      "start": 1430,
+      "end": 1442
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 1447,
+      "end": 1463
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1499,
+      "end": 1502
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1504,
+      "end": 1520
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1748,
+      "end": 1762
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 2229,
+      "end": 2242
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2244,
+      "end": 2246
+    },
+    {
+      "text": "Alfred J. Noll",
+      "label": "PER",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 2582,
+      "end": 2592
+    },
+    {
+      "text": "Martha Bißmann",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2724,
+      "end": 2736
+    },
+    {
+      "text": "Rudolf Taschner",
+      "label": "PER",
+      "start": 2746,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3089
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 3091,
+      "end": 3095
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3147,
+      "end": 3163
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3234,
+      "end": 3246
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3371,
+      "end": 3383
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "Welthandelskrieg",
+      "label": "ORG",
+      "start": 3651,
+      "end": 3667
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3719,
+      "end": 3722
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3724,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3973
+    }
+  ],
+  "bert": [
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1140
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1250,
+      "end": 1266
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1297,
+      "end": 1305
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 2229,
+      "end": 2242
+    },
+    {
+      "text": "Alfred J. Noll",
+      "label": "PER",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "Martha Bißmann",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Rudolf Taschner",
+      "label": "PER",
+      "start": 2746,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3078,
+      "end": 3089
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3147,
+      "end": 3163
+    },
+    {
+      "text": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3165,
+      "end": 3212
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos - Trauttmansdorff",
+      "label": "PER",
+      "start": 3579,
+      "end": 3608
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3724,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3973
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 719,
+      "end": 723
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 724,
+      "end": 738
+    },
+    {
+      "text": "Irene HochstetterLackner",
+      "label": "PER",
+      "start": 848,
+      "end": 872
+    },
+    {
+      "text": "Eva Maria Holzleitner",
+      "label": "PER",
+      "start": 1026,
+      "end": 1047
+    },
+    {
+      "text": "BS",
+      "label": "ORG",
+      "start": 1049,
+      "end": 1051
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1137
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1206,
+      "end": 1227
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1245,
+      "end": 1266
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "text": "Hermann Brückl",
+      "label": "PER",
+      "start": 1943,
+      "end": 1957
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 2229,
+      "end": 2242
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2244,
+      "end": 2246
+    },
+    {
+      "text": "Alfred J. Noll",
+      "label": "PER",
+      "start": 2432,
+      "end": 2446
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2594,
+      "end": 2596
+    },
+    {
+      "text": "Martha Bißmann",
+      "label": "PER",
+      "start": 2598,
+      "end": 2612
+    },
+    {
+      "text": "Rudolf Taschner",
+      "label": "PER",
+      "start": 2746,
+      "end": 2761
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2763,
+      "end": 2778
+    },
+    {
+      "text": "Nico Marchetti",
+      "label": "PER",
+      "start": 2908,
+      "end": 2922
+    },
+    {
+      "text": "Wendelin Mölzer",
+      "label": "PER",
+      "start": 2924,
+      "end": 2939
+    },
+    {
+      "text": "Douglas HoyosTrauttmansdorff",
+      "label": "PER",
+      "start": 2941,
+      "end": 2969
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3142,
+      "end": 3163
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3247,
+      "end": 3263
+    },
+    {
+      "text": "Wolfgang Katzian",
+      "label": "PER",
+      "start": 3384,
+      "end": 3400
+    },
+    {
+      "text": "Douglas Hoyos",
+      "label": "PER",
+      "start": 3579,
+      "end": 3592
+    },
+    {
+      "text": "Trauttmansdorff",
+      "label": "PER",
+      "start": 3593,
+      "end": 3608
+    },
+    {
+      "text": "KMU",
+      "label": "ORG",
+      "start": 3646,
+      "end": 3649
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3719,
+      "end": 3740
+    },
+    {
+      "text": "Bißmann",
+      "label": "PER",
+      "start": 3797,
+      "end": 3804
+    },
+    {
+      "text": "1017",
+      "label": "ORG",
+      "start": 4182,
+      "end": 4186
+    }
+  ]
+}

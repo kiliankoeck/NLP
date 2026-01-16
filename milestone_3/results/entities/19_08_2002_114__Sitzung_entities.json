@@ -1,0 +1,959 @@
+{
+  "filename": "19.08.2002_114._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 760,
+      "end": 777
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 795,
+      "end": 812
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 835,
+      "end": 848
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 925,
+      "end": 945
+    },
+    {
+      "text": "Staffaneller",
+      "label": "PER",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 975,
+      "end": 984
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1008,
+      "end": 1025
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 1401,
+      "end": 1429
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 1985,
+      "end": 2013
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2252,
+      "end": 2271
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2416
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2677,
+      "end": 2694
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2885,
+      "end": 2927
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 121,
+      "end": 127
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 305,
+      "end": 311
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 348,
+      "end": 354
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 671,
+      "end": 677
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 760,
+      "end": 777
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 795,
+      "end": 812
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 835,
+      "end": 848
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 925,
+      "end": 935
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "Staffaneller",
+      "label": "PER",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 975,
+      "end": 978
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 979,
+      "end": 984
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1008,
+      "end": 1025
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 1401,
+      "end": 1429
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 1985,
+      "end": 2013
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2252,
+      "end": 2255
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 2256,
+      "end": 2259
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2416
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 2636,
+      "end": 2642
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2677,
+      "end": 2694
+    }
+  ],
+  "flair": [
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 764,
+      "end": 777
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 799,
+      "end": 812
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "Staffaneller",
+      "label": "PER",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 979,
+      "end": 984
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1012,
+      "end": 1025
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 1346,
+      "end": 1352
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1365
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1411,
+      "end": 1429
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1989
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2256,
+      "end": 2271
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2399,
+      "end": 2416
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2550,
+      "end": 2563
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2681,
+      "end": 2694
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 2885,
+      "end": 2899
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2900,
+      "end": 2927
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 228,
+      "end": 265
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 760,
+      "end": 777
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 795,
+      "end": 812
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 835,
+      "end": 848
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 925,
+      "end": 945
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 975,
+      "end": 984
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1008,
+      "end": 1025
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1388,
+      "end": 1400
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1411,
+      "end": 1429
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1972,
+      "end": 1984
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2252,
+      "end": 2271
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2416
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2677,
+      "end": 2694
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2900,
+      "end": 2927
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 228,
+      "end": 265
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 760,
+      "end": 777
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 795,
+      "end": 812
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 835,
+      "end": 848
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 925,
+      "end": 945
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 975,
+      "end": 984
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1008,
+      "end": 1025
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1388,
+      "end": 1400
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1411,
+      "end": 1429
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1972,
+      "end": 1984
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2252,
+      "end": 2271
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2395,
+      "end": 2416
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2546,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 2677,
+      "end": 2694
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2900,
+      "end": 2927
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 228,
+      "end": 241
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 255,
+      "end": 265
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 764,
+      "end": 777
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 799,
+      "end": 812
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "Staffaneller",
+      "label": "PER",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 979,
+      "end": 984
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1012,
+      "end": 1025
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1332,
+      "end": 1365
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2177,
+      "end": 2216
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2256,
+      "end": 2271
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2399,
+      "end": 2416
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2550,
+      "end": 2563
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2681,
+      "end": 2694
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2885,
+      "end": 2927
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 228,
+      "end": 236
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 764,
+      "end": 777
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 799,
+      "end": 812
+    },
+    {
+      "text": "Achatz",
+      "label": "PER",
+      "start": 909,
+      "end": 915
+    },
+    {
+      "text": "Burket",
+      "label": "PER",
+      "start": 917,
+      "end": 923
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 936,
+      "end": 945
+    },
+    {
+      "text": "Staffaneller",
+      "label": "PER",
+      "start": 947,
+      "end": 959
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 961,
+      "end": 970
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 979,
+      "end": 984
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1012,
+      "end": 1025
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 1995,
+      "end": 2013
+    },
+    {
+      "text": "##sa",
+      "label": "ORG",
+      "start": 2080,
+      "end": 2082
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2177,
+      "end": 2216
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2256,
+      "end": 2271
+    },
+    {
+      "text": "Verfassungsausschuss",
+      "label": "ORG",
+      "start": 2343,
+      "end": 2363
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2399,
+      "end": 2416
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2550,
+      "end": 2563
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 2681,
+      "end": 2694
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 2885,
+      "end": 2927
+    }
+  ]
+}

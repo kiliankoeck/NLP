@@ -9,6 +9,9 @@ ENTITIES_DIR = RESULTS_DIR / "entities"
 SCORES_CSV = RESULTS_DIR / "scores.csv"
 SCORES_SUMMARY_CSV = RESULTS_DIR / "scores_summary.csv"
 
+SCORES_SET_CSV = RESULTS_DIR / "scores_set.csv"
+SCORES_SET_SUMMARY_CSV = RESULTS_DIR / "scores_set_summary.csv"
+
 RESULTS_DIR.mkdir(exist_ok=True)
 ENTITIES_DIR.mkdir(exist_ok=True)
 
@@ -51,14 +54,11 @@ def load_doc_entities(json_path: Path):
     return filename, ground_truth, predictions_by_model
 
 
-def evaluate(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
+def evaluate_span_strict(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
     gt = {(e.label, e.start, e.end) for e in ground_truth}
     pred = {(e.label, e.start, e.end) for e in predictions}
 
     metrics = {}
-    precision = {}
-    recall = {}
-    f1_score = {}
     mean_f1 = 0.0
 
     for lab in TARGETS:
@@ -66,29 +66,64 @@ def evaluate(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
         fp = len({(x, y, z) for (x, y, z) in (pred - gt) if x == lab})
         fn = len({(x, y, z) for (x, y, z) in (gt - pred) if x == lab})
 
-        precision[lab] = tp / (tp + fp) if (tp + fp) != 0 else 0.0
-        recall[lab] = tp / (tp + fn) if (tp + fn) != 0 else 0.0
+        precision = tp / (tp + fp) if (tp + fp) != 0 else 0.0
+        recall = tp / (tp + fn) if (tp + fn) != 0 else 0.0
 
-        num = 2 * precision[lab] * recall[lab]
-        denom = precision[lab] + recall[lab]
-        f1_score[lab] = num / denom if denom != 0 else 0.0
-        mean_f1 += f1_score[lab]
+        num = 2 * precision * recall
+        denom = precision+ recall
+        f1_score = num / denom if denom != 0 else 0.0
+        mean_f1 += f1_score
 
         metrics[lab] = {
             "TP": tp,
             "FP": fp,
             "FN": fn,
-            "precision": precision[lab],
-            "recall": recall[lab],
-            "f1": f1_score[lab],
+            "precision": precision,
+            "recall": recall,
+            "f1": f1_score,
         }
 
     macro_f1 = mean_f1 / len(TARGETS)
 
-    return {
-        "macro_f1": macro_f1,
-        "per_label": metrics,
-    }
+    return {"macro_f1": macro_f1, "per_label": metrics}
+
+
+def _normalize_text(s: str) -> str:
+    # Light normalization for entity set comparison
+    return " ".join((s or "").split()).strip().lower()
+
+
+def evaluate_entity_set(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
+    gt = {(e.label, _normalize_text(getattr(e, "text", ""))) for e in ground_truth}
+    pred = {(e.label, _normalize_text(getattr(e, "text", ""))) for e in predictions}
+
+    metrics = {}
+    mean_f1 = 0.0
+
+    for lab in TARGETS:
+        tp = len({t for t in (pred & gt) if t[0] == lab})
+        fp = len({t for t in (pred - gt) if t[0] == lab})
+        fn = len({t for t in (gt - pred) if t[0] == lab})
+
+        precision = tp / (tp + fp) if (tp + fp) != 0 else 0.0
+        recall = tp / (tp + fn) if (tp + fn) != 0 else 0.0
+
+        num = 2 * precision * recall
+        denom = precision+ recall
+        f1_score = num / denom if denom != 0 else 0.0
+        mean_f1 += f1_score
+
+        metrics[lab] = {
+            "TP": tp,
+            "FP": fp,
+            "FN": fn,
+            "precision": precision,
+            "recall": recall,
+            "f1": f1_score,
+        }
+
+    macro_f1 = mean_f1 / len(TARGETS)
+    return {"macro_f1": macro_f1, "per_label": metrics}
 
 
 def aggregate_results(score_rows: list[dict]) -> dict:
@@ -101,9 +136,7 @@ def aggregate_results(score_rows: list[dict]) -> dict:
             {
                 "num_docs": 0,
                 "macro_f1_sum": 0.0,
-                "per_label_counts": {
-                    lab: {"TP": 0.0, "FP": 0.0, "FN": 0.0} for lab in TARGETS
-                },
+                "per_label_counts": {lab: {"TP": 0.0, "FP": 0.0, "FN": 0.0} for lab in TARGETS},
             },
         )
 
@@ -140,11 +173,7 @@ def aggregate_results(score_rows: list[dict]) -> dict:
                 "f1": f1,
             }
 
-        macro_f1_labels = (
-            sum(v["f1"] for v in per_label_metrics.values()) / len(TARGETS)
-            if TARGETS
-            else 0.0
-        )
+        macro_f1_labels = sum(v["f1"] for v in per_label_metrics.values()) / len(TARGETS) if TARGETS else 0.0
 
         info["per_label"] = per_label_metrics
         info["macro_f1_macro_over_labels"] = macro_f1_labels
@@ -155,7 +184,7 @@ def aggregate_results(score_rows: list[dict]) -> dict:
     return summary
 
 
-def write_summary_csv(summary: dict):
+def write_summary_csv(summary: dict, out_path: Path):
     base_fields = ["model", "num_docs", "macro_f1_mean", "macro_f1_macro_over_labels"]
     metric_fields = [f"{m}_{lab}" for lab in TARGETS for m in METRIC_NAMES]
     fieldnames = base_fields + metric_fields
@@ -176,21 +205,19 @@ def write_summary_csv(summary: dict):
 
         rows.append(row)
 
-    with SCORES_SUMMARY_CSV.open("w", newline="", encoding="utf-8") as f:
+    with out_path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
 
-def print_summary(summary: dict):
+def print_summary(summary: dict, title: str):
+    print(title)
     for model, info in summary.items():
         print(f"Model: {model}")
         print(f"  Documents: {info['num_docs']}")
         print(f"  Mean macro-F1 over documents: {info['macro_f1_mean']:.4f}")
-        print(
-            f"  Macro-F1 over labels (from aggregated counts): "
-            f"{info['macro_f1_macro_over_labels']:.4f}"
-        )
+        print(f"  Macro-F1 over labels (from aggregated counts): {info['macro_f1_macro_over_labels']:.4f}")
         for lab, stats in info["per_label"].items():
             print(
                 f"    {lab}: F1={stats['f1']:.4f}, "
@@ -200,31 +227,44 @@ def print_summary(summary: dict):
         print()
 
 
+def write_scores_csv(score_rows: list[dict], out_path: Path):
+    base_fields = ["filename", "model", "macro_f1"]
+    metric_fields = [f"{m}_{lab}" for lab in TARGETS for m in METRIC_NAMES]
+    fieldnames = base_fields + metric_fields
+
+    with out_path.open("w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(score_rows)
+
+
 def main():
     entity_files = sorted(ENTITIES_DIR.glob("*_entities.json"))
 
-    score_rows: list[dict] = []
+    score_rows_strict: list[dict] = []
+    score_rows_set: list[dict] = []
 
     for json_file in entity_files:
         filename, ground_truth, predictions_by_model = load_doc_entities(json_file)
 
         for model_name, preds in predictions_by_model.items():
-            eval_result = evaluate(ground_truth, preds)
-            row = make_score_row(filename, model_name, eval_result)
-            score_rows.append(row)
+            eval_strict = evaluate_span_strict(ground_truth, preds)
+            score_rows_strict.append(make_score_row(filename, model_name, eval_strict))
 
-    base_fields = ["filename", "model", "macro_f1"]
-    metric_fields = [f"{m}_{lab}" for lab in TARGETS for m in METRIC_NAMES]
-    fieldnames = base_fields + metric_fields
+            eval_set = evaluate_entity_set(ground_truth, preds)
+            score_rows_set.append(make_score_row(filename, model_name, eval_set))
 
-    with SCORES_CSV.open("w", newline="", encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(score_rows)
+    write_scores_csv(score_rows_strict, SCORES_CSV)
+    write_scores_csv(score_rows_set, SCORES_SET_CSV)
 
-    summary = aggregate_results(score_rows)
-    write_summary_csv(summary)
-    print_summary(summary)
+    summary_strict = aggregate_results(score_rows_strict)
+    summary_set = aggregate_results(score_rows_set)
+
+    write_summary_csv(summary_strict, SCORES_SUMMARY_CSV)
+    write_summary_csv(summary_set, SCORES_SET_SUMMARY_CSV)
+
+    print_summary(summary_strict, "=== Strict span evaluation (label + start/end) ===")
+    print_summary(summary_set, "=== Entity-set evaluation (label + normalized text; ignore spans) ===")
 
 
 if __name__ == "__main__":

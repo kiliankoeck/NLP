@@ -1,0 +1,8477 @@
+{
+  "filename": "Plenarprotokoll_779._Sitzung,_13.09.2002.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 167,
+      "end": 182
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Prof. Dr. Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 377,
+      "end": 403
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer",
+      "label": "PER",
+      "start": 726,
+      "end": 751
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 838,
+      "end": 862
+    },
+    {
+      "text": "MuK. Medien- und Kommunikations GmbH,",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1107
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH,",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1164
+    },
+    {
+      "text": "Dr. Werner Müller,",
+      "label": "PER",
+      "start": 1235,
+      "end": 1253
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1481
+    },
+    {
+      "text": "K l a u s W o w e r e i t",
+      "label": "PER",
+      "start": 1572,
+      "end": 1597
+    },
+    {
+      "text": "Dr. Christean Wagner,",
+      "label": "PER",
+      "start": 1653,
+      "end": 1674
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Methling,",
+      "label": "PER",
+      "start": 1756,
+      "end": 1784
+    },
+    {
+      "text": "Dr. Manfred Weiß",
+      "label": "PER",
+      "start": 1800,
+      "end": 1816
+    },
+    {
+      "text": "Rudolf Köberle,",
+      "label": "PER",
+      "start": 1846,
+      "end": 1861
+    },
+    {
+      "text": "Reinhold Bocklet,",
+      "label": "PER",
+      "start": 1940,
+      "end": 1957
+    },
+    {
+      "text": "Staatskanzlei,",
+      "label": "ORG",
+      "start": 2018,
+      "end": 2032
+    },
+    {
+      "text": "Dr. Manfred Weiß,",
+      "label": "PER",
+      "start": 2083,
+      "end": 2100
+    },
+    {
+      "text": "Karin Schubert,",
+      "label": "PER",
+      "start": 2136,
+      "end": 2151
+    },
+    {
+      "text": "Matthias Platzeck,",
+      "label": "PER",
+      "start": 2207,
+      "end": 2225
+    },
+    {
+      "text": "Barbara Richstein,",
+      "label": "PER",
+      "start": 2244,
+      "end": 2262
+    },
+    {
+      "text": "Hartmut Perschau,",
+      "label": "PER",
+      "start": 2324,
+      "end": 2341
+    },
+    {
+      "text": "Dr. Kerstin Kießler,",
+      "label": "PER",
+      "start": 2378,
+      "end": 2398
+    },
+    {
+      "text": "Reinhard Metz,",
+      "label": "PER",
+      "start": 2510,
+      "end": 2524
+    },
+    {
+      "text": "Wolfgang Senff,",
+      "label": "PER",
+      "start": 2577,
+      "end": 2592
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 2647,
+      "end": 2660
+    },
+    {
+      "text": "Peer Steinbrück,",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Hannelore Kraft,",
+      "label": "PER",
+      "start": 2715,
+      "end": 2731
+    },
+    {
+      "text": "Kurt Beck,",
+      "label": "PER",
+      "start": 2904,
+      "end": 2914
+    },
+    {
+      "text": "Gernot Mittler,",
+      "label": "PER",
+      "start": 2933,
+      "end": 2948
+    },
+    {
+      "text": "Walter Zuber,",
+      "label": "PER",
+      "start": 2971,
+      "end": 2984
+    },
+    {
+      "text": "Monika Beck,",
+      "label": "PER",
+      "start": 3030,
+      "end": 3042
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt,",
+      "label": "PER",
+      "start": 3112,
+      "end": 3137
+    },
+    {
+      "text": "Dr. Thomas de Maizière,",
+      "label": "PER",
+      "start": 3156,
+      "end": 3179
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer,",
+      "label": "PER",
+      "start": 3223,
+      "end": 3249
+    },
+    {
+      "text": "Prof. Dr. Karl-Heinz Paqué,",
+      "label": "PER",
+      "start": 3268,
+      "end": 3295
+    },
+    {
+      "text": "Dr. Wolfgang Peiner,",
+      "label": "PER",
+      "start": 3348,
+      "end": 3368
+    },
+    {
+      "text": "Finanzbehörde",
+      "label": "ORG",
+      "start": 3389,
+      "end": 3402
+    },
+    {
+      "text": "Claus Möller,",
+      "label": "PER",
+      "start": 3404,
+      "end": 3417
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3453,
+      "end": 3462
+    },
+    {
+      "text": "Dr. Barbara Hendricks,",
+      "label": "PER",
+      "start": 3517,
+      "end": 3539
+    },
+    {
+      "text": "Dr. Bernhard Vogel,",
+      "label": "PER",
+      "start": 3597,
+      "end": 3616
+    },
+    {
+      "text": "Dr. Andreas Birkmann,",
+      "label": "PER",
+      "start": 3635,
+      "end": 3656
+    },
+    {
+      "text": "Dr. Gerald Thalheim,",
+      "label": "PER",
+      "start": 3717,
+      "end": 3737
+    },
+    {
+      "text": "Dr. Werner Müller,",
+      "label": "PER",
+      "start": 3837,
+      "end": 3855
+    },
+    {
+      "text": "Stephan Hilsberg,",
+      "label": "PER",
+      "start": 3903,
+      "end": 3920
+    },
+    {
+      "text": "Hans Martin Bury,",
+      "label": "PER",
+      "start": 3999,
+      "end": 4016
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 4037,
+      "end": 4050
+    },
+    {
+      "text": "Brigitte Zypries,",
+      "label": "PER",
+      "start": 4052,
+      "end": 4069
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4118
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4120,
+      "end": 4129
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 4254,
+      "end": 4269
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 4349,
+      "end": 4361
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 4805,
+      "end": 4815
+    },
+    {
+      "text": "Bundesgrenzschutz,",
+      "label": "ORG",
+      "start": 4820,
+      "end": 4838
+    },
+    {
+      "text": "Polizei",
+      "label": "ORG",
+      "start": 4839,
+      "end": 4846
+    },
+    {
+      "text": "Feuerwehr,",
+      "label": "ORG",
+      "start": 4851,
+      "end": 4861
+    },
+    {
+      "text": "Technischem Hilfswerk",
+      "label": "ORG",
+      "start": 4862,
+      "end": 4883
+    },
+    {
+      "text": "Professor Dr. Kurt S c h e l t e r",
+      "label": "PER",
+      "start": 5727,
+      "end": 5761
+    },
+    {
+      "text": "Alwin Z i e l",
+      "label": "PER",
+      "start": 5799,
+      "end": 5812
+    },
+    {
+      "text": "Barbara R i c h s t e i n",
+      "label": "PER",
+      "start": 5889,
+      "end": 5914
+    },
+    {
+      "text": "Günter B a a s k e",
+      "label": "PER",
+      "start": 5951,
+      "end": 5969
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6005,
+      "end": 6016
+    },
+    {
+      "text": "Hartmut M e y e r",
+      "label": "PER",
+      "start": 6041,
+      "end": 6058
+    },
+    {
+      "text": "Bundesrates,",
+      "label": "ORG",
+      "start": 6099,
+      "end": 6111
+    },
+    {
+      "text": "Senat",
+      "label": "ORG",
+      "start": 6162,
+      "end": 6167
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6197,
+      "end": 6206
+    },
+    {
+      "text": "Dr. Gregor G y s i",
+      "label": "PER",
+      "start": 6259,
+      "end": 6277
+    },
+    {
+      "text": "Senat",
+      "label": "ORG",
+      "start": 6297,
+      "end": 6302
+    },
+    {
+      "text": "Harald W o l f",
+      "label": "PER",
+      "start": 6360,
+      "end": 6374
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6405,
+      "end": 6416
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 6525,
+      "end": 6537
+    },
+    {
+      "text": "Professor\\n\\nDr. Böhmer",
+      "label": "PER",
+      "start": 7018,
+      "end": 7038
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7066,
+      "end": 7091
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 7115,
+      "end": 7125
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 7465,
+      "end": 7475
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 7774,
+      "end": 7782
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7916,
+      "end": 7925
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7963,
+      "end": 7988
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 8770,
+      "end": 8779
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9217,
+      "end": 9232
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 12062,
+      "end": 12075
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 12221,
+      "end": 12227
+    },
+    {
+      "text": "Presseamt",
+      "label": "ORG",
+      "start": 12625,
+      "end": 12634
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 12741,
+      "end": 12754
+    },
+    {
+      "text": "Bundeskanzlers",
+      "label": "PER",
+      "start": 12948,
+      "end": 12962
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14053,
+      "end": 14062
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14105,
+      "end": 14130
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 14194,
+      "end": 14203
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 17789,
+      "end": 17804
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 17903,
+      "end": 17913
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 19688,
+      "end": 19694
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19898,
+      "end": 19907
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Richard v o n W e i z s ä c k e r",
+      "label": "PER",
+      "start": 20781,
+      "end": 20814
+    },
+    {
+      "text": "Manfred S t o l p e",
+      "label": "PER",
+      "start": 20849,
+      "end": 20868
+    },
+    {
+      "text": "Kurt B i e d e n k o p f",
+      "label": "PER",
+      "start": 20873,
+      "end": 20897
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 21560,
+      "end": 21575
+    },
+    {
+      "text": "Professor Dr. Milbradt ",
+      "label": "PER",
+      "start": 21612,
+      "end": 21635
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 21647,
+      "end": 21671
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 21688,
+      "end": 21698
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25497,
+      "end": 25506
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 25549,
+      "end": 25573
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27589,
+      "end": 27604
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 27619,
+      "end": 27632
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27870,
+      "end": 27885
+    },
+    {
+      "text": "Bundesregierung,",
+      "label": "ORG",
+      "start": 30133,
+      "end": 30149
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31434,
+      "end": 31443
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 31481,
+      "end": 31505
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 33092,
+      "end": 33107
+    },
+    {
+      "text": "Dr. Müller ",
+      "label": "PER",
+      "start": 33141,
+      "end": 33152
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft und Technologie).",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33203
+    },
+    {
+      "text": "Dr. Werner Müller,",
+      "label": "PER",
+      "start": 33204,
+      "end": 33222
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 33275,
+      "end": 33285
+    },
+    {
+      "text": "Bundeswirtschaftsministerium",
+      "label": "ORG",
+      "start": 33528,
+      "end": 33556
+    },
+    {
+      "text": "Herr Platzeck",
+      "label": "PER",
+      "start": 34773,
+      "end": 34786
+    },
+    {
+      "text": "Bundeskabinett",
+      "label": "ORG",
+      "start": 35762,
+      "end": 35776
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37410,
+      "end": 37419
+    },
+    {
+      "text": "Dr. Werner Müller",
+      "label": "PER",
+      "start": 37477,
+      "end": 37494
+    },
+    {
+      "text": "Herr Milbradt",
+      "label": "PER",
+      "start": 37640,
+      "end": 37653
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37795,
+      "end": 37806
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 38567,
+      "end": 38580
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 39202,
+      "end": 39217
+    },
+    {
+      "text": "Herr Milbradt,",
+      "label": "PER",
+      "start": 41856,
+      "end": 41870
+    },
+    {
+      "text": "Herr B o d e w i g",
+      "label": "PER",
+      "start": 42256,
+      "end": 42274
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 43434,
+      "end": 43443
+    },
+    {
+      "text": "Dr. Werner Müller",
+      "label": "PER",
+      "start": 43500,
+      "end": 43517
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 43699,
+      "end": 43708
+    },
+    {
+      "text": "Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 44628,
+      "end": 44646
+    },
+    {
+      "text": "Dr. Andreas Birkmann",
+      "label": "PER",
+      "start": 44734,
+      "end": 44754
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 46148,
+      "end": 46172
+    },
+    {
+      "text": "Müller,",
+      "label": "PER",
+      "start": 46201,
+      "end": 46208
+    },
+    {
+      "text": "Sächsischen\\n\\nAufbaubank",
+      "label": "ORG",
+      "start": 46447,
+      "end": 46469
+    },
+    {
+      "text": "Müller,",
+      "label": "PER",
+      "start": 46847,
+      "end": 46854
+    },
+    {
+      "text": "Müller,",
+      "label": "PER",
+      "start": 48324,
+      "end": 48331
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 49081,
+      "end": 49096
+    },
+    {
+      "text": "Professor Dr. Milbradt",
+      "label": "PER",
+      "start": 49133,
+      "end": 49155
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49318,
+      "end": 49327
+    },
+    {
+      "text": "Prof. Dr. Georg Milbradt",
+      "label": "PER",
+      "start": 49370,
+      "end": 49394
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 51711,
+      "end": 51726
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 51754,
+      "end": 51764
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 51788,
+      "end": 51803
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 51832,
+      "end": 51842
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 54196,
+      "end": 54207
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 54282,
+      "end": 54287
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55177,
+      "end": 55186
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 55224,
+      "end": 55239
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 55697,
+      "end": 55702
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 56138,
+      "end": 56143
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "Herrn M e r z",
+      "label": "PER",
+      "start": 57183,
+      "end": 57196
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57580,
+      "end": 57595
+    },
+    {
+      "text": "CDU-",
+      "label": "ORG",
+      "start": 57933,
+      "end": 57937
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 60579,
+      "end": 60592
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 60876,
+      "end": 60891
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61257,
+      "end": 61266
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 61309,
+      "end": 61324
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64027,
+      "end": 64033
+    },
+    {
+      "text": "Bundesregie-\\n\\n\\n\\nrung",
+      "label": "ORG",
+      "start": 64317,
+      "end": 64335
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Herr Milbradt,",
+      "label": "PER",
+      "start": 64721,
+      "end": 64735
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 65904,
+      "end": 65919
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 66003,
+      "end": 66013
+    },
+    {
+      "text": "Europäischen Union\\n\\n",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67093,
+      "end": 67102
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67654,
+      "end": 67669
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67997,
+      "end": 68012
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68215,
+      "end": 68230
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 68270,
+      "end": 68280
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68381,
+      "end": 68396
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68639,
+      "end": 68654
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68833,
+      "end": 68848
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 70192,
+      "end": 70197
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 70342,
+      "end": 70357
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71299,
+      "end": 71314
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71557,
+      "end": 71572
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 72076,
+      "end": 72089
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 72261,
+      "end": 72274
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 72515,
+      "end": 72525
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72612,
+      "end": 72627
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72895,
+      "end": 72904
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 73397,
+      "end": 73412
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73527,
+      "end": 73536
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 74077,
+      "end": 74092
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 74252,
+      "end": 74267
+    },
+    {
+      "text": "Dr. Müller",
+      "label": "PER",
+      "start": 74301,
+      "end": 74311
+    },
+    {
+      "text": "Bundesministerium",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74330
+    },
+    {
+      "text": "Dr. Werner Müller,",
+      "label": "PER",
+      "start": 74368,
+      "end": 74386
+    },
+    {
+      "text": "Präsident,",
+      "label": "PER",
+      "start": 74439,
+      "end": 74449
+    },
+    {
+      "text": "Herr Bocklet,",
+      "label": "PER",
+      "start": 74481,
+      "end": 74494
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 74986,
+      "end": 74995
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 75127,
+      "end": 75142
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 75160,
+      "end": 75169
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 75270,
+      "end": 75279
+    },
+    {
+      "text": "Bundesrat,",
+      "label": "ORG",
+      "start": 75344,
+      "end": 75354
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 75477,
+      "end": 75492
+    },
+    {
+      "text": "Professor Dr. Paqué",
+      "label": "PER",
+      "start": 75520,
+      "end": 75539
+    },
+    {
+      "text": "Prof. Dr. Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 75559,
+      "end": 75585
+    },
+    {
+      "text": "Präsident!",
+      "label": "PER",
+      "start": 75627,
+      "end": 75637
+    },
+    {
+      "text": "Bundeswehr,",
+      "label": "ORG",
+      "start": 76680,
+      "end": 76691
+    },
+    {
+      "text": "Feuerwehr",
+      "label": "ORG",
+      "start": 76692,
+      "end": 76701
+    },
+    {
+      "text": "Technisches Hilfswerk",
+      "label": "ORG",
+      "start": 76706,
+      "end": 76727
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78175,
+      "end": 78190
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78478,
+      "end": 78487
+    },
+    {
+      "text": "Prof. Dr. Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 78525,
+      "end": 78551
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79763,
+      "end": 79772
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 79915,
+      "end": 79924
+    },
+    {
+      "text": "Bundestag,",
+      "label": "ORG",
+      "start": 80916,
+      "end": 80926
+    },
+    {
+      "text": "Klaus Wowereit:",
+      "label": "PER",
+      "start": 81190,
+      "end": 81205
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81376,
+      "end": 81385
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81877,
+      "end": 81886
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 82009,
+      "end": 82020
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 289,
+      "end": 297
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 383,
+      "end": 386
+    },
+    {
+      "text": "Karl-Heinz",
+      "label": "PER",
+      "start": 387,
+      "end": 397
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 732,
+      "end": 735
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 736,
+      "end": 744
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 796,
+      "end": 804
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 844,
+      "end": 847
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 848,
+      "end": 853
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1235,
+      "end": 1238
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 1239,
+      "end": 1245
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 1246,
+      "end": 1252
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1481
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1653,
+      "end": 1656
+    },
+    {
+      "text": "Wagner",
+      "label": "PER",
+      "start": 1667,
+      "end": 1673
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1762,
+      "end": 1765
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 1766,
+      "end": 1774
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1800,
+      "end": 1803
+    },
+    {
+      "text": "Manfred",
+      "label": "PER",
+      "start": 1804,
+      "end": 1811
+    },
+    {
+      "text": "Weiß",
+      "label": "PER",
+      "start": 1812,
+      "end": 1816
+    },
+    {
+      "text": "Rudolf",
+      "label": "PER",
+      "start": 1846,
+      "end": 1852
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 1940,
+      "end": 1948
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2083,
+      "end": 2086
+    },
+    {
+      "text": "Manfred",
+      "label": "PER",
+      "start": 2087,
+      "end": 2094
+    },
+    {
+      "text": "Weiß",
+      "label": "PER",
+      "start": 2095,
+      "end": 2099
+    },
+    {
+      "text": "Karin",
+      "label": "PER",
+      "start": 2136,
+      "end": 2141
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 2207,
+      "end": 2215
+    },
+    {
+      "text": "Barbara",
+      "label": "PER",
+      "start": 2244,
+      "end": 2251
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2378,
+      "end": 2381
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 2382,
+      "end": 2389
+    },
+    {
+      "text": "Reinhard",
+      "label": "PER",
+      "start": 2510,
+      "end": 2518
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 2577,
+      "end": 2585
+    },
+    {
+      "text": "Hannelore",
+      "label": "PER",
+      "start": 2715,
+      "end": 2724
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 2725,
+      "end": 2730
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 2904,
+      "end": 2908
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 2909,
+      "end": 2913
+    },
+    {
+      "text": "Gernot",
+      "label": "PER",
+      "start": 2933,
+      "end": 2939
+    },
+    {
+      "text": "Walter",
+      "label": "PER",
+      "start": 2971,
+      "end": 2977
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 3030,
+      "end": 3036
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 3037,
+      "end": 3041
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3118,
+      "end": 3121
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 3122,
+      "end": 3127
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3156,
+      "end": 3159
+    },
+    {
+      "text": "Thomas",
+      "label": "PER",
+      "start": 3160,
+      "end": 3166
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3229,
+      "end": 3232
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 3233,
+      "end": 3241
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3274,
+      "end": 3277
+    },
+    {
+      "text": "Karl-Heinz",
+      "label": "PER",
+      "start": 3278,
+      "end": 3288
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3348,
+      "end": 3351
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 3352,
+      "end": 3360
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3453,
+      "end": 3462
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3517,
+      "end": 3520
+    },
+    {
+      "text": "Barbara",
+      "label": "PER",
+      "start": 3521,
+      "end": 3528
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3597,
+      "end": 3600
+    },
+    {
+      "text": "Bernhard Vogel",
+      "label": "PER",
+      "start": 3601,
+      "end": 3615
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3635,
+      "end": 3638
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 3639,
+      "end": 3646
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3717,
+      "end": 3720
+    },
+    {
+      "text": "Gerald",
+      "label": "PER",
+      "start": 3721,
+      "end": 3727
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3837,
+      "end": 3840
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 3841,
+      "end": 3847
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 3848,
+      "end": 3854
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 3903,
+      "end": 3910
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 3999,
+      "end": 4003
+    },
+    {
+      "text": "Martin",
+      "label": "PER",
+      "start": 4004,
+      "end": 4010
+    },
+    {
+      "text": "Brigitte",
+      "label": "PER",
+      "start": 4052,
+      "end": 4060
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4120,
+      "end": 4129
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 4254,
+      "end": 4259
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4349,
+      "end": 4360
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 4473,
+      "end": 4479
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 5681,
+      "end": 5690
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 5713,
+      "end": 5717
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 5737,
+      "end": 5740
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 5741,
+      "end": 5745
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 5773,
+      "end": 5779
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 5785,
+      "end": 5789
+    },
+    {
+      "text": "Alwin",
+      "label": "PER",
+      "start": 5799,
+      "end": 5804
+    },
+    {
+      "text": "Barbara",
+      "label": "PER",
+      "start": 5889,
+      "end": 5896
+    },
+    {
+      "text": "Günter",
+      "label": "PER",
+      "start": 5951,
+      "end": 5957
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6005,
+      "end": 6016
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 6027,
+      "end": 6031
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6099,
+      "end": 6110
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6197,
+      "end": 6206
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 6228,
+      "end": 6232
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6259,
+      "end": 6262
+    },
+    {
+      "text": "Gregor",
+      "label": "PER",
+      "start": 6263,
+      "end": 6269
+    },
+    {
+      "text": "Harald",
+      "label": "PER",
+      "start": 6360,
+      "end": 6366
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6405,
+      "end": 6416
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 6525,
+      "end": 6536
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7028,
+      "end": 7031
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7072,
+      "end": 7075
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 7076,
+      "end": 7084
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 7110,
+      "end": 7114
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 7460,
+      "end": 7464
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 7761,
+      "end": 7765
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7916,
+      "end": 7925
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7969,
+      "end": 7972
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 7973,
+      "end": 7981
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9217,
+      "end": 9232
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 9794,
+      "end": 9799
+    },
+    {
+      "text": "Putz",
+      "label": "PER",
+      "start": 10220,
+      "end": 10224
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 11040,
+      "end": 11044
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 12221,
+      "end": 12227
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 13098,
+      "end": 13109
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 13571,
+      "end": 13575
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14053,
+      "end": 14062
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 14111,
+      "end": 14114
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 14115,
+      "end": 14123
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 14393,
+      "end": 14399
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 14775,
+      "end": 14781
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 16250,
+      "end": 16257
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 16973,
+      "end": 16984
+    },
+    {
+      "text": "Wille",
+      "label": "PER",
+      "start": 17557,
+      "end": 17562
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 17789,
+      "end": 17794
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17818,
+      "end": 17822
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 17865,
+      "end": 17873
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17898,
+      "end": 17902
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 17957,
+      "end": 17963
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 18027,
+      "end": 18033
+    },
+    {
+      "text": "Sommer",
+      "label": "PER",
+      "start": 18220,
+      "end": 18226
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "klug",
+      "label": "PER",
+      "start": 18525,
+      "end": 18529
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 19307,
+      "end": 19311
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 19351,
+      "end": 19358
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19898,
+      "end": 19907
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 19945,
+      "end": 19953
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 20747,
+      "end": 20762
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 20781,
+      "end": 20788
+    },
+    {
+      "text": "Manfred",
+      "label": "PER",
+      "start": 20849,
+      "end": 20856
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 20873,
+      "end": 20877
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 21560,
+      "end": 21565
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21589,
+      "end": 21593
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 21622,
+      "end": 21625
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 21653,
+      "end": 21656
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 21657,
+      "end": 21662
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21683,
+      "end": 21687
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 22001,
+      "end": 22006
+    },
+    {
+      "text": "Häuser",
+      "label": "PER",
+      "start": 23849,
+      "end": 23855
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 24382,
+      "end": 24388
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 24411,
+      "end": 24417
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 24514,
+      "end": 24520
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25497,
+      "end": 25506
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 25555,
+      "end": 25558
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 25559,
+      "end": 25564
+    },
+    {
+      "text": "Häuser",
+      "label": "PER",
+      "start": 26596,
+      "end": 26602
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 27393,
+      "end": 27400
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27589,
+      "end": 27604
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27870,
+      "end": 27885
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 30133,
+      "end": 30148
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 30902,
+      "end": 30908
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31434,
+      "end": 31443
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 31487,
+      "end": 31490
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 31491,
+      "end": 31496
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 32242,
+      "end": 32247
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 32820,
+      "end": 32827
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 33092,
+      "end": 33097
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 33121,
+      "end": 33125
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 33141,
+      "end": 33144
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 33145,
+      "end": 33151
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 33204,
+      "end": 33207
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 33208,
+      "end": 33214
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 33215,
+      "end": 33221
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 33270,
+      "end": 33274
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 34773,
+      "end": 34777
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 35200,
+      "end": 35206
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 35878,
+      "end": 35882
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 35928,
+      "end": 35932
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 37322,
+      "end": 37328
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37410,
+      "end": 37419
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 37477,
+      "end": 37480
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 37481,
+      "end": 37487
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 37488,
+      "end": 37494
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 37640,
+      "end": 37644
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 37691,
+      "end": 37697
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 37839,
+      "end": 37843
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 38855,
+      "end": 38862
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 39202,
+      "end": 39217
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 40736,
+      "end": 40741
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41856,
+      "end": 41860
+    },
+    {
+      "text": "freundlich",
+      "label": "PER",
+      "start": 41885,
+      "end": 41895
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 42003,
+      "end": 42008
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 42256,
+      "end": 42260
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 42291,
+      "end": 42297
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 42323,
+      "end": 42328
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 43326,
+      "end": 43332
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 43434,
+      "end": 43443
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 43500,
+      "end": 43503
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 43504,
+      "end": 43510
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 43511,
+      "end": 43517
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 44495,
+      "end": 44501
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 44628,
+      "end": 44631
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 44632,
+      "end": 44637
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 44734,
+      "end": 44737
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 44738,
+      "end": 44745
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 46154,
+      "end": 46157
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 46158,
+      "end": 46163
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 46184,
+      "end": 46188
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46201,
+      "end": 46207
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 46834,
+      "end": 46838
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46847,
+      "end": 46853
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 48311,
+      "end": 48315
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 48324,
+      "end": 48330
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 49081,
+      "end": 49086
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 49110,
+      "end": 49114
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 49143,
+      "end": 49146
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49318,
+      "end": 49327
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 49376,
+      "end": 49379
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 49380,
+      "end": 49385
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 50091,
+      "end": 50096
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 50903,
+      "end": 50910
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51343,
+      "end": 51358
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 51500,
+      "end": 51505
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 51711,
+      "end": 51716
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 51740,
+      "end": 51744
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 51827,
+      "end": 51831
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53153,
+      "end": 53168
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55177,
+      "end": 55186
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 56370,
+      "end": 56376
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 57223,
+      "end": 57227
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 57528,
+      "end": 57532
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57580,
+      "end": 57595
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 58403,
+      "end": 58407
+    },
+    {
+      "text": "höher",
+      "label": "PER",
+      "start": 58752,
+      "end": 58757
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 60092,
+      "end": 60097
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61257,
+      "end": 61266
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 63822,
+      "end": 63826
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 63996,
+      "end": 64000
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64027,
+      "end": 64033
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 64612,
+      "end": 64616
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 64721,
+      "end": 64725
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 64855,
+      "end": 64860
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 64961,
+      "end": 64965
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 65035,
+      "end": 65040
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 65904,
+      "end": 65909
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 65933,
+      "end": 65937
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 65971,
+      "end": 65979
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 65998,
+      "end": 66002
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67093,
+      "end": 67102
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 67140,
+      "end": 67148
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 67436,
+      "end": 67443
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67654,
+      "end": 67669
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67997,
+      "end": 68012
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68215,
+      "end": 68230
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68381,
+      "end": 68396
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68639,
+      "end": 68654
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68833,
+      "end": 68848
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 70173,
+      "end": 70178
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 70342,
+      "end": 70357
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71299,
+      "end": 71314
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71557,
+      "end": 71572
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 71838,
+      "end": 71843
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72612,
+      "end": 72627
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72895,
+      "end": 72904
+    },
+    {
+      "text": "Reinhold",
+      "label": "PER",
+      "start": 72947,
+      "end": 72955
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 73397,
+      "end": 73412
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73527,
+      "end": 73536
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 73550,
+      "end": 73556
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 74077,
+      "end": 74092
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 74160,
+      "end": 74165
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 74198,
+      "end": 74205
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 74252,
+      "end": 74257
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 74281,
+      "end": 74285
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 74301,
+      "end": 74304
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 74305,
+      "end": 74311
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 74368,
+      "end": 74371
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 74372,
+      "end": 74378
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 74379,
+      "end": 74385
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 74434,
+      "end": 74438
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 74481,
+      "end": 74485
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 74715,
+      "end": 74720
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 74962,
+      "end": 74968
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 75022,
+      "end": 75028
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 75127,
+      "end": 75142
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 75160,
+      "end": 75169
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 75344,
+      "end": 75353
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 75477,
+      "end": 75482
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 75506,
+      "end": 75510
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 75530,
+      "end": 75533
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 75565,
+      "end": 75568
+    },
+    {
+      "text": "Karl-Heinz",
+      "label": "PER",
+      "start": 75569,
+      "end": 75579
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 75622,
+      "end": 75626
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 76095,
+      "end": 76099
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 76501,
+      "end": 76505
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 77612,
+      "end": 77619
+    },
+    {
+      "text": "Kern",
+      "label": "PER",
+      "start": 77687,
+      "end": 77691
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77879,
+      "end": 77894
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78175,
+      "end": 78190
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78478,
+      "end": 78487
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 78531,
+      "end": 78534
+    },
+    {
+      "text": "Karl-Heinz",
+      "label": "PER",
+      "start": 78535,
+      "end": 78545
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79763,
+      "end": 79772
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 81190,
+      "end": 81195
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81376,
+      "end": 81385
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81877,
+      "end": 81886
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 82009,
+      "end": 82020
+    }
+  ],
+  "flair": [
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 167,
+      "end": 182
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 736,
+      "end": 751
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "MuK. Medien- und Kommunikations GmbH",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1106
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 1239,
+      "end": 1252
+    },
+    {
+      "text": "Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1299
+    },
+    {
+      "text": "K",
+      "label": "PER",
+      "start": 1572,
+      "end": 1573
+    },
+    {
+      "text": "l",
+      "label": "PER",
+      "start": 1574,
+      "end": 1575
+    },
+    {
+      "text": "a u",
+      "label": "PER",
+      "start": 1576,
+      "end": 1579
+    },
+    {
+      "text": "s W o w e r e i t",
+      "label": "PER",
+      "start": 1580,
+      "end": 1597
+    },
+    {
+      "text": "Christean Wagner",
+      "label": "PER",
+      "start": 1657,
+      "end": 1673
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1766,
+      "end": 1783
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1846,
+      "end": 1860
+    },
+    {
+      "text": "Bund  Bayern",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1938
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 2087,
+      "end": 2099
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 2136,
+      "end": 2150
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2207,
+      "end": 2224
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Hartmut Perschau",
+      "label": "PER",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2382,
+      "end": 2397
+    },
+    {
+      "text": "Freien Hansestadt",
+      "label": "ORG",
+      "start": 2432,
+      "end": 2449
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2462,
+      "end": 2466
+    },
+    {
+      "text": "Reinhard Metz",
+      "label": "PER",
+      "start": 2510,
+      "end": 2523
+    },
+    {
+      "text": "Wolfgang Senff",
+      "label": "PER",
+      "start": 2577,
+      "end": 2591
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "Hannelore Kraft",
+      "label": "PER",
+      "start": 2715,
+      "end": 2730
+    },
+    {
+      "text": "Bund  Rheinland-Pfalz",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2902
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2904,
+      "end": 2913
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2933,
+      "end": 2947
+    },
+    {
+      "text": "Walter Zuber",
+      "label": "PER",
+      "start": 2971,
+      "end": 2983
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3030,
+      "end": 3041
+    },
+    {
+      "text": "Bund  Sachsen",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3110
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Thomas de Maizière",
+      "label": "PER",
+      "start": 3160,
+      "end": 3178
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 3233,
+      "end": 3248
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3278,
+      "end": 3294
+    },
+    {
+      "text": "Wolfgang Peiner",
+      "label": "PER",
+      "start": 3352,
+      "end": 3367
+    },
+    {
+      "text": "Claus Möller",
+      "label": "PER",
+      "start": 3404,
+      "end": 3416
+    },
+    {
+      "text": "Barbara Hendricks",
+      "label": "PER",
+      "start": 3521,
+      "end": 3538
+    },
+    {
+      "text": "Bernhard Vogel",
+      "label": "PER",
+      "start": 3601,
+      "end": 3615
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 3639,
+      "end": 3655
+    },
+    {
+      "text": "Gerald Thalheim",
+      "label": "PER",
+      "start": 3721,
+      "end": 3736
+    },
+    {
+      "text": "Bundesministerin für Verbraucherschutz, Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 3767,
+      "end": 3835
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 3841,
+      "end": 3854
+    },
+    {
+      "text": "Stephan Hilsberg",
+      "label": "PER",
+      "start": 3903,
+      "end": 3919
+    },
+    {
+      "text": "Bundesminister für Verkehr, Bau- und Wohnungswesen",
+      "label": "ORG",
+      "start": 3947,
+      "end": 3997
+    },
+    {
+      "text": "Hans Martin Bury",
+      "label": "PER",
+      "start": 3999,
+      "end": 4015
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 4052,
+      "end": 4068
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4118
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 4254,
+      "end": 4268
+    },
+    {
+      "text": "Kurt S c h e l t e r",
+      "label": "PER",
+      "start": 5741,
+      "end": 5761
+    },
+    {
+      "text": "Alwin Z i e l",
+      "label": "PER",
+      "start": 5799,
+      "end": 5812
+    },
+    {
+      "text": "Barbara R i c h s t e i n",
+      "label": "PER",
+      "start": 5889,
+      "end": 5914
+    },
+    {
+      "text": "Günter B a a s k e",
+      "label": "PER",
+      "start": 5951,
+      "end": 5969
+    },
+    {
+      "text": "Hartmut M e y e r",
+      "label": "PER",
+      "start": 6041,
+      "end": 6058
+    },
+    {
+      "text": "Gregor G y s i",
+      "label": "PER",
+      "start": 6263,
+      "end": 6277
+    },
+    {
+      "text": "Harald W o l f",
+      "label": "PER",
+      "start": 6360,
+      "end": 6374
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 7032,
+      "end": 7038
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7076,
+      "end": 7091
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 7774,
+      "end": 7782
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7973,
+      "end": 7988
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 12221,
+      "end": 12227
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14115,
+      "end": 14130
+    },
+    {
+      "text": "C",
+      "label": "ORG",
+      "start": 17171,
+      "end": 17172
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 17789,
+      "end": 17803
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 19688,
+      "end": 19694
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Richard v o n W e i z s ä c k e r",
+      "label": "PER",
+      "start": 20781,
+      "end": 20814
+    },
+    {
+      "text": "Manfred S t o l p e",
+      "label": "PER",
+      "start": 20849,
+      "end": 20868
+    },
+    {
+      "text": "Kurt B i e d e n k o p f",
+      "label": "PER",
+      "start": 20873,
+      "end": 20897
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21560,
+      "end": 21574
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 21626,
+      "end": 21634
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 21657,
+      "end": 21671
+    },
+    {
+      "text": "Sächsische Aufbaubank",
+      "label": "ORG",
+      "start": 22629,
+      "end": 22650
+    },
+    {
+      "text": "Aufbaubank",
+      "label": "ORG",
+      "start": 22837,
+      "end": 22847
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 25559,
+      "end": 25573
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 30236,
+      "end": 30240
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 31491,
+      "end": 31505
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 33092,
+      "end": 33106
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 33145,
+      "end": 33151
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33201
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 33208,
+      "end": 33221
+    },
+    {
+      "text": "für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 33238,
+      "end": 33268
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 34778,
+      "end": 34786
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 37481,
+      "end": 37494
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 37496,
+      "end": 37497
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 37645,
+      "end": 37653
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37795,
+      "end": 37806
+    },
+    {
+      "text": "CDU",
+      "label": "ORG",
+      "start": 37880,
+      "end": 37883
+    },
+    {
+      "text": "CSU",
+      "label": "ORG",
+      "start": 37884,
+      "end": 37887
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 41861,
+      "end": 41869
+    },
+    {
+      "text": "B o d e w i g",
+      "label": "PER",
+      "start": 42261,
+      "end": 42274
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 43504,
+      "end": 43517
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 43520,
+      "end": 43521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 43699,
+      "end": 43708
+    },
+    {
+      "text": "Sächsische Zeitung",
+      "label": "ORG",
+      "start": 43821,
+      "end": 43839
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 44632,
+      "end": 44646
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 44738,
+      "end": 44754
+    },
+    {
+      "text": "Sächsischen Zeitung",
+      "label": "ORG",
+      "start": 44806,
+      "end": 44825
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 46158,
+      "end": 46172
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46201,
+      "end": 46207
+    },
+    {
+      "text": "Sächsischen Aufbaubank",
+      "label": "ORG",
+      "start": 46447,
+      "end": 46469
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46847,
+      "end": 46853
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 48324,
+      "end": 48330
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 48656,
+      "end": 48660
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 49081,
+      "end": 49095
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 49147,
+      "end": 49155
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 49380,
+      "end": 49394
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 51711,
+      "end": 51725
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 51754,
+      "end": 51764
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 51788,
+      "end": 51803
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 54196,
+      "end": 54207
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 54282,
+      "end": 54287
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 55224,
+      "end": 55239
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 55697,
+      "end": 55702
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "M",
+      "label": "PER",
+      "start": 57189,
+      "end": 57190
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 57191,
+      "end": 57192
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 57193,
+      "end": 57194
+    },
+    {
+      "text": "z",
+      "label": "PER",
+      "start": 57195,
+      "end": 57196
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 61309,
+      "end": 61324
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64027,
+      "end": 64033
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64726,
+      "end": 64734
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 65904,
+      "end": 65918
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 67055,
+      "end": 67059
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 68270,
+      "end": 68280
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 68958,
+      "end": 68968
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 70192,
+      "end": 70197
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 71717,
+      "end": 71727
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 72515,
+      "end": 72525
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 74252,
+      "end": 74266
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 74305,
+      "end": 74311
+    },
+    {
+      "text": "Bundesministerium für Wirt(B) schaft und Technologie",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74365
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 74372,
+      "end": 74385
+    },
+    {
+      "text": "Bundesminister für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 74387,
+      "end": 74432
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 74486,
+      "end": 74493
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 74986,
+      "end": 74995
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 75477,
+      "end": 75491
+    },
+    {
+      "text": "Paqué",
+      "label": "PER",
+      "start": 75534,
+      "end": 75539
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 75569,
+      "end": 75585
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 78535,
+      "end": 78551
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 79915,
+      "end": 79924
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80916,
+      "end": 80925
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 81190,
+      "end": 81204
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 405,
+      "end": 418
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 736,
+      "end": 751
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 753,
+      "end": 766
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "MuK.",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1074
+    },
+    {
+      "text": "Berlin",
+      "label": "ORG",
+      "start": 1108,
+      "end": 1114
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 1239,
+      "end": 1252
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 1254,
+      "end": 1283
+    },
+    {
+      "text": "Christean Wagner",
+      "label": "PER",
+      "start": 1657,
+      "end": 1673
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1766,
+      "end": 1783
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1846,
+      "end": 1860
+    },
+    {
+      "text": "Bund\n\nBayern",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1938
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "Bund\nDr. Manfred Weiß",
+      "label": "ORG",
+      "start": 2078,
+      "end": 2099
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 2136,
+      "end": 2150
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2207,
+      "end": 2224
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Hartmut Perschau",
+      "label": "PER",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2382,
+      "end": 2397
+    },
+    {
+      "text": "Reinhard Metz",
+      "label": "PER",
+      "start": 2510,
+      "end": 2523
+    },
+    {
+      "text": "Wolfgang Senff",
+      "label": "PER",
+      "start": 2577,
+      "end": 2591
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 2593,
+      "end": 2639
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "Finanzminister\nHannelore Kraft",
+      "label": "PER",
+      "start": 2700,
+      "end": 2730
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2904,
+      "end": 2913
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2933,
+      "end": 2947
+    },
+    {
+      "text": "Walter Zuber",
+      "label": "PER",
+      "start": 2971,
+      "end": 2983
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3030,
+      "end": 3041
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3110
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Thomas de Maizière",
+      "label": "PER",
+      "start": 3156,
+      "end": 3178
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 3233,
+      "end": 3248
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3278,
+      "end": 3294
+    },
+    {
+      "text": "Wolfgang Peiner",
+      "label": "PER",
+      "start": 3352,
+      "end": 3367
+    },
+    {
+      "text": "Claus Möller",
+      "label": "PER",
+      "start": 3404,
+      "end": 3416
+    },
+    {
+      "text": "Minister für Finanzen und Energie",
+      "label": "ORG",
+      "start": 3418,
+      "end": 3451
+    },
+    {
+      "text": "Barbara Hendricks",
+      "label": "PER",
+      "start": 3521,
+      "end": 3538
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3540,
+      "end": 3544
+    },
+    {
+      "text": "Bundesminister der Finanzen\n\nDr. Bernhard Vogel",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3615
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 3639,
+      "end": 3655
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 3657,
+      "end": 3671
+    },
+    {
+      "text": "Gerald Thalheim",
+      "label": "PER",
+      "start": 3721,
+      "end": 3736
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3738,
+      "end": 3742
+    },
+    {
+      "text": "Bundesministerin für Verbraucherschutz",
+      "label": "ORG",
+      "start": 3767,
+      "end": 3805
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 3841,
+      "end": 3854
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 3856,
+      "end": 3885
+    },
+    {
+      "text": "Stephan Hilsberg",
+      "label": "PER",
+      "start": 3903,
+      "end": 3919
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3921,
+      "end": 3925
+    },
+    {
+      "text": "Bundesminister für Verkehr",
+      "label": "ORG",
+      "start": 3947,
+      "end": 3973
+    },
+    {
+      "text": "Hans Martin Bury",
+      "label": "PER",
+      "start": 3999,
+      "end": 4015
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 4052,
+      "end": 4068
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 4254,
+      "end": 4268
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 4805,
+      "end": 4815
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 4820,
+      "end": 4837
+    },
+    {
+      "text": "Deutschen Einheit",
+      "label": "ORG",
+      "start": 5291,
+      "end": 5308
+    },
+    {
+      "text": "Alwin Z",
+      "label": "PER",
+      "start": 5799,
+      "end": 5806
+    },
+    {
+      "text": "Barbara R i c h s t e i n",
+      "label": "PER",
+      "start": 5889,
+      "end": 5914
+    },
+    {
+      "text": "Günter B a a s k e",
+      "label": "PER",
+      "start": 5951,
+      "end": 5969
+    },
+    {
+      "text": "Hartmut M e y e r",
+      "label": "PER",
+      "start": 6041,
+      "end": 6058
+    },
+    {
+      "text": "Dr. Gregor G y s i",
+      "label": "PER",
+      "start": 6259,
+      "end": 6277
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 6328,
+      "end": 6333
+    },
+    {
+      "text": "Harald W o l f",
+      "label": "PER",
+      "start": 6360,
+      "end": 6374
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7076,
+      "end": 7091
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 7533,
+      "end": 7546
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 7774,
+      "end": 7782
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7973,
+      "end": 7988
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 8770,
+      "end": 8779
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Herrn\nBundesminister Müller",
+      "label": "PER",
+      "start": 12200,
+      "end": 12227
+    },
+    {
+      "text": "Private",
+      "label": "ORG",
+      "start": 12843,
+      "end": 12850
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 13098,
+      "end": 13109
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14115,
+      "end": 14130
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 14194,
+      "end": 14203
+    },
+    {
+      "text": "Refinanzierungskonzeption",
+      "label": "ORG",
+      "start": 14793,
+      "end": 14818
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 17789,
+      "end": 17803
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 17930,
+      "end": 17937
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 18926,
+      "end": 18934
+    },
+    {
+      "text": "Kollege Böhmer",
+      "label": "PER",
+      "start": 19680,
+      "end": 19694
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Kommission der Bundesregierung",
+      "label": "ORG",
+      "start": 20732,
+      "end": 20762
+    },
+    {
+      "text": "Richard v o n W e i z s",
+      "label": "PER",
+      "start": 20781,
+      "end": 20804
+    },
+    {
+      "text": "Manfred S t",
+      "label": "PER",
+      "start": 20849,
+      "end": 20860
+    },
+    {
+      "text": "Kurt B i e d e n k o p f",
+      "label": "PER",
+      "start": 20873,
+      "end": 20897
+    },
+    {
+      "text": "Kleinlicher",
+      "label": "PER",
+      "start": 21200,
+      "end": 21211
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21560,
+      "end": 21574
+    },
+    {
+      "text": "Dr. Milbradt",
+      "label": "PER",
+      "start": 21622,
+      "end": 21634
+    },
+    {
+      "text": "Sächsische Aufbaubank",
+      "label": "ORG",
+      "start": 22629,
+      "end": 22650
+    },
+    {
+      "text": "Bundeskonten",
+      "label": "ORG",
+      "start": 25719,
+      "end": 25731
+    },
+    {
+      "text": "z. B.",
+      "label": "ORG",
+      "start": 26006,
+      "end": 26011
+    },
+    {
+      "text": "Hart",
+      "label": "PER",
+      "start": 26888,
+      "end": 26892
+    },
+    {
+      "text": "Halle",
+      "label": "ORG",
+      "start": 30981,
+      "end": 30986
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 33092,
+      "end": 33106
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33201
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 33208,
+      "end": 33221
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 33223,
+      "end": 33252
+    },
+    {
+      "text": "Bundeswirtschaftsministerium",
+      "label": "ORG",
+      "start": 33528,
+      "end": 33556
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 34778,
+      "end": 34786
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 37481,
+      "end": 37494
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 37645,
+      "end": 37653
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37795,
+      "end": 37806
+    },
+    {
+      "text": "CDU/CSU",
+      "label": "ORG",
+      "start": 37880,
+      "end": 37887
+    },
+    {
+      "text": "Ertragsteuer",
+      "label": "PER",
+      "start": 39557,
+      "end": 39569
+    },
+    {
+      "text": "Eigenkapitalhilfe",
+      "label": "ORG",
+      "start": 40609,
+      "end": 40626
+    },
+    {
+      "text": "Eigenkapitalhilfe",
+      "label": "ORG",
+      "start": 41162,
+      "end": 41179
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 41861,
+      "end": 41869
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 43699,
+      "end": 43708
+    },
+    {
+      "text": "sächsische Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 43907,
+      "end": 43940
+    },
+    {
+      "text": "Seien",
+      "label": "PER",
+      "start": 44196,
+      "end": 44201
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 44738,
+      "end": 44754
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 46839,
+      "end": 46853
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 48316,
+      "end": 48330
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 49081,
+      "end": 49095
+    },
+    {
+      "text": "Dr. Milbradt",
+      "label": "PER",
+      "start": 49143,
+      "end": 49155
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 49184,
+      "end": 49188
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 51711,
+      "end": 51725
+    },
+    {
+      "text": "deutschen Vereinigung",
+      "label": "ORG",
+      "start": 55904,
+      "end": 55925
+    },
+    {
+      "text": "dastünden",
+      "label": "PER",
+      "start": 55995,
+      "end": 56004
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "Bundestagsdebatte",
+      "label": "ORG",
+      "start": 56345,
+      "end": 56362
+    },
+    {
+      "text": "sehnsuchtsvollem Ton",
+      "label": "PER",
+      "start": 57228,
+      "end": 57248
+    },
+    {
+      "text": "CDU-Länderkollegen",
+      "label": "ORG",
+      "start": 57933,
+      "end": 57951
+    },
+    {
+      "text": "Bund und Ländern",
+      "label": "ORG",
+      "start": 60705,
+      "end": 60721
+    },
+    {
+      "text": "Bundeswirtschaftsminister\nMüller",
+      "label": "PER",
+      "start": 64001,
+      "end": 64033
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64726,
+      "end": 64734
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 65904,
+      "end": 65918
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 68270,
+      "end": 68280
+    },
+    {
+      "text": "Finanzminister\nSteinbrück",
+      "label": "PER",
+      "start": 68943,
+      "end": 68968
+    },
+    {
+      "text": "Tremolos",
+      "label": "PER",
+      "start": 69423,
+      "end": 69431
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 70192,
+      "end": 70197
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 71702,
+      "end": 71707
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 71717,
+      "end": 71727
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 72515,
+      "end": 72525
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Meine",
+      "label": "PER",
+      "start": 73649,
+      "end": 73654
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 74252,
+      "end": 74266
+    },
+    {
+      "text": "Bundesministerium für Wirt",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74339
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 74372,
+      "end": 74385
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 74387,
+      "end": 74416
+    },
+    {
+      "text": "Lieber Herr Bocklet",
+      "label": "PER",
+      "start": 74474,
+      "end": 74493
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 74986,
+      "end": 74995
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 75270,
+      "end": 75279
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 75477,
+      "end": 75491
+    },
+    {
+      "text": "Dr. Paqué",
+      "label": "PER",
+      "start": 75530,
+      "end": 75539
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 75569,
+      "end": 75585
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 75806,
+      "end": 75819
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 76155,
+      "end": 76168
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 76680,
+      "end": 76690
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 78535,
+      "end": 78551
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 79915,
+      "end": 79924
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80094,
+      "end": 80103
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80916,
+      "end": 80925
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 81190,
+      "end": 81204
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 405,
+      "end": 418
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 736,
+      "end": 751
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 753,
+      "end": 766
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "MuK.",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1074
+    },
+    {
+      "text": "Berlin",
+      "label": "ORG",
+      "start": 1108,
+      "end": 1114
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 1239,
+      "end": 1252
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 1254,
+      "end": 1283
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1481
+    },
+    {
+      "text": "Christean Wagner",
+      "label": "PER",
+      "start": 1657,
+      "end": 1673
+    },
+    {
+      "text": "Wolfgang Methling",
+      "label": "PER",
+      "start": 1766,
+      "end": 1783
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Rudolf Köberle",
+      "label": "PER",
+      "start": 1846,
+      "end": 1860
+    },
+    {
+      "text": "Bund\n\nBayern",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1938
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "Bund\nDr. Manfred Weiß",
+      "label": "ORG",
+      "start": 2078,
+      "end": 2099
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 2136,
+      "end": 2150
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2207,
+      "end": 2224
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Hartmut Perschau",
+      "label": "PER",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2382,
+      "end": 2397
+    },
+    {
+      "text": "Reinhard Metz",
+      "label": "PER",
+      "start": 2510,
+      "end": 2523
+    },
+    {
+      "text": "Wolfgang Senff",
+      "label": "PER",
+      "start": 2577,
+      "end": 2591
+    },
+    {
+      "text": "Minister für Bundes- und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 2593,
+      "end": 2639
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "Finanzminister\nHannelore Kraft",
+      "label": "PER",
+      "start": 2700,
+      "end": 2730
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2904,
+      "end": 2913
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2933,
+      "end": 2947
+    },
+    {
+      "text": "Walter Zuber",
+      "label": "PER",
+      "start": 2971,
+      "end": 2983
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3030,
+      "end": 3041
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3110
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Dr. Thomas de Maizière",
+      "label": "PER",
+      "start": 3156,
+      "end": 3178
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 3233,
+      "end": 3248
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 3278,
+      "end": 3294
+    },
+    {
+      "text": "Wolfgang Peiner",
+      "label": "PER",
+      "start": 3352,
+      "end": 3367
+    },
+    {
+      "text": "Claus Möller",
+      "label": "PER",
+      "start": 3404,
+      "end": 3416
+    },
+    {
+      "text": "Minister für Finanzen und Energie",
+      "label": "ORG",
+      "start": 3418,
+      "end": 3451
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3453,
+      "end": 3462
+    },
+    {
+      "text": "Barbara Hendricks",
+      "label": "PER",
+      "start": 3521,
+      "end": 3538
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3540,
+      "end": 3544
+    },
+    {
+      "text": "Bundesminister der Finanzen\n\nDr. Bernhard Vogel",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3615
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 3639,
+      "end": 3655
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 3657,
+      "end": 3671
+    },
+    {
+      "text": "Gerald Thalheim",
+      "label": "PER",
+      "start": 3721,
+      "end": 3736
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3738,
+      "end": 3742
+    },
+    {
+      "text": "Bundesministerin für Verbraucherschutz",
+      "label": "ORG",
+      "start": 3767,
+      "end": 3805
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 3841,
+      "end": 3854
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 3856,
+      "end": 3885
+    },
+    {
+      "text": "Stephan Hilsberg",
+      "label": "PER",
+      "start": 3903,
+      "end": 3919
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 3921,
+      "end": 3925
+    },
+    {
+      "text": "Bundesminister für Verkehr",
+      "label": "ORG",
+      "start": 3947,
+      "end": 3973
+    },
+    {
+      "text": "Hans Martin Bury",
+      "label": "PER",
+      "start": 3999,
+      "end": 4015
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 4052,
+      "end": 4068
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4120,
+      "end": 4129
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 4254,
+      "end": 4268
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 4805,
+      "end": 4815
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 4820,
+      "end": 4837
+    },
+    {
+      "text": "Deutschen Einheit",
+      "label": "ORG",
+      "start": 5291,
+      "end": 5308
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 5681,
+      "end": 5690
+    },
+    {
+      "text": "Alwin Z",
+      "label": "PER",
+      "start": 5799,
+      "end": 5806
+    },
+    {
+      "text": "Barbara R i c h s t e i n",
+      "label": "PER",
+      "start": 5889,
+      "end": 5914
+    },
+    {
+      "text": "Günter B a a s k e",
+      "label": "PER",
+      "start": 5951,
+      "end": 5969
+    },
+    {
+      "text": "Hartmut M e y e r",
+      "label": "PER",
+      "start": 6041,
+      "end": 6058
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6197,
+      "end": 6206
+    },
+    {
+      "text": "Dr. Gregor G y s i",
+      "label": "PER",
+      "start": 6259,
+      "end": 6277
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 6328,
+      "end": 6333
+    },
+    {
+      "text": "Harald W o l f",
+      "label": "PER",
+      "start": 6360,
+      "end": 6374
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7076,
+      "end": 7091
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 7533,
+      "end": 7546
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 7774,
+      "end": 7782
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7916,
+      "end": 7925
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7973,
+      "end": 7988
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 8770,
+      "end": 8779
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9217,
+      "end": 9232
+    },
+    {
+      "text": "Herrn\nBundesminister Müller",
+      "label": "PER",
+      "start": 12200,
+      "end": 12227
+    },
+    {
+      "text": "Private",
+      "label": "ORG",
+      "start": 12843,
+      "end": 12850
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 13098,
+      "end": 13109
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14053,
+      "end": 14062
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14115,
+      "end": 14130
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 14194,
+      "end": 14203
+    },
+    {
+      "text": "Refinanzierungskonzeption",
+      "label": "ORG",
+      "start": 14793,
+      "end": 14818
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 17789,
+      "end": 17803
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 17930,
+      "end": 17937
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "Kommunen",
+      "label": "ORG",
+      "start": 18926,
+      "end": 18934
+    },
+    {
+      "text": "Kollege Böhmer",
+      "label": "PER",
+      "start": 19680,
+      "end": 19694
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19898,
+      "end": 19907
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Kommission der",
+      "label": "ORG",
+      "start": 20732,
+      "end": 20746
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 20747,
+      "end": 20762
+    },
+    {
+      "text": "Richard v o n W e i z s",
+      "label": "PER",
+      "start": 20781,
+      "end": 20804
+    },
+    {
+      "text": "Manfred S t",
+      "label": "PER",
+      "start": 20849,
+      "end": 20860
+    },
+    {
+      "text": "Kurt B i e d e n k o p f",
+      "label": "PER",
+      "start": 20873,
+      "end": 20897
+    },
+    {
+      "text": "Kleinlicher",
+      "label": "PER",
+      "start": 21200,
+      "end": 21211
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21560,
+      "end": 21574
+    },
+    {
+      "text": "Dr. Milbradt",
+      "label": "PER",
+      "start": 21622,
+      "end": 21634
+    },
+    {
+      "text": "Sächsische Aufbaubank",
+      "label": "ORG",
+      "start": 22629,
+      "end": 22650
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25497,
+      "end": 25506
+    },
+    {
+      "text": "Bundeskonten",
+      "label": "ORG",
+      "start": 25719,
+      "end": 25731
+    },
+    {
+      "text": "z. B.",
+      "label": "ORG",
+      "start": 26006,
+      "end": 26011
+    },
+    {
+      "text": "Hart",
+      "label": "PER",
+      "start": 26888,
+      "end": 26892
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27589,
+      "end": 27604
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 27870,
+      "end": 27885
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 30133,
+      "end": 30148
+    },
+    {
+      "text": "Halle",
+      "label": "ORG",
+      "start": 30981,
+      "end": 30986
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31434,
+      "end": 31443
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 33092,
+      "end": 33106
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33185
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 33208,
+      "end": 33221
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 33223,
+      "end": 33252
+    },
+    {
+      "text": "Bundeswirtschaftsministerium",
+      "label": "ORG",
+      "start": 33528,
+      "end": 33556
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 34778,
+      "end": 34786
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37410,
+      "end": 37419
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 37481,
+      "end": 37494
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 37645,
+      "end": 37653
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37795,
+      "end": 37806
+    },
+    {
+      "text": "CDU/CSU",
+      "label": "ORG",
+      "start": 37880,
+      "end": 37887
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 39202,
+      "end": 39217
+    },
+    {
+      "text": "Ertragsteuer",
+      "label": "PER",
+      "start": 39557,
+      "end": 39569
+    },
+    {
+      "text": "Eigenkapitalhilfe",
+      "label": "ORG",
+      "start": 40609,
+      "end": 40626
+    },
+    {
+      "text": "Eigenkapitalhilfe",
+      "label": "ORG",
+      "start": 41162,
+      "end": 41179
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 41861,
+      "end": 41869
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 43434,
+      "end": 43443
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 43699,
+      "end": 43708
+    },
+    {
+      "text": "sächsische Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 43907,
+      "end": 43940
+    },
+    {
+      "text": "Seien",
+      "label": "PER",
+      "start": 44196,
+      "end": 44201
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 44738,
+      "end": 44754
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 46839,
+      "end": 46853
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 48316,
+      "end": 48330
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 49081,
+      "end": 49095
+    },
+    {
+      "text": "Dr. Milbradt",
+      "label": "PER",
+      "start": 49143,
+      "end": 49155
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 49184,
+      "end": 49188
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49318,
+      "end": 49327
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51343,
+      "end": 51358
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 51711,
+      "end": 51725
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53153,
+      "end": 53168
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 55177,
+      "end": 55186
+    },
+    {
+      "text": "deutschen Vereinigung",
+      "label": "ORG",
+      "start": 55904,
+      "end": 55925
+    },
+    {
+      "text": "dastünden",
+      "label": "PER",
+      "start": 55995,
+      "end": 56004
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "Bundestagsdebatte",
+      "label": "ORG",
+      "start": 56345,
+      "end": 56362
+    },
+    {
+      "text": "sehnsuchtsvollem Ton",
+      "label": "PER",
+      "start": 57228,
+      "end": 57248
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 57580,
+      "end": 57595
+    },
+    {
+      "text": "CDU-Länderkollegen",
+      "label": "ORG",
+      "start": 57933,
+      "end": 57951
+    },
+    {
+      "text": "Bund und Ländern",
+      "label": "ORG",
+      "start": 60705,
+      "end": 60721
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61257,
+      "end": 61266
+    },
+    {
+      "text": "Bundeswirtschaftsminister\nMüller",
+      "label": "PER",
+      "start": 64001,
+      "end": 64033
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64726,
+      "end": 64734
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 65904,
+      "end": 65918
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 67093,
+      "end": 67102
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67654,
+      "end": 67669
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 67997,
+      "end": 68012
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68215,
+      "end": 68230
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 68270,
+      "end": 68280
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68381,
+      "end": 68396
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68639,
+      "end": 68654
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68833,
+      "end": 68848
+    },
+    {
+      "text": "Finanzminister\nSteinbrück",
+      "label": "PER",
+      "start": 68943,
+      "end": 68968
+    },
+    {
+      "text": "Tremolos",
+      "label": "PER",
+      "start": 69423,
+      "end": 69431
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 70192,
+      "end": 70197
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 70342,
+      "end": 70357
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71299,
+      "end": 71314
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71557,
+      "end": 71572
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 71702,
+      "end": 71707
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 71717,
+      "end": 71727
+    },
+    {
+      "text": "Bundesbank",
+      "label": "ORG",
+      "start": 72515,
+      "end": 72525
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72612,
+      "end": 72627
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72895,
+      "end": 72904
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 73397,
+      "end": 73412
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73527,
+      "end": 73536
+    },
+    {
+      "text": "Meine",
+      "label": "PER",
+      "start": 73649,
+      "end": 73654
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 74077,
+      "end": 74092
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 74252,
+      "end": 74266
+    },
+    {
+      "text": "Bundesministerium für Wirt",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74339
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 74372,
+      "end": 74385
+    },
+    {
+      "text": "Bundesminister für Wirtschaft",
+      "label": "ORG",
+      "start": 74387,
+      "end": 74416
+    },
+    {
+      "text": "Lieber Herr Bocklet",
+      "label": "PER",
+      "start": 74474,
+      "end": 74493
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 74986,
+      "end": 74995
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 75127,
+      "end": 75142
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 75160,
+      "end": 75169
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 75270,
+      "end": 75279
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 75344,
+      "end": 75353
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 75477,
+      "end": 75491
+    },
+    {
+      "text": "Dr. Paqué",
+      "label": "PER",
+      "start": 75530,
+      "end": 75539
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 75569,
+      "end": 75585
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 75806,
+      "end": 75819
+    },
+    {
+      "text": "SachsenAnhalt",
+      "label": "ORG",
+      "start": 76155,
+      "end": 76168
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 76680,
+      "end": 76690
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77879,
+      "end": 77894
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78175,
+      "end": 78190
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78478,
+      "end": 78487
+    },
+    {
+      "text": "Karl-Heinz Paqué",
+      "label": "PER",
+      "start": 78535,
+      "end": 78551
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 79763,
+      "end": 79772
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 79915,
+      "end": 79924
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80094,
+      "end": 80103
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80916,
+      "end": 80925
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 81190,
+      "end": 81204
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81376,
+      "end": 81385
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81877,
+      "end": 81886
+    }
+  ],
+  "bert": [
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 167,
+      "end": 182
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 736,
+      "end": 751
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "MuK. Medien - und Kommunikations GmbH",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1106
+    },
+    {
+      "text": "##rieb",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1123
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 1239,
+      "end": 1252
+    },
+    {
+      "text": "Christean Wagner",
+      "label": "PER",
+      "start": 1657,
+      "end": 1673
+    },
+    {
+      "text": "-",
+      "label": "ORG",
+      "start": 1908,
+      "end": 1909
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 2018,
+      "end": 2031
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 2087,
+      "end": 2099
+    },
+    {
+      "text": "Justiz Berlin",
+      "label": "ORG",
+      "start": 2120,
+      "end": 2134
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 2136,
+      "end": 2150
+    },
+    {
+      "text": "Justiz Brandenburg",
+      "label": "ORG",
+      "start": 2186,
+      "end": 2205
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2207,
+      "end": 2224
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 2278,
+      "end": 2284
+    },
+    {
+      "text": "Hartmut Perschau",
+      "label": "PER",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2382,
+      "end": 2397
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 2432,
+      "end": 2456
+    },
+    {
+      "text": "Reinhard Metz",
+      "label": "PER",
+      "start": 2510,
+      "end": 2523
+    },
+    {
+      "text": "Senator für Finanzen Niedersachsen",
+      "label": "ORG",
+      "start": 2540,
+      "end": 2575
+    },
+    {
+      "text": "Wolfgang Senff",
+      "label": "PER",
+      "start": 2577,
+      "end": 2591
+    },
+    {
+      "text": "Staatskanzlei Nordrhein - Westfalen",
+      "label": "ORG",
+      "start": 2647,
+      "end": 2681
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "Hannelore Kraft",
+      "label": "PER",
+      "start": 2715,
+      "end": 2730
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2904,
+      "end": 2913
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2933,
+      "end": 2947
+    },
+    {
+      "text": "Walter Zuber",
+      "label": "PER",
+      "start": 2971,
+      "end": 2983
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3030,
+      "end": 3041
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Thomas de Maizière",
+      "label": "PER",
+      "start": 3160,
+      "end": 3178
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 3199,
+      "end": 3205
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 3233,
+      "end": 3248
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 3278,
+      "end": 3294
+    },
+    {
+      "text": "Wolfgang Peiner",
+      "label": "PER",
+      "start": 3352,
+      "end": 3367
+    },
+    {
+      "text": "Claus Möller",
+      "label": "PER",
+      "start": 3404,
+      "end": 3416
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 3459,
+      "end": 3462
+    },
+    {
+      "text": "Barbara Hendricks",
+      "label": "PER",
+      "start": 3521,
+      "end": 3538
+    },
+    {
+      "text": "der Finanze",
+      "label": "ORG",
+      "start": 3583,
+      "end": 3594
+    },
+    {
+      "text": "Bernhard Vogel",
+      "label": "PER",
+      "start": 3601,
+      "end": 3615
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 3639,
+      "end": 3655
+    },
+    {
+      "text": "Gerald Thalheim",
+      "label": "PER",
+      "start": 3721,
+      "end": 3736
+    },
+    {
+      "text": "Verbraucherschutz",
+      "label": "ORG",
+      "start": 3788,
+      "end": 3805
+    },
+    {
+      "text": "Ernährung",
+      "label": "ORG",
+      "start": 3807,
+      "end": 3816
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 3841,
+      "end": 3854
+    },
+    {
+      "text": "Stephan Hilsberg",
+      "label": "PER",
+      "start": 3903,
+      "end": 3919
+    },
+    {
+      "text": "- und Wohnungswesen",
+      "label": "ORG",
+      "start": 3978,
+      "end": 3997
+    },
+    {
+      "text": "Hans Martin Bury",
+      "label": "PER",
+      "start": 3999,
+      "end": 4015
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 4052,
+      "end": 4068
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4118
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4120,
+      "end": 4129
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 4254,
+      "end": 4268
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 4805,
+      "end": 4815
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 4820,
+      "end": 4837
+    },
+    {
+      "text": "Polizei",
+      "label": "ORG",
+      "start": 4839,
+      "end": 4846
+    },
+    {
+      "text": "Feuerwehr",
+      "label": "ORG",
+      "start": 4851,
+      "end": 4860
+    },
+    {
+      "text": "Technischem Hilfswerk",
+      "label": "ORG",
+      "start": 4862,
+      "end": 4883
+    },
+    {
+      "text": "Wohlfahrtsorgani",
+      "label": "ORG",
+      "start": 4888,
+      "end": 4904
+    },
+    {
+      "text": "Deutschen Einheit",
+      "label": "ORG",
+      "start": 5291,
+      "end": 5308
+    },
+    {
+      "text": "Kurt S",
+      "label": "PER",
+      "start": 5741,
+      "end": 5747
+    },
+    {
+      "text": "Alwin",
+      "label": "PER",
+      "start": 5799,
+      "end": 5804
+    },
+    {
+      "text": "Barbara R",
+      "label": "PER",
+      "start": 5889,
+      "end": 5898
+    },
+    {
+      "text": "Günter B",
+      "label": "PER",
+      "start": 5951,
+      "end": 5959
+    },
+    {
+      "text": "Hartmut",
+      "label": "PER",
+      "start": 6041,
+      "end": 6048
+    },
+    {
+      "text": "Gregor G",
+      "label": "PER",
+      "start": 6263,
+      "end": 6271
+    },
+    {
+      "text": "Harald W",
+      "label": "PER",
+      "start": 6360,
+      "end": 6368
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 7032,
+      "end": 7038
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7076,
+      "end": 7091
+    },
+    {
+      "text": "Kollege Milbradt",
+      "label": "PER",
+      "start": 7766,
+      "end": 7782
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7973,
+      "end": 7988
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 8770,
+      "end": 8779
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 12221,
+      "end": 12227
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14053,
+      "end": 14062
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14115,
+      "end": 14130
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 17789,
+      "end": 17803
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Union",
+      "label": "ORG",
+      "start": 18343,
+      "end": 18348
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 19688,
+      "end": 19694
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19898,
+      "end": 19907
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Richard v",
+      "label": "PER",
+      "start": 20781,
+      "end": 20790
+    },
+    {
+      "text": "Manfred S",
+      "label": "PER",
+      "start": 20849,
+      "end": 20858
+    },
+    {
+      "text": "Kurt B",
+      "label": "PER",
+      "start": 20873,
+      "end": 20879
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21560,
+      "end": 21574
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 21626,
+      "end": 21634
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 21657,
+      "end": 21671
+    },
+    {
+      "text": "Sächsische Aufbaubank",
+      "label": "ORG",
+      "start": 22629,
+      "end": 22650
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25497,
+      "end": 25506
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 25559,
+      "end": 25573
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 31434,
+      "end": 31443
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 31491,
+      "end": 31505
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 33092,
+      "end": 33106
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 33145,
+      "end": 33151
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33201
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 33208,
+      "end": 33221
+    },
+    {
+      "text": "und",
+      "label": "ORG",
+      "start": 33253,
+      "end": 33256
+    },
+    {
+      "text": "Bundeswirtschaftsministerium",
+      "label": "ORG",
+      "start": 33528,
+      "end": 33556
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 34778,
+      "end": 34786
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 37481,
+      "end": 37494
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 37645,
+      "end": 37653
+    },
+    {
+      "text": "CDU / CSU",
+      "label": "ORG",
+      "start": 37880,
+      "end": 37887
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 41861,
+      "end": 41869
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 43504,
+      "end": 43517
+    },
+    {
+      "text": "Sächsische Zeitung",
+      "label": "ORG",
+      "start": 43821,
+      "end": 43839
+    },
+    {
+      "text": "Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 43918,
+      "end": 43940
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 44632,
+      "end": 44646
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 44738,
+      "end": 44754
+    },
+    {
+      "text": "Sächsischen Zeitung",
+      "label": "ORG",
+      "start": 44806,
+      "end": 44825
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 46158,
+      "end": 46172
+    },
+    {
+      "text": "Kollege ( C ) Müller",
+      "label": "PER",
+      "start": 46189,
+      "end": 46207
+    },
+    {
+      "text": "Sächsischen Aufbaubank",
+      "label": "ORG",
+      "start": 46447,
+      "end": 46469
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 46839,
+      "end": 46853
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 48316,
+      "end": 48330
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 49081,
+      "end": 49095
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 49147,
+      "end": 49155
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 49184,
+      "end": 49188
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49318,
+      "end": 49327
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 49380,
+      "end": 49394
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 51711,
+      "end": 51725
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 51754,
+      "end": 51764
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 51788,
+      "end": 51803
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 54196,
+      "end": 54205
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 55224,
+      "end": 55239
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "Landes",
+      "label": "ORG",
+      "start": 60876,
+      "end": 60882
+    },
+    {
+      "text": "Nordrhein - Westfalen",
+      "label": "ORG",
+      "start": 60892,
+      "end": 60911
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61257,
+      "end": 61266
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 61309,
+      "end": 61324
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64027,
+      "end": 64033
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Kollege Milbradt",
+      "label": "PER",
+      "start": 64617,
+      "end": 64633
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64726,
+      "end": 64734
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 65904,
+      "end": 65918
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 68958,
+      "end": 68968
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Aufbauhilfe",
+      "label": "ORG",
+      "start": 70253,
+      "end": 70264
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 71717,
+      "end": 71727
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 72895,
+      "end": 72901
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 74252,
+      "end": 74266
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 74305,
+      "end": 74311
+    },
+    {
+      "text": "Bundesministerium für Wirt ( B ) schaft und Technologie",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74365
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 74372,
+      "end": 74385
+    },
+    {
+      "text": "Wirtschaft und",
+      "label": "ORG",
+      "start": 74406,
+      "end": 74420
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 74486,
+      "end": 74493
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 75477,
+      "end": 75491
+    },
+    {
+      "text": "Paqué",
+      "label": "PER",
+      "start": 75534,
+      "end": 75539
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 75569,
+      "end": 75585
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 76680,
+      "end": 76690
+    },
+    {
+      "text": "Feuerwehr",
+      "label": "ORG",
+      "start": 76692,
+      "end": 76701
+    },
+    {
+      "text": "Technisches Hilfswerk",
+      "label": "ORG",
+      "start": 76706,
+      "end": 76727
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 77879,
+      "end": 77885
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 78535,
+      "end": 78551
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80094,
+      "end": 80103
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 80916,
+      "end": 80925
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 81190,
+      "end": 81204
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 81877,
+      "end": 81886
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 82158,
+      "end": 82163
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 82276,
+      "end": 82281
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 167,
+      "end": 182
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 289,
+      "end": 305
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 736,
+      "end": 751
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 796,
+      "end": 813
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 848,
+      "end": 862
+    },
+    {
+      "text": "MuK. Medien - und Kommunikations GmbH",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1106
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1125,
+      "end": 1163
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 1239,
+      "end": 1252
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 1254,
+      "end": 1260
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 1426,
+      "end": 1428
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1481
+    },
+    {
+      "text": "Christean Wagner",
+      "label": "PER",
+      "start": 1657,
+      "end": 1673
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 1688,
+      "end": 1692
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1930
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 1940,
+      "end": 1956
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 2023,
+      "end": 2031
+    },
+    {
+      "text": "Manfred Weiß",
+      "label": "PER",
+      "start": 2087,
+      "end": 2099
+    },
+    {
+      "text": "Justiz Berlin",
+      "label": "ORG",
+      "start": 2120,
+      "end": 2134
+    },
+    {
+      "text": "Karin Schubert",
+      "label": "PER",
+      "start": 2136,
+      "end": 2150
+    },
+    {
+      "text": "Justiz Brandenburg",
+      "label": "ORG",
+      "start": 2186,
+      "end": 2205
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2207,
+      "end": 2224
+    },
+    {
+      "text": "Barbara Richstein",
+      "label": "PER",
+      "start": 2244,
+      "end": 2261
+    },
+    {
+      "text": "Hartmut Perschau",
+      "label": "PER",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2382,
+      "end": 2397
+    },
+    {
+      "text": "Bremen",
+      "label": "ORG",
+      "start": 2450,
+      "end": 2456
+    },
+    {
+      "text": "Reinhard Metz",
+      "label": "PER",
+      "start": 2510,
+      "end": 2523
+    },
+    {
+      "text": "Wolfgang Senff",
+      "label": "PER",
+      "start": 2577,
+      "end": 2591
+    },
+    {
+      "text": "##skanzlei Nordrhein",
+      "label": "ORG",
+      "start": 2652,
+      "end": 2671
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 2683,
+      "end": 2698
+    },
+    {
+      "text": "Hannelore Kraft",
+      "label": "PER",
+      "start": 2715,
+      "end": 2730
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2885
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2904,
+      "end": 2913
+    },
+    {
+      "text": "Gernot Mittler",
+      "label": "PER",
+      "start": 2933,
+      "end": 2947
+    },
+    {
+      "text": "Walter Zuber",
+      "label": "PER",
+      "start": 2971,
+      "end": 2983
+    },
+    {
+      "text": "Monika Beck",
+      "label": "PER",
+      "start": 3030,
+      "end": 3041
+    },
+    {
+      "text": "Bund Sachsen",
+      "label": "ORG",
+      "start": 3097,
+      "end": 3110
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 3122,
+      "end": 3136
+    },
+    {
+      "text": "Thomas de Maizière",
+      "label": "PER",
+      "start": 3160,
+      "end": 3178
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 3199,
+      "end": 3205
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 3233,
+      "end": 3248
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 3278,
+      "end": 3294
+    },
+    {
+      "text": "Wolfgang Peiner",
+      "label": "PER",
+      "start": 3352,
+      "end": 3367
+    },
+    {
+      "text": "Claus Möller",
+      "label": "PER",
+      "start": 3404,
+      "end": 3416
+    },
+    {
+      "text": "Barbara Hendricks",
+      "label": "PER",
+      "start": 3521,
+      "end": 3538
+    },
+    {
+      "text": "Bernhard Vogel",
+      "label": "PER",
+      "start": 3601,
+      "end": 3615
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 3639,
+      "end": 3655
+    },
+    {
+      "text": "Gerald Thalheim",
+      "label": "PER",
+      "start": 3721,
+      "end": 3736
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 3841,
+      "end": 3854
+    },
+    {
+      "text": "Stephan Hilsberg",
+      "label": "PER",
+      "start": 3903,
+      "end": 3919
+    },
+    {
+      "text": "Hans Martin Bury",
+      "label": "PER",
+      "start": 3999,
+      "end": 4015
+    },
+    {
+      "text": "Brigitte Zypries",
+      "label": "PER",
+      "start": 4052,
+      "end": 4068
+    },
+    {
+      "text": "Bundesministerium des Innern Bundesrat",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4129
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 4254,
+      "end": 4268
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 4805,
+      "end": 4815
+    },
+    {
+      "text": "Bundesgrenzschutz",
+      "label": "ORG",
+      "start": 4820,
+      "end": 4837
+    },
+    {
+      "text": "##werk",
+      "label": "ORG",
+      "start": 4879,
+      "end": 4883
+    },
+    {
+      "text": "Deutschen",
+      "label": "ORG",
+      "start": 5291,
+      "end": 5300
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 5681,
+      "end": 5687
+    },
+    {
+      "text": "Kurt S c",
+      "label": "PER",
+      "start": 5741,
+      "end": 5749
+    },
+    {
+      "text": "Kurt S",
+      "label": "PER",
+      "start": 5741,
+      "end": 5747
+    },
+    {
+      "text": "Alwin Z",
+      "label": "PER",
+      "start": 5799,
+      "end": 5806
+    },
+    {
+      "text": "Landes",
+      "label": "ORG",
+      "start": 5832,
+      "end": 5838
+    },
+    {
+      "text": "Barbara R",
+      "label": "PER",
+      "start": 5889,
+      "end": 5898
+    },
+    {
+      "text": "Günter B",
+      "label": "PER",
+      "start": 5951,
+      "end": 5959
+    },
+    {
+      "text": "Hartmut M",
+      "label": "PER",
+      "start": 6041,
+      "end": 6050
+    },
+    {
+      "text": "Gregor G",
+      "label": "PER",
+      "start": 6263,
+      "end": 6271
+    },
+    {
+      "text": "Harald W",
+      "label": "PER",
+      "start": 6360,
+      "end": 6368
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 7032,
+      "end": 7038
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7076,
+      "end": 7091
+    },
+    {
+      "text": "Kollege Milbradt",
+      "label": "PER",
+      "start": 7766,
+      "end": 7782
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 7973,
+      "end": 7988
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 9205,
+      "end": 9208
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9217,
+      "end": 9232
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 12221,
+      "end": 12227
+    },
+    {
+      "text": "Wolfgang Böhmer",
+      "label": "PER",
+      "start": 14115,
+      "end": 14130
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 17789,
+      "end": 17803
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 17841,
+      "end": 17849
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 17865,
+      "end": 17882
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18331,
+      "end": 18348
+    },
+    {
+      "text": "Böhmer",
+      "label": "PER",
+      "start": 19688,
+      "end": 19694
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 19945,
+      "end": 19962
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 20747,
+      "end": 20762
+    },
+    {
+      "text": "Richard v",
+      "label": "PER",
+      "start": 20781,
+      "end": 20790
+    },
+    {
+      "text": "Manfred S",
+      "label": "PER",
+      "start": 20849,
+      "end": 20858
+    },
+    {
+      "text": "Kurt B",
+      "label": "PER",
+      "start": 20873,
+      "end": 20879
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 21560,
+      "end": 21574
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 21626,
+      "end": 21634
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 21657,
+      "end": 21671
+    },
+    {
+      "text": "Sächsische Aufbaubank",
+      "label": "ORG",
+      "start": 22629,
+      "end": 22650
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 25559,
+      "end": 25573
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 31491,
+      "end": 31505
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 33092,
+      "end": 33106
+    },
+    {
+      "text": ". Müller",
+      "label": "PER",
+      "start": 33143,
+      "end": 33151
+    },
+    {
+      "text": "Bundesministerium für Wirtschaft und Technologie",
+      "label": "ORG",
+      "start": 33153,
+      "end": 33201
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 33208,
+      "end": 33221
+    },
+    {
+      "text": "Technologie",
+      "label": "ORG",
+      "start": 33257,
+      "end": 33268
+    },
+    {
+      "text": "Bundeswirtschaftsministerium",
+      "label": "ORG",
+      "start": 33528,
+      "end": 33556
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 34778,
+      "end": 34786
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 37481,
+      "end": 37494
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 37645,
+      "end": 37653
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    },
+    {
+      "text": "CDU / CSU",
+      "label": "ORG",
+      "start": 37880,
+      "end": 37887
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 41861,
+      "end": 41869
+    },
+    {
+      "text": "B",
+      "label": "PER",
+      "start": 42261,
+      "end": 42262
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 43504,
+      "end": 43517
+    },
+    {
+      "text": "Sächsische Zeitung",
+      "label": "ORG",
+      "start": 43821,
+      "end": 43839
+    },
+    {
+      "text": "Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 43918,
+      "end": 43940
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 44632,
+      "end": 44646
+    },
+    {
+      "text": "Andreas Birkmann",
+      "label": "PER",
+      "start": 44738,
+      "end": 44754
+    },
+    {
+      "text": "Sächsischen Zeitung",
+      "label": "ORG",
+      "start": 44806,
+      "end": 44825
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 46158,
+      "end": 46172
+    },
+    {
+      "text": "Kollege",
+      "label": "PER",
+      "start": 46189,
+      "end": 46196
+    },
+    {
+      "text": "C",
+      "label": "PER",
+      "start": 46198,
+      "end": 46199
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46201,
+      "end": 46207
+    },
+    {
+      "text": "Sächsischen Aufbaubank",
+      "label": "ORG",
+      "start": 46447,
+      "end": 46469
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 46839,
+      "end": 46853
+    },
+    {
+      "text": "Kollege Müller",
+      "label": "PER",
+      "start": 48316,
+      "end": 48330
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 49081,
+      "end": 49095
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 49147,
+      "end": 49155
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 49184,
+      "end": 49188
+    },
+    {
+      "text": "Georg Milbradt",
+      "label": "PER",
+      "start": 49380,
+      "end": 49394
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 51711,
+      "end": 51725
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 51754,
+      "end": 51764
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 51788,
+      "end": 51803
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 54196,
+      "end": 54205
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 55224,
+      "end": 55239
+    },
+    {
+      "text": "Stoiber",
+      "label": "PER",
+      "start": 56330,
+      "end": 56337
+    },
+    {
+      "text": "M",
+      "label": "PER",
+      "start": 57189,
+      "end": 57190
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 59799,
+      "end": 59800
+    },
+    {
+      "text": "Landes",
+      "label": "ORG",
+      "start": 60876,
+      "end": 60882
+    },
+    {
+      "text": "Nord",
+      "label": "ORG",
+      "start": 60892,
+      "end": 60896
+    },
+    {
+      "text": "Landesregierung Nordrhein - Westfalen",
+      "label": "ORG",
+      "start": 60876,
+      "end": 60911
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 61257,
+      "end": 61266
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 61309,
+      "end": 61324
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 64027,
+      "end": 64033
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64625,
+      "end": 64633
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 64617,
+      "end": 64619
+    },
+    {
+      "text": "Milbradt",
+      "label": "PER",
+      "start": 64726,
+      "end": 64734
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 65904,
+      "end": 65918
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 65953,
+      "end": 65960
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 65971,
+      "end": 65987
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 67068,
+      "end": 67086
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 67140,
+      "end": 67156
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 67997,
+      "end": 68003
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 68270,
+      "end": 68276
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 68958,
+      "end": 68968
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 69460,
+      "end": 69470
+    },
+    {
+      "text": "Peer Steinbrück",
+      "label": "PER",
+      "start": 69641,
+      "end": 69656
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 70342,
+      "end": 70357
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 71299,
+      "end": 71305
+    },
+    {
+      "text": "Steinbrück",
+      "label": "PER",
+      "start": 71717,
+      "end": 71727
+    },
+    {
+      "text": "Reinhold Bocklet",
+      "label": "PER",
+      "start": 72947,
+      "end": 72963
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 74252,
+      "end": 74266
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 74305,
+      "end": 74311
+    },
+    {
+      "text": "Bundesministerium für Wirt",
+      "label": "ORG",
+      "start": 74313,
+      "end": 74339
+    },
+    {
+      "text": "B ) schaft und Technologie",
+      "label": "ORG",
+      "start": 74340,
+      "end": 74365
+    },
+    {
+      "text": "Werner Müller",
+      "label": "PER",
+      "start": 74372,
+      "end": 74385
+    },
+    {
+      "text": "Bocklet",
+      "label": "PER",
+      "start": 74486,
+      "end": 74493
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 75477,
+      "end": 75491
+    },
+    {
+      "text": "Paqué",
+      "label": "PER",
+      "start": 75534,
+      "end": 75539
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 75569,
+      "end": 75585
+    },
+    {
+      "text": "Bundeswehr",
+      "label": "ORG",
+      "start": 76680,
+      "end": 76690
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77879,
+      "end": 77894
+    },
+    {
+      "text": "Karl - Heinz Paqué",
+      "label": "PER",
+      "start": 78535,
+      "end": 78551
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 81190,
+      "end": 81204
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 82161,
+      "end": 82163
+    },
+    {
+      "text": "GO",
+      "label": "ORG",
+      "start": 82276,
+      "end": 82278
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 82279,
+      "end": 82281
+    }
+  ]
+}

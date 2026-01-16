@@ -1,0 +1,845 @@
+{
+  "filename": "31.03.2005_100._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 44,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 184,
+      "end": 198
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 668,
+      "end": 742
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 861,
+      "end": 916
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 950,
+      "end": 967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1178,
+      "end": 1205
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1242
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1346,
+      "end": 1373
+    },
+    {
+      "text": "Mag. Ruth Becher",
+      "label": "PER",
+      "start": 1787,
+      "end": 1803
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2954,
+      "end": 2965
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3020,
+      "end": 3047
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3228
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3429,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3495
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3692,
+      "end": 3711
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 950,
+      "end": 967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1178,
+      "end": 1205
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1241
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1346,
+      "end": 1373
+    },
+    {
+      "text": "Mag. Ruth Becher",
+      "label": "PER",
+      "start": 1787,
+      "end": 1803
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2954,
+      "end": 2965
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3020,
+      "end": 3047
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3228
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3429,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3495
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 668,
+      "end": 742
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 791,
+      "end": 810
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 861,
+      "end": 916
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1144,
+      "end": 1160
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1189,
+      "end": 1205
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1357,
+      "end": 1373
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3031,
+      "end": 3047
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3211,
+      "end": 3228
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3440,
+      "end": 3456
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 484
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 512,
+      "end": 618
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 668,
+      "end": 713
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 861,
+      "end": 888
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 937,
+      "end": 949
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1178,
+      "end": 1205
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1241
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1346,
+      "end": 1373
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1601,
+      "end": 1615
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1774,
+      "end": 1786
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3020,
+      "end": 3047
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3228
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3429,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3495
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 484
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 512,
+      "end": 618
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 668,
+      "end": 713
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 776,
+      "end": 810
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 861,
+      "end": 888
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 937,
+      "end": 949
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1133,
+      "end": 1160
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1178,
+      "end": 1205
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1228,
+      "end": 1241
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1346,
+      "end": 1373
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1601,
+      "end": 1615
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1774,
+      "end": 1786
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2954,
+      "end": 2965
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3020,
+      "end": 3047
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3228
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3429,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3495
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 184,
+      "end": 192
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 791,
+      "end": 810
+    },
+    {
+      "text": "Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 881,
+      "end": 916
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1059
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1144,
+      "end": 1160
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1189,
+      "end": 1205
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3031,
+      "end": 3047
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3211,
+      "end": 3228
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3440,
+      "end": 3456
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 791,
+      "end": 810
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 950,
+      "end": 953
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 955,
+      "end": 967
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1056
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1144,
+      "end": 1160
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1189,
+      "end": 1205
+    },
+    {
+      "text": "Haidlmayr",
+      "label": "PER",
+      "start": 1301,
+      "end": 1310
+    },
+    {
+      "text": "Di",
+      "label": "PER",
+      "start": 1346,
+      "end": 1348
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 1916,
+      "end": 1931
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2082,
+      "end": 2097
+    },
+    {
+      "text": "Manfred Lackner",
+      "label": "PER",
+      "start": 2260,
+      "end": 2275
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 2773,
+      "end": 2774
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 2945,
+      "end": 2946
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3031,
+      "end": 3047
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 3211,
+      "end": 3228
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3440,
+      "end": 3456
+    }
+  ]
+}

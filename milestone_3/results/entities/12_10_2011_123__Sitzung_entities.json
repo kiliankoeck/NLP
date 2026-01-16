@@ -1,0 +1,1553 @@
+{
+  "filename": "12.10.2011_123._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 949,
+      "end": 969
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 987,
+      "end": 1007
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1042,
+      "end": 1055
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Dr. Matznetter",
+      "label": "PER",
+      "start": 1110,
+      "end": 1124
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 1126,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1174,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Dr. Königshofer",
+      "label": "PER",
+      "start": 1223,
+      "end": 1238
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1274,
+      "end": 1294
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1741,
+      "end": 1755
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2167,
+      "end": 2191
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Mag. Daniela Musiol",
+      "label": "PER",
+      "start": 2665,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2977
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3035,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3300,
+      "end": 3324
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3475,
+      "end": 3499
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 3643,
+      "end": 3666
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3783,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3985,
+      "end": 3998
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 949,
+      "end": 969
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 987,
+      "end": 1007
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1042,
+      "end": 1055
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1110,
+      "end": 1113
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1114,
+      "end": 1124
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1126,
+      "end": 1129
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1130,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1155,
+      "end": 1159
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1160,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1174,
+      "end": 1177
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1178,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1223,
+      "end": 1226
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1227,
+      "end": 1238
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1274,
+      "end": 1294
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1741,
+      "end": 1755
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2167,
+      "end": 2191
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Mag. Daniela Musiol",
+      "label": "PER",
+      "start": 2665,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2977
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3035,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3300,
+      "end": 3324
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3475,
+      "end": 3499
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 3643,
+      "end": 3666
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3783,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3985,
+      "end": 3998
+    }
+  ],
+  "flair": [
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 732,
+      "end": 759
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 996,
+      "end": 1007
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1114,
+      "end": 1124
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1130,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1160,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1178,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1227,
+      "end": 1238
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1741,
+      "end": 1755
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2171,
+      "end": 2191
+    },
+    {
+      "text": "Amtsblatt der Wiener Zeitung",
+      "label": "ORG",
+      "start": 2260,
+      "end": 2288
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Daniela Musiol",
+      "label": "PER",
+      "start": 2670,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Wirtschaft",
+      "label": "ORG",
+      "start": 3240,
+      "end": 3250
+    },
+    {
+      "text": "Industrie",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3264
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3304,
+      "end": 3324
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3479,
+      "end": 3499
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3648,
+      "end": 3666
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3792,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 732,
+      "end": 759
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 949,
+      "end": 952
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 987,
+      "end": 990
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 996,
+      "end": 1007
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1042,
+      "end": 1055
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Dr. Matznetter",
+      "label": "PER",
+      "start": 1110,
+      "end": 1124
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 1126,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1174,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1522,
+      "end": 1536
+    },
+    {
+      "text": "J.\nB.",
+      "label": "PER",
+      "start": 1605,
+      "end": 1610
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1741,
+      "end": 1755
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2171,
+      "end": 2191
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2652,
+      "end": 2664
+    },
+    {
+      "text": "Daniela Musiol",
+      "label": "PER",
+      "start": 2670,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2977
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3304,
+      "end": 3324
+    },
+    {
+      "text": "EPU",
+      "label": "ORG",
+      "start": 3603,
+      "end": 3606
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3642
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3648,
+      "end": 3666
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3783,
+      "end": 3786
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3792,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3985,
+      "end": 3998
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 732,
+      "end": 759
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 949,
+      "end": 952
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 987,
+      "end": 990
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 996,
+      "end": 1007
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1042,
+      "end": 1055
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Dr. Matznetter",
+      "label": "PER",
+      "start": 1110,
+      "end": 1124
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 1126,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1174,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1522,
+      "end": 1536
+    },
+    {
+      "text": "J.\nB.",
+      "label": "PER",
+      "start": 1605,
+      "end": 1610
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1741,
+      "end": 1755
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2171,
+      "end": 2191
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2652,
+      "end": 2664
+    },
+    {
+      "text": "Daniela Musiol",
+      "label": "PER",
+      "start": 2670,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2977
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3304,
+      "end": 3324
+    },
+    {
+      "text": "EPU",
+      "label": "ORG",
+      "start": 3603,
+      "end": 3606
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3630,
+      "end": 3642
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3648,
+      "end": 3666
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3783,
+      "end": 3786
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3792,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3985,
+      "end": 3998
+    }
+  ],
+  "bert": [
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Verfassung",
+      "label": "ORG",
+      "start": 781,
+      "end": 791
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 864,
+      "end": 875
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 996,
+      "end": 1007
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1114,
+      "end": 1124
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1130,
+      "end": 1141
+    },
+    {
+      "text": "Neugebauer",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1178,
+      "end": 1187
+    },
+    {
+      "text": "Windbüchler - Souschill",
+      "label": "PER",
+      "start": 1189,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1227,
+      "end": 1238
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2171,
+      "end": 2191
+    },
+    {
+      "text": "Amt",
+      "label": "ORG",
+      "start": 2260,
+      "end": 2263
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 2274,
+      "end": 2288
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Daniela Musiol",
+      "label": "PER",
+      "start": 2670,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2974
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Wirtschaft",
+      "label": "ORG",
+      "start": 3240,
+      "end": 3250
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3304,
+      "end": 3324
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3479,
+      "end": 3499
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3648,
+      "end": 3666
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3792,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3985,
+      "end": 3998
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Josef Jury",
+      "label": "PER",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "text": "Verfassungsgerichtshofes",
+      "label": "ORG",
+      "start": 781,
+      "end": 805
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 996,
+      "end": 1007
+    },
+    {
+      "text": "Köfer",
+      "label": "PER",
+      "start": 1103,
+      "end": 1108
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1114,
+      "end": 1124
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1130,
+      "end": 1141
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1160,
+      "end": 1165
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1167,
+      "end": 1172
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1178,
+      "end": 1187
+    },
+    {
+      "text": "##ler",
+      "label": "PER",
+      "start": 1197,
+      "end": 1200
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 1201,
+      "end": 1210
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1212,
+      "end": 1218
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1227,
+      "end": 1238
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1283,
+      "end": 1294
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1942,
+      "end": 1954
+    },
+    {
+      "text": "Justizauss",
+      "label": "ORG",
+      "start": 2116,
+      "end": 2126
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 2171,
+      "end": 2191
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 2274,
+      "end": 2288
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2357
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2510,
+      "end": 2522
+    },
+    {
+      "text": "Daniela Musiol",
+      "label": "PER",
+      "start": 2670,
+      "end": 2684
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 2773,
+      "end": 2787
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 2924,
+      "end": 2925
+    },
+    {
+      "text": "##eh",
+      "label": "ORG",
+      "start": 2925,
+      "end": 2927
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2966,
+      "end": 2977
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3044,
+      "end": 3055
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 3066,
+      "end": 3069
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3110,
+      "end": 3125
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3304,
+      "end": 3324
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3479,
+      "end": 3499
+    },
+    {
+      "text": "EP",
+      "label": "ORG",
+      "start": 3603,
+      "end": 3605
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 3648,
+      "end": 3666
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3792,
+      "end": 3803
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    }
+  ]
+}

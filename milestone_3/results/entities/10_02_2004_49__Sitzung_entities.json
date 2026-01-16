@@ -1,0 +1,1199 @@
+{
+  "filename": "10.02.2004_49._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Dr. Franz-Joseph\\n\\nHuainigg)",
+      "label": "PER",
+      "start": 894,
+      "end": 920
+    },
+    {
+      "text": "Dr. Günther Kräuter,",
+      "label": "PER",
+      "start": 1333,
+      "end": 1353
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1433,
+      "end": 1445
+    },
+    {
+      "text": "Dr. Andreas Khol.",
+      "label": "PER",
+      "start": 1510,
+      "end": 1527
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 1544,
+      "end": 1561
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1594
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn,",
+      "label": "PER",
+      "start": 1655,
+      "end": 1676
+    },
+    {
+      "text": "Ing. Kaipel,",
+      "label": "PER",
+      "start": 1677,
+      "end": 1689
+    },
+    {
+      "text": "Reheis,",
+      "label": "PER",
+      "start": 1690,
+      "end": 1697
+    },
+    {
+      "text": "Kößl,",
+      "label": "PER",
+      "start": 1698,
+      "end": 1703
+    },
+    {
+      "text": "Dr. Trinkl,",
+      "label": "PER",
+      "start": 1704,
+      "end": 1715
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1716,
+      "end": 1724
+    },
+    {
+      "text": "Rossmann.",
+      "label": "PER",
+      "start": 1729,
+      "end": 1738
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 1773,
+      "end": 1790
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg,",
+      "label": "PER",
+      "start": 2374,
+      "end": 2400
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer,",
+      "label": "PER",
+      "start": 2699,
+      "end": 2721
+    },
+    {
+      "text": "Herbert Scheibner,",
+      "label": "PER",
+      "start": 3017,
+      "end": 3035
+    },
+    {
+      "text": "Mag. Wilhelm Molterer,",
+      "label": "PER",
+      "start": 3036,
+      "end": 3058
+    },
+    {
+      "text": "Dr. Johannes Jarolim,",
+      "label": "PER",
+      "start": 3368,
+      "end": 3389
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3494
+    },
+    {
+      "text": "Dr. Andreas Khol\\n\\n",
+      "label": "PER",
+      "start": 3548,
+      "end": 3564
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber,",
+      "label": "PER",
+      "start": 3641,
+      "end": 3676
+    },
+    {
+      "text": "Mag. Werner Kogler,",
+      "label": "PER",
+      "start": 3824,
+      "end": 3843
+    },
+    {
+      "text": "Bundesministeriums\\n\\nfür Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer,",
+      "label": "PER",
+      "start": 4198,
+      "end": 4212
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 4327,
+      "end": 4344
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4502
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4690,
+      "end": 4709
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 894,
+      "end": 897
+    },
+    {
+      "text": "Franz-Joseph",
+      "label": "PER",
+      "start": 898,
+      "end": 910
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1333,
+      "end": 1352
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1433,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1510,
+      "end": 1526
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1544,
+      "end": 1560
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1594
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 1655,
+      "end": 1665
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1666,
+      "end": 1675
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1677,
+      "end": 1681
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 1682,
+      "end": 1688
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1690,
+      "end": 1696
+    },
+    {
+      "text": "Kößl",
+      "label": "PER",
+      "start": 1698,
+      "end": 1702
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1704,
+      "end": 1707
+    },
+    {
+      "text": "Trinkl",
+      "label": "PER",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1716,
+      "end": 1719
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1720,
+      "end": 1724
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1729,
+      "end": 1737
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1773,
+      "end": 1789
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2374,
+      "end": 2399
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2699,
+      "end": 2720
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 3036,
+      "end": 3057
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3368,
+      "end": 3388
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3493
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3548,
+      "end": 3564
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3641,
+      "end": 3675
+    },
+    {
+      "text": "Mag. Werner Kogler",
+      "label": "PER",
+      "start": 3824,
+      "end": 3842
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Veit",
+      "label": "PER",
+      "start": 4305,
+      "end": 4309
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4327,
+      "end": 4343
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4501
+    }
+  ],
+  "flair": [
+    {
+      "text": "Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 898,
+      "end": 919
+    },
+    {
+      "text": "für Justiz",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1299
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 1337,
+      "end": 1352
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1514,
+      "end": 1526
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1548,
+      "end": 1560
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1666,
+      "end": 1675
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 1682,
+      "end": 1688
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 1690,
+      "end": 1696
+    },
+    {
+      "text": "Kößl",
+      "label": "PER",
+      "start": 1698,
+      "end": 1702
+    },
+    {
+      "text": "Trinkl",
+      "label": "PER",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1720,
+      "end": 1724
+    },
+    {
+      "text": "Rossmann",
+      "label": "PER",
+      "start": 1729,
+      "end": 1737
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1777,
+      "end": 1789
+    },
+    {
+      "text": "Petitionen und Bürgerinitiativen",
+      "label": "ORG",
+      "start": 2225,
+      "end": 2257
+    },
+    {
+      "text": "Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2378,
+      "end": 2399
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2703,
+      "end": 2720
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3041,
+      "end": 3057
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3372,
+      "end": 3388
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3552,
+      "end": 3564
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3656,
+      "end": 3675
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 3829,
+      "end": 3842
+    },
+    {
+      "text": "Bundesministeriums für Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4331,
+      "end": 4343
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 374,
+      "end": 476
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 504,
+      "end": 610
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 646,
+      "end": 761
+    },
+    {
+      "text": "Abgeordnetem Dr. Franz-Joseph\nHuainigg",
+      "label": "PER",
+      "start": 881,
+      "end": 919
+    },
+    {
+      "text": "...................................................................................................",
+      "label": "ORG",
+      "start": 939,
+      "end": 1038
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1299
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1332
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1333,
+      "end": 1352
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1433,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1510,
+      "end": 1526
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1544,
+      "end": 1560
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1594
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 1655,
+      "end": 1675
+    },
+    {
+      "text": "Ing. Kaipel",
+      "label": "PER",
+      "start": 1677,
+      "end": 1688
+    },
+    {
+      "text": "Dr. Trinkl",
+      "label": "ORG",
+      "start": 1704,
+      "end": 1714
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1773,
+      "end": 1789
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2020,
+      "end": 2031
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2374,
+      "end": 2399
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2699,
+      "end": 2720
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3041,
+      "end": 3057
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3355,
+      "end": 3367
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3368,
+      "end": 3388
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3493
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3548,
+      "end": 3564
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3641,
+      "end": 3675
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3811,
+      "end": 3823
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 3829,
+      "end": 3842
+    },
+    {
+      "text": "Bundesministeriums\nfür Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4327,
+      "end": 4343
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4501
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 374,
+      "end": 476
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 504,
+      "end": 610
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 646,
+      "end": 761
+    },
+    {
+      "text": "Abgeordnetem Dr. Franz-Joseph\nHuainigg",
+      "label": "PER",
+      "start": 881,
+      "end": 919
+    },
+    {
+      "text": "...................................................................................................",
+      "label": "ORG",
+      "start": 939,
+      "end": 1038
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1299
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1320,
+      "end": 1332
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1333,
+      "end": 1352
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1433,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1510,
+      "end": 1526
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1544,
+      "end": 1560
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1594
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 1655,
+      "end": 1675
+    },
+    {
+      "text": "Ing. Kaipel",
+      "label": "PER",
+      "start": 1677,
+      "end": 1688
+    },
+    {
+      "text": "Dr. Trinkl",
+      "label": "ORG",
+      "start": 1704,
+      "end": 1714
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1773,
+      "end": 1789
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2020,
+      "end": 2031
+    },
+    {
+      "text": "Dr. Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2374,
+      "end": 2399
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2699,
+      "end": 2720
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3041,
+      "end": 3057
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3355,
+      "end": 3367
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3368,
+      "end": 3388
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3493
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3548,
+      "end": 3564
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3641,
+      "end": 3675
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3811,
+      "end": 3823
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 3829,
+      "end": 3842
+    },
+    {
+      "text": "Bundesministeriums\nfür Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4327,
+      "end": 4343
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4501
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 208,
+      "end": 218
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 898,
+      "end": 919
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 2378,
+      "end": 2399
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2667
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2703,
+      "end": 2720
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3041,
+      "end": 3057
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3372,
+      "end": 3388
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3493
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3552,
+      "end": 3564
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3566,
+      "end": 3569
+    },
+    {
+      "text": "##schuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3569,
+      "end": 3605
+    },
+    {
+      "text": "Wolfgang Pirklhu",
+      "label": "PER",
+      "start": 3656,
+      "end": 3672
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 3829,
+      "end": 3842
+    },
+    {
+      "text": "Bundesministeriums für Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4331,
+      "end": 4343
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4496
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 898,
+      "end": 903
+    },
+    {
+      "text": "Joseph Hua",
+      "label": "PER",
+      "start": 904,
+      "end": 914
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 2378,
+      "end": 2399
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2703,
+      "end": 2720
+    },
+    {
+      "text": "SV",
+      "label": "ORG",
+      "start": 2975,
+      "end": 2977
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3017,
+      "end": 3034
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3041,
+      "end": 3057
+    },
+    {
+      "text": "SV",
+      "label": "ORG",
+      "start": 3305,
+      "end": 3307
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3372,
+      "end": 3388
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3482,
+      "end": 3490
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3552,
+      "end": 3564
+    },
+    {
+      "text": "Wolfgang Pirklhu",
+      "label": "PER",
+      "start": 3656,
+      "end": 3672
+    },
+    {
+      "text": ". Werner Kogler",
+      "label": "PER",
+      "start": 3827,
+      "end": 3842
+    },
+    {
+      "text": "Bundesministeriums für Finanzen",
+      "label": "ORG",
+      "start": 3937,
+      "end": 3968
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4198,
+      "end": 4211
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4331,
+      "end": 4343
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4488,
+      "end": 4496
+    },
+    {
+      "text": "Parlamentsdire",
+      "label": "ORG",
+      "start": 4690,
+      "end": 4704
+    }
+  ]
+}

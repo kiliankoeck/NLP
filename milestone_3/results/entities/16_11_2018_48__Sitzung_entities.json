@@ -1,0 +1,2381 @@
+{
+  "filename": "16.11.2018_48._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz",
+      "label": "PER",
+      "start": 664,
+      "end": 735
+    },
+    {
+      "text": "Ing. Maurice Androsch",
+      "label": "PER",
+      "start": 769,
+      "end": 790
+    },
+    {
+      "text": "Bundesministerin für Digitalisierung und Wirtschaftsstandort",
+      "label": "PER",
+      "start": 841,
+      "end": 901
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "Bundesministers für Bildung, Wissenschaft und Forschung",
+      "label": "PER",
+      "start": 1003,
+      "end": 1058
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "Bundeskanzlers",
+      "label": "PER",
+      "start": 1160,
+      "end": 1174
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1208,
+      "end": 1227
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 1278,
+      "end": 1305
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz",
+      "label": "PER",
+      "start": 1407,
+      "end": 1478
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1512,
+      "end": 1531
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1626
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1837,
+      "end": 1848
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 1855,
+      "end": 1886
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 1888,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Mag. Michael Hammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1939
+    },
+    {
+      "text": "Eva-Maria\\nHimmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate\\nGruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Dr. Harald Troch",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "Mag. (FH) Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2068,
+      "end": 2100
+    },
+    {
+      "text": "Dr. Peter\\nWittmann",
+      "label": "PER",
+      "start": 2102,
+      "end": 2120
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 2122,
+      "end": 2139
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PER",
+      "start": 2141,
+      "end": 2160
+    },
+    {
+      "text": "MMMag. Dr. Axel Kassegger",
+      "label": "PER",
+      "start": 2162,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Dipl.-Ing. Christian Schandor",
+      "label": "PER",
+      "start": 2206,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Dipl.-Ing. Karin\\nDoppelbauer",
+      "label": "PER",
+      "start": 2255,
+      "end": 2283
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 2288,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 3011,
+      "end": 3030
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 3299,
+      "end": 3318
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PER",
+      "start": 3487,
+      "end": 3508
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3677,
+      "end": 3688
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3748,
+      "end": 3759
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3794,
+      "end": 3814
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger-Vogtenhuber",
+      "label": "PER",
+      "start": 4082,
+      "end": 4103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4324,
+      "end": 4337
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4537,
+      "end": 4556
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 4599,
+      "end": 4614
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4579,
+      "end": 4598
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4640,
+      "end": 4659
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Ing. Maurice Androsch",
+      "label": "PER",
+      "start": 769,
+      "end": 790
+    },
+    {
+      "text": "Stephanie Cox, BA",
+      "label": "PER",
+      "start": 935,
+      "end": 952
+    },
+    {
+      "text": "Stephanie Cox, BA",
+      "label": "PER",
+      "start": 1092,
+      "end": 1109
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1208,
+      "end": 1227
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1512,
+      "end": 1531
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1626
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "Werner Amon, MBA",
+      "label": "PER",
+      "start": 1837,
+      "end": 1853
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 1855,
+      "end": 1886
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 1888,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Mag. Michael Hammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1939
+    },
+    {
+      "text": "Eva-Maria",
+      "label": "PER",
+      "start": 1941,
+      "end": 1950
+    },
+    {
+      "text": "Himmelbauer",
+      "label": "PER",
+      "start": 1951,
+      "end": 1962
+    },
+    {
+      "text": "BSc",
+      "label": "PER",
+      "start": 1964,
+      "end": 1967
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr, MA MLS",
+      "label": "PER",
+      "start": 1984,
+      "end": 2002
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate",
+      "label": "PER",
+      "start": 2020,
+      "end": 2026
+    },
+    {
+      "text": "Gruber",
+      "label": "PER",
+      "start": 2027,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Dr. Harald Troch",
+      "label": "PER",
+      "start": 2050,
+      "end": 2066
+    },
+    {
+      "text": "Mag. (FH) Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2068,
+      "end": 2100
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2102,
+      "end": 2105
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 2106,
+      "end": 2111
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 2112,
+      "end": 2120
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 2122,
+      "end": 2139
+    },
+    {
+      "text": "Mag. Gerhard Kaniak",
+      "label": "PER",
+      "start": 2141,
+      "end": 2160
+    },
+    {
+      "text": "MMMag. Dr. Axel Kassegger",
+      "label": "PER",
+      "start": 2162,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Dipl.-Ing. Christian Schandor",
+      "label": "PER",
+      "start": 2206,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 2255,
+      "end": 2265
+    },
+    {
+      "text": "Karin",
+      "label": "PER",
+      "start": 2266,
+      "end": 2271
+    },
+    {
+      "text": "Doppelbauer",
+      "label": "PER",
+      "start": 2272,
+      "end": 2283
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 2288,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 3011,
+      "end": 3030
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 3299,
+      "end": 3318
+    },
+    {
+      "text": "Mag. Jörg Leichtfried",
+      "label": "PER",
+      "start": 3487,
+      "end": 3508
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3677,
+      "end": 3688
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3748,
+      "end": 3759
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 3794,
+      "end": 3818
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger-Vogtenhuber",
+      "label": "PER",
+      "start": 4082,
+      "end": 4103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4324,
+      "end": 4337
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 4599,
+      "end": 4607
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz",
+      "label": "ORG",
+      "start": 664,
+      "end": 735
+    },
+    {
+      "text": "Maurice Androsch",
+      "label": "PER",
+      "start": 774,
+      "end": 790
+    },
+    {
+      "text": "für Digitalisierung und Wirtschaftsstandort",
+      "label": "ORG",
+      "start": 858,
+      "end": 901
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 950,
+      "end": 952
+    },
+    {
+      "text": "Bundesministers für Bildung, Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1058
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1109
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1213,
+      "end": 1227
+    },
+    {
+      "text": "Inneres",
+      "label": "ORG",
+      "start": 1298,
+      "end": 1305
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1356
+    },
+    {
+      "text": "Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1407,
+      "end": 1478
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1517,
+      "end": 1531
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1837,
+      "end": 1848
+    },
+    {
+      "text": "Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 1866,
+      "end": 1886
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 1888,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1925,
+      "end": 1939
+    },
+    {
+      "text": "Eva-Maria Himmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate Gruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Harald Troch",
+      "label": "PER",
+      "start": 2054,
+      "end": 2066
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2074,
+      "end": 2076
+    },
+    {
+      "text": "Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2078,
+      "end": 2100
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 2126,
+      "end": 2139
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2173,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Christian Schandor",
+      "label": "PER",
+      "start": 2217,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2266,
+      "end": 2283
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 2292,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 3304,
+      "end": 3318
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 3492,
+      "end": 3508
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3748,
+      "end": 3759
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3798,
+      "end": 3814
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 3816,
+      "end": 3818
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger-Vogtenhuber",
+      "label": "PER",
+      "start": 4082,
+      "end": 4103
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 4105,
+      "end": 4107
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4245,
+      "end": 4264
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 4599,
+      "end": 4614
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 184,
+      "end": 227
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 664,
+      "end": 691
+    },
+    {
+      "text": "Ing. Maurice Androsch",
+      "label": "PER",
+      "start": 769,
+      "end": 790
+    },
+    {
+      "text": "Bundesministerin für Digitalisierung und Wirtschaftsstandort",
+      "label": "ORG",
+      "start": 841,
+      "end": 901
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 950,
+      "end": 952
+    },
+    {
+      "text": "Bundesministers für Bildung, Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1058
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1109
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1213,
+      "end": 1227
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1305
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1356
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 1407,
+      "end": 1434
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1511
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1517,
+      "end": 1531
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1626
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1628,
+      "end": 1632
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1837,
+      "end": 1848
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 1855,
+      "end": 1886
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 1888,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1925,
+      "end": 1939
+    },
+    {
+      "text": "Eva-Maria\nHimmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 1996,
+      "end": 2002
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate\nGruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Harald Troch",
+      "label": "PER",
+      "start": 2054,
+      "end": 2066
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2068,
+      "end": 2072
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2074,
+      "end": 2076
+    },
+    {
+      "text": "Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2078,
+      "end": 2100
+    },
+    {
+      "text": "Peter\nWittmann",
+      "label": "PER",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 2126,
+      "end": 2139
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "MMMag",
+      "label": "ORG",
+      "start": 2162,
+      "end": 2167
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2173,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Dipl.-Ing. Christian Schandor",
+      "label": "PER",
+      "start": 2206,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Dipl.-Ing. Karin\nDoppelbauer",
+      "label": "PER",
+      "start": 2255,
+      "end": 2283
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 2288,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2586,
+      "end": 2600
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2998,
+      "end": 3010
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3286,
+      "end": 3298
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 3304,
+      "end": 3318
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3474,
+      "end": 3486
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 3492,
+      "end": 3508
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3677,
+      "end": 3688
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 3690,
+      "end": 3694
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3748,
+      "end": 3759
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3794,
+      "end": 3814
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger-Vogtenhuber",
+      "label": "PER",
+      "start": 4082,
+      "end": 4103
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 4105,
+      "end": 4107
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4324,
+      "end": 4337
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 4599,
+      "end": 4614
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXVI",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 184,
+      "end": 227
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 664,
+      "end": 691
+    },
+    {
+      "text": "Ing. Maurice Androsch",
+      "label": "PER",
+      "start": 769,
+      "end": 790
+    },
+    {
+      "text": "Bundesministerin für Digitalisierung und Wirtschaftsstandort",
+      "label": "ORG",
+      "start": 841,
+      "end": 901
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 950,
+      "end": 952
+    },
+    {
+      "text": "Bundesministers für Bildung, Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1058
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1109
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 1213,
+      "end": 1227
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1305
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1356
+    },
+    {
+      "text": "Bundesministerin für Arbeit",
+      "label": "ORG",
+      "start": 1407,
+      "end": 1434
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1511
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1517,
+      "end": 1531
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1615,
+      "end": 1626
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 1628,
+      "end": 1632
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1700,
+      "end": 1711
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1776,
+      "end": 1789
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 1837,
+      "end": 1848
+    },
+    {
+      "text": "Dipl.-Ing. Nikolaus Berlakovich",
+      "label": "PER",
+      "start": 1855,
+      "end": 1886
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 1888,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1925,
+      "end": 1939
+    },
+    {
+      "text": "Eva-Maria\nHimmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 1996,
+      "end": 2002
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate\nGruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Harald Troch",
+      "label": "PER",
+      "start": 2054,
+      "end": 2066
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2068,
+      "end": 2072
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2074,
+      "end": 2076
+    },
+    {
+      "text": "Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2078,
+      "end": 2100
+    },
+    {
+      "text": "Peter\nWittmann",
+      "label": "PER",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 2126,
+      "end": 2139
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "MMMag",
+      "label": "ORG",
+      "start": 2162,
+      "end": 2167
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2173,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Dipl.-Ing. Christian Schandor",
+      "label": "PER",
+      "start": 2206,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Dipl.-Ing. Karin\nDoppelbauer",
+      "label": "PER",
+      "start": 2255,
+      "end": 2283
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 2288,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2586,
+      "end": 2600
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2998,
+      "end": 3010
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3286,
+      "end": 3298
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 3304,
+      "end": 3318
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3474,
+      "end": 3486
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 3492,
+      "end": 3508
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3677,
+      "end": 3688
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 3690,
+      "end": 3694
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3748,
+      "end": 3759
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3794,
+      "end": 3814
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger-Vogtenhuber",
+      "label": "PER",
+      "start": 4082,
+      "end": 4103
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 4105,
+      "end": 4107
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4324,
+      "end": 4337
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 4599,
+      "end": 4614
+    }
+  ],
+  "bert": [
+    {
+      "text": "Ing. Maurice Androsch",
+      "label": "PER",
+      "start": 769,
+      "end": 790
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1208,
+      "end": 1227
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 1900,
+      "end": 1901
+    },
+    {
+      "text": "Eßl",
+      "label": "PER",
+      "start": 1903,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1925,
+      "end": 1939
+    },
+    {
+      "text": "Eva - Maria Himmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 1964,
+      "end": 1967
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 1996,
+      "end": 2002
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate Gruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Harald Troch",
+      "label": "PER",
+      "start": 2054,
+      "end": 2066
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2074,
+      "end": 2076
+    },
+    {
+      "text": "Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2078,
+      "end": 2100
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 2126,
+      "end": 2139
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2173,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Christian Schandor",
+      "label": "PER",
+      "start": 2217,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2266,
+      "end": 2283
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 2292,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2666,
+      "end": 2668
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2720,
+      "end": 2753
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "text": "FA",
+      "label": "ORG",
+      "start": 3226,
+      "end": 3228
+    },
+    {
+      "text": "Tourismus",
+      "label": "ORG",
+      "start": 3246,
+      "end": 3255
+    },
+    {
+      "text": "##schuss",
+      "label": "ORG",
+      "start": 3258,
+      "end": 3264
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 3304,
+      "end": 3318
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 3492,
+      "end": 3508
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3677,
+      "end": 3688
+    },
+    {
+      "text": "kolaus Scherak",
+      "label": "PER",
+      "start": 3800,
+      "end": 3814
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 3816,
+      "end": 3818
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger",
+      "label": "PER",
+      "start": 4082,
+      "end": 4091
+    },
+    {
+      "text": "Vogtenhuber",
+      "label": "PER",
+      "start": 4092,
+      "end": 4103
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 4105,
+      "end": 4107
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4231,
+      "end": 4264
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4324,
+      "end": 4332
+    },
+    {
+      "text": "Johannes Zinner Unter",
+      "label": "PER",
+      "start": 4599,
+      "end": 4621
+    },
+    {
+      "text": "##v",
+      "label": "ORG",
+      "start": 4833,
+      "end": 4834
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 769,
+      "end": 772
+    },
+    {
+      "text": "Maurice Androsch",
+      "label": "PER",
+      "start": 774,
+      "end": 790
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 935,
+      "end": 948
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 950,
+      "end": 952
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1092,
+      "end": 1105
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1109
+    },
+    {
+      "text": "Mag. Bruno Rossmann",
+      "label": "PER",
+      "start": 1208,
+      "end": 1227
+    },
+    {
+      "text": "Stephanie Cox",
+      "label": "PER",
+      "start": 1339,
+      "end": 1352
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1356
+    },
+    {
+      "text": "r",
+      "label": "ORG",
+      "start": 1900,
+      "end": 1901
+    },
+    {
+      "text": "Eßl",
+      "label": "PER",
+      "start": 1903,
+      "end": 1906
+    },
+    {
+      "text": "Tanja Graf",
+      "label": "PER",
+      "start": 1908,
+      "end": 1918
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1925,
+      "end": 1939
+    },
+    {
+      "text": "Eva - Maria Himmelbauer",
+      "label": "PER",
+      "start": 1941,
+      "end": 1962
+    },
+    {
+      "text": "BSc",
+      "label": "ORG",
+      "start": 1964,
+      "end": 1967
+    },
+    {
+      "text": "Walter Bacher",
+      "label": "PER",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1984,
+      "end": 1994
+    },
+    {
+      "text": "MA MLS",
+      "label": "ORG",
+      "start": 1996,
+      "end": 2002
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 2004,
+      "end": 2018
+    },
+    {
+      "text": "Renate Gruber",
+      "label": "PER",
+      "start": 2020,
+      "end": 2033
+    },
+    {
+      "text": "Erwin Preiner",
+      "label": "PER",
+      "start": 2035,
+      "end": 2048
+    },
+    {
+      "text": "Harald Troch",
+      "label": "PER",
+      "start": 2054,
+      "end": 2066
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 2074,
+      "end": 2076
+    },
+    {
+      "text": "Maximilian Unterrainer",
+      "label": "PER",
+      "start": 2078,
+      "end": 2100
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2106,
+      "end": 2120
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 2126,
+      "end": 2139
+    },
+    {
+      "text": "Gerhard Kaniak",
+      "label": "PER",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "Axel Kassegger",
+      "label": "PER",
+      "start": 2173,
+      "end": 2187
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2189,
+      "end": 2204
+    },
+    {
+      "text": "Christian Schandor",
+      "label": "PER",
+      "start": 2217,
+      "end": 2235
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 2237,
+      "end": 2253
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2266,
+      "end": 2283
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 2292,
+      "end": 2309
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2347,
+      "end": 2358
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2720,
+      "end": 2723
+    },
+    {
+      "text": "für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2730,
+      "end": 2753
+    },
+    {
+      "text": "Gesundheitsauss",
+      "label": "ORG",
+      "start": 2843,
+      "end": 2858
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "text": "FA",
+      "label": "ORG",
+      "start": 3226,
+      "end": 3228
+    },
+    {
+      "text": "##G",
+      "label": "ORG",
+      "start": 3228,
+      "end": 3229
+    },
+    {
+      "text": "Bruno Rossmann",
+      "label": "PER",
+      "start": 3304,
+      "end": 3318
+    },
+    {
+      "text": "Jörg Leichtfried",
+      "label": "PER",
+      "start": 3492,
+      "end": 3508
+    },
+    {
+      "text": "kolaus Scherak",
+      "label": "PER",
+      "start": 3800,
+      "end": 3814
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 3816,
+      "end": 3818
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3997,
+      "end": 4008
+    },
+    {
+      "text": "Holzinger",
+      "label": "PER",
+      "start": 4082,
+      "end": 4091
+    },
+    {
+      "text": "Vogtenhuber",
+      "label": "PER",
+      "start": 4092,
+      "end": 4103
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 4105,
+      "end": 4107
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 4231,
+      "end": 4234
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 4241,
+      "end": 4244
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4287,
+      "end": 4298
+    },
+    {
+      "text": "Johannes Zinner",
+      "label": "PER",
+      "start": 4599,
+      "end": 4614
+    }
+  ]
+}

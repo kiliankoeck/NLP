@@ -1,0 +1,1775 @@
+{
+  "filename": "13.06.2002_108._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 817,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 867,
+      "end": 880
+    },
+    {
+      "text": "Dr. Antoni",
+      "label": "PER",
+      "start": 941,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1011,
+      "end": 1038
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1347,
+      "end": 1349
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Dr. Günter Stummvoll",
+      "label": "PER",
+      "start": 2082,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2444,
+      "end": 2466
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2582,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2775,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3168,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 3537,
+      "end": 3560
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 3835,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Mag. Helmut Kukacka",
+      "label": "PER",
+      "start": 3871,
+      "end": 3890
+    },
+    {
+      "text": "Dr.\\nEvelin Lichtenberger",
+      "label": "PER",
+      "start": 3892,
+      "end": 3916
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 4048,
+      "end": 4071
+    },
+    {
+      "text": "Mag. Walter Tancsits",
+      "label": "PER",
+      "start": 4073,
+      "end": 4093
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4259,
+      "end": 4284
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4286,
+      "end": 4315
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4434,
+      "end": 4461
+    },
+    {
+      "text": "Mag. Maier",
+      "label": "PER",
+      "start": 4515,
+      "end": 4525
+    },
+    {
+      "text": "Dr. Glawischnig",
+      "label": "PER",
+      "start": 4706,
+      "end": 4721
+    },
+    {
+      "text": "Stiftung Leopold",
+      "label": "ORG",
+      "start": 4762,
+      "end": 4778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5037,
+      "end": 5079
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 230,
+      "end": 243
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 817,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 867,
+      "end": 880
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 941,
+      "end": 944
+    },
+    {
+      "text": "Antoni",
+      "label": "PER",
+      "start": 945,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1011,
+      "end": 1038
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2082,
+      "end": 2085
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2444,
+      "end": 2466
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2582,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2775,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3168,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 3537,
+      "end": 3560
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 3835,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Mag. Helmut Kukacka",
+      "label": "PER",
+      "start": 3871,
+      "end": 3890
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3892,
+      "end": 3895
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3916
+    },
+    {
+      "text": "Mag. Reinhard Firlinger",
+      "label": "PER",
+      "start": 4048,
+      "end": 4071
+    },
+    {
+      "text": "Mag. Walter Tancsits",
+      "label": "PER",
+      "start": 4073,
+      "end": 4093
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4259,
+      "end": 4284
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4286,
+      "end": 4315
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4434,
+      "end": 4461
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4515,
+      "end": 4519
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 4520,
+      "end": 4525
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4706,
+      "end": 4709
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 4771,
+      "end": 4778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    }
+  ],
+  "flair": [
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 783,
+      "end": 799
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "Antoni",
+      "label": "PER",
+      "start": 945,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1022,
+      "end": 1038
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1312,
+      "end": 1345
+    },
+    {
+      "text": "Austria Wirtschaftsservice",
+      "label": "ORG",
+      "start": 1960,
+      "end": 1986
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2449,
+      "end": 2466
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2587,
+      "end": 2599
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2786,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3173,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Österreichischen Fußballbundes",
+      "label": "ORG",
+      "start": 3279,
+      "end": 3309
+    },
+    {
+      "text": "Schweizer Fußballverbandes",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3344
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 3541,
+      "end": 3560
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 3876,
+      "end": 3890
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3916
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4053,
+      "end": 4071
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 4078,
+      "end": 4093
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4263,
+      "end": 4284
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4297,
+      "end": 4315
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4445,
+      "end": 4461
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 4520,
+      "end": 4525
+    },
+    {
+      "text": "Glawischnig",
+      "label": "PER",
+      "start": 4710,
+      "end": 4721
+    },
+    {
+      "text": "Leopold",
+      "label": "ORG",
+      "start": 4771,
+      "end": 4778
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 5037,
+      "end": 5051
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5052,
+      "end": 5079
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 230,
+      "end": 267
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 817,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 867,
+      "end": 880
+    },
+    {
+      "text": "Dr. Antoni",
+      "label": "PER",
+      "start": 941,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1011,
+      "end": 1038
+    },
+    {
+      "text": "Austria Wirtschaftsservice – Errichtungsgesetz",
+      "label": "ORG",
+      "start": 1960,
+      "end": 2006
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2076,
+      "end": 2080
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2431,
+      "end": 2443
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2449,
+      "end": 2466
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2569,
+      "end": 2581
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2587,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2775,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3168,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Österreichischen Fußballbundes",
+      "label": "ORG",
+      "start": 3279,
+      "end": 3309
+    },
+    {
+      "text": "Schweizer Fußballverbandes",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3344
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 3537,
+      "end": 3560
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3822,
+      "end": 3834
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 3876,
+      "end": 3890
+    },
+    {
+      "text": "Dr.\nEvelin Lichtenberger",
+      "label": "PER",
+      "start": 3892,
+      "end": 3916
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4035,
+      "end": 4047
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4053,
+      "end": 4071
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 4078,
+      "end": 4093
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4259,
+      "end": 4284
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4286,
+      "end": 4315
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4434,
+      "end": 4461
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4502,
+      "end": 4514
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 4520,
+      "end": 4525
+    },
+    {
+      "text": "Verwaltungsassistenten",
+      "label": "PER",
+      "start": 4592,
+      "end": 4614
+    },
+    {
+      "text": "Dr. Glawischnig",
+      "label": "PER",
+      "start": 4706,
+      "end": 4721
+    },
+    {
+      "text": "Stiftung Leopold",
+      "label": "ORG",
+      "start": 4762,
+      "end": 4778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5052,
+      "end": 5079
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 230,
+      "end": 267
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 772,
+      "end": 799
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 817,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 867,
+      "end": 880
+    },
+    {
+      "text": "Dr. Antoni",
+      "label": "PER",
+      "start": 941,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1011,
+      "end": 1038
+    },
+    {
+      "text": "Austria Wirtschaftsservice – Errichtungsgesetz",
+      "label": "ORG",
+      "start": 1960,
+      "end": 2006
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2076,
+      "end": 2080
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2431,
+      "end": 2443
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2449,
+      "end": 2466
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2569,
+      "end": 2581
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2587,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2775,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3168,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Österreichischen Fußballbundes",
+      "label": "ORG",
+      "start": 3279,
+      "end": 3309
+    },
+    {
+      "text": "Schweizer Fußballverbandes",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3344
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Dr. Gottfried Feurstein",
+      "label": "PER",
+      "start": 3537,
+      "end": 3560
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3822,
+      "end": 3834
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 3876,
+      "end": 3890
+    },
+    {
+      "text": "Dr.\nEvelin Lichtenberger",
+      "label": "PER",
+      "start": 3892,
+      "end": 3916
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4035,
+      "end": 4047
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4053,
+      "end": 4071
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 4078,
+      "end": 4093
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4259,
+      "end": 4284
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4286,
+      "end": 4315
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4434,
+      "end": 4461
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4502,
+      "end": 4514
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 4520,
+      "end": 4525
+    },
+    {
+      "text": "Verwaltungsassistenten",
+      "label": "PER",
+      "start": 4592,
+      "end": 4614
+    },
+    {
+      "text": "Dr. Glawischnig",
+      "label": "PER",
+      "start": 4706,
+      "end": 4721
+    },
+    {
+      "text": "Stiftung Leopold",
+      "label": "ORG",
+      "start": 4762,
+      "end": 4778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4843,
+      "end": 4856
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5052,
+      "end": 5079
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 230,
+      "end": 238
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 688,
+      "end": 699
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 783,
+      "end": 799
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "Antoni",
+      "label": "PER",
+      "start": 945,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1022,
+      "end": 1038
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2449,
+      "end": 2466
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2587,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2786,
+      "end": 2802
+    },
+    {
+      "text": "Ausschuss für Sportangelegenheiten",
+      "label": "ORG",
+      "start": 2803,
+      "end": 2837
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3173,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Österreichischen Fußballbundes",
+      "label": "ORG",
+      "start": 3279,
+      "end": 3309
+    },
+    {
+      "text": "Schweizer Fußballverbandes",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3344
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 3541,
+      "end": 3560
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 3876,
+      "end": 3890
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3916
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4053,
+      "end": 4071
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 4078,
+      "end": 4093
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4263,
+      "end": 4284
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4297,
+      "end": 4315
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4445,
+      "end": 4461
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4515,
+      "end": 4518
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 4520,
+      "end": 4525
+    },
+    {
+      "text": "Glawischnig",
+      "label": "PER",
+      "start": 4710,
+      "end": 4721
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 4771,
+      "end": 4778
+    },
+    {
+      "text": "Kulturausschuss",
+      "label": "ORG",
+      "start": 4793,
+      "end": 4808
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5037,
+      "end": 5079
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 696,
+      "end": 699
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 783,
+      "end": 799
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "Antoni",
+      "label": "PER",
+      "start": 945,
+      "end": 951
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1022,
+      "end": 1038
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2058,
+      "end": 2074
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2086,
+      "end": 2102
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2449,
+      "end": 2466
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2582,
+      "end": 2585
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2587,
+      "end": 2599
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2710,
+      "end": 2721
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2786,
+      "end": 2802
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 2873,
+      "end": 2889
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3010,
+      "end": 3026
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3152,
+      "end": 3166
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3173,
+      "end": 3191
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3193,
+      "end": 3209
+    },
+    {
+      "text": "Österreichischen Fußballbund",
+      "label": "ORG",
+      "start": 3279,
+      "end": 3307
+    },
+    {
+      "text": "Schweizer Fußballverbandes",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3344
+    },
+    {
+      "text": "Hermann Reindl",
+      "label": "PER",
+      "start": 3521,
+      "end": 3535
+    },
+    {
+      "text": "Gottfried Feurstein",
+      "label": "PER",
+      "start": 3541,
+      "end": 3560
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 3840,
+      "end": 3858
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 3860,
+      "end": 3869
+    },
+    {
+      "text": "Helmut Kukacka",
+      "label": "PER",
+      "start": 3876,
+      "end": 3890
+    },
+    {
+      "text": "Evelin Lichtenberger",
+      "label": "PER",
+      "start": 3896,
+      "end": 3916
+    },
+    {
+      "text": "Reinhard Firlinger",
+      "label": "PER",
+      "start": 4053,
+      "end": 4071
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 4078,
+      "end": 4093
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4263,
+      "end": 4284
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4297,
+      "end": 4315
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4445,
+      "end": 4461
+    },
+    {
+      "text": "Mag. Maier",
+      "label": "PER",
+      "start": 4515,
+      "end": 4525
+    },
+    {
+      "text": "Glawischnig",
+      "label": "PER",
+      "start": 4710,
+      "end": 4721
+    },
+    {
+      "text": "Stiftung",
+      "label": "ORG",
+      "start": 4762,
+      "end": 4770
+    },
+    {
+      "text": "Leopold",
+      "label": "PER",
+      "start": 4771,
+      "end": 4778
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 5037,
+      "end": 5079
+    }
+  ]
+}

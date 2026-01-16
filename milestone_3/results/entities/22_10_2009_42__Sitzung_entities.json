@@ -1,0 +1,2015 @@
+{
+  "filename": "22.10.2009_42._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 663,
+      "end": 693
+    },
+    {
+      "text": "Dr. Wolfgang\\nSpadiut",
+      "label": "PER",
+      "start": 727,
+      "end": 747
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 798,
+      "end": 872
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 906,
+      "end": 923
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 974,
+      "end": 1048
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 1082,
+      "end": 1101
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "PER",
+      "start": 1152,
+      "end": 1198
+    },
+    {
+      "text": ". Walter Rosenkranz",
+      "label": "PER",
+      "start": 1234,
+      "end": 1253
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1304,
+      "end": 1360
+    },
+    {
+      "text": "Ing. Christian Höbart",
+      "label": "PER",
+      "start": 1394,
+      "end": 1415
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1466,
+      "end": 1522
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1681,
+      "end": 1737
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1771,
+      "end": 1795
+    },
+    {
+      "text": "Obmannes des Untersuchungsausschusses",
+      "label": "PER",
+      "start": 1852,
+      "end": 1889
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1923,
+      "end": 1943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2002
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2232,
+      "end": 2237
+    },
+    {
+      "text": "Dr. Schüssel",
+      "label": "PER",
+      "start": 2239,
+      "end": 2251
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 2253,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 2278,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4014
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 4087,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Ing. Hermann\\nSchultes",
+      "label": "PER",
+      "start": 4124,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 4168,
+      "end": 4185
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 4329,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5064,
+      "end": 5077
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5307,
+      "end": 5326
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 727,
+      "end": 730
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 731,
+      "end": 739
+    },
+    {
+      "text": "Spadiut",
+      "label": "PER",
+      "start": 740,
+      "end": 747
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 906,
+      "end": 923
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 1082,
+      "end": 1101
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1232,
+      "end": 1253
+    },
+    {
+      "text": "Ing. Christian Höbart",
+      "label": "PER",
+      "start": 1394,
+      "end": 1415
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1771,
+      "end": 1795
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1923,
+      "end": 1943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2002
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2232,
+      "end": 2237
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2239,
+      "end": 2242
+    },
+    {
+      "text": "Schüssel",
+      "label": "PER",
+      "start": 2243,
+      "end": 2251
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2253,
+      "end": 2257
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 2258,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2278,
+      "end": 2281
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 2282,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4014
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 4087,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 4124,
+      "end": 4128
+    },
+    {
+      "text": "Hermann",
+      "label": "PER",
+      "start": 4129,
+      "end": 4136
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 4137,
+      "end": 4145
+    },
+    {
+      "text": "Carmen",
+      "label": "PER",
+      "start": 4147,
+      "end": 4153
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 4168,
+      "end": 4185
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 4329,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5064,
+      "end": 5077
+    }
+  ],
+  "flair": [
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 731,
+      "end": 747
+    },
+    {
+      "text": "für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 814,
+      "end": 872
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 990,
+      "end": 993
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 994,
+      "end": 1048
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1168,
+      "end": 1198
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1236,
+      "end": 1253
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1304,
+      "end": 1360
+    },
+    {
+      "text": "Christian Höbart",
+      "label": "PER",
+      "start": 1399,
+      "end": 1415
+    },
+    {
+      "text": "für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1522
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1681,
+      "end": 1737
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1775,
+      "end": 1795
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1932,
+      "end": 1943
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1978
+    },
+    {
+      "text": "JPR",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1988
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2232,
+      "end": 2237
+    },
+    {
+      "text": "Schüssel",
+      "label": "PER",
+      "start": 2243,
+      "end": 2251
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 2258,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 2282,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "Umweltsenat",
+      "label": "ORG",
+      "start": 3831,
+      "end": 3842
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 4092,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 4129,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 4173,
+      "end": 4185
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 4333,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 183,
+      "end": 226
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 663,
+      "end": 693
+    },
+    {
+      "text": "Dr. Wolfgang\nSpadiut",
+      "label": "PER",
+      "start": 727,
+      "end": 747
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 798,
+      "end": 843
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 974,
+      "end": 1019
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1152,
+      "end": 1198
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1231
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1232,
+      "end": 1253
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1304,
+      "end": 1332
+    },
+    {
+      "text": "Ing. Christian Höbart",
+      "label": "PER",
+      "start": 1394,
+      "end": 1415
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1466,
+      "end": 1494
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1681,
+      "end": 1709
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1775,
+      "end": 1795
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1932,
+      "end": 1943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2002
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Dr. Schüssel",
+      "label": "PER",
+      "start": 2239,
+      "end": 2251
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 2253,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 2278,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2574,
+      "end": 2588
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3602,
+      "end": 3614
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4014
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4074,
+      "end": 4086
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 4092,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Ing. Hermann\nSchultes",
+      "label": "PER",
+      "start": 4124,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 4168,
+      "end": 4185
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4316,
+      "end": 4328
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 4329,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5064,
+      "end": 5077
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 183,
+      "end": 226
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 663,
+      "end": 693
+    },
+    {
+      "text": "Dr. Wolfgang\nSpadiut",
+      "label": "PER",
+      "start": 727,
+      "end": 747
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 798,
+      "end": 843
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 893,
+      "end": 905
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 974,
+      "end": 1019
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1152,
+      "end": 1198
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1231
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1232,
+      "end": 1253
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1304,
+      "end": 1332
+    },
+    {
+      "text": "Ing. Christian Höbart",
+      "label": "PER",
+      "start": 1394,
+      "end": 1415
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1466,
+      "end": 1494
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1654,
+      "end": 1665
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1681,
+      "end": 1709
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1775,
+      "end": 1795
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1932,
+      "end": 1943
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1991,
+      "end": 2002
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Dr. Schüssel",
+      "label": "PER",
+      "start": 2239,
+      "end": 2251
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 2253,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 2278,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2574,
+      "end": 2588
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3602,
+      "end": 3614
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4014
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4074,
+      "end": 4086
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 4092,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Ing. Hermann\nSchultes",
+      "label": "PER",
+      "start": 4124,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 4168,
+      "end": 4185
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4316,
+      "end": 4328
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 4329,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5064,
+      "end": 5077
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 183,
+      "end": 191
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 731,
+      "end": 747
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 798,
+      "end": 804
+    },
+    {
+      "text": "Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 818,
+      "end": 843
+    },
+    {
+      "text": "Umwelt",
+      "label": "ORG",
+      "start": 845,
+      "end": 851
+    },
+    {
+      "text": "Wasserwirtschaft",
+      "label": "ORG",
+      "start": 856,
+      "end": 872
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 906,
+      "end": 910
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "Forstwirtschaft",
+      "label": "ORG",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1082,
+      "end": 1086
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "Wissenschaft",
+      "label": "ORG",
+      "start": 1172,
+      "end": 1184
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1236,
+      "end": 1253
+    },
+    {
+      "text": "Verkehr",
+      "label": "ORG",
+      "start": 1325,
+      "end": 1332
+    },
+    {
+      "text": "Christian Höbart",
+      "label": "PER",
+      "start": 1399,
+      "end": 1415
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1932,
+      "end": 1943
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1978
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1991,
+      "end": 1999
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2232,
+      "end": 2237
+    },
+    {
+      "text": "Schüssel",
+      "label": "PER",
+      "start": 2243,
+      "end": 2251
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 2253,
+      "end": 2256
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 2258,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 2282,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2642,
+      "end": 2644
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2654,
+      "end": 2656
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2720,
+      "end": 2724
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2777,
+      "end": 2810
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 3549,
+      "end": 3580
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4011
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 4092,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 4129,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 4173,
+      "end": 4185
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 4333,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 4998,
+      "end": 5029
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5064,
+      "end": 5077
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 731,
+      "end": 747
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 780,
+      "end": 782
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 911,
+      "end": 923
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 956,
+      "end": 958
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1082,
+      "end": 1085
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1134,
+      "end": 1136
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1236,
+      "end": 1253
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1286,
+      "end": 1288
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 1394,
+      "end": 1397
+    },
+    {
+      "text": "Christian Höbart",
+      "label": "PER",
+      "start": 1399,
+      "end": 1415
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1932,
+      "end": 1943
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1978
+    },
+    {
+      "text": "JP",
+      "label": "ORG",
+      "start": 1985,
+      "end": 1987
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2102,
+      "end": 2118
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2136,
+      "end": 2152
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 2226,
+      "end": 2230
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2232,
+      "end": 2237
+    },
+    {
+      "text": "Schüssel",
+      "label": "PER",
+      "start": 2243,
+      "end": 2251
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 2258,
+      "end": 2263
+    },
+    {
+      "text": "Vilimsky",
+      "label": "PER",
+      "start": 2265,
+      "end": 2273
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 2282,
+      "end": 2294
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2330,
+      "end": 2346
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2654,
+      "end": 2656
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2720,
+      "end": 2722
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3058,
+      "end": 3072
+    },
+    {
+      "text": "Lutz Weinzinger",
+      "label": "PER",
+      "start": 3226,
+      "end": 3241
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 3363,
+      "end": 3386
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 3615,
+      "end": 3630
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4003,
+      "end": 4011
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4036,
+      "end": 4052
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 4092,
+      "end": 4110
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4112,
+      "end": 4122
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 4129,
+      "end": 4145
+    },
+    {
+      "text": "Carmen Gartelgruber",
+      "label": "PER",
+      "start": 4147,
+      "end": 4166
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 4173,
+      "end": 4185
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 4333,
+      "end": 4350
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4481,
+      "end": 4495
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 4651,
+      "end": 4652
+    },
+    {
+      "text": "##eh",
+      "label": "ORG",
+      "start": 4652,
+      "end": 4654
+    },
+    {
+      "text": "Werner Herbert",
+      "label": "PER",
+      "start": 4722,
+      "end": 4736
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4949,
+      "end": 4965
+    }
+  ]
+}

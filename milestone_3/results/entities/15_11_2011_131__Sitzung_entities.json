@@ -1,0 +1,1169 @@
+{
+  "filename": "15.11.2011_131._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Dr. Andreas Karlsböck",
+      "label": "PER",
+      "start": 940,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1124,
+      "end": 1144
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1164,
+      "end": 1184
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1232
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1280,
+      "end": 1288
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1373,
+      "end": 1393
+    },
+    {
+      "text": "Bundesministerin",
+      "label": "PER",
+      "start": 1882,
+      "end": 1898
+    },
+    {
+      "text": "Dr. Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2539,
+      "end": 2559
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2694,
+      "end": 2728
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3070,
+      "end": 3081
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3142,
+      "end": 3162
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3310,
+      "end": 3342
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "Hannes Weninger",
+      "label": "PER",
+      "start": 3706,
+      "end": 3721
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 4194,
+      "end": 4218
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4367,
+      "end": 4387
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4413,
+      "end": 4426
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 940,
+      "end": 943
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 944,
+      "end": 951
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1124,
+      "end": 1144
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1164,
+      "end": 1184
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1232
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1280,
+      "end": 1288
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1302,
+      "end": 1306
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1312
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1317,
+      "end": 1320
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 1321,
+      "end": 1335
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1373,
+      "end": 1393
+    },
+    {
+      "text": "Dr. Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2539,
+      "end": 2559
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2694,
+      "end": 2728
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3070,
+      "end": 3081
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3142,
+      "end": 3162
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3310,
+      "end": 3313
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 3314,
+      "end": 3320
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "Hannes Weninger",
+      "label": "PER",
+      "start": 3706,
+      "end": 3721
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 4194,
+      "end": 4218
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4367,
+      "end": 4387
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4413,
+      "end": 4426
+    }
+  ],
+  "flair": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 811,
+      "end": 813
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 850,
+      "end": 906
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 944,
+      "end": 961
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1144
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1169,
+      "end": 1184
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1280,
+      "end": 1288
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1307,
+      "end": 1312
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 1321,
+      "end": 1335
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1378,
+      "end": 1393
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2543,
+      "end": 2559
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2709,
+      "end": 2728
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3314,
+      "end": 3342
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3688,
+      "end": 3704
+    },
+    {
+      "text": "Hannes Weninger",
+      "label": "PER",
+      "start": 3706,
+      "end": 3721
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 4198,
+      "end": 4218
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4372,
+      "end": 4387
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 780,
+      "end": 782
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 811,
+      "end": 816
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 850,
+      "end": 878
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 944,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1144
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1164,
+      "end": 1167
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1169,
+      "end": 1184
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1232
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1280,
+      "end": 1288
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1373,
+      "end": 1376
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1378,
+      "end": 1393
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1621,
+      "end": 1635
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1882,
+      "end": 1911
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1924,
+      "end": 1926
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2543,
+      "end": 2559
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2694,
+      "end": 2728
+    },
+    {
+      "text": "Bundes-Stiftungs-",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2898
+    },
+    {
+      "text": "VerGNov",
+      "label": "ORG",
+      "start": 2961,
+      "end": 2968
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3070,
+      "end": 3081
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3142,
+      "end": 3145
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3310,
+      "end": 3342
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "Hannes Weninger",
+      "label": "PER",
+      "start": 3706,
+      "end": 3721
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 4194,
+      "end": 4218
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4367,
+      "end": 4370
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4372,
+      "end": 4387
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4413,
+      "end": 4426
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 780,
+      "end": 782
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 811,
+      "end": 816
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 850,
+      "end": 878
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 944,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1144
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1164,
+      "end": 1167
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1169,
+      "end": 1184
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1232
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1280,
+      "end": 1288
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1290,
+      "end": 1300
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1302,
+      "end": 1312
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1373,
+      "end": 1376
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1378,
+      "end": 1393
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1621,
+      "end": 1635
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 1882,
+      "end": 1911
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1924,
+      "end": 1926
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2543,
+      "end": 2559
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2694,
+      "end": 2728
+    },
+    {
+      "text": "Bundes-Stiftungs-",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2898
+    },
+    {
+      "text": "VerGNov",
+      "label": "ORG",
+      "start": 2961,
+      "end": 2968
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3070,
+      "end": 3081
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3142,
+      "end": 3145
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3147,
+      "end": 3162
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3310,
+      "end": 3342
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3683,
+      "end": 3704
+    },
+    {
+      "text": "Hannes Weninger",
+      "label": "PER",
+      "start": 3706,
+      "end": 3721
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 4194,
+      "end": 4218
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4367,
+      "end": 4370
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4372,
+      "end": 4387
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4413,
+      "end": 4426
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 187,
+      "end": 195
+    },
+    {
+      "text": "Innovation",
+      "label": "ORG",
+      "start": 880,
+      "end": 890
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 944,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1924,
+      "end": 1926
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2543,
+      "end": 2559
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2709,
+      "end": 2728
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3070,
+      "end": 3081
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3142,
+      "end": 3145
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3147,
+      "end": 3159
+    },
+    {
+      "text": "Dagmar Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 3314,
+      "end": 3342
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3414,
+      "end": 3453
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3688,
+      "end": 3704
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 4198,
+      "end": 4218
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4372,
+      "end": 4387
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4413,
+      "end": 4421
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 811,
+      "end": 813
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 850,
+      "end": 878
+    },
+    {
+      "text": "Innovation",
+      "label": "ORG",
+      "start": 880,
+      "end": 890
+    },
+    {
+      "text": "Technologie",
+      "label": "ORG",
+      "start": 895,
+      "end": 906
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 944,
+      "end": 961
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1046,
+      "end": 1057
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 2543,
+      "end": 2559
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2709,
+      "end": 2728
+    },
+    {
+      "text": "##N",
+      "label": "ORG",
+      "start": 2965,
+      "end": 2966
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3147,
+      "end": 3159
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 3314,
+      "end": 3333
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3334,
+      "end": 3342
+    },
+    {
+      "text": "Steinhof",
+      "label": "ORG",
+      "start": 3396,
+      "end": 3404
+    },
+    {
+      "text": "Gründe",
+      "label": "ORG",
+      "start": 3405,
+      "end": 3411
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3489,
+      "end": 3502
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3688,
+      "end": 3704
+    },
+    {
+      "text": "Harald Vilimsky",
+      "label": "PER",
+      "start": 4009,
+      "end": 4024
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 4179,
+      "end": 4192
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 4198,
+      "end": 4218
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4367,
+      "end": 4370
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4372,
+      "end": 4387
+    }
+  ]
+}

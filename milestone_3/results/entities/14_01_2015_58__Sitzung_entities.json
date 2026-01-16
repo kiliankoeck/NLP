@@ -1,0 +1,1223 @@
+{
+  "filename": "14.01.2015_58._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1109,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1294,
+      "end": 1312
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1395
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1443,
+      "end": 1447
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 1449,
+      "end": 1455
+    },
+    {
+      "text": "Lipitsch",
+      "label": "PER",
+      "start": 1457,
+      "end": 1465
+    },
+    {
+      "text": "Eßl",
+      "label": "PER",
+      "start": 1467,
+      "end": 1470
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1472,
+      "end": 1482
+    },
+    {
+      "text": "Töchterle",
+      "label": "PER",
+      "start": 1484,
+      "end": 1493
+    },
+    {
+      "text": "Winzig",
+      "label": "PER",
+      "start": 1495,
+      "end": 1501
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 1503,
+      "end": 1512
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1514,
+      "end": 1521
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1539
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1541,
+      "end": 1547
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1549,
+      "end": 1561
+    },
+    {
+      "text": "Julian\\nSchmid",
+      "label": "PER",
+      "start": 1563,
+      "end": 1576
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1595,
+      "end": 1599
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1635,
+      "end": 1653
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2051,
+      "end": 2062
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Mag. Roman Haider",
+      "label": "PER",
+      "start": 2392,
+      "end": 2409
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3488,
+      "end": 3499
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3554,
+      "end": 3572
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3584,
+      "end": 3602
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1109,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1294,
+      "end": 1312
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1395
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1443,
+      "end": 1447
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 1449,
+      "end": 1455
+    },
+    {
+      "text": "Lipitsch",
+      "label": "PER",
+      "start": 1457,
+      "end": 1465
+    },
+    {
+      "text": "Eßl",
+      "label": "PER",
+      "start": 1467,
+      "end": 1470
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1472,
+      "end": 1482
+    },
+    {
+      "text": "Töchterle",
+      "label": "PER",
+      "start": 1484,
+      "end": 1493
+    },
+    {
+      "text": "Winzig",
+      "label": "PER",
+      "start": 1495,
+      "end": 1501
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 1503,
+      "end": 1512
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1514,
+      "end": 1521
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1539
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1541,
+      "end": 1547
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1549,
+      "end": 1561
+    },
+    {
+      "text": "Julian",
+      "label": "PER",
+      "start": 1563,
+      "end": 1569
+    },
+    {
+      "text": "Schmid",
+      "label": "PER",
+      "start": 1570,
+      "end": 1576
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1635,
+      "end": 1653
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2051,
+      "end": 2062
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Mag. Roman Haider",
+      "label": "PER",
+      "start": 2392,
+      "end": 2409
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3488,
+      "end": 3499
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3554,
+      "end": 3572
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3584,
+      "end": 3602
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3628,
+      "end": 3641
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 659,
+      "end": 733
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 854,
+      "end": 857
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 858,
+      "end": 912
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1075
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1114,
+      "end": 1128
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1299,
+      "end": 1312
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1335,
+      "end": 1348
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1443,
+      "end": 1447
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 1449,
+      "end": 1455
+    },
+    {
+      "text": "Lipitsch",
+      "label": "PER",
+      "start": 1457,
+      "end": 1465
+    },
+    {
+      "text": "Eßl",
+      "label": "PER",
+      "start": 1467,
+      "end": 1470
+    },
+    {
+      "text": "Grillitsch",
+      "label": "PER",
+      "start": 1472,
+      "end": 1482
+    },
+    {
+      "text": "Töchterle",
+      "label": "PER",
+      "start": 1484,
+      "end": 1493
+    },
+    {
+      "text": "Winzig",
+      "label": "PER",
+      "start": 1495,
+      "end": 1501
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 1503,
+      "end": 1512
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1514,
+      "end": 1521
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1533,
+      "end": 1539
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1541,
+      "end": 1547
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1549,
+      "end": 1561
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 1563,
+      "end": 1576
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1595,
+      "end": 1599
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1640,
+      "end": 1653
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 2397,
+      "end": 2409
+    },
+    {
+      "text": "Bundesgesetz",
+      "label": "ORG",
+      "start": 2730,
+      "end": 2742
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2858
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3559,
+      "end": 3572
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3589,
+      "end": 3602
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 659,
+      "end": 704
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 838,
+      "end": 883
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1075
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1114,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1223,
+      "end": 1226
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1294,
+      "end": 1312
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1395
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1443,
+      "end": 1447
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 1449,
+      "end": 1455
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1514,
+      "end": 1521
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1549,
+      "end": 1561
+    },
+    {
+      "text": "Julian\nSchmid",
+      "label": "PER",
+      "start": 1563,
+      "end": 1576
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1635,
+      "end": 1653
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1881,
+      "end": 1895
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1966
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2379,
+      "end": 2391
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 2397,
+      "end": 2409
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3488,
+      "end": 3499
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3501,
+      "end": 3504
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3554,
+      "end": 3572
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3584,
+      "end": 3602
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3628,
+      "end": 3641
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 659,
+      "end": 704
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 838,
+      "end": 883
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 1017,
+      "end": 1075
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1114,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1223,
+      "end": 1226
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1294,
+      "end": 1312
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1395
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1443,
+      "end": 1447
+    },
+    {
+      "text": "Kuzdas",
+      "label": "PER",
+      "start": 1449,
+      "end": 1455
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1514,
+      "end": 1521
+    },
+    {
+      "text": "Neubauer",
+      "label": "PER",
+      "start": 1523,
+      "end": 1531
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1549,
+      "end": 1561
+    },
+    {
+      "text": "Julian\nSchmid",
+      "label": "PER",
+      "start": 1563,
+      "end": 1576
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 1578,
+      "end": 1583
+    },
+    {
+      "text": "Hagen",
+      "label": "PER",
+      "start": 1585,
+      "end": 1590
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1635,
+      "end": 1653
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1881,
+      "end": 1895
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1966
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2379,
+      "end": 2391
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 2397,
+      "end": 2409
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3488,
+      "end": 3499
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3501,
+      "end": 3504
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3554,
+      "end": 3572
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3584,
+      "end": 3602
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3628,
+      "end": 3641
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Land -",
+      "label": "ORG",
+      "start": 858,
+      "end": 863
+    },
+    {
+      "text": "##wirtschaft",
+      "label": "ORG",
+      "start": 873,
+      "end": 883
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1109,
+      "end": 1112
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1114,
+      "end": 1128
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1221
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1299,
+      "end": 1312
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1335,
+      "end": 1348
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1949,
+      "end": 1951
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1963
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2185,
+      "end": 2188
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Tourismusausschuss",
+      "label": "ORG",
+      "start": 2339,
+      "end": 2357
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2392,
+      "end": 2395
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 2397,
+      "end": 2409
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3559,
+      "end": 3572
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3589,
+      "end": 3602
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 767,
+      "end": 787
+    },
+    {
+      "text": "Ulrike Weigerstorfer",
+      "label": "PER",
+      "start": 946,
+      "end": 966
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 999,
+      "end": 1001
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1109,
+      "end": 1112
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1114,
+      "end": 1128
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1163
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1218
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 1294,
+      "end": 1297
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1299,
+      "end": 1312
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1330,
+      "end": 1348
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2185,
+      "end": 2188
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 2195,
+      "end": 2198
+    },
+    {
+      "text": "##nsumentenschutz",
+      "label": "ORG",
+      "start": 2201,
+      "end": 2216
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 2251,
+      "end": 2261
+    },
+    {
+      "text": "Nichtraucherschutz Tourismusausschuss",
+      "label": "ORG",
+      "start": 2320,
+      "end": 2357
+    },
+    {
+      "text": "Mag. Roman Haider",
+      "label": "PER",
+      "start": 2392,
+      "end": 2409
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3554,
+      "end": 3572
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3584,
+      "end": 3602
+    }
+  ]
+}

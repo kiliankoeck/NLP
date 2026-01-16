@@ -1,0 +1,785 @@
+{
+  "filename": "26.11.2015_106._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 45,
+      "end": 59
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 188,
+      "end": 202
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 749,
+      "end": 767
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 785,
+      "end": 803
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 877,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 902,
+      "end": 912
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 914,
+      "end": 920
+    },
+    {
+      "text": "Mag. Brunner",
+      "label": "PER",
+      "start": 922,
+      "end": 934
+    },
+    {
+      "text": "Mag. Musiol",
+      "label": "PER",
+      "start": 939,
+      "end": 950
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 986,
+      "end": 1004
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2622,
+      "end": 2640
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3545,
+      "end": 3563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3589,
+      "end": 3602
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3977,
+      "end": 3996
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 749,
+      "end": 767
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 785,
+      "end": 803
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 877,
+      "end": 881
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 882,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 907,
+      "end": 912
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 914,
+      "end": 920
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 922,
+      "end": 926
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 927,
+      "end": 934
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 939,
+      "end": 943
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 944,
+      "end": 950
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 986,
+      "end": 1004
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2622,
+      "end": 2640
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3545,
+      "end": 3563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3589,
+      "end": 3602
+    }
+  ],
+  "flair": [
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 754,
+      "end": 767
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 790,
+      "end": 803
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 882,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 907,
+      "end": 912
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 914,
+      "end": 920
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 927,
+      "end": 934
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 944,
+      "end": 950
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 991,
+      "end": 1004
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1292,
+      "end": 1311
+    },
+    {
+      "text": "GGN",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2417
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2627,
+      "end": 2640
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3550,
+      "end": 3563
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 678,
+      "end": 681
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 749,
+      "end": 767
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 785,
+      "end": 803
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 864,
+      "end": 876
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 882,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 902,
+      "end": 912
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 922,
+      "end": 926
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 927,
+      "end": 934
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 939,
+      "end": 942
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 944,
+      "end": 950
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 986,
+      "end": 1004
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2569
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2622,
+      "end": 2640
+    },
+    {
+      "text": "Bundes-Stiftungsund Fondswesens",
+      "label": "PER",
+      "start": 2967,
+      "end": 2998
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3545,
+      "end": 3563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3589,
+      "end": 3602
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 678,
+      "end": 681
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 749,
+      "end": 767
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 785,
+      "end": 803
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 864,
+      "end": 876
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 882,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 902,
+      "end": 912
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 922,
+      "end": 926
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 927,
+      "end": 934
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 939,
+      "end": 942
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 944,
+      "end": 950
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 986,
+      "end": 1004
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2569
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2622,
+      "end": 2640
+    },
+    {
+      "text": "Bundes-Stiftungsund Fondswesens",
+      "label": "PER",
+      "start": 2967,
+      "end": 2998
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3545,
+      "end": 3563
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3589,
+      "end": 3602
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 754,
+      "end": 767
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 790,
+      "end": 803
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 877,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 902,
+      "end": 912
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 914,
+      "end": 920
+    },
+    {
+      "text": "Mag. Brunner",
+      "label": "PER",
+      "start": 922,
+      "end": 934
+    },
+    {
+      "text": "Mag. Mus",
+      "label": "PER",
+      "start": 939,
+      "end": 947
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 991,
+      "end": 1004
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2434,
+      "end": 2473
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2627,
+      "end": 2640
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2795,
+      "end": 2798
+    },
+    {
+      "text": "für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2833
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3550,
+      "end": 3563
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3589,
+      "end": 3597
+    },
+    {
+      "text": "Lokal V",
+      "label": "ORG",
+      "start": 3837,
+      "end": 3844
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 749,
+      "end": 752
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 754,
+      "end": 767
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 785,
+      "end": 788
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 790,
+      "end": 803
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 877,
+      "end": 889
+    },
+    {
+      "text": "Muchitsch",
+      "label": "PER",
+      "start": 891,
+      "end": 900
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 902,
+      "end": 906
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 907,
+      "end": 912
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 914,
+      "end": 920
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 922,
+      "end": 925
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 927,
+      "end": 934
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 986,
+      "end": 989
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 991,
+      "end": 1004
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2553,
+      "end": 2564
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2622,
+      "end": 2640
+    },
+    {
+      "text": "##sauss",
+      "label": "ORG",
+      "start": 2652,
+      "end": 2657
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3545,
+      "end": 3563
+    },
+    {
+      "text": "Lokal V",
+      "label": "ORG",
+      "start": 3837,
+      "end": 3844
+    }
+  ]
+}

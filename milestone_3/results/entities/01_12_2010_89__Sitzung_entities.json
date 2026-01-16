@@ -1,0 +1,1547 @@
+{
+  "filename": "01.12.2010_89._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 754,
+      "end": 776
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 664,
+      "end": 720
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 952,
+      "end": 982
+    },
+    {
+      "text": "Gabriele\\nTamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 1083,
+      "end": 1113
+    },
+    {
+      "text": "Dr. Andreas\\nKarlsböck",
+      "label": "PER",
+      "start": 1147,
+      "end": 1168
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 1219,
+      "end": 1249
+    },
+    {
+      "text": "Mag. Johann\\nMaier",
+      "label": "PER",
+      "start": 1283,
+      "end": 1300
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "PER",
+      "start": 1351,
+      "end": 1381
+    },
+    {
+      "text": "Ing. Norbert\\nHofer",
+      "label": "PER",
+      "start": 1415,
+      "end": 1433
+    },
+    {
+      "text": "Bundesministerin für Frauen und öffentlichen Dienst",
+      "label": "PER",
+      "start": 1484,
+      "end": 1535
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1569,
+      "end": 1579
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1630,
+      "end": 1658
+    },
+    {
+      "text": "Mag. Johann\\nMaier",
+      "label": "PER",
+      "start": 1692,
+      "end": 1709
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1877,
+      "end": 1897
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1916,
+      "end": 1936
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1970,
+      "end": 1983
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 2031,
+      "end": 2039
+    },
+    {
+      "text": "Mag. Schickhofer",
+      "label": "PER",
+      "start": 2041,
+      "end": 2057
+    },
+    {
+      "text": "Mag. Wurm",
+      "label": "PER",
+      "start": 2059,
+      "end": 2068
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Dr. Fichtenbauer",
+      "label": "PER",
+      "start": 2100,
+      "end": 2116
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2153,
+      "end": 2173
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": ". Norbert Hofer",
+      "label": "PER",
+      "start": 2753,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3087,
+      "end": 3112
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3172,
+      "end": 3183
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3240,
+      "end": 3260
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3296,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3421,
+      "end": 3441
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3467,
+      "end": 3480
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3668,
+      "end": 3687
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 754,
+      "end": 776
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Gabriele",
+      "label": "PER",
+      "start": 1016,
+      "end": 1024
+    },
+    {
+      "text": "Tamandl",
+      "label": "PER",
+      "start": 1025,
+      "end": 1032
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1147,
+      "end": 1150
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 1151,
+      "end": 1158
+    },
+    {
+      "text": "Karlsböck",
+      "label": "PER",
+      "start": 1159,
+      "end": 1168
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1283,
+      "end": 1287
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 1288,
+      "end": 1294
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 1295,
+      "end": 1300
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 1420,
+      "end": 1427
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1428,
+      "end": 1433
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1569,
+      "end": 1579
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1692,
+      "end": 1696
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 1697,
+      "end": 1703
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 1704,
+      "end": 1709
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1877,
+      "end": 1897
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1916,
+      "end": 1936
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1970,
+      "end": 1983
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 2031,
+      "end": 2039
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2041,
+      "end": 2045
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2059,
+      "end": 2063
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2064,
+      "end": 2068
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2070,
+      "end": 2073
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 2074,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2100,
+      "end": 2103
+    },
+    {
+      "text": "Fichtenbauer",
+      "label": "PER",
+      "start": 2104,
+      "end": 2116
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2153,
+      "end": 2173
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2750,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3087,
+      "end": 3112
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3172,
+      "end": 3183
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3240,
+      "end": 3260
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3296,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3421,
+      "end": 3441
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3467,
+      "end": 3480
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 664,
+      "end": 720
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 1151,
+      "end": 1168
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1288,
+      "end": 1300
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1420,
+      "end": 1433
+    },
+    {
+      "text": "für Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 1501,
+      "end": 1535
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1569,
+      "end": 1579
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1886,
+      "end": 1897
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1925,
+      "end": 1936
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 2031,
+      "end": 2039
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2064,
+      "end": 2068
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 2074,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Fichtenbauer",
+      "label": "PER",
+      "start": 2104,
+      "end": 2116
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2755,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Gerhard Deimek",
+      "label": "PER",
+      "start": 3098,
+      "end": 3112
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3249,
+      "end": 3260
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3301,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3430,
+      "end": 3441
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 184,
+      "end": 227
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 664,
+      "end": 692
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 741,
+      "end": 753
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 952,
+      "end": 982
+    },
+    {
+      "text": "Gabriele\nTamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1083,
+      "end": 1113
+    },
+    {
+      "text": "Dr. Andreas\nKarlsböck",
+      "label": "PER",
+      "start": 1147,
+      "end": 1168
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1249
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1270,
+      "end": 1282
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1288,
+      "end": 1300
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1351,
+      "end": 1381
+    },
+    {
+      "text": "Ing. Norbert\nHofer",
+      "label": "PER",
+      "start": 1415,
+      "end": 1433
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 1484,
+      "end": 1511
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1569,
+      "end": 1579
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1658
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1691
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1877,
+      "end": 1880
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1886,
+      "end": 1897
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1916,
+      "end": 1919
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1925,
+      "end": 1936
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1970,
+      "end": 1983
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2041,
+      "end": 2045
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Dr. Fichtenbauer",
+      "label": "PER",
+      "start": 2100,
+      "end": 2116
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2401,
+      "end": 2415
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2750,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3087,
+      "end": 3112
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3172,
+      "end": 3183
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3249,
+      "end": 3260
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3296,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3421,
+      "end": 3424
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3430,
+      "end": 3441
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3467,
+      "end": 3480
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 184,
+      "end": 227
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 664,
+      "end": 692
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 741,
+      "end": 753
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 827,
+      "end": 857
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 952,
+      "end": 982
+    },
+    {
+      "text": "Gabriele\nTamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1083,
+      "end": 1113
+    },
+    {
+      "text": "Dr. Andreas\nKarlsböck",
+      "label": "PER",
+      "start": 1147,
+      "end": 1168
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1219,
+      "end": 1249
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1270,
+      "end": 1282
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1288,
+      "end": 1300
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1351,
+      "end": 1381
+    },
+    {
+      "text": "Ing. Norbert\nHofer",
+      "label": "PER",
+      "start": 1415,
+      "end": 1433
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 1484,
+      "end": 1511
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1569,
+      "end": 1579
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1658
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1679,
+      "end": 1691
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 1697,
+      "end": 1709
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1877,
+      "end": 1880
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1886,
+      "end": 1897
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1916,
+      "end": 1919
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1925,
+      "end": 1936
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1970,
+      "end": 1983
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2041,
+      "end": 2045
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Dr. Fichtenbauer",
+      "label": "PER",
+      "start": 2100,
+      "end": 2116
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2401,
+      "end": 2415
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2750,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Dipl.-Ing. Gerhard Deimek",
+      "label": "PER",
+      "start": 3087,
+      "end": 3112
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3172,
+      "end": 3183
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3249,
+      "end": 3260
+    },
+    {
+      "text": "Ing. Hermann Schultes",
+      "label": "PER",
+      "start": 3296,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3421,
+      "end": 3424
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3430,
+      "end": 3441
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3467,
+      "end": 3480
+    }
+  ],
+  "bert": [
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 754,
+      "end": 758
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 1151,
+      "end": 1168
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1283,
+      "end": 1286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1288,
+      "end": 1300
+    },
+    {
+      "text": "Gesundheit",
+      "label": "ORG",
+      "start": 1371,
+      "end": 1381
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1925,
+      "end": 1936
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 2031,
+      "end": 2039
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2064,
+      "end": 2068
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 2074,
+      "end": 2085
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 2087,
+      "end": 2095
+    },
+    {
+      "text": "Fichtenbauer",
+      "label": "PER",
+      "start": 2104,
+      "end": 2116
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2549,
+      "end": 2582
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2755,
+      "end": 2768
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Gerhard Deimek",
+      "label": "PER",
+      "start": 3098,
+      "end": 3112
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3172,
+      "end": 3183
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3249,
+      "end": 3260
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3301,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3430,
+      "end": 3441
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 754,
+      "end": 757
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 809,
+      "end": 811
+    },
+    {
+      "text": "Anna Franz",
+      "label": "PER",
+      "start": 891,
+      "end": 901
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 934,
+      "end": 936
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 1016,
+      "end": 1032
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1065,
+      "end": 1067
+    },
+    {
+      "text": "Andreas Karlsböck",
+      "label": "PER",
+      "start": 1151,
+      "end": 1168
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1203
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1283,
+      "end": 1286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1288,
+      "end": 1300
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1333,
+      "end": 1335
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1925,
+      "end": 1936
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 2031,
+      "end": 2039
+    },
+    {
+      "text": "Schickhofer",
+      "label": "PER",
+      "start": 2046,
+      "end": 2057
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2064,
+      "end": 2068
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 2074,
+      "end": 2085
+    },
+    {
+      "text": "Fichtenbauer",
+      "label": "PER",
+      "start": 2104,
+      "end": 2116
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2162,
+      "end": 2173
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2618,
+      "end": 2631
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2755,
+      "end": 2768
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 2843,
+      "end": 2846
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2887,
+      "end": 2899
+    },
+    {
+      "text": "Gerhard Deimek",
+      "label": "PER",
+      "start": 3098,
+      "end": 3112
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3249,
+      "end": 3260
+    },
+    {
+      "text": "Hermann Schultes",
+      "label": "PER",
+      "start": 3301,
+      "end": 3317
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 3319,
+      "end": 3329
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3430,
+      "end": 3441
+    }
+  ]
+}

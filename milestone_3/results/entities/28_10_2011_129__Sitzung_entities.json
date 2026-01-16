@@ -1,0 +1,1361 @@
+{
+  "filename": "28.10.2011_129._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Bundesministers",
+      "label": "PER",
+      "start": 660,
+      "end": 675
+    },
+    {
+      "text": "Mag. Judith\\nSchwentner",
+      "label": "PER",
+      "start": 724,
+      "end": 746
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1037,
+      "end": 1048
+    },
+    {
+      "text": "Dr. Bartenstein",
+      "label": "PER",
+      "start": 1050,
+      "end": 1065
+    },
+    {
+      "text": "Mag. Donnerbauer",
+      "label": "PER",
+      "start": 1067,
+      "end": 1083
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Dr. Graf",
+      "label": "PER",
+      "start": 1114,
+      "end": 1122
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1124,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "Mag. Musiol",
+      "label": "PER",
+      "start": 1153,
+      "end": 1164
+    },
+    {
+      "text": "Mag. Schwentner",
+      "label": "PER",
+      "start": 1166,
+      "end": 1181
+    },
+    {
+      "text": "Dr. Walser",
+      "label": "PER",
+      "start": 1186,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1803,
+      "end": 1827
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1964,
+      "end": 1982
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2186,
+      "end": 2204
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3532,
+      "end": 3551
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 724,
+      "end": 728
+    },
+    {
+      "text": "Judith",
+      "label": "PER",
+      "start": 729,
+      "end": 735
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 736,
+      "end": 746
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 830,
+      "end": 841
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1037,
+      "end": 1040
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1041,
+      "end": 1048
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1050,
+      "end": 1053
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1054,
+      "end": 1065
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1067,
+      "end": 1071
+    },
+    {
+      "text": "Donnerbauer",
+      "label": "PER",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1114,
+      "end": 1117
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1124,
+      "end": 1128
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1153,
+      "end": 1157
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1166,
+      "end": 1170
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1186,
+      "end": 1189
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1190,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1803,
+      "end": 1827
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1964,
+      "end": 1982
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2186,
+      "end": 2204
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    }
+  ],
+  "flair": [
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1041,
+      "end": 1048
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1054,
+      "end": 1065
+    },
+    {
+      "text": "Donnerbauer",
+      "label": "PER",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1190,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1360
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1807,
+      "end": 1827
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1968,
+      "end": 1982
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2190,
+      "end": 2204
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 660,
+      "end": 690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 711,
+      "end": 723
+    },
+    {
+      "text": "Judith\nSchwentner",
+      "label": "PER",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 830,
+      "end": 841
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1037,
+      "end": 1048
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1124,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Dr. Walser",
+      "label": "PER",
+      "start": 1186,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1459,
+      "end": 1473
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1807,
+      "end": 1827
+    },
+    {
+      "text": "Wochengeldes",
+      "label": "ORG",
+      "start": 1878,
+      "end": 1890
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1964,
+      "end": 1982
+    },
+    {
+      "text": "WGG",
+      "label": "ORG",
+      "start": 2093,
+      "end": 2096
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2186,
+      "end": 2204
+    },
+    {
+      "text": "WGG",
+      "label": "ORG",
+      "start": 2315,
+      "end": 2318
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 660,
+      "end": 690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 711,
+      "end": 723
+    },
+    {
+      "text": "Judith\nSchwentner",
+      "label": "PER",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 830,
+      "end": 841
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1037,
+      "end": 1048
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1124,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Dr. Walser",
+      "label": "PER",
+      "start": 1186,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1459,
+      "end": 1473
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 1807,
+      "end": 1827
+    },
+    {
+      "text": "Wochengeldes",
+      "label": "ORG",
+      "start": 1878,
+      "end": 1890
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1964,
+      "end": 1982
+    },
+    {
+      "text": "WGG",
+      "label": "ORG",
+      "start": 2093,
+      "end": 2096
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2186,
+      "end": 2204
+    },
+    {
+      "text": "WGG",
+      "label": "ORG",
+      "start": 2315,
+      "end": 2318
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 724,
+      "end": 727
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 830,
+      "end": 841
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1041,
+      "end": 1048
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1054,
+      "end": 1065
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1067,
+      "end": 1071
+    },
+    {
+      "text": "Donnerbauer",
+      "label": "PER",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "text": "Durchschlag",
+      "label": "PER",
+      "start": 1085,
+      "end": 1096
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1098,
+      "end": 1106
+    },
+    {
+      "text": "Hörl",
+      "label": "PER",
+      "start": 1108,
+      "end": 1112
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1124,
+      "end": 1128
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "text": "Kunasek",
+      "label": "PER",
+      "start": 1136,
+      "end": 1143
+    },
+    {
+      "text": "Linder",
+      "label": "PER",
+      "start": 1145,
+      "end": 1151
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 1156,
+      "end": 1157
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 1169,
+      "end": 1170
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1190,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1968,
+      "end": 1982
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2190,
+      "end": 2204
+    },
+    {
+      "text": "Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2630,
+      "end": 2655
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 729,
+      "end": 746
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 779,
+      "end": 781
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 830,
+      "end": 838
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 907,
+      "end": 923
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 941,
+      "end": 957
+    },
+    {
+      "text": "Bayr",
+      "label": "PER",
+      "start": 1031,
+      "end": 1035
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1041,
+      "end": 1048
+    },
+    {
+      "text": "Bartenstein",
+      "label": "PER",
+      "start": 1054,
+      "end": 1065
+    },
+    {
+      "text": "Donnerbauer",
+      "label": "PER",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "text": "##ör",
+      "label": "PER",
+      "start": 1109,
+      "end": 1111
+    },
+    {
+      "text": "Graf",
+      "label": "PER",
+      "start": 1118,
+      "end": 1122
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "text": "Musiol",
+      "label": "PER",
+      "start": 1158,
+      "end": 1164
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1190,
+      "end": 1196
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1232,
+      "end": 1248
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1968,
+      "end": 1982
+    },
+    {
+      "text": "W",
+      "label": "ORG",
+      "start": 2093,
+      "end": 2094
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2190,
+      "end": 2204
+    },
+    {
+      "text": "W",
+      "label": "ORG",
+      "start": 2315,
+      "end": 2316
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2688,
+      "end": 2701
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2854,
+      "end": 2865
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2923,
+      "end": 2939
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2994,
+      "end": 3007
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3175,
+      "end": 3191
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3217,
+      "end": 3230
+    }
+  ]
+}

@@ -1,0 +1,4367 @@
+{
+  "filename": "Plenarprotokoll_913._Sitzung,_16.08.2013.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 187,
+      "end": 204
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 594,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Dr. Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 700,
+      "end": 726
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.,",
+      "label": "ORG",
+      "start": 982,
+      "end": 1006
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1141
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1287,
+      "end": 1296
+    },
+    {
+      "text": "Winfried\\nKretschmann",
+      "label": "PER",
+      "start": 1392,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 1558,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Bilkay Öney",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1771,
+      "end": 1785
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 1827,
+      "end": 1840
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Dr. Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 2125,
+      "end": 2151
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 2344,
+      "end": 2362
+    },
+    {
+      "text": "Margit Conrad",
+      "label": "PER",
+      "start": 2387,
+      "end": 2400
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 2576,
+      "end": 2589
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2897,
+      "end": 2906
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 3012,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Klaus-Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3484
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4359,
+      "end": 4370
+    },
+    {
+      "text": "Herr Platzeck",
+      "label": "PER",
+      "start": 4431,
+      "end": 4444
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4456,
+      "end": 4465
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 6372,
+      "end": 6381
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 7071,
+      "end": 7082
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7174,
+      "end": 7183
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 7760,
+      "end": 7769
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 8992,
+      "end": 9001
+    },
+    {
+      "text": "Ministerpräsidenten",
+      "label": "PER",
+      "start": 9024,
+      "end": 9043
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9715,
+      "end": 9724
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9741,
+      "end": 9750
+    },
+    {
+      "text": "Bundeskabinett",
+      "label": "ORG",
+      "start": 10196,
+      "end": 10210
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 11569,
+      "end": 11584
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 11721,
+      "end": 11727
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11837,
+      "end": 11848
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12498,
+      "end": 12507
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12760,
+      "end": 12769
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Ministerpräsident",
+      "label": "PER",
+      "start": 13489,
+      "end": 13506
+    },
+    {
+      "text": "Dr. Haseloff",
+      "label": "PER",
+      "start": 13547,
+      "end": 13559
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 13578,
+      "end": 13597
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 13621,
+      "end": 13630
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "v o n K l a e d e n",
+      "label": "PER",
+      "start": 14987,
+      "end": 15006
+    },
+    {
+      "text": "G a t z e r",
+      "label": "PER",
+      "start": 15040,
+      "end": 15051
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 15060,
+      "end": 15083
+    },
+    {
+      "text": "Bundesinnenministerium",
+      "label": "ORG",
+      "start": 15130,
+      "end": 15152
+    },
+    {
+      "text": "Verteidigungsministerium",
+      "label": "ORG",
+      "start": 15160,
+      "end": 15184
+    },
+    {
+      "text": "Investitionsbank",
+      "label": "ORG",
+      "start": 15356,
+      "end": 15372
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15971,
+      "end": 15980
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 16001,
+      "end": 16016
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17855,
+      "end": 17870
+    },
+    {
+      "text": "Kanzlerin",
+      "label": "PER",
+      "start": 17913,
+      "end": 17922
+    },
+    {
+      "text": "Europäische\\nUnion",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18179,
+      "end": 18188
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 18223,
+      "end": 18242
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Ministerpräsident",
+      "label": "PER",
+      "start": 19275,
+      "end": 19292
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 19382,
+      "end": 19391
+    },
+    {
+      "text": "Ministerpräsident",
+      "label": "PER",
+      "start": 19559,
+      "end": 19576
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19875,
+      "end": 19884
+    },
+    {
+      "text": "Dr. Haseloff",
+      "label": "PER",
+      "start": 22375,
+      "end": 22387
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 22719,
+      "end": 22734
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 23509,
+      "end": 23511
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23947,
+      "end": 23956
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 26948,
+      "end": 26963
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Ministerin",
+      "label": "PER",
+      "start": 27720,
+      "end": 27730
+    },
+    {
+      "text": "Dr. Schwall-Düren",
+      "label": "PER",
+      "start": 27782,
+      "end": 27799
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27930,
+      "end": 27939
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28116
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28490,
+      "end": 28499
+    },
+    {
+      "text": "Dr. Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 28580,
+      "end": 28606
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3975,
+      "end": 3986
+    },
+    {
+      "text": "russischen Föderationsrat",
+      "label": "ORG",
+      "start": 3995,
+      "end": 4020
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3621,
+      "end": 3632
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3791,
+      "end": 3802
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 93,
+      "end": 99
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 187,
+      "end": 195
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 215,
+      "end": 223
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 244,
+      "end": 252
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 594,
+      "end": 597
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 598,
+      "end": 604
+    },
+    {
+      "text": "Anita",
+      "label": "PER",
+      "start": 635,
+      "end": 640
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 700,
+      "end": 703
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1287,
+      "end": 1296
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 1318,
+      "end": 1324
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 1392,
+      "end": 1400
+    },
+    {
+      "text": "Ulrike",
+      "label": "PER",
+      "start": 1558,
+      "end": 1564
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 1582,
+      "end": 1589
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 1834,
+      "end": 1840
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 2040,
+      "end": 2046
+    },
+    {
+      "text": "Wenzel",
+      "label": "PER",
+      "start": 2047,
+      "end": 2053
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2125,
+      "end": 2128
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 2307,
+      "end": 2315
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2344,
+      "end": 2347
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 2348,
+      "end": 2355
+    },
+    {
+      "text": "Margit",
+      "label": "PER",
+      "start": 2387,
+      "end": 2393
+    },
+    {
+      "text": "Anita",
+      "label": "PER",
+      "start": 2489,
+      "end": 2494
+    },
+    {
+      "text": "Ulrike",
+      "label": "PER",
+      "start": 2576,
+      "end": 2582
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 2794,
+      "end": 2800
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2897,
+      "end": 2906
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 2928,
+      "end": 2934
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3012,
+      "end": 3015
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 3016,
+      "end": 3022
+    },
+    {
+      "text": "Monika",
+      "label": "PER",
+      "start": 3371,
+      "end": 3377
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 3405,
+      "end": 3411
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3484
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 3506,
+      "end": 3512
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 3566,
+      "end": 3572
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3621,
+      "end": 3632
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 3672,
+      "end": 3680
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3791,
+      "end": 3802
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3975,
+      "end": 3986
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 4297,
+      "end": 4305
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4359,
+      "end": 4370
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 4431,
+      "end": 4435
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4456,
+      "end": 4465
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 5399,
+      "end": 5407
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 6034,
+      "end": 6039
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 6334,
+      "end": 6342
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 6367,
+      "end": 6371
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 6497,
+      "end": 6501
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 6808,
+      "end": 6812
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 7071,
+      "end": 7082
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7174,
+      "end": 7183
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 7205,
+      "end": 7211
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 7228,
+      "end": 7236
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 7376,
+      "end": 7381
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 7755,
+      "end": 7759
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 8987,
+      "end": 8991
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9101,
+      "end": 9109
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9741,
+      "end": 9750
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 10226,
+      "end": 10232
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11837,
+      "end": 11848
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 12044,
+      "end": 12050
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12498,
+      "end": 12507
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 12529,
+      "end": 12535
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12760,
+      "end": 12769
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 13449,
+      "end": 13457
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 13477,
+      "end": 13482
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 13484,
+      "end": 13488
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13547,
+      "end": 13550
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13578,
+      "end": 13581
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 13582,
+      "end": 13588
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 13616,
+      "end": 13620
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 14389,
+      "end": 14396
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 14442,
+      "end": 14446
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 14982,
+      "end": 14986
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 15035,
+      "end": 15039
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 16001,
+      "end": 16016
+    },
+    {
+      "text": "deutsch",
+      "label": "PER",
+      "start": 16449,
+      "end": 16456
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17855,
+      "end": 17870
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18179,
+      "end": 18188
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 18210,
+      "end": 18216
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 18223,
+      "end": 18226
+    },
+    {
+      "text": "Reiner",
+      "label": "PER",
+      "start": 18227,
+      "end": 18233
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 19091,
+      "end": 19096
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 19235,
+      "end": 19243
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 19263,
+      "end": 19268
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19270,
+      "end": 19274
+    },
+    {
+      "text": "Anita",
+      "label": "PER",
+      "start": 19351,
+      "end": 19356
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19377,
+      "end": 19381
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 19451,
+      "end": 19456
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 19471,
+      "end": 19476
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19875,
+      "end": 19884
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 20424,
+      "end": 20429
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 21017,
+      "end": 21024
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 22370,
+      "end": 22374
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 22375,
+      "end": 22378
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 22719,
+      "end": 22734
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23947,
+      "end": 23956
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 23978,
+      "end": 23984
+    },
+    {
+      "text": "Anita",
+      "label": "PER",
+      "start": 23990,
+      "end": 23995
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 26948,
+      "end": 26963
+    },
+    {
+      "text": "schnell",
+      "label": "PER",
+      "start": 27034,
+      "end": 27041
+    },
+    {
+      "text": "Winfried",
+      "label": "PER",
+      "start": 27680,
+      "end": 27688
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 27708,
+      "end": 27713
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 27782,
+      "end": 27785
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27930,
+      "end": 27939
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 28105,
+      "end": 28116
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28490,
+      "end": 28499
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 28521,
+      "end": 28527
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 28580,
+      "end": 28583
+    }
+  ],
+  "flair": [
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 187,
+      "end": 204
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 598,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 704,
+      "end": 726
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1141
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 1392,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 1558,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Bilkay Öney",
+      "label": "PER",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1771,
+      "end": 1785
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 1827,
+      "end": 1840
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Integration",
+      "label": "ORG",
+      "start": 1995,
+      "end": 2006
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 2129,
+      "end": 2151
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 2191,
+      "end": 2197
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Margit Conrad",
+      "label": "PER",
+      "start": 2387,
+      "end": 2400
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2472
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 2576,
+      "end": 2589
+    },
+    {
+      "text": "Hansestadt",
+      "label": "ORG",
+      "start": 2685,
+      "end": 2695
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2708,
+      "end": 2712
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Wirtschaft, Arbeit, Energie und Verkehr",
+      "label": "ORG",
+      "start": 2754,
+      "end": 2793
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2891,
+      "end": 2895
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 3016,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Klaus-Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 3307,
+      "end": 3335
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3468
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3975,
+      "end": 3986
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4436,
+      "end": 4444
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Naturschutz",
+      "label": "ORG",
+      "start": 5090,
+      "end": 5101
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 11697,
+      "end": 11720
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 11721,
+      "end": 11727
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 13551,
+      "end": 13559
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 13582,
+      "end": 13597
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "v o n K l a e d e n",
+      "label": "PER",
+      "start": 14987,
+      "end": 15006
+    },
+    {
+      "text": "G a t z e r",
+      "label": "PER",
+      "start": 15040,
+      "end": 15051
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 15060,
+      "end": 15083
+    },
+    {
+      "text": "Bundesinnenministerium",
+      "label": "ORG",
+      "start": 15130,
+      "end": 15152
+    },
+    {
+      "text": "Investitionsbank",
+      "label": "ORG",
+      "start": 15356,
+      "end": 15372
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 18227,
+      "end": 18242
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19875,
+      "end": 19884
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 20376,
+      "end": 20380
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 22379,
+      "end": 22387
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Schwall-Düren",
+      "label": "PER",
+      "start": 27786,
+      "end": 27799
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 28584,
+      "end": 28606
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 187,
+      "end": 204
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 594,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 704,
+      "end": 726
+    },
+    {
+      "text": "NordrheinWestfalen",
+      "label": "ORG",
+      "start": 728,
+      "end": 746
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1092
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1141
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 1143,
+      "end": 1160
+    },
+    {
+      "text": "Winfried\nKretschmann",
+      "label": "PER",
+      "start": 1392,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 1488,
+      "end": 1494
+    },
+    {
+      "text": "Amtier",
+      "label": "PER",
+      "start": 1526,
+      "end": 1532
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 1558,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 1602,
+      "end": 1661
+    },
+    {
+      "text": "Bund\n\nBaden-Württemberg",
+      "label": "ORG",
+      "start": 1681,
+      "end": 1704
+    },
+    {
+      "text": "Bilkay Öney",
+      "label": "ORG",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1771,
+      "end": 1785
+    },
+    {
+      "text": "Minister für Inneres und Sport",
+      "label": "ORG",
+      "start": 1787,
+      "end": 1817
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 1827,
+      "end": 1840
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Minister für Umwelt",
+      "label": "ORG",
+      "start": 2055,
+      "end": 2074
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 2129,
+      "end": 2151
+    },
+    {
+      "text": "Ministerin für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2153,
+      "end": 2189
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "Ministerin für Umwelt, Gesundheit",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2534
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 2576,
+      "end": 2589
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Minister für Wirtschaft, Arbeit",
+      "label": "ORG",
+      "start": 2741,
+      "end": 2772
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 3016,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3250,
+      "end": 3265
+    },
+    {
+      "text": "Klaus-Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesministerium der Finanzen\n\n445",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3473
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3621,
+      "end": 3632
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4436,
+      "end": 4444
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Minister für Umwelt, Naturschutz",
+      "label": "ORG",
+      "start": 5069,
+      "end": 5101
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Lieber",
+      "label": "PER",
+      "start": 5846,
+      "end": 5852
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "sympa",
+      "label": "PER",
+      "start": 6045,
+      "end": 6050
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9715,
+      "end": 9724
+    },
+    {
+      "text": "Bundeskabinett",
+      "label": "ORG",
+      "start": 10196,
+      "end": 10210
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "EU-Solidaritätsfonds",
+      "label": "ORG",
+      "start": 11181,
+      "end": 11201
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 11569,
+      "end": 11584
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Dr. Haseloff",
+      "label": "PER",
+      "start": 13547,
+      "end": 13559
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 13582,
+      "end": 13597
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "Verteidigungsministerium",
+      "label": "ORG",
+      "start": 15160,
+      "end": 15184
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15971,
+      "end": 15980
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "guten\nOrganisation",
+      "label": "ORG",
+      "start": 17826,
+      "end": 17844
+    },
+    {
+      "text": "Europäische\nUnion",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Deutschland!",
+      "label": "ORG",
+      "start": 19193,
+      "end": 19205
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Deichbrüche",
+      "label": "PER",
+      "start": 21885,
+      "end": 21896
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 22379,
+      "end": 22387
+    },
+    {
+      "text": "Hochwasserabwehr",
+      "label": "ORG",
+      "start": 23550,
+      "end": 23566
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 25989,
+      "end": 25995
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Poldern",
+      "label": "ORG",
+      "start": 26057,
+      "end": 26064
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Dr. Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 28580,
+      "end": 28606
+    },
+    {
+      "text": "europäischen HochwasserrisikomanagementRichtlinie",
+      "label": "ORG",
+      "start": 29222,
+      "end": 29271
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 187,
+      "end": 204
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Dr. Reiner Haseloff",
+      "label": "PER",
+      "start": 594,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 704,
+      "end": 726
+    },
+    {
+      "text": "NordrheinWestfalen",
+      "label": "ORG",
+      "start": 728,
+      "end": 746
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1092
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1141
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 1143,
+      "end": 1160
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1287,
+      "end": 1296
+    },
+    {
+      "text": "Winfried\nKretschmann",
+      "label": "PER",
+      "start": 1392,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 1488,
+      "end": 1494
+    },
+    {
+      "text": "Amtier",
+      "label": "PER",
+      "start": 1526,
+      "end": 1532
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 1558,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 1602,
+      "end": 1661
+    },
+    {
+      "text": "Bund\n\nBaden-Württemberg",
+      "label": "ORG",
+      "start": 1681,
+      "end": 1704
+    },
+    {
+      "text": "Bilkay Öney",
+      "label": "ORG",
+      "start": 1731,
+      "end": 1742
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1771,
+      "end": 1785
+    },
+    {
+      "text": "Minister für Inneres und Sport",
+      "label": "ORG",
+      "start": 1787,
+      "end": 1817
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 1827,
+      "end": 1840
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Minister für Umwelt",
+      "label": "ORG",
+      "start": 2055,
+      "end": 2074
+    },
+    {
+      "text": "Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 2129,
+      "end": 2151
+    },
+    {
+      "text": "Ministerin für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2153,
+      "end": 2189
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "Ministerin für Umwelt, Gesundheit",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2534
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 2576,
+      "end": 2589
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Minister für Wirtschaft, Arbeit",
+      "label": "ORG",
+      "start": 2741,
+      "end": 2772
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2897,
+      "end": 2906
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 3016,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3250,
+      "end": 3265
+    },
+    {
+      "text": "Klaus-Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesministerium der Finanzen\n\n445",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3473
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3484
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3621,
+      "end": 3632
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4436,
+      "end": 4444
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 4456,
+      "end": 4465
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Minister für Umwelt, Naturschutz",
+      "label": "ORG",
+      "start": 5069,
+      "end": 5101
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Lieber",
+      "label": "PER",
+      "start": 5846,
+      "end": 5852
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "sympa",
+      "label": "PER",
+      "start": 6045,
+      "end": 6050
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7174,
+      "end": 7183
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9715,
+      "end": 9724
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9741,
+      "end": 9750
+    },
+    {
+      "text": "Bundeskabinett",
+      "label": "ORG",
+      "start": 10196,
+      "end": 10210
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "EU-Solidaritätsfonds",
+      "label": "ORG",
+      "start": 11181,
+      "end": 11201
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 11569,
+      "end": 11584
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12498,
+      "end": 12507
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12760,
+      "end": 12769
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Dr. Haseloff",
+      "label": "PER",
+      "start": 13547,
+      "end": 13559
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 13582,
+      "end": 13597
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "Verteidigungsministerium",
+      "label": "ORG",
+      "start": 15160,
+      "end": 15184
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15971,
+      "end": 15980
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 16001,
+      "end": 16016
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "guten\nOrganisation",
+      "label": "ORG",
+      "start": 17826,
+      "end": 17844
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17855,
+      "end": 17870
+    },
+    {
+      "text": "Europäische\nUnion",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18179,
+      "end": 18188
+    },
+    {
+      "text": "Deutschland!",
+      "label": "ORG",
+      "start": 19193,
+      "end": 19205
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19875,
+      "end": 19884
+    },
+    {
+      "text": "Deichbrüche",
+      "label": "PER",
+      "start": 21885,
+      "end": 21896
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 22379,
+      "end": 22387
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 22719,
+      "end": 22734
+    },
+    {
+      "text": "Hochwasserabwehr",
+      "label": "ORG",
+      "start": 23550,
+      "end": 23566
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23947,
+      "end": 23956
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 25989,
+      "end": 25995
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Poldern",
+      "label": "ORG",
+      "start": 26057,
+      "end": 26064
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 26948,
+      "end": 26963
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27930,
+      "end": 27939
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28490,
+      "end": 28499
+    },
+    {
+      "text": "Dr. Angelica Schwall-Düren",
+      "label": "PER",
+      "start": 28580,
+      "end": 28606
+    },
+    {
+      "text": "europäischen HochwasserrisikomanagementRichtlinie",
+      "label": "ORG",
+      "start": 29222,
+      "end": 29271
+    }
+  ],
+  "bert": [
+    {
+      "text": "Matthias Platz",
+      "label": "PER",
+      "start": 187,
+      "end": 201
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 598,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Angelica Schwall - Düren",
+      "label": "PER",
+      "start": 704,
+      "end": 726
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1137
+    },
+    {
+      "text": "Win",
+      "label": "PER",
+      "start": 1392,
+      "end": 1395
+    },
+    {
+      "text": "##fried Kretschmann",
+      "label": "PER",
+      "start": 1395,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "U",
+      "label": "PER",
+      "start": 1558,
+      "end": 1559
+    },
+    {
+      "text": "##lrike Hiller",
+      "label": "PER",
+      "start": 1559,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Angelica Schwall - Düren",
+      "label": "PER",
+      "start": 2129,
+      "end": 2151
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Margit Conrad",
+      "label": "PER",
+      "start": 2387,
+      "end": 2400
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "##braucherschutz",
+      "label": "ORG",
+      "start": 2542,
+      "end": 2556
+    },
+    {
+      "text": "U",
+      "label": "PER",
+      "start": 2576,
+      "end": 2577
+    },
+    {
+      "text": "##lrike Hiller",
+      "label": "PER",
+      "start": 2577,
+      "end": 2589
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 2619,
+      "end": 2625
+    },
+    {
+      "text": "##legen",
+      "label": "ORG",
+      "start": 2629,
+      "end": 2634
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Wirtschaft",
+      "label": "ORG",
+      "start": 2754,
+      "end": 2764
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 2766,
+      "end": 2772
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 2836,
+      "end": 2849
+    },
+    {
+      "text": "Bund Bundesrat",
+      "label": "ORG",
+      "start": 2891,
+      "end": 2906
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 3016,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "Bundes -",
+      "label": "ORG",
+      "start": 3103,
+      "end": 3110
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 3115,
+      "end": 3121
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 3152,
+      "end": 3165
+    },
+    {
+      "text": "E",
+      "label": "PER",
+      "start": 3207,
+      "end": 3208
+    },
+    {
+      "text": "##ckart von Klaeden",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Klaus - Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Bundesministerium des Innern",
+      "label": "ORG",
+      "start": 3307,
+      "end": 3335
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesministerium der Finanze",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3467
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3484
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Föderationsrat",
+      "label": "ORG",
+      "start": 4006,
+      "end": 4020
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4436,
+      "end": 4444
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Deichgraf",
+      "label": "PER",
+      "start": 5501,
+      "end": 5510
+    },
+    {
+      "text": "F",
+      "label": "ORG",
+      "start": 5740,
+      "end": 5741
+    },
+    {
+      "text": "##eralismuskommission",
+      "label": "ORG",
+      "start": 5743,
+      "end": 5762
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7174,
+      "end": 7183
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9715,
+      "end": 9724
+    },
+    {
+      "text": "Lies",
+      "label": "PER",
+      "start": 10776,
+      "end": 10780
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 11697,
+      "end": 11720
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 11721,
+      "end": 11727
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12498,
+      "end": 12507
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 13551,
+      "end": 13559
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 13582,
+      "end": 13597
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 15040,
+      "end": 15041
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 15060,
+      "end": 15083
+    },
+    {
+      "text": "Bundesinnenministerium",
+      "label": "ORG",
+      "start": 15130,
+      "end": 15152
+    },
+    {
+      "text": "Verteidigungsministerium",
+      "label": "ORG",
+      "start": 15160,
+      "end": 15184
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15971,
+      "end": 15980
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 18227,
+      "end": 18242
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 22379,
+      "end": 22387
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 23947,
+      "end": 23953
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Schwall",
+      "label": "PER",
+      "start": 27786,
+      "end": 27793
+    },
+    {
+      "text": "Düren",
+      "label": "PER",
+      "start": 27794,
+      "end": 27799
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 27930,
+      "end": 27936
+    },
+    {
+      "text": "Angelica Schwall",
+      "label": "PER",
+      "start": 28584,
+      "end": 28600
+    },
+    {
+      "text": "Angelica Schwall - Düren",
+      "label": "PER",
+      "start": 28584,
+      "end": 28606
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Matthias Platz",
+      "label": "PER",
+      "start": 187,
+      "end": 201
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 215,
+      "end": 235
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 244,
+      "end": 261
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 554,
+      "end": 571
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 598,
+      "end": 613
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 635,
+      "end": 645
+    },
+    {
+      "text": "Angelica Schwall",
+      "label": "PER",
+      "start": 704,
+      "end": 720
+    },
+    {
+      "text": "Düren",
+      "label": "PER",
+      "start": 721,
+      "end": 726
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 942,
+      "end": 947
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 982,
+      "end": 1005
+    },
+    {
+      "text": "Buch - und Offsetdruckerei",
+      "label": "ORG",
+      "start": 1007,
+      "end": 1032
+    },
+    {
+      "text": "heenemann - druck. de",
+      "label": "ORG",
+      "start": 1074,
+      "end": 1092
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1141
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 1392,
+      "end": 1412
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 1461,
+      "end": 1472
+    },
+    {
+      "text": "U",
+      "label": "PER",
+      "start": 1558,
+      "end": 1559
+    },
+    {
+      "text": "##lrike Hiller",
+      "label": "PER",
+      "start": 1559,
+      "end": 1571
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1582,
+      "end": 1600
+    },
+    {
+      "text": "Dilek Kolat",
+      "label": "PER",
+      "start": 1960,
+      "end": 1971
+    },
+    {
+      "text": "Stefan Wenzel",
+      "label": "PER",
+      "start": 2040,
+      "end": 2053
+    },
+    {
+      "text": "Angelica Schwall - Düren",
+      "label": "PER",
+      "start": 2129,
+      "end": 2151
+    },
+    {
+      "text": "Pfa",
+      "label": "ORG",
+      "start": 2299,
+      "end": 2302
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 2307,
+      "end": 2324
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Margit Conrad",
+      "label": "PER",
+      "start": 2387,
+      "end": 2400
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2472
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 2489,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Hiller",
+      "label": "PER",
+      "start": 2576,
+      "end": 2589
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 2678,
+      "end": 2702
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 2708,
+      "end": 2712
+    },
+    {
+      "text": "Heiko Maas",
+      "label": "PER",
+      "start": 2729,
+      "end": 2739
+    },
+    {
+      "text": "Jürgen Lennartz",
+      "label": "PER",
+      "start": 2794,
+      "end": 2809
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 2836,
+      "end": 2849
+    },
+    {
+      "text": "Bund Bundesrat",
+      "label": "ORG",
+      "start": 2891,
+      "end": 2906
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 2956,
+      "end": 2973
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 3016,
+      "end": 3031
+    },
+    {
+      "text": "Marion Walsmann",
+      "label": "PER",
+      "start": 3071,
+      "end": 3086
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 3157,
+      "end": 3165
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Klaus - Dieter Fritsche",
+      "label": "PER",
+      "start": 3266,
+      "end": 3287
+    },
+    {
+      "text": "Bundesministerium des Innern S ch",
+      "label": "ORG",
+      "start": 3307,
+      "end": 3341
+    },
+    {
+      "text": "Monika Heinold",
+      "label": "PER",
+      "start": 3371,
+      "end": 3385
+    },
+    {
+      "text": "Werner Gatzer",
+      "label": "PER",
+      "start": 3405,
+      "end": 3418
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 3438,
+      "end": 3468
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 3475,
+      "end": 3481
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 3672,
+      "end": 3692
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 4297,
+      "end": 4314
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4436,
+      "end": 4444
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 4570,
+      "end": 4578
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 5399,
+      "end": 5416
+    },
+    {
+      "text": "Dei",
+      "label": "PER",
+      "start": 5501,
+      "end": 5504
+    },
+    {
+      "text": "##graf",
+      "label": "PER",
+      "start": 5506,
+      "end": 5510
+    },
+    {
+      "text": "Föderalismuskommissionen",
+      "label": "ORG",
+      "start": 5740,
+      "end": 5764
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 5861,
+      "end": 5869
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 6130,
+      "end": 6138
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 6334,
+      "end": 6351
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 7228,
+      "end": 7248
+    },
+    {
+      "text": "Platzeck",
+      "label": "PER",
+      "start": 7278,
+      "end": 7286
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 7707,
+      "end": 7714
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 7726,
+      "end": 7743
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 9101,
+      "end": 9118
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 9513,
+      "end": 9521
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9715,
+      "end": 9724
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 11118,
+      "end": 11135
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 11697,
+      "end": 11720
+    },
+    {
+      "text": "Gatzer",
+      "label": "PER",
+      "start": 11721,
+      "end": 11727
+    },
+    {
+      "text": "Stanislaw Tillich",
+      "label": "PER",
+      "start": 12547,
+      "end": 12564
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 13449,
+      "end": 13469
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 13551,
+      "end": 13559
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 13582,
+      "end": 13597
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 13702,
+      "end": 13709
+    },
+    {
+      "text": "Bundesfinanzministerium",
+      "label": "ORG",
+      "start": 15060,
+      "end": 15083
+    },
+    {
+      "text": "Bundesinnenministerium",
+      "label": "ORG",
+      "start": 15130,
+      "end": 15152
+    },
+    {
+      "text": "Verteidigungsministerium",
+      "label": "ORG",
+      "start": 15160,
+      "end": 15184
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15971,
+      "end": 15980
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 16001,
+      "end": 16007
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 17671,
+      "end": 17688
+    },
+    {
+      "text": "Tillich",
+      "label": "PER",
+      "start": 17790,
+      "end": 17797
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 18113,
+      "end": 18130
+    },
+    {
+      "text": "Reiner Haseloff",
+      "label": "PER",
+      "start": 18227,
+      "end": 18242
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 19235,
+      "end": 19255
+    },
+    {
+      "text": "Tack",
+      "label": "PER",
+      "start": 19322,
+      "end": 19326
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 19351,
+      "end": 19361
+    },
+    {
+      "text": "Haseloff",
+      "label": "PER",
+      "start": 22379,
+      "end": 22387
+    },
+    {
+      "text": "Anita Tack",
+      "label": "PER",
+      "start": 23990,
+      "end": 24000
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26004,
+      "end": 26022
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 26554,
+      "end": 26571
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 26875,
+      "end": 26893
+    },
+    {
+      "text": "Winfried Kretschmann",
+      "label": "PER",
+      "start": 27680,
+      "end": 27700
+    },
+    {
+      "text": "Schwall - Düren",
+      "label": "PER",
+      "start": 27786,
+      "end": 27799
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 28336,
+      "end": 28338
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 28471,
+      "end": 28473
+    },
+    {
+      "text": "Angelica Schwall",
+      "label": "PER",
+      "start": 28584,
+      "end": 28600
+    },
+    {
+      "text": "Angelica Schwall - Düren",
+      "label": "PER",
+      "start": 28584,
+      "end": 28606
+    }
+  ]
+}

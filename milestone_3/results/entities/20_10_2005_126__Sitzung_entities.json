@@ -1,0 +1,1919 @@
+{
+  "filename": "20.10.2005_126._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "DDr. Erwin Niederwieser",
+      "label": "PER",
+      "start": 677,
+      "end": 700
+    },
+    {
+      "text": "Bundeskanzler",
+      "label": "PER",
+      "start": 734,
+      "end": 747
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 996,
+      "end": 1012
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1030,
+      "end": 1046
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1169,
+      "end": 1185
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 1187,
+      "end": 1207
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1243,
+      "end": 1259
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2059,
+      "end": 2093
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2483,
+      "end": 2499
+    },
+    {
+      "text": "Mag. Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2535,
+      "end": 2559
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2744,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2950,
+      "end": 2967
+    },
+    {
+      "text": "Markus\\nFauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3129,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3322,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4043
+    },
+    {
+      "text": "Dipl.-Ing. Uwe\\nScheuch",
+      "label": "PER",
+      "start": 4045,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "PER",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4272,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB-Infrastruktur Betrieb AG",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4468
+    },
+    {
+      "text": "ÖBBInfrastruktur Bau AG",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4496
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4764,
+      "end": 4780
+    },
+    {
+      "text": "Mag. Kogler",
+      "label": "PER",
+      "start": 4798,
+      "end": 4809
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4996,
+      "end": 5012
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5142
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5332,
+      "end": 5351
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "DDr. Erwin Niederwieser",
+      "label": "PER",
+      "start": 677,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 996,
+      "end": 1012
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1030,
+      "end": 1046
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1169,
+      "end": 1172
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 1187,
+      "end": 1197
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1243,
+      "end": 1259
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2059,
+      "end": 2093
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2483,
+      "end": 2499
+    },
+    {
+      "text": "Mag. Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2535,
+      "end": 2559
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2744,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2950,
+      "end": 2967
+    },
+    {
+      "text": "Markus",
+      "label": "PER",
+      "start": 2969,
+      "end": 2975
+    },
+    {
+      "text": "Fauland",
+      "label": "PER",
+      "start": 2976,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3129,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3322,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4043
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 4045,
+      "end": 4055
+    },
+    {
+      "text": "Uwe",
+      "label": "PER",
+      "start": 4056,
+      "end": 4059
+    },
+    {
+      "text": "Scheuch",
+      "label": "PER",
+      "start": 4060,
+      "end": 4067
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4272,
+      "end": 4290
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4764,
+      "end": 4780
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4798,
+      "end": 4802
+    },
+    {
+      "text": "Kogler",
+      "label": "PER",
+      "start": 4803,
+      "end": 4809
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4963,
+      "end": 4974
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4996,
+      "end": 5012
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5142
+    }
+  ],
+  "flair": [
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 682,
+      "end": 700
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1000,
+      "end": 1012
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1034,
+      "end": 1046
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2074,
+      "end": 2093
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2487,
+      "end": 2499
+    },
+    {
+      "text": "Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2749,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2955,
+      "end": 2967
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3133,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3326,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 4016,
+      "end": 4043
+    },
+    {
+      "text": "Uwe Scheuch",
+      "label": "PER",
+      "start": 4056,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4276,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB-Infrastruktur Betrieb AG",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4468
+    },
+    {
+      "text": "ÖBBInfrastruktur Bau AG",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4496
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4768,
+      "end": 4780
+    },
+    {
+      "text": "Kogler",
+      "label": "PER",
+      "start": 4803,
+      "end": 4809
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 5000,
+      "end": 5012
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 682,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 996,
+      "end": 1012
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1030,
+      "end": 1046
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1169,
+      "end": 1185
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 1187,
+      "end": 1207
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1243,
+      "end": 1259
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1490,
+      "end": 1501
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2059,
+      "end": 2093
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2483,
+      "end": 2499
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2522,
+      "end": 2534
+    },
+    {
+      "text": "Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2749,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2955,
+      "end": 2967
+    },
+    {
+      "text": "Markus\nFauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3129,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3326,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "BSFG",
+      "label": "ORG",
+      "start": 3494,
+      "end": 3498
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4011
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4043
+    },
+    {
+      "text": "Dipl.-Ing. Uwe\nScheuch",
+      "label": "PER",
+      "start": 4045,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4272,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB-Infrastruktur",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4457
+    },
+    {
+      "text": "ÖBBInfrastruktur",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4489
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4764,
+      "end": 4780
+    },
+    {
+      "text": "Ausschussobmann Mag",
+      "label": "PER",
+      "start": 4782,
+      "end": 4801
+    },
+    {
+      "text": "Kogler",
+      "label": "PER",
+      "start": 4803,
+      "end": 4809
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4963,
+      "end": 4974
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4996,
+      "end": 5012
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5142
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 682,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 996,
+      "end": 1012
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1030,
+      "end": 1046
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1081,
+      "end": 1094
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 1169,
+      "end": 1185
+    },
+    {
+      "text": "Dipl.-Ing. Prinzhorn",
+      "label": "PER",
+      "start": 1187,
+      "end": 1207
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1243,
+      "end": 1259
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1490,
+      "end": 1501
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2059,
+      "end": 2093
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2483,
+      "end": 2499
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2522,
+      "end": 2534
+    },
+    {
+      "text": "Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2749,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2955,
+      "end": 2967
+    },
+    {
+      "text": "Markus\nFauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 3129,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3326,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "BSFG",
+      "label": "ORG",
+      "start": 3494,
+      "end": 3498
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4011
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 4012,
+      "end": 4043
+    },
+    {
+      "text": "Dipl.-Ing. Uwe\nScheuch",
+      "label": "PER",
+      "start": 4045,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 4272,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB-Infrastruktur",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4457
+    },
+    {
+      "text": "ÖBBInfrastruktur",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4489
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4764,
+      "end": 4780
+    },
+    {
+      "text": "Ausschussobmann Mag",
+      "label": "PER",
+      "start": 4782,
+      "end": 4801
+    },
+    {
+      "text": "Kogler",
+      "label": "PER",
+      "start": 4803,
+      "end": 4809
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4963,
+      "end": 4974
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4996,
+      "end": 5012
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5142
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 187,
+      "end": 195
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 682,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 920,
+      "end": 931
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1000,
+      "end": 1012
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1034,
+      "end": 1046
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1151,
+      "end": 1159
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Partik - Pablé",
+      "label": "PER",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2023
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2074,
+      "end": 2093
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2209,
+      "end": 2248
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2425
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2487,
+      "end": 2499
+    },
+    {
+      "text": "Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Ausschuss für Sportangelegenheiten",
+      "label": "ORG",
+      "start": 2659,
+      "end": 2693
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2749,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2955,
+      "end": 2967
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3133,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3326,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "##ausschuss",
+      "label": "ORG",
+      "start": 3569,
+      "end": 3578
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Ulrike Baumgartner - Gabitzer",
+      "label": "PER",
+      "start": 4016,
+      "end": 4043
+    },
+    {
+      "text": "Uwe Scheuch",
+      "label": "PER",
+      "start": 4056,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 4196,
+      "end": 4199
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4276,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB - Infrastruktur Betrieb AG",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4468
+    },
+    {
+      "text": "ÖBBInfrastruktur Bau AG",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4496
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4768,
+      "end": 4780
+    },
+    {
+      "text": "Mag. Kogler",
+      "label": "PER",
+      "start": 4798,
+      "end": 4809
+    },
+    {
+      "text": "Rec",
+      "label": "ORG",
+      "start": 4842,
+      "end": 4845
+    },
+    {
+      "text": "##shof",
+      "label": "ORG",
+      "start": 4850,
+      "end": 4854
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4963,
+      "end": 4974
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 5000,
+      "end": 5012
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5129,
+      "end": 5142
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 682,
+      "end": 700
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 920,
+      "end": 928
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1000,
+      "end": 1012
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1034,
+      "end": 1046
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1142,
+      "end": 1149
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1161,
+      "end": 1167
+    },
+    {
+      "text": "Parti",
+      "label": "PER",
+      "start": 1173,
+      "end": 1178
+    },
+    {
+      "text": "##bl",
+      "label": "PER",
+      "start": 1182,
+      "end": 1184
+    },
+    {
+      "text": "Prinzhorn",
+      "label": "PER",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2074,
+      "end": 2093
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 2203,
+      "end": 2204
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2487,
+      "end": 2499
+    },
+    {
+      "text": "Elisabeth Grossmann",
+      "label": "PER",
+      "start": 2540,
+      "end": 2559
+    },
+    {
+      "text": "Piber",
+      "label": "PER",
+      "start": 2652,
+      "end": 2657
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2729,
+      "end": 2742
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2749,
+      "end": 2761
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2763,
+      "end": 2777
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2935,
+      "end": 2948
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2955,
+      "end": 2967
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 2969,
+      "end": 2983
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2985,
+      "end": 2997
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3133,
+      "end": 3147
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 3291,
+      "end": 3304
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3306,
+      "end": 3320
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 3326,
+      "end": 3340
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3342,
+      "end": 3354
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3733,
+      "end": 3747
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3749,
+      "end": 3763
+    },
+    {
+      "text": "Ulrike Baumgartner",
+      "label": "PER",
+      "start": 4016,
+      "end": 4034
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 4035,
+      "end": 4043
+    },
+    {
+      "text": "Uwe Scheuch",
+      "label": "PER",
+      "start": 4056,
+      "end": 4067
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4182
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 4196,
+      "end": 4199
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 4276,
+      "end": 4290
+    },
+    {
+      "text": "ÖBB - Infrastruktur Betrieb AG",
+      "label": "ORG",
+      "start": 4440,
+      "end": 4468
+    },
+    {
+      "text": "ÖBBInfrastruktur Bau AG",
+      "label": "ORG",
+      "start": 4473,
+      "end": 4496
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 4532,
+      "end": 4542
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4768,
+      "end": 4780
+    },
+    {
+      "text": "Mag. Kogler",
+      "label": "PER",
+      "start": 4798,
+      "end": 4809
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4963,
+      "end": 4974
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 5000,
+      "end": 5012
+    }
+  ]
+}

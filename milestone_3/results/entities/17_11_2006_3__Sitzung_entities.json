@@ -1,0 +1,1319 @@
+{
+  "filename": "17.11.2006_3._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 743,
+      "end": 767
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 842,
+      "end": 855
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 785,
+      "end": 809
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Dr. Bösch",
+      "label": "PER",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "Mag. Johann\\nMaier",
+      "label": "PER",
+      "start": 922,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 949,
+      "end": 955
+    },
+    {
+      "text": "Scharer",
+      "label": "PER",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Mag. Stadler",
+      "label": "PER",
+      "start": 966,
+      "end": 978
+    },
+    {
+      "text": "Mag. Weinzinger",
+      "label": "PER",
+      "start": 983,
+      "end": 998
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 1034,
+      "end": 1058
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 1414,
+      "end": 1435
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1605,
+      "end": 1619
+    },
+    {
+      "text": "AMS",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1766
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 1797,
+      "end": 1818
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2006,
+      "end": 2027
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2029,
+      "end": 2052
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3065,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3195,
+      "end": 3206
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3264,
+      "end": 3288
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3319,
+      "end": 3342
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3505,
+      "end": 3529
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3555,
+      "end": 3568
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3884,
+      "end": 3903
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 743,
+      "end": 767
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 785,
+      "end": 809
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 842,
+      "end": 855
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 911,
+      "end": 914
+    },
+    {
+      "text": "Bösch",
+      "label": "PER",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 922,
+      "end": 926
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 927,
+      "end": 933
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 934,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 949,
+      "end": 955
+    },
+    {
+      "text": "Scharer",
+      "label": "PER",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 966,
+      "end": 970
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 983,
+      "end": 987
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 1034,
+      "end": 1058
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 1414,
+      "end": 1435
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1605,
+      "end": 1619
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 1797,
+      "end": 1818
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2006,
+      "end": 2027
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2029,
+      "end": 2052
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3065,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3195,
+      "end": 3206
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3264,
+      "end": 3288
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3319,
+      "end": 3342
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3505,
+      "end": 3529
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3555,
+      "end": 3568
+    }
+  ],
+  "flair": [
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 747,
+      "end": 767
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 789,
+      "end": 809
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Bösch",
+      "label": "PER",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 949,
+      "end": 955
+    },
+    {
+      "text": "Scharer",
+      "label": "PER",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 1038,
+      "end": 1058
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 1418,
+      "end": 1435
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1605,
+      "end": 1619
+    },
+    {
+      "text": "AMS",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1766
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 1802,
+      "end": 1818
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2011,
+      "end": 2027
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2034,
+      "end": 2052
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2549,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3070,
+      "end": 3088
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3268,
+      "end": 3288
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3324,
+      "end": 3342
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3509,
+      "end": 3529
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 511,
+      "end": 617
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 743,
+      "end": 767
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 785,
+      "end": 809
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 842,
+      "end": 855
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Dr. Bösch",
+      "label": "PER",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 983,
+      "end": 986
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 1034,
+      "end": 1058
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 1414,
+      "end": 1435
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1605,
+      "end": 1619
+    },
+    {
+      "text": "AMS",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1766
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1784,
+      "end": 1796
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 1802,
+      "end": 1818
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1993,
+      "end": 2005
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2011,
+      "end": 2027
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2029,
+      "end": 2052
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2531,
+      "end": 2543
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2549,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "APG",
+      "label": "ORG",
+      "start": 2691,
+      "end": 2694
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3065,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3195,
+      "end": 3206
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3264,
+      "end": 3288
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3319,
+      "end": 3342
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3505,
+      "end": 3529
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3555,
+      "end": 3568
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 511,
+      "end": 617
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 743,
+      "end": 767
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 785,
+      "end": 809
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 842,
+      "end": 855
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Dr. Bösch",
+      "label": "PER",
+      "start": 911,
+      "end": 920
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 983,
+      "end": 986
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 1034,
+      "end": 1058
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 1414,
+      "end": 1435
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1587,
+      "end": 1603
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1605,
+      "end": 1619
+    },
+    {
+      "text": "AMS",
+      "label": "ORG",
+      "start": 1763,
+      "end": 1766
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1784,
+      "end": 1796
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 1802,
+      "end": 1818
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1993,
+      "end": 2005
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2011,
+      "end": 2027
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2029,
+      "end": 2052
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2531,
+      "end": 2543
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2549,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "APG",
+      "label": "ORG",
+      "start": 2691,
+      "end": 2694
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3065,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3195,
+      "end": 3206
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3264,
+      "end": 3288
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3319,
+      "end": 3342
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3505,
+      "end": 3529
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3555,
+      "end": 3568
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 747,
+      "end": 767
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 789,
+      "end": 809
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Bösch",
+      "label": "PER",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "Sburny",
+      "label": "PER",
+      "start": 941,
+      "end": 947
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 949,
+      "end": 955
+    },
+    {
+      "text": "Scharer",
+      "label": "PER",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 1038,
+      "end": 1058
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 2009,
+      "end": 2010
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2011,
+      "end": 2027
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2029,
+      "end": 2033
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2034,
+      "end": 2052
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2544,
+      "end": 2547
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2549,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "APG",
+      "label": "ORG",
+      "start": 2691,
+      "end": 2694
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3065,
+      "end": 3069
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3070,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3195,
+      "end": 3206
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3268,
+      "end": 3288
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3324,
+      "end": 3342
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3509,
+      "end": 3529
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 657,
+      "end": 668
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 747,
+      "end": 767
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 789,
+      "end": 809
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 842,
+      "end": 850
+    },
+    {
+      "text": "Bucher",
+      "label": "PER",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "Bösch",
+      "label": "PER",
+      "start": 915,
+      "end": 920
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 927,
+      "end": 939
+    },
+    {
+      "text": "Sb",
+      "label": "PER",
+      "start": 941,
+      "end": 943
+    },
+    {
+      "text": "##urny",
+      "label": "PER",
+      "start": 943,
+      "end": 947
+    },
+    {
+      "text": "Reheis",
+      "label": "PER",
+      "start": 949,
+      "end": 955
+    },
+    {
+      "text": "Scharer",
+      "label": "PER",
+      "start": 957,
+      "end": 964
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 971,
+      "end": 978
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 983,
+      "end": 986
+    },
+    {
+      "text": "Weinzinger",
+      "label": "PER",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 1038,
+      "end": 1058
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2006,
+      "end": 2027
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2034,
+      "end": 2052
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2544,
+      "end": 2565
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2567,
+      "end": 2581
+    },
+    {
+      "text": "APG",
+      "label": "ORG",
+      "start": 2691,
+      "end": 2694
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2852,
+      "end": 2866
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3065,
+      "end": 3088
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3268,
+      "end": 3288
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3319,
+      "end": 3342
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3509,
+      "end": 3529
+    },
+    {
+      "text": "V",
+      "label": "ORG",
+      "start": 3771,
+      "end": 3772
+    }
+  ]
+}

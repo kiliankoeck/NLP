@@ -1,0 +1,797 @@
+{
+  "filename": "20.09.2017_196._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 817,
+      "end": 830
+    },
+    {
+      "text": "MMMag. Dr. Kassegger",
+      "label": "PER",
+      "start": 878,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 908,
+      "end": 924
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 926,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Dipl.-Ing. Doppelbauer",
+      "label": "PER",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 993,
+      "end": 1003
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1913,
+      "end": 1926
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2824
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 817,
+      "end": 830
+    },
+    {
+      "text": "MMMag.",
+      "label": "PER",
+      "start": 878,
+      "end": 884
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 885,
+      "end": 888
+    },
+    {
+      "text": "Kassegger",
+      "label": "PER",
+      "start": 889,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 908,
+      "end": 911
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 926,
+      "end": 929
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 930,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 960,
+      "end": 970
+    },
+    {
+      "text": "Doppelbauer",
+      "label": "PER",
+      "start": 971,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 993,
+      "end": 996
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 997,
+      "end": 1003
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1913,
+      "end": 1926
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    }
+  ],
+  "flair": [
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Kassegger",
+      "label": "PER",
+      "start": 889,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 930,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Doppelbauer",
+      "label": "PER",
+      "start": 971,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 997,
+      "end": 1003
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 676,
+      "end": 679
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 817,
+      "end": 830
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 865,
+      "end": 877
+    },
+    {
+      "text": "Dr. Kassegger",
+      "label": "PER",
+      "start": 885,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 908,
+      "end": 924
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 926,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Dipl.-Ing. Doppelbauer",
+      "label": "PER",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1913,
+      "end": 1926
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2497,
+      "end": 2500
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 187,
+      "end": 224
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 676,
+      "end": 679
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 817,
+      "end": 830
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 865,
+      "end": 877
+    },
+    {
+      "text": "Dr. Kassegger",
+      "label": "PER",
+      "start": 885,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 908,
+      "end": 924
+    },
+    {
+      "text": "Dr. Moser",
+      "label": "PER",
+      "start": 926,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Dipl.-Ing. Doppelbauer",
+      "label": "PER",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1876,
+      "end": 1887
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1913,
+      "end": 1926
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2497,
+      "end": 2500
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Kassegger",
+      "label": "PER",
+      "start": 889,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 930,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler - Souschill",
+      "label": "PER",
+      "start": 937,
+      "end": 958
+    },
+    {
+      "text": "Doppelbauer",
+      "label": "PER",
+      "start": 971,
+      "end": 982
+    },
+    {
+      "text": "Doppler",
+      "label": "PER",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 997,
+      "end": 1003
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1913,
+      "end": 1926
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2556,
+      "end": 2567
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 740,
+      "end": 751
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "text": "Kassegger",
+      "label": "PER",
+      "start": 889,
+      "end": 898
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 912,
+      "end": 924
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 930,
+      "end": 935
+    },
+    {
+      "text": "Windbüchler",
+      "label": "PER",
+      "start": 937,
+      "end": 948
+    },
+    {
+      "text": "##ll",
+      "label": "PER",
+      "start": 956,
+      "end": 958
+    },
+    {
+      "text": "Doppelbauer",
+      "label": "PER",
+      "start": 971,
+      "end": 982
+    },
+    {
+      "text": "##ler",
+      "label": "PER",
+      "start": 988,
+      "end": 991
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 997,
+      "end": 1003
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1041,
+      "end": 1052
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2484,
+      "end": 2495
+    },
+    {
+      "text": "Doris Bures Weiters",
+      "label": "PER",
+      "start": 2556,
+      "end": 2576
+    }
+  ]
+}

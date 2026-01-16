@@ -1,0 +1,1001 @@
+{
+  "filename": "02.03.2000_14._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 227,
+      "end": 240
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Europäische\\nUnion",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1079
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1467,
+      "end": 1488
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1506,
+      "end": 1527
+    },
+    {
+      "text": "Ing. Westenthaler",
+      "label": "PER",
+      "start": 1601,
+      "end": 1618
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1654,
+      "end": 1675
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 2259,
+      "end": 2287
+    },
+    {
+      "text": "Finanzministers",
+      "label": "PER",
+      "start": 2324,
+      "end": 2339
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2491,
+      "end": 2509
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 2659,
+      "end": 2687
+    },
+    {
+      "text": "Ex-Frauenministerin",
+      "label": "PER",
+      "start": 2825,
+      "end": 2844
+    },
+    {
+      "text": "Rechtsnachfolgerin",
+      "label": "PER",
+      "start": 3027,
+      "end": 3045
+    },
+    {
+      "text": "Frauenministerin",
+      "label": "PER",
+      "start": 3050,
+      "end": 3066
+    },
+    {
+      "text": "Österreichischen Postsparkasse",
+      "label": "ORG",
+      "start": 3288,
+      "end": 3318
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3385,
+      "end": 3396
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3448,
+      "end": 3469
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 4044,
+      "end": 4061
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 4170,
+      "end": 4198
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4353,
+      "end": 4374
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4400,
+      "end": 4413
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4597,
+      "end": 4619
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 227,
+      "end": 240
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 1308,
+      "end": 1312
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1467,
+      "end": 1488
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1506,
+      "end": 1527
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 1583,
+      "end": 1587
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1601,
+      "end": 1605
+    },
+    {
+      "text": "Westenthaler",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1654,
+      "end": 1675
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 2259,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2491,
+      "end": 2509
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 2659,
+      "end": 2687
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3385,
+      "end": 3396
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 3448,
+      "end": 3469
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 3922,
+      "end": 3926
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 4044,
+      "end": 4061
+    },
+    {
+      "text": "MMag. Dr. Madeleine Petrovic",
+      "label": "PER",
+      "start": 4170,
+      "end": 4198
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4353,
+      "end": 4374
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4400,
+      "end": 4413
+    }
+  ],
+  "flair": [
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1079
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1471,
+      "end": 1488
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1510,
+      "end": 1527
+    },
+    {
+      "text": "Westenthaler",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 1658,
+      "end": 1675
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 2259,
+      "end": 2263
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2269,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2495,
+      "end": 2509
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 2659,
+      "end": 2663
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2669,
+      "end": 2687
+    },
+    {
+      "text": "Österreichischen Postsparkasse",
+      "label": "ORG",
+      "start": 3288,
+      "end": 3318
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3385,
+      "end": 3396
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 3452,
+      "end": 3469
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4049,
+      "end": 4061
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 4180,
+      "end": 4198
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4357,
+      "end": 4374
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4597,
+      "end": 4619
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 227,
+      "end": 264
+    },
+    {
+      "text": "Neutralen",
+      "label": "ORG",
+      "start": 852,
+      "end": 861
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Europäische\nUnion",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1079
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1467,
+      "end": 1488
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1506,
+      "end": 1527
+    },
+    {
+      "text": "Ing. Westenthaler",
+      "label": "PER",
+      "start": 1601,
+      "end": 1618
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1654,
+      "end": 1675
+    },
+    {
+      "text": "Neutralen",
+      "label": "ORG",
+      "start": 2135,
+      "end": 2144
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2246,
+      "end": 2258
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2269,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2491,
+      "end": 2509
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2646,
+      "end": 2658
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2669,
+      "end": 2687
+    },
+    {
+      "text": "Österreichischen Postsparkasse",
+      "label": "ORG",
+      "start": 3288,
+      "end": 3318
+    },
+    {
+      "text": "Dr. Werner Fasslabend\nBankwesengesetzes",
+      "label": "PER",
+      "start": 3448,
+      "end": 3487
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4031,
+      "end": 4043
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4049,
+      "end": 4061
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4169
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 4180,
+      "end": 4198
+    },
+    {
+      "text": "NS-Regime",
+      "label": "ORG",
+      "start": 4280,
+      "end": 4289
+    },
+    {
+      "text": "FPÖ-Politikern",
+      "label": "ORG",
+      "start": 4321,
+      "end": 4335
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4353,
+      "end": 4374
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4400,
+      "end": 4413
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 227,
+      "end": 264
+    },
+    {
+      "text": "Neutralen",
+      "label": "ORG",
+      "start": 852,
+      "end": 861
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Europäische\nUnion",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1079
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1467,
+      "end": 1488
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1506,
+      "end": 1527
+    },
+    {
+      "text": "Ing. Westenthaler",
+      "label": "PER",
+      "start": 1601,
+      "end": 1618
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 1654,
+      "end": 1675
+    },
+    {
+      "text": "Neutralen",
+      "label": "ORG",
+      "start": 2135,
+      "end": 2144
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2246,
+      "end": 2258
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2269,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2491,
+      "end": 2509
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2646,
+      "end": 2658
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2669,
+      "end": 2687
+    },
+    {
+      "text": "Österreichischen Postsparkasse",
+      "label": "ORG",
+      "start": 3288,
+      "end": 3318
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3385,
+      "end": 3396
+    },
+    {
+      "text": "Dr. Werner Fasslabend\nBankwesengesetzes",
+      "label": "PER",
+      "start": 3448,
+      "end": 3487
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4031,
+      "end": 4043
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4049,
+      "end": 4061
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4169
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 4180,
+      "end": 4198
+    },
+    {
+      "text": "NS-Regime",
+      "label": "ORG",
+      "start": 4280,
+      "end": 4289
+    },
+    {
+      "text": "FPÖ-Politikern",
+      "label": "ORG",
+      "start": 4321,
+      "end": 4335
+    },
+    {
+      "text": "Dr. Werner Fasslabend",
+      "label": "PER",
+      "start": 4353,
+      "end": 4374
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4400,
+      "end": 4413
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 227,
+      "end": 240
+    },
+    {
+      "text": "Republik Österreich",
+      "label": "ORG",
+      "start": 245,
+      "end": 264
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2269,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2495,
+      "end": 2509
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2669,
+      "end": 2687
+    },
+    {
+      "text": "Österreichischen Postsparkasse",
+      "label": "ORG",
+      "start": 3288,
+      "end": 3318
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3385,
+      "end": 3396
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 3452,
+      "end": 3458
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Ausschuss für Menschenrechte",
+      "label": "ORG",
+      "start": 3980,
+      "end": 4008
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4049,
+      "end": 4061
+    },
+    {
+      "text": "Verfassungsausschus",
+      "label": "ORG",
+      "start": 4114,
+      "end": 4133
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 4180,
+      "end": 4198
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4357,
+      "end": 4374
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4400,
+      "end": 4413
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4597,
+      "end": 4619
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Republik",
+      "label": "ORG",
+      "start": 245,
+      "end": 253
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 869,
+      "end": 871
+    },
+    {
+      "text": "Bürgerinitiative",
+      "label": "ORG",
+      "start": 2064,
+      "end": 2080
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2152,
+      "end": 2154
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2269,
+      "end": 2287
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2495,
+      "end": 2509
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 2669,
+      "end": 2687
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 3452,
+      "end": 3469
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3693
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4049,
+      "end": 4061
+    },
+    {
+      "text": "Madeleine Petrovic",
+      "label": "PER",
+      "start": 4180,
+      "end": 4198
+    },
+    {
+      "text": "Werner Fasslabend",
+      "label": "PER",
+      "start": 4357,
+      "end": 4374
+    },
+    {
+      "text": "Print Media Austria AG",
+      "label": "ORG",
+      "start": 4597,
+      "end": 4619
+    }
+  ]
+}

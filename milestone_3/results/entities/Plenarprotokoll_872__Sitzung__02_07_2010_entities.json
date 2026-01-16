@@ -1,0 +1,6623 @@
+{
+  "filename": "Plenarprotokoll_872._Sitzung,_02.07.2010.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 93,
+      "end": 114
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 177,
+      "end": 194
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert",
+      "label": "PER",
+      "start": 276,
+      "end": 301
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 344,
+      "end": 355
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 420,
+      "end": 437
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 500,
+      "end": 517
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.,",
+      "label": "ORG",
+      "start": 583,
+      "end": 607
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH,",
+      "label": "ORG",
+      "start": 704,
+      "end": 743
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "J e n s B ö h r n s e n",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 988,
+      "end": 999
+    },
+    {
+      "text": "Jürgen Seidel,",
+      "label": "PER",
+      "start": 1026,
+      "end": 1040
+    },
+    {
+      "text": "Dr. Wolfgang Reinhart,",
+      "label": "PER",
+      "start": 1113,
+      "end": 1135
+    },
+    {
+      "text": "Heribert Rech,",
+      "label": "PER",
+      "start": 1261,
+      "end": 1275
+    },
+    {
+      "text": "Lorenz Caffier,",
+      "label": "PER",
+      "start": 1348,
+      "end": 1363
+    },
+    {
+      "text": "Hartmut Möllring,",
+      "label": "PER",
+      "start": 1394,
+      "end": 1411
+    },
+    {
+      "text": "Bernd Busemann,",
+      "label": "PER",
+      "start": 1427,
+      "end": 1442
+    },
+    {
+      "text": "Dr. Bernd Althusmann,",
+      "label": "PER",
+      "start": 1458,
+      "end": 1479
+    },
+    {
+      "text": "Horst Seehofer,",
+      "label": "PER",
+      "start": 1521,
+      "end": 1536
+    },
+    {
+      "text": "Karl Peter Bruch,",
+      "label": "PER",
+      "start": 1555,
+      "end": 1572
+    },
+    {
+      "text": "Klaus Wowereit,",
+      "label": "PER",
+      "start": 1615,
+      "end": 1630
+    },
+    {
+      "text": "Harald Wolf,",
+      "label": "PER",
+      "start": 1657,
+      "end": 1669
+    },
+    {
+      "text": "Karl Rauber,",
+      "label": "PER",
+      "start": 1760,
+      "end": 1772
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1842
+    },
+    {
+      "text": "Annegret Kramp-Karrenbauer,",
+      "label": "PER",
+      "start": 1843,
+      "end": 1870
+    },
+    {
+      "text": "Matthias Platzeck,",
+      "label": "PER",
+      "start": 1935,
+      "end": 1953
+    },
+    {
+      "text": "Dr. Kerstin Kießler,",
+      "label": "PER",
+      "start": 1989,
+      "end": 2009
+    },
+    {
+      "text": "Prof. Dr. Roland Wöller,",
+      "label": "PER",
+      "start": 2079,
+      "end": 2103
+    },
+    {
+      "text": "Prof. Dr. Dr. Sabine Freifrau von Schorlemer,",
+      "label": "PER",
+      "start": 2140,
+      "end": 2185
+    },
+    {
+      "text": "Michael Boddenberg,",
+      "label": "PER",
+      "start": 2255,
+      "end": 2274
+    },
+    {
+      "text": "Rainer Robra,",
+      "label": "PER",
+      "start": 2360,
+      "end": 2373
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 2402,
+      "end": 2415
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2417,
+      "end": 2426
+    },
+    {
+      "text": "Dr. Heiner Garg,",
+      "label": "PER",
+      "start": 2478,
+      "end": 2494
+    },
+    {
+      "text": "Rainer Wiegard,",
+      "label": "PER",
+      "start": 2540,
+      "end": 2555
+    },
+    {
+      "text": "Prof. Dr. Peter Michael Huber,",
+      "label": "PER",
+      "start": 2583,
+      "end": 2613
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2643
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2757
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert,",
+      "label": "PER",
+      "start": 2803,
+      "end": 2829
+    },
+    {
+      "text": "Deutschen Bundestages:",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2866
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2970
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2979,
+      "end": 2990
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3071
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Professor Dr. Horst K ö h l e r",
+      "label": "PER",
+      "start": 3395,
+      "end": 3426
+    },
+    {
+      "text": "Eva Luise Köhler.",
+      "label": "PER",
+      "start": 3447,
+      "end": 3464
+    },
+    {
+      "text": "Roman\\n\\nH e r z o g",
+      "label": "PER",
+      "start": 3516,
+      "end": 3533
+    },
+    {
+      "text": "D r . M e r k e l",
+      "label": "PER",
+      "start": 3656,
+      "end": 3673
+    },
+    {
+      "text": "Bundesverfassungsgerichts,",
+      "label": "ORG",
+      "start": 3700,
+      "end": 3726
+    },
+    {
+      "text": "Professor V o ß k u h l e",
+      "label": "PER",
+      "start": 3733,
+      "end": 3758
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 3870,
+      "end": 3887
+    },
+    {
+      "text": "Professor Köhler,",
+      "label": "PER",
+      "start": 4042,
+      "end": 4059
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4292,
+      "end": 4298
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 4276,
+      "end": 4291
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6016,
+      "end": 6025
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6092
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert",
+      "label": "PER",
+      "start": 6093,
+      "end": 6118
+    },
+    {
+      "text": "Professor Köhler,",
+      "label": "PER",
+      "start": 6337,
+      "end": 6354
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 7397,
+      "end": 7414
+    },
+    {
+      "text": "Frau Köhler,",
+      "label": "PER",
+      "start": 7492,
+      "end": 7504
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7540
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Bundespräsidenten“,",
+      "label": "PER",
+      "start": 8297,
+      "end": 8316
+    },
+    {
+      "text": "Theodor H e u s s",
+      "label": "PER",
+      "start": 8344,
+      "end": 8361
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Bundesrates,",
+      "label": "ORG",
+      "start": 9131,
+      "end": 9143
+    },
+    {
+      "text": "Jens Böhrnsen,",
+      "label": "PER",
+      "start": 9144,
+      "end": 9158
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 9204,
+      "end": 9221
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9397,
+      "end": 9406
+    },
+    {
+      "text": "Bundesrat,",
+      "label": "ORG",
+      "start": 9411,
+      "end": 9421
+    },
+    {
+      "text": "Jens Böhrnsen,",
+      "label": "PER",
+      "start": 9487,
+      "end": 9501
+    },
+    {
+      "text": "Bundesrates:",
+      "label": "ORG",
+      "start": 9516,
+      "end": 9528
+    },
+    {
+      "text": "Bundespräsident!",
+      "label": "PER",
+      "start": 9548,
+      "end": 9564
+    },
+    {
+      "text": "Bundestages!",
+      "label": "ORG",
+      "start": 9598,
+      "end": 9610
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9648,
+      "end": 9659
+    },
+    {
+      "text": "Wulff,",
+      "label": "PER",
+      "start": 9733,
+      "end": 9739
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 9764,
+      "end": 9781
+    },
+    {
+      "text": "Köhler,",
+      "label": "PER",
+      "start": 9922,
+      "end": 9929
+    },
+    {
+      "text": "Frau Köhler,",
+      "label": "PER",
+      "start": 9950,
+      "end": 9962
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9993,
+      "end": 10004
+    },
+    {
+      "text": "Herr Köhler,",
+      "label": "PER",
+      "start": 10032,
+      "end": 10044
+    },
+    {
+      "text": "Bundesregierung,",
+      "label": "ORG",
+      "start": 10399,
+      "end": 10415
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11410,
+      "end": 11419
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11464,
+      "end": 11475
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Köhler,",
+      "label": "PER",
+      "start": 12636,
+      "end": 12643
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 12755,
+      "end": 12766
+    },
+    {
+      "text": "Frau Köhler,",
+      "label": "PER",
+      "start": 12879,
+      "end": 12891
+    },
+    {
+      "text": "Frau Köhler,",
+      "label": "PER",
+      "start": 13377,
+      "end": 13389
+    },
+    {
+      "text": "Frau Köhler!",
+      "label": "PER",
+      "start": 13615,
+      "end": 13627
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 13701,
+      "end": 13718
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 13989,
+      "end": 14006
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 14027,
+      "end": 14038
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 14150,
+      "end": 14167
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 14525,
+      "end": 14540
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 14760,
+      "end": 14777
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 14802,
+      "end": 14819
+    },
+    {
+      "text": "Wulff,",
+      "label": "PER",
+      "start": 15002,
+      "end": 15008
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15119,
+      "end": 15128
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 15133,
+      "end": 15148
+    },
+    {
+      "text": "Bundesrat,",
+      "label": "ORG",
+      "start": 15224,
+      "end": 15234
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15399,
+      "end": 15408
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 15723,
+      "end": 15732
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15737,
+      "end": 15742
+    },
+    {
+      "text": "Wulff,",
+      "label": "PER",
+      "start": 16216,
+      "end": 16222
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 16419,
+      "end": 16430
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert:",
+      "label": "PER",
+      "start": 16494,
+      "end": 16520
+    },
+    {
+      "text": "Herrn Christian Wulff",
+      "label": "PER",
+      "start": 16597,
+      "end": 16618
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "PER",
+      "start": 16623,
+      "end": 16640
+    },
+    {
+      "text": "Herr Wulff",
+      "label": "PER",
+      "start": 16681,
+      "end": 16691
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 16840,
+      "end": 16855
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16927
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16947,
+      "end": 16956
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert",
+      "label": "PER",
+      "start": 16998,
+      "end": 17023
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 17206,
+      "end": 17218
+    },
+    {
+      "text": "Bundespräsident,",
+      "label": "PER",
+      "start": 17102,
+      "end": 17118
+    },
+    {
+      "text": "Bundespräsident,",
+      "label": "PER",
+      "start": 17329,
+      "end": 17345
+    },
+    {
+      "text": "Herr\\n\\nKöhler,",
+      "label": "PER",
+      "start": 17353,
+      "end": 17365
+    },
+    {
+      "text": "Bundespräsident,",
+      "label": "PER",
+      "start": 17967,
+      "end": 17983
+    },
+    {
+      "text": "Christian Wulff:",
+      "label": "PER",
+      "start": 18135,
+      "end": 18151
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert:",
+      "label": "PER",
+      "start": 18456,
+      "end": 18482
+    },
+    {
+      "text": "Bundespräsident,",
+      "label": "PER",
+      "start": 18488,
+      "end": 18504
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18560
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18569,
+      "end": 18580
+    },
+    {
+      "text": "Christian Wulff:",
+      "label": "PER",
+      "start": 18655,
+      "end": 18671
+    },
+    {
+      "text": "Bundestagspräsident!",
+      "label": "PER",
+      "start": 18726,
+      "end": 18746
+    },
+    {
+      "text": "Bundesratspräsident!",
+      "label": "PER",
+      "start": 18766,
+      "end": 18786
+    },
+    {
+      "text": "Bundeskanzlerin!",
+      "label": "PER",
+      "start": 18805,
+      "end": 18821
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Herzog!",
+      "label": "PER",
+      "start": 18935,
+      "end": 18942
+    },
+    {
+      "text": "Frau Köhler!",
+      "label": "PER",
+      "start": 18957,
+      "end": 18969
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "Bundesrates!",
+      "label": "ORG",
+      "start": 19028,
+      "end": 19040
+    },
+    {
+      "text": "Frau J o c h i m s e n",
+      "label": "PER",
+      "start": 19562,
+      "end": 19584
+    },
+    {
+      "text": "Herrn G a u c k",
+      "label": "PER",
+      "start": 19589,
+      "end": 19604
+    },
+    {
+      "text": "Herr Gauck,",
+      "label": "PER",
+      "start": 19867,
+      "end": 19878
+    },
+    {
+      "text": "Frau Köhler,",
+      "label": "PER",
+      "start": 21127,
+      "end": 21139
+    },
+    {
+      "text": "Bertolt\\n\\nB r e c h t",
+      "label": "PER",
+      "start": 21310,
+      "end": 21329
+    },
+    {
+      "text": "ACHSE,",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21511
+    },
+    {
+      "text": "Allianz Chronischer Seltener Erkrankungen,",
+      "label": "ORG",
+      "start": 21516,
+      "end": 21558
+    },
+    {
+      "text": "Frau\\n\\nKöhler,",
+      "label": "PER",
+      "start": 21732,
+      "end": 21744
+    },
+    {
+      "text": "Herr Köhler,",
+      "label": "PER",
+      "start": 21752,
+      "end": 21764
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22371,
+      "end": 22380
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "Reichstags",
+      "label": "ORG",
+      "start": 22920,
+      "end": 22930
+    },
+    {
+      "text": "Christo",
+      "label": "PER",
+      "start": 23214,
+      "end": 23221
+    },
+    {
+      "text": "Jeanne-Claude:",
+      "label": "PER",
+      "start": 23226,
+      "end": 23240
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 24226,
+      "end": 24234
+    },
+    {
+      "text": "Frau Ö z k a n",
+      "label": "PER",
+      "start": 25327,
+      "end": 25341
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28151,
+      "end": 28160
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 29036,
+      "end": 29051
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "PER",
+      "start": 31829,
+      "end": 31844
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 33455,
+      "end": 33470
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 33489,
+      "end": 33500
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 33962,
+      "end": 33971
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Prof. Dr. Norbert Lammert:",
+      "label": "PER",
+      "start": 37363,
+      "end": 37389
+    },
+    {
+      "text": "Bundespräsident!",
+      "label": "PER",
+      "start": 37412,
+      "end": 37428
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37712
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 37721,
+      "end": 37732
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37778,
+      "end": 37789
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 177,
+      "end": 194
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 282,
+      "end": 285
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 286,
+      "end": 293
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 344,
+      "end": 355
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 420,
+      "end": 437
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 438,
+      "end": 447
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 500,
+      "end": 517
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 540,
+      "end": 549
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 988,
+      "end": 999
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 1026,
+      "end": 1032
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 1033,
+      "end": 1039
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1113,
+      "end": 1116
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 1117,
+      "end": 1125
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 1126,
+      "end": 1134
+    },
+    {
+      "text": "Heribert",
+      "label": "PER",
+      "start": 1261,
+      "end": 1269
+    },
+    {
+      "text": "Richard",
+      "label": "PER",
+      "start": 1290,
+      "end": 1297
+    },
+    {
+      "text": "Bernd",
+      "label": "PER",
+      "start": 1427,
+      "end": 1432
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1458,
+      "end": 1461
+    },
+    {
+      "text": "Bernd",
+      "label": "PER",
+      "start": 1462,
+      "end": 1467
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 1521,
+      "end": 1526
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 1555,
+      "end": 1559
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 1560,
+      "end": 1565
+    },
+    {
+      "text": "Klaus",
+      "label": "PER",
+      "start": 1615,
+      "end": 1620
+    },
+    {
+      "text": "Harald",
+      "label": "PER",
+      "start": 1657,
+      "end": 1663
+    },
+    {
+      "text": "Wolf",
+      "label": "PER",
+      "start": 1664,
+      "end": 1668
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 1760,
+      "end": 1764
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 1935,
+      "end": 1943
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1989,
+      "end": 1992
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 1993,
+      "end": 2000
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2085,
+      "end": 2088
+    },
+    {
+      "text": "Roland",
+      "label": "PER",
+      "start": 2089,
+      "end": 2095
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2146,
+      "end": 2149
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2150,
+      "end": 2153
+    },
+    {
+      "text": "Sabine",
+      "label": "PER",
+      "start": 2154,
+      "end": 2160
+    },
+    {
+      "text": "Kunst",
+      "label": "PER",
+      "start": 2224,
+      "end": 2229
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 2255,
+      "end": 2262
+    },
+    {
+      "text": "Rainer",
+      "label": "PER",
+      "start": 2360,
+      "end": 2366
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2417,
+      "end": 2426
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2478,
+      "end": 2481
+    },
+    {
+      "text": "Rainer",
+      "label": "PER",
+      "start": 2540,
+      "end": 2546
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2589,
+      "end": 2592
+    },
+    {
+      "text": "Peter Michael",
+      "label": "PER",
+      "start": 2593,
+      "end": 2606
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 2607,
+      "end": 2612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2643
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2809,
+      "end": 2812
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2820
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2979,
+      "end": 2990
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3071
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 3276,
+      "end": 3293
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 3294,
+      "end": 3303
+    },
+    {
+      "text": "Bettina",
+      "label": "PER",
+      "start": 3328,
+      "end": 3335
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 3377,
+      "end": 3394
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3405,
+      "end": 3408
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 3409,
+      "end": 3414
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 3500,
+      "end": 3515
+    },
+    {
+      "text": "Roman",
+      "label": "PER",
+      "start": 3516,
+      "end": 3521
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 3538,
+      "end": 3544
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 3870,
+      "end": 3887
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 4037,
+      "end": 4041
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 4276,
+      "end": 4291
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 4302,
+      "end": 4308
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 5031,
+      "end": 5036
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 5813,
+      "end": 5818
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6016,
+      "end": 6025
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 6099,
+      "end": 6102
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 6103,
+      "end": 6110
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 6316,
+      "end": 6320
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 6321,
+      "end": 6336
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 6560,
+      "end": 6566
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 7052,
+      "end": 7057
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 7201,
+      "end": 7206
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 7232,
+      "end": 7237
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 7397,
+      "end": 7414
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 7669,
+      "end": 7684
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 7685,
+      "end": 7690
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 8058,
+      "end": 8064
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 8297,
+      "end": 8314
+    },
+    {
+      "text": "Theodor",
+      "label": "PER",
+      "start": 8344,
+      "end": 8351
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 8401,
+      "end": 8406
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 8716,
+      "end": 8733
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 8784,
+      "end": 8801
+    },
+    {
+      "text": "Horst",
+      "label": "PER",
+      "start": 8895,
+      "end": 8900
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 8968,
+      "end": 8974
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9131,
+      "end": 9142
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 9204,
+      "end": 9221
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9411,
+      "end": 9420
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9516,
+      "end": 9527
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 9543,
+      "end": 9547
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 9548,
+      "end": 9563
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 9579,
+      "end": 9583
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9648,
+      "end": 9659
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 9712,
+      "end": 9716
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 9717,
+      "end": 9732
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 9749,
+      "end": 9753
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 9764,
+      "end": 9781
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 9901,
+      "end": 9905
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 9906,
+      "end": 9921
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9993,
+      "end": 10004
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 10032,
+      "end": 10036
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 10063,
+      "end": 10080
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 10399,
+      "end": 10414
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 11003,
+      "end": 11020
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11410,
+      "end": 11419
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11464,
+      "end": 11475
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 12364,
+      "end": 12369
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 12454,
+      "end": 12469
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 12543,
+      "end": 12547
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 12615,
+      "end": 12619
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 12620,
+      "end": 12635
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 12755,
+      "end": 12766
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 13701,
+      "end": 13718
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 13989,
+      "end": 14006
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 14027,
+      "end": 14038
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 14150,
+      "end": 14167
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 14525,
+      "end": 14540
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 14760,
+      "end": 14777
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 14802,
+      "end": 14819
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 14981,
+      "end": 14985
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 14986,
+      "end": 15001
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15119,
+      "end": 15128
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 15133,
+      "end": 15148
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15224,
+      "end": 15233
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15399,
+      "end": 15408
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 15705,
+      "end": 15722
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 15723,
+      "end": 15732
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 15838,
+      "end": 15855
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 16195,
+      "end": 16199
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 16200,
+      "end": 16215
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 16419,
+      "end": 16430
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 16500,
+      "end": 16503
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 16504,
+      "end": 16511
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16579,
+      "end": 16596
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 16603,
+      "end": 16612
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 16623,
+      "end": 16640
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 16681,
+      "end": 16685
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16704,
+      "end": 16721
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 16726,
+      "end": 16730
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 16764,
+      "end": 16781
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 16840,
+      "end": 16855
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16947,
+      "end": 16956
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 17004,
+      "end": 17007
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 17008,
+      "end": 17015
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17097,
+      "end": 17101
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 17102,
+      "end": 17117
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 17206,
+      "end": 17217
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17324,
+      "end": 17328
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 17329,
+      "end": 17344
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17353,
+      "end": 17357
+    },
+    {
+      "text": "Kummer",
+      "label": "PER",
+      "start": 17478,
+      "end": 17484
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 17659,
+      "end": 17664
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 17962,
+      "end": 17966
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 17967,
+      "end": 17982
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 18119,
+      "end": 18134
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 18135,
+      "end": 18144
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 18180,
+      "end": 18185
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 18462,
+      "end": 18465
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 18466,
+      "end": 18473
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18483,
+      "end": 18487
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 18488,
+      "end": 18503
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18569,
+      "end": 18580
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 18639,
+      "end": 18654
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 18655,
+      "end": 18664
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 18678,
+      "end": 18683
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18721,
+      "end": 18725
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18761,
+      "end": 18765
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 18836,
+      "end": 18840
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 18906,
+      "end": 18923
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 18935,
+      "end": 18941
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19028,
+      "end": 19039
+    },
+    {
+      "text": "Ernst",
+      "label": "PER",
+      "start": 19188,
+      "end": 19193
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 19239,
+      "end": 19243
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 19288,
+      "end": 19305
+    },
+    {
+      "text": "Bundespräsidenten",
+      "label": "ORG",
+      "start": 19491,
+      "end": 19508
+    },
+    {
+      "text": "Wahl",
+      "label": "PER",
+      "start": 19520,
+      "end": 19524
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 19867,
+      "end": 19871
+    },
+    {
+      "text": "Licht",
+      "label": "PER",
+      "start": 21352,
+      "end": 21357
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 21752,
+      "end": 21756
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 22347,
+      "end": 22352
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22371,
+      "end": 22380
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 22411,
+      "end": 22426
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 22427,
+      "end": 22436
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 22534,
+      "end": 22539
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 22621,
+      "end": 22626
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 23309,
+      "end": 23313
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 23401,
+      "end": 23405
+    },
+    {
+      "text": "reich",
+      "label": "PER",
+      "start": 24450,
+      "end": 24455
+    },
+    {
+      "text": "Jung",
+      "label": "PER",
+      "start": 24656,
+      "end": 24660
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 25421,
+      "end": 25426
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 25437,
+      "end": 25441
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 25533,
+      "end": 25539
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 26070,
+      "end": 26074
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 26456,
+      "end": 26460
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 27748,
+      "end": 27752
+    },
+    {
+      "text": "jung",
+      "label": "PER",
+      "start": 27918,
+      "end": 27922
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28151,
+      "end": 28160
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 28192,
+      "end": 28207
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 28208,
+      "end": 28217
+    },
+    {
+      "text": "reich",
+      "label": "PER",
+      "start": 28477,
+      "end": 28482
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 29036,
+      "end": 29051
+    },
+    {
+      "text": "Ruf",
+      "label": "PER",
+      "start": 29604,
+      "end": 29607
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 31484,
+      "end": 31499
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 31829,
+      "end": 31844
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 33455,
+      "end": 33470
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 33489,
+      "end": 33500
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 33962,
+      "end": 33971
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 34002,
+      "end": 34017
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 34018,
+      "end": 34027
+    },
+    {
+      "text": "Handel",
+      "label": "PER",
+      "start": 34223,
+      "end": 34229
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 36750,
+      "end": 36755
+    },
+    {
+      "text": "fröhlich",
+      "label": "PER",
+      "start": 37162,
+      "end": 37170
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 37369,
+      "end": 37372
+    },
+    {
+      "text": "Norbert",
+      "label": "PER",
+      "start": 37373,
+      "end": 37380
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 37407,
+      "end": 37411
+    },
+    {
+      "text": "Bundespräsident",
+      "label": "ORG",
+      "start": 37412,
+      "end": 37427
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 37721,
+      "end": 37732
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 37952,
+      "end": 37957
+    }
+  ],
+  "flair": [
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 93,
+      "end": 114
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 254,
+      "end": 275
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 704,
+      "end": 742
+    },
+    {
+      "text": "J",
+      "label": "PER",
+      "start": 948,
+      "end": 949
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 950,
+      "end": 951
+    },
+    {
+      "text": "n s B ö h r n s e n",
+      "label": "PER",
+      "start": 952,
+      "end": 971
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1026,
+      "end": 1039
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 1066,
+      "end": 1072
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1117,
+      "end": 1134
+    },
+    {
+      "text": "Heribert Rech",
+      "label": "PER",
+      "start": 1261,
+      "end": 1274
+    },
+    {
+      "text": "Richard Drautz",
+      "label": "PER",
+      "start": 1290,
+      "end": 1304
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1348,
+      "end": 1362
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 1394,
+      "end": 1410
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 1427,
+      "end": 1441
+    },
+    {
+      "text": "Bernd Althusmann",
+      "label": "PER",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "Horst Seehofer",
+      "label": "PER",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 1657,
+      "end": 1668
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 1760,
+      "end": 1771
+    },
+    {
+      "text": "Annegret Kramp-Karrenbauer",
+      "label": "PER",
+      "start": 1843,
+      "end": 1869
+    },
+    {
+      "text": "Arbeit, Familie, Prävention, Soziales und Sport",
+      "label": "ORG",
+      "start": 1886,
+      "end": 1933
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 1935,
+      "end": 1952
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1993,
+      "end": 2008
+    },
+    {
+      "text": "Roland Wöller",
+      "label": "PER",
+      "start": 2089,
+      "end": 2102
+    },
+    {
+      "text": "Sabine Freifrau von Schorlemer",
+      "label": "PER",
+      "start": 2154,
+      "end": 2184
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 2255,
+      "end": 2273
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 2360,
+      "end": 2372
+    },
+    {
+      "text": "Heiner Garg",
+      "label": "PER",
+      "start": 2482,
+      "end": 2493
+    },
+    {
+      "text": "Rainer Wiegard",
+      "label": "PER",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "text": "Peter Michael Huber",
+      "label": "PER",
+      "start": 2593,
+      "end": 2612
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2757
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2828
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2865
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Horst K ö h l e r",
+      "label": "PER",
+      "start": 3409,
+      "end": 3426
+    },
+    {
+      "text": "Eva Luise Köhler",
+      "label": "PER",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Roman H e r z o g",
+      "label": "PER",
+      "start": 3516,
+      "end": 3533
+    },
+    {
+      "text": "M e",
+      "label": "PER",
+      "start": 3662,
+      "end": 3665
+    },
+    {
+      "text": "r k e l",
+      "label": "PER",
+      "start": 3666,
+      "end": 3673
+    },
+    {
+      "text": "Bundesverfassungsgerichts",
+      "label": "ORG",
+      "start": 3700,
+      "end": 3725
+    },
+    {
+      "text": "V o ß k u h l e",
+      "label": "PER",
+      "start": 3743,
+      "end": 3758
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4292,
+      "end": 4298
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 5221,
+      "end": 5250
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6092
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 6103,
+      "end": 6118
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 6347,
+      "end": 6353
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 7497,
+      "end": 7503
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7540
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 7986,
+      "end": 7993
+    },
+    {
+      "text": "Theodor H e u s s",
+      "label": "PER",
+      "start": 8344,
+      "end": 8361
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9144,
+      "end": 9157
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9487,
+      "end": 9500
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 9598,
+      "end": 9609
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 9733,
+      "end": 9738
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9922,
+      "end": 9928
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9955,
+      "end": 9961
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 10037,
+      "end": 10043
+    },
+    {
+      "text": "D",
+      "label": "PER",
+      "start": 10190,
+      "end": 10191
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12636,
+      "end": 12642
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12884,
+      "end": 12890
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13382,
+      "end": 13388
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13620,
+      "end": 13626
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15002,
+      "end": 15007
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 15723,
+      "end": 15732
+    },
+    {
+      "text": "D",
+      "label": "PER",
+      "start": 15734,
+      "end": 15735
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15737,
+      "end": 15742
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 16504,
+      "end": 16519
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16686,
+      "end": 16691
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16927
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 17008,
+      "end": 17023
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17358,
+      "end": 17364
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18135,
+      "end": 18150
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 18466,
+      "end": 18481
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18560
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18655,
+      "end": 18670
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 18935,
+      "end": 18941
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18962,
+      "end": 18968
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "J",
+      "label": "PER",
+      "start": 19567,
+      "end": 19568
+    },
+    {
+      "text": "o c",
+      "label": "PER",
+      "start": 19569,
+      "end": 19572
+    },
+    {
+      "text": "h i",
+      "label": "PER",
+      "start": 19573,
+      "end": 19576
+    },
+    {
+      "text": "m s e n",
+      "label": "PER",
+      "start": 19577,
+      "end": 19584
+    },
+    {
+      "text": "G a",
+      "label": "PER",
+      "start": 19595,
+      "end": 19598
+    },
+    {
+      "text": "u c k",
+      "label": "PER",
+      "start": 19599,
+      "end": 19604
+    },
+    {
+      "text": "Gauck",
+      "label": "PER",
+      "start": 19872,
+      "end": 19877
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21132,
+      "end": 21138
+    },
+    {
+      "text": "Bertolt B r e c h t",
+      "label": "PER",
+      "start": 21310,
+      "end": 21329
+    },
+    {
+      "text": "ACHSE",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21510
+    },
+    {
+      "text": "Allianz Chronischer Seltener Erkrankungen",
+      "label": "ORG",
+      "start": 21516,
+      "end": 21557
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21737,
+      "end": 21743
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21757,
+      "end": 21763
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 22444,
+      "end": 22445
+    },
+    {
+      "text": "Christo",
+      "label": "PER",
+      "start": 23214,
+      "end": 23221
+    },
+    {
+      "text": "Jeanne-Claude",
+      "label": "PER",
+      "start": 23226,
+      "end": 23239
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 24226,
+      "end": 24234
+    },
+    {
+      "text": "Ö z k a n",
+      "label": "PER",
+      "start": 25332,
+      "end": 25341
+    },
+    {
+      "text": "Yilmaz",
+      "label": "PER",
+      "start": 26705,
+      "end": 26711
+    },
+    {
+      "text": "Krause",
+      "label": "PER",
+      "start": 26717,
+      "end": 26723
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Volkswagen",
+      "label": "ORG",
+      "start": 31729,
+      "end": 31739
+    },
+    {
+      "text": "IG Metall",
+      "label": "ORG",
+      "start": 31752,
+      "end": 31761
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 37373,
+      "end": 37388
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37712
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37778,
+      "end": 37789
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Deutschen Bundestages\n",
+      "label": "ORG",
+      "start": 93,
+      "end": 115
+    },
+    {
+      "text": "Deutschen\nBundestages",
+      "label": "ORG",
+      "start": 254,
+      "end": 275
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 671,
+      "end": 693
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 704,
+      "end": 742
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 744,
+      "end": 761
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1026,
+      "end": 1039
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 1041,
+      "end": 1064
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1117,
+      "end": 1134
+    },
+    {
+      "text": "Minister für Bundes-, Europa-",
+      "label": "ORG",
+      "start": 1136,
+      "end": 1165
+    },
+    {
+      "text": "Bund\nHeribert Rech",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1274
+    },
+    {
+      "text": "Richard Drautz",
+      "label": "PER",
+      "start": 1290,
+      "end": 1304
+    },
+    {
+      "text": "Wirtschaftsministerium\n\n",
+      "label": "ORG",
+      "start": 1324,
+      "end": 1348
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1348,
+      "end": 1362
+    },
+    {
+      "text": "Innenminister",
+      "label": "ORG",
+      "start": 1364,
+      "end": 1377
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 1394,
+      "end": 1410
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 1427,
+      "end": 1441
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 1443,
+      "end": 1457
+    },
+    {
+      "text": "Bernd Althusmann",
+      "label": "PER",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "Horst Seehofer",
+      "label": "PER",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 1657,
+      "end": 1668
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 1760,
+      "end": 1771
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 1773,
+      "end": 1807
+    },
+    {
+      "text": "Annegret Kramp-Karrenbauer",
+      "label": "PER",
+      "start": 1843,
+      "end": 1869
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 1935,
+      "end": 1952
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1993,
+      "end": 2008
+    },
+    {
+      "text": "Roland Wöller",
+      "label": "PER",
+      "start": 2089,
+      "end": 2102
+    },
+    {
+      "text": "Sabine Freifrau von Schorlemer",
+      "label": "PER",
+      "start": 2154,
+      "end": 2184
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 2255,
+      "end": 2273
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 2275,
+      "end": 2334
+    },
+    {
+      "text": "Heiner Garg",
+      "label": "PER",
+      "start": 2482,
+      "end": 2493
+    },
+    {
+      "text": "Minister für Arbeit",
+      "label": "ORG",
+      "start": 2495,
+      "end": 2514
+    },
+    {
+      "text": "Rainer Wiegard",
+      "label": "PER",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "text": "Peter Michael Huber",
+      "label": "PER",
+      "start": 2593,
+      "end": 2612
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2757
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2828
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2865
+    },
+    {
+      "text": "!\nExzellenzen!",
+      "label": "ORG",
+      "start": 2889,
+      "end": 2903
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2970
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3071
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Eva Luise Köhler",
+      "label": "PER",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Platz",
+      "label": "PER",
+      "start": 3552,
+      "end": 3557
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3634,
+      "end": 3649
+    },
+    {
+      "text": "M e r k e l",
+      "label": "ORG",
+      "start": 3662,
+      "end": 3673
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "Bundespräsident\nKöhler",
+      "label": "PER",
+      "start": 4276,
+      "end": 4298
+    },
+    {
+      "text": "Austragungsortes",
+      "label": "ORG",
+      "start": 4872,
+      "end": 4888
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 5221,
+      "end": 5250
+    },
+    {
+      "text": "Ersten Welt",
+      "label": "ORG",
+      "start": 5386,
+      "end": 5397
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6092
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 6347,
+      "end": 6353
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 6400,
+      "end": 6416
+    },
+    {
+      "text": "Solch",
+      "label": "PER",
+      "start": 7117,
+      "end": 7122
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 7497,
+      "end": 7503
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7540
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 7986,
+      "end": 7993
+    },
+    {
+      "text": "Theodor H e u s s",
+      "label": "PER",
+      "start": 8344,
+      "end": 8361
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9131,
+      "end": 9142
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9144,
+      "end": 9157
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9397,
+      "end": 9406
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9487,
+      "end": 9500
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9516,
+      "end": 9527
+    },
+    {
+      "text": "Bundestages!",
+      "label": "ORG",
+      "start": 9598,
+      "end": 9610
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 9627,
+      "end": 9634
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9648,
+      "end": 9659
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 9733,
+      "end": 9738
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 9764,
+      "end": 9781
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 9906,
+      "end": 9928
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9955,
+      "end": 9961
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 10037,
+      "end": 10043
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 11572,
+      "end": 11583
+    },
+    {
+      "text": "Deutschen Evangelischen Kirchentag",
+      "label": "ORG",
+      "start": 11995,
+      "end": 12029
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 12620,
+      "end": 12642
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 12755,
+      "end": 12766
+    },
+    {
+      "text": "Frau Köhler",
+      "label": "PER",
+      "start": 12879,
+      "end": 12890
+    },
+    {
+      "text": "Frau Köhler",
+      "label": "PER",
+      "start": 13377,
+      "end": 13388
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13620,
+      "end": 13626
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 14760,
+      "end": 14777
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15002,
+      "end": 15007
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Gewicht",
+      "label": "PER",
+      "start": 15438,
+      "end": 15445
+    },
+    {
+      "text": "Christian\n",
+      "label": "PER",
+      "start": 15723,
+      "end": 15733
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15737,
+      "end": 15742
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 15838,
+      "end": 15855
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16579,
+      "end": 16596
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16686,
+      "end": 16691
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16704,
+      "end": 16721
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16927
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 17206,
+      "end": 17217
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17358,
+      "end": 17364
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18135,
+      "end": 18150
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 18200,
+      "end": 18216
+    },
+    {
+      "text": "Dr. Norbert Lammert",
+      "label": "PER",
+      "start": 18462,
+      "end": 18481
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18560
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18569,
+      "end": 18580
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18655,
+      "end": 18670
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 18805,
+      "end": 18820
+    },
+    {
+      "text": "Bundesverfassungsgerichts!",
+      "label": "ORG",
+      "start": 18855,
+      "end": 18881
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18962,
+      "end": 18968
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "Bundesrates!",
+      "label": "ORG",
+      "start": 19028,
+      "end": 19040
+    },
+    {
+      "text": "Ernst",
+      "label": "PER",
+      "start": 19188,
+      "end": 19193
+    },
+    {
+      "text": "Lieber",
+      "label": "PER",
+      "start": 19860,
+      "end": 19866
+    },
+    {
+      "text": "Gauck",
+      "label": "PER",
+      "start": 19872,
+      "end": 19877
+    },
+    {
+      "text": "SED-Diktatur",
+      "label": "ORG",
+      "start": 20034,
+      "end": 20046
+    },
+    {
+      "text": "SED-Unrecht",
+      "label": "ORG",
+      "start": 20192,
+      "end": 20203
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 20257,
+      "end": 20260
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21132,
+      "end": 21138
+    },
+    {
+      "text": "Bertolt",
+      "label": "PER",
+      "start": 21310,
+      "end": 21317
+    },
+    {
+      "text": "ACHSE",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21510
+    },
+    {
+      "text": "Allianz Chronischer Seltener Erkrankungen",
+      "label": "ORG",
+      "start": 21516,
+      "end": 21557
+    },
+    {
+      "text": "Frau\nKöhler",
+      "label": "PER",
+      "start": 21732,
+      "end": 21743
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21757,
+      "end": 21763
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "Christo und Jeanne-Claude",
+      "label": "PER",
+      "start": 23214,
+      "end": 23239
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "parlamentarischen\nDemokratie",
+      "label": "ORG",
+      "start": 23532,
+      "end": 23560
+    },
+    {
+      "text": "Herrn Bundesratspräsident\nBöhrnsen",
+      "label": "PER",
+      "start": 24200,
+      "end": 24234
+    },
+    {
+      "text": "aufund",
+      "label": "PER",
+      "start": 25972,
+      "end": 25978
+    },
+    {
+      "text": "Yilmaz",
+      "label": "PER",
+      "start": 26705,
+      "end": 26711
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Parlamente",
+      "label": "ORG",
+      "start": 30898,
+      "end": 30908
+    },
+    {
+      "text": "Gewerkschaften",
+      "label": "ORG",
+      "start": 31662,
+      "end": 31676
+    },
+    {
+      "text": "Volkswagen",
+      "label": "ORG",
+      "start": 31729,
+      "end": 31739
+    },
+    {
+      "text": "IG Metall",
+      "label": "ORG",
+      "start": 31752,
+      "end": 31761
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "deutschen\nBundesregierung",
+      "label": "ORG",
+      "start": 33445,
+      "end": 33470
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 35547,
+      "end": 35556
+    },
+    {
+      "text": "Werteund Wohlstandsprojekt",
+      "label": "PER",
+      "start": 35720,
+      "end": 35746
+    },
+    {
+      "text": "Europäern",
+      "label": "ORG",
+      "start": 36099,
+      "end": 36108
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 37305,
+      "end": 37314
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37712
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37778,
+      "end": 37789
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Deutschen Bundestages\n",
+      "label": "ORG",
+      "start": 93,
+      "end": 115
+    },
+    {
+      "text": "Deutschen\nBundestages",
+      "label": "ORG",
+      "start": 254,
+      "end": 275
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 671,
+      "end": 693
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 704,
+      "end": 742
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 744,
+      "end": 761
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1026,
+      "end": 1039
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 1041,
+      "end": 1064
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1117,
+      "end": 1134
+    },
+    {
+      "text": "Minister für Bundes-, Europa-",
+      "label": "ORG",
+      "start": 1136,
+      "end": 1165
+    },
+    {
+      "text": "Bund\nHeribert Rech",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1274
+    },
+    {
+      "text": "Richard Drautz",
+      "label": "PER",
+      "start": 1290,
+      "end": 1304
+    },
+    {
+      "text": "Wirtschaftsministerium\n\n",
+      "label": "ORG",
+      "start": 1324,
+      "end": 1348
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1348,
+      "end": 1362
+    },
+    {
+      "text": "Innenminister",
+      "label": "ORG",
+      "start": 1364,
+      "end": 1377
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 1394,
+      "end": 1410
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 1427,
+      "end": 1441
+    },
+    {
+      "text": "Justizminister",
+      "label": "PER",
+      "start": 1443,
+      "end": 1457
+    },
+    {
+      "text": "Bernd Althusmann",
+      "label": "PER",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "Horst Seehofer",
+      "label": "PER",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 1657,
+      "end": 1668
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 1760,
+      "end": 1771
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 1773,
+      "end": 1807
+    },
+    {
+      "text": "Annegret Kramp-Karrenbauer",
+      "label": "PER",
+      "start": 1843,
+      "end": 1869
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 1935,
+      "end": 1952
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1993,
+      "end": 2008
+    },
+    {
+      "text": "Roland Wöller",
+      "label": "PER",
+      "start": 2089,
+      "end": 2102
+    },
+    {
+      "text": "Sabine Freifrau von Schorlemer",
+      "label": "PER",
+      "start": 2154,
+      "end": 2184
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 2255,
+      "end": 2273
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 2275,
+      "end": 2334
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2417,
+      "end": 2426
+    },
+    {
+      "text": "Heiner Garg",
+      "label": "PER",
+      "start": 2482,
+      "end": 2493
+    },
+    {
+      "text": "Minister für Arbeit",
+      "label": "ORG",
+      "start": 2495,
+      "end": 2514
+    },
+    {
+      "text": "Rainer Wiegard",
+      "label": "PER",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "text": "Peter Michael Huber",
+      "label": "PER",
+      "start": 2593,
+      "end": 2612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2643
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2757
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2828
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2865
+    },
+    {
+      "text": "!\nExzellenzen!",
+      "label": "ORG",
+      "start": 2889,
+      "end": 2903
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2970
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3071
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Eva Luise Köhler",
+      "label": "PER",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Platz",
+      "label": "PER",
+      "start": 3552,
+      "end": 3557
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3634,
+      "end": 3649
+    },
+    {
+      "text": "M e r k e l",
+      "label": "ORG",
+      "start": 3662,
+      "end": 3673
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "Bundespräsident\nKöhler",
+      "label": "PER",
+      "start": 4276,
+      "end": 4298
+    },
+    {
+      "text": "Austragungsortes",
+      "label": "ORG",
+      "start": 4872,
+      "end": 4888
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 5221,
+      "end": 5250
+    },
+    {
+      "text": "Ersten Welt",
+      "label": "ORG",
+      "start": 5386,
+      "end": 5397
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 6016,
+      "end": 6025
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6092
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 6347,
+      "end": 6353
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 6400,
+      "end": 6416
+    },
+    {
+      "text": "Solch",
+      "label": "PER",
+      "start": 7117,
+      "end": 7122
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 7497,
+      "end": 7503
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7540
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Knesset",
+      "label": "ORG",
+      "start": 7986,
+      "end": 7993
+    },
+    {
+      "text": "Theodor H e u s s",
+      "label": "PER",
+      "start": 8344,
+      "end": 8361
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9131,
+      "end": 9142
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9144,
+      "end": 9157
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9397,
+      "end": 9406
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9411,
+      "end": 9420
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9487,
+      "end": 9500
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9516,
+      "end": 9527
+    },
+    {
+      "text": "Bundestages!",
+      "label": "ORG",
+      "start": 9598,
+      "end": 9610
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 9627,
+      "end": 9634
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9648,
+      "end": 9659
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 9733,
+      "end": 9738
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 9764,
+      "end": 9781
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 9906,
+      "end": 9928
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9955,
+      "end": 9961
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 10037,
+      "end": 10043
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 10399,
+      "end": 10414
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11410,
+      "end": 11419
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 11572,
+      "end": 11583
+    },
+    {
+      "text": "Deutschen Evangelischen Kirchentag",
+      "label": "ORG",
+      "start": 11995,
+      "end": 12029
+    },
+    {
+      "text": "Bundespräsident Köhler",
+      "label": "PER",
+      "start": 12620,
+      "end": 12642
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 12755,
+      "end": 12766
+    },
+    {
+      "text": "Frau Köhler",
+      "label": "PER",
+      "start": 12879,
+      "end": 12890
+    },
+    {
+      "text": "Frau Köhler",
+      "label": "PER",
+      "start": 13377,
+      "end": 13388
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13620,
+      "end": 13626
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 14760,
+      "end": 14777
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15002,
+      "end": 15007
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15119,
+      "end": 15128
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15224,
+      "end": 15233
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15399,
+      "end": 15408
+    },
+    {
+      "text": "Gewicht",
+      "label": "PER",
+      "start": 15438,
+      "end": 15445
+    },
+    {
+      "text": "Christian\n",
+      "label": "PER",
+      "start": 15723,
+      "end": 15733
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15737,
+      "end": 15742
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 15838,
+      "end": 15855
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16579,
+      "end": 16596
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16686,
+      "end": 16691
+    },
+    {
+      "text": "Bundesversammlung",
+      "label": "ORG",
+      "start": 16704,
+      "end": 16721
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16927
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 16947,
+      "end": 16956
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 17206,
+      "end": 17217
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17358,
+      "end": 17364
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18135,
+      "end": 18150
+    },
+    {
+      "text": "deutschen Volkes",
+      "label": "ORG",
+      "start": 18200,
+      "end": 18216
+    },
+    {
+      "text": "Dr. Norbert Lammert",
+      "label": "PER",
+      "start": 18462,
+      "end": 18481
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18560
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 18569,
+      "end": 18580
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18655,
+      "end": 18670
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 18805,
+      "end": 18820
+    },
+    {
+      "text": "Bundesverfassungsgerichts!",
+      "label": "ORG",
+      "start": 18855,
+      "end": 18881
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18962,
+      "end": 18968
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "Bundesrates!",
+      "label": "ORG",
+      "start": 19028,
+      "end": 19040
+    },
+    {
+      "text": "Ernst",
+      "label": "PER",
+      "start": 19188,
+      "end": 19193
+    },
+    {
+      "text": "Lieber",
+      "label": "PER",
+      "start": 19860,
+      "end": 19866
+    },
+    {
+      "text": "Gauck",
+      "label": "PER",
+      "start": 19872,
+      "end": 19877
+    },
+    {
+      "text": "SED-Diktatur",
+      "label": "ORG",
+      "start": 20034,
+      "end": 20046
+    },
+    {
+      "text": "SED-Unrecht",
+      "label": "ORG",
+      "start": 20192,
+      "end": 20203
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 20257,
+      "end": 20260
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21132,
+      "end": 21138
+    },
+    {
+      "text": "Bertolt",
+      "label": "PER",
+      "start": 21310,
+      "end": 21317
+    },
+    {
+      "text": "ACHSE",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21510
+    },
+    {
+      "text": "Allianz Chronischer Seltener Erkrankungen",
+      "label": "ORG",
+      "start": 21516,
+      "end": 21557
+    },
+    {
+      "text": "Frau\nKöhler",
+      "label": "PER",
+      "start": 21732,
+      "end": 21743
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21757,
+      "end": 21763
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22371,
+      "end": 22380
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "Christo und Jeanne-Claude",
+      "label": "PER",
+      "start": 23214,
+      "end": 23239
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "parlamentarischen\nDemokratie",
+      "label": "ORG",
+      "start": 23532,
+      "end": 23560
+    },
+    {
+      "text": "Herrn Bundesratspräsident\nBöhrnsen",
+      "label": "PER",
+      "start": 24200,
+      "end": 24234
+    },
+    {
+      "text": "aufund",
+      "label": "PER",
+      "start": 25972,
+      "end": 25978
+    },
+    {
+      "text": "Yilmaz",
+      "label": "PER",
+      "start": 26705,
+      "end": 26711
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28151,
+      "end": 28160
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 29036,
+      "end": 29051
+    },
+    {
+      "text": "Parlamente",
+      "label": "ORG",
+      "start": 30898,
+      "end": 30908
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 31484,
+      "end": 31499
+    },
+    {
+      "text": "Gewerkschaften",
+      "label": "ORG",
+      "start": 31662,
+      "end": 31676
+    },
+    {
+      "text": "Volkswagen",
+      "label": "ORG",
+      "start": 31729,
+      "end": 31739
+    },
+    {
+      "text": "IG Metall",
+      "label": "ORG",
+      "start": 31752,
+      "end": 31761
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "deutschen\n",
+      "label": "ORG",
+      "start": 33445,
+      "end": 33455
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 33455,
+      "end": 33470
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 33962,
+      "end": 33971
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 35547,
+      "end": 35556
+    },
+    {
+      "text": "Werteund Wohlstandsprojekt",
+      "label": "PER",
+      "start": 35720,
+      "end": 35746
+    },
+    {
+      "text": "Europäern",
+      "label": "ORG",
+      "start": 36099,
+      "end": 36108
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 37305,
+      "end": 37314
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37712
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37778,
+      "end": 37789
+    }
+  ],
+  "bert": [
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 93,
+      "end": 112
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Christian Wulf",
+      "label": "PER",
+      "start": 540,
+      "end": 554
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 704,
+      "end": 738
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 879,
+      "end": 885
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1026,
+      "end": 1039
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1117,
+      "end": 1134
+    },
+    {
+      "text": "Her",
+      "label": "PER",
+      "start": 1261,
+      "end": 1264
+    },
+    {
+      "text": "##ibert Rech",
+      "label": "PER",
+      "start": 1264,
+      "end": 1274
+    },
+    {
+      "text": "Richard Drautz",
+      "label": "PER",
+      "start": 1290,
+      "end": 1304
+    },
+    {
+      "text": "Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 1324,
+      "end": 1346
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1348,
+      "end": 1362
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 1394,
+      "end": 1410
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 1427,
+      "end": 1441
+    },
+    {
+      "text": "Bernd Althusmann",
+      "label": "PER",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "Horst Seehofer",
+      "label": "PER",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 1657,
+      "end": 1668
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 1760,
+      "end": 1771
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 1829,
+      "end": 1842
+    },
+    {
+      "text": "Annegret Kramp - Karrenbauer",
+      "label": "PER",
+      "start": 1843,
+      "end": 1869
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 1935,
+      "end": 1952
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 1993,
+      "end": 2000
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1993,
+      "end": 2008
+    },
+    {
+      "text": "Freien",
+      "label": "ORG",
+      "start": 2043,
+      "end": 2049
+    },
+    {
+      "text": "##estadt Bremen",
+      "label": "ORG",
+      "start": 2054,
+      "end": 2067
+    },
+    {
+      "text": "Roland Wöller",
+      "label": "PER",
+      "start": 2089,
+      "end": 2102
+    },
+    {
+      "text": "Sabine Freifrau von Schorlemer",
+      "label": "PER",
+      "start": 2154,
+      "end": 2184
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 2255,
+      "end": 2273
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 2360,
+      "end": 2372
+    },
+    {
+      "text": "##i",
+      "label": "ORG",
+      "start": 2414,
+      "end": 2415
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2417,
+      "end": 2426
+    },
+    {
+      "text": "Heiner Garg",
+      "label": "PER",
+      "start": 2482,
+      "end": 2493
+    },
+    {
+      "text": "Rainer Wiegard",
+      "label": "PER",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "text": "Peter Michael Huber",
+      "label": "PER",
+      "start": 2593,
+      "end": 2612
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2643
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2755
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2828
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2865
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2968
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2979,
+      "end": 2990
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Horst K",
+      "label": "PER",
+      "start": 3409,
+      "end": 3416
+    },
+    {
+      "text": "Eva Luise Köhler",
+      "label": "PER",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Roman H",
+      "label": "PER",
+      "start": 3516,
+      "end": 3523
+    },
+    {
+      "text": "D r",
+      "label": "PER",
+      "start": 3656,
+      "end": 3659
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 3700,
+      "end": 3724
+    },
+    {
+      "text": "V",
+      "label": "PER",
+      "start": 3743,
+      "end": 3744
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4292,
+      "end": 4298
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 5221,
+      "end": 5250
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6090
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 6103,
+      "end": 6118
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 6347,
+      "end": 6353
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 7497,
+      "end": 7503
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Theodor H",
+      "label": "PER",
+      "start": 8344,
+      "end": 8353
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9144,
+      "end": 9157
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9397,
+      "end": 9406
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 9411,
+      "end": 9420
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9487,
+      "end": 9500
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9598,
+      "end": 9607
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 9733,
+      "end": 9738
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9922,
+      "end": 9928
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9955,
+      "end": 9961
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 10037,
+      "end": 10043
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12636,
+      "end": 12642
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12884,
+      "end": 12890
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13382,
+      "end": 13388
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13620,
+      "end": 13626
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15002,
+      "end": 15007
+    },
+    {
+      "text": "##eralismus",
+      "label": "ORG",
+      "start": 15361,
+      "end": 15370
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 15399,
+      "end": 15405
+    },
+    {
+      "text": "Christian ( D",
+      "label": "PER",
+      "start": 15723,
+      "end": 15735
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15737,
+      "end": 15742
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 16504,
+      "end": 16519
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16686,
+      "end": 16691
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16927
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 16953,
+      "end": 16956
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 17008,
+      "end": 17023
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17358,
+      "end": 17364
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18135,
+      "end": 18150
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 18434,
+      "end": 18438
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 18466,
+      "end": 18481
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18560
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 18569,
+      "end": 18575
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18655,
+      "end": 18670
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 18855,
+      "end": 18879
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 18935,
+      "end": 18941
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18962,
+      "end": 18968
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "Gauck",
+      "label": "PER",
+      "start": 19872,
+      "end": 19877
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21132,
+      "end": 21138
+    },
+    {
+      "text": "Bertolt",
+      "label": "PER",
+      "start": 21310,
+      "end": 21317
+    },
+    {
+      "text": "ACHSE",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21510
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21737,
+      "end": 21743
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21757,
+      "end": 21763
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "Christo",
+      "label": "PER",
+      "start": 23214,
+      "end": 23221
+    },
+    {
+      "text": "Jeanne - Claude",
+      "label": "PER",
+      "start": 23226,
+      "end": 23239
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 24226,
+      "end": 24234
+    },
+    {
+      "text": "Yilmaz",
+      "label": "PER",
+      "start": 26705,
+      "end": 26711
+    },
+    {
+      "text": "Krause",
+      "label": "PER",
+      "start": 26717,
+      "end": 26723
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Volkswagen",
+      "label": "ORG",
+      "start": 31729,
+      "end": 31739
+    },
+    {
+      "text": "IG Metall",
+      "label": "ORG",
+      "start": 31752,
+      "end": 31761
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 37305,
+      "end": 37314
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 37373,
+      "end": 37388
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37712
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 37778,
+      "end": 37789
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Deutschen Bundestages Berlin",
+      "label": "ORG",
+      "start": 93,
+      "end": 121
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 286,
+      "end": 301
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 356,
+      "end": 369
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 438,
+      "end": 453
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 540,
+      "end": 555
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 583,
+      "end": 606
+    },
+    {
+      "text": "Buch - und Offsetdruckerei",
+      "label": "ORG",
+      "start": 608,
+      "end": 633
+    },
+    {
+      "text": "##emann",
+      "label": "ORG",
+      "start": 679,
+      "end": 684
+    },
+    {
+      "text": "##uck",
+      "label": "ORG",
+      "start": 687,
+      "end": 690
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 704,
+      "end": 738
+    },
+    {
+      "text": "##b",
+      "label": "ORG",
+      "start": 740,
+      "end": 741
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 879,
+      "end": 888
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1026,
+      "end": 1039
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1117,
+      "end": 1134
+    },
+    {
+      "text": "Her",
+      "label": "PER",
+      "start": 1261,
+      "end": 1264
+    },
+    {
+      "text": "##ibert Rech",
+      "label": "PER",
+      "start": 1264,
+      "end": 1274
+    },
+    {
+      "text": "Richard Drautz",
+      "label": "PER",
+      "start": 1290,
+      "end": 1304
+    },
+    {
+      "text": "Wirtschaftsministerium",
+      "label": "ORG",
+      "start": 1324,
+      "end": 1346
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 1348,
+      "end": 1362
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 1394,
+      "end": 1410
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 1427,
+      "end": 1441
+    },
+    {
+      "text": "Bernd Althusmann",
+      "label": "PER",
+      "start": 1462,
+      "end": 1478
+    },
+    {
+      "text": "Horst Seehofer",
+      "label": "PER",
+      "start": 1521,
+      "end": 1535
+    },
+    {
+      "text": "Karl Peter Bruch",
+      "label": "PER",
+      "start": 1555,
+      "end": 1571
+    },
+    {
+      "text": "Klaus Wowereit",
+      "label": "PER",
+      "start": 1615,
+      "end": 1629
+    },
+    {
+      "text": "Harald Wolf",
+      "label": "PER",
+      "start": 1657,
+      "end": 1668
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 1760,
+      "end": 1771
+    },
+    {
+      "text": "##skanzlei",
+      "label": "ORG",
+      "start": 1834,
+      "end": 1842
+    },
+    {
+      "text": "Annegret Kramp - Karrenbauer",
+      "label": "PER",
+      "start": 1843,
+      "end": 1869
+    },
+    {
+      "text": "Matthias Platzeck",
+      "label": "PER",
+      "start": 1935,
+      "end": 1952
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 1993,
+      "end": 2000
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 1993,
+      "end": 2008
+    },
+    {
+      "text": "##estadt Bremen",
+      "label": "ORG",
+      "start": 2054,
+      "end": 2067
+    },
+    {
+      "text": "Roland Wöller",
+      "label": "PER",
+      "start": 2089,
+      "end": 2102
+    },
+    {
+      "text": "Sabine Freifrau von",
+      "label": "PER",
+      "start": 2154,
+      "end": 2173
+    },
+    {
+      "text": "##horlemer",
+      "label": "PER",
+      "start": 2176,
+      "end": 2184
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 2255,
+      "end": 2273
+    },
+    {
+      "text": "Rainer Robra",
+      "label": "PER",
+      "start": 2360,
+      "end": 2372
+    },
+    {
+      "text": "Staatskanzlei Bundesrat",
+      "label": "ORG",
+      "start": 2402,
+      "end": 2426
+    },
+    {
+      "text": "Heiner Garg",
+      "label": "PER",
+      "start": 2482,
+      "end": 2493
+    },
+    {
+      "text": "Rainer Wiegard",
+      "label": "PER",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "text": "Peter Michael Huber",
+      "label": "PER",
+      "start": 2593,
+      "end": 2612
+    },
+    {
+      "text": "Deutschen Bundestages Berlin",
+      "label": "ORG",
+      "start": 2736,
+      "end": 2765
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 2813,
+      "end": 2828
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 2844,
+      "end": 2865
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2968
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 3294,
+      "end": 3309
+    },
+    {
+      "text": "Bettina Wulff",
+      "label": "PER",
+      "start": 3328,
+      "end": 3341
+    },
+    {
+      "text": "Horst K",
+      "label": "PER",
+      "start": 3409,
+      "end": 3416
+    },
+    {
+      "text": "Eva Luise Köhler",
+      "label": "PER",
+      "start": 3447,
+      "end": 3463
+    },
+    {
+      "text": "Roman",
+      "label": "PER",
+      "start": 3516,
+      "end": 3521
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4052,
+      "end": 4058
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 4292,
+      "end": 4298
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 5813,
+      "end": 5825
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 6071,
+      "end": 6092
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 6103,
+      "end": 6118
+    },
+    {
+      "text": "Professor Köhler",
+      "label": "PER",
+      "start": 6337,
+      "end": 6353
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7201,
+      "end": 7213
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 7497,
+      "end": 7503
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 7529,
+      "end": 7538
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 7685,
+      "end": 7697
+    },
+    {
+      "text": "Theodor H",
+      "label": "PER",
+      "start": 8344,
+      "end": 8353
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8401,
+      "end": 8413
+    },
+    {
+      "text": "Horst Köhler",
+      "label": "PER",
+      "start": 8895,
+      "end": 8907
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9144,
+      "end": 9157
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 9397,
+      "end": 9406
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 9487,
+      "end": 9500
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 9733,
+      "end": 9738
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9922,
+      "end": 9928
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 9955,
+      "end": 9961
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 10037,
+      "end": 10043
+    },
+    {
+      "text": "##nenden",
+      "label": "PER",
+      "start": 11396,
+      "end": 11402
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 11410,
+      "end": 11416
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 11476,
+      "end": 11489
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12636,
+      "end": 12642
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 12884,
+      "end": 12890
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13382,
+      "end": 13388
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 13620,
+      "end": 13626
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 15002,
+      "end": 15007
+    },
+    {
+      "text": "F",
+      "label": "ORG",
+      "start": 15358,
+      "end": 15359
+    },
+    {
+      "text": "##ismuskommission",
+      "label": "ORG",
+      "start": 15365,
+      "end": 15380
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 15385,
+      "end": 15394
+    },
+    {
+      "text": "Christian ( D ) Wulff",
+      "label": "PER",
+      "start": 15723,
+      "end": 15742
+    },
+    {
+      "text": "Einheit",
+      "label": "ORG",
+      "start": 15945,
+      "end": 15952
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16216,
+      "end": 16221
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 16504,
+      "end": 16519
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 16603,
+      "end": 16618
+    },
+    {
+      "text": "Wulff",
+      "label": "PER",
+      "start": 16686,
+      "end": 16691
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 16916,
+      "end": 16925
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 17008,
+      "end": 17023
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 17358,
+      "end": 17364
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18135,
+      "end": 18150
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 18434,
+      "end": 18438
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 18466,
+      "end": 18481
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 18549,
+      "end": 18558
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 18655,
+      "end": 18670
+    },
+    {
+      "text": "##fassungsgericht",
+      "label": "ORG",
+      "start": 18864,
+      "end": 18879
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18924,
+      "end": 18930
+    },
+    {
+      "text": "Herzog",
+      "label": "PER",
+      "start": 18935,
+      "end": 18941
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 18962,
+      "end": 18968
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 18998,
+      "end": 19019
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 19028,
+      "end": 19039
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 19008,
+      "end": 19017
+    },
+    {
+      "text": "Gauck",
+      "label": "PER",
+      "start": 19872,
+      "end": 19877
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21132,
+      "end": 21138
+    },
+    {
+      "text": "Bertolt B",
+      "label": "PER",
+      "start": 21310,
+      "end": 21319
+    },
+    {
+      "text": "ACHSE",
+      "label": "ORG",
+      "start": 21505,
+      "end": 21510
+    },
+    {
+      "text": "Allianz Chr",
+      "label": "ORG",
+      "start": 21516,
+      "end": 21527
+    },
+    {
+      "text": "##cher Se",
+      "label": "ORG",
+      "start": 21531,
+      "end": 21538
+    },
+    {
+      "text": "Er",
+      "label": "ORG",
+      "start": 21545,
+      "end": 21547
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21737,
+      "end": 21743
+    },
+    {
+      "text": "Köhler",
+      "label": "PER",
+      "start": 21757,
+      "end": 21763
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 22427,
+      "end": 22442
+    },
+    {
+      "text": "Christo",
+      "label": "PER",
+      "start": 23214,
+      "end": 23221
+    },
+    {
+      "text": "Jeanne - Claude",
+      "label": "PER",
+      "start": 23226,
+      "end": 23239
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 23495,
+      "end": 23513
+    },
+    {
+      "text": "Böhrnsen",
+      "label": "PER",
+      "start": 24226,
+      "end": 24234
+    },
+    {
+      "text": "Ö z",
+      "label": "PER",
+      "start": 25332,
+      "end": 25335
+    },
+    {
+      "text": "Yilmaz",
+      "label": "PER",
+      "start": 26705,
+      "end": 26711
+    },
+    {
+      "text": "Krause",
+      "label": "PER",
+      "start": 26717,
+      "end": 26723
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 28208,
+      "end": 28223
+    },
+    {
+      "text": "Volkswagen",
+      "label": "ORG",
+      "start": 31729,
+      "end": 31739
+    },
+    {
+      "text": "IG Metall",
+      "label": "ORG",
+      "start": 31752,
+      "end": 31761
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 33418,
+      "end": 33436
+    },
+    {
+      "text": "Christian Wulff",
+      "label": "PER",
+      "start": 34018,
+      "end": 34033
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 35304,
+      "end": 35321
+    },
+    {
+      "text": "Völker",
+      "label": "ORG",
+      "start": 35407,
+      "end": 35413
+    },
+    {
+      "text": "Reichstag",
+      "label": "ORG",
+      "start": 37305,
+      "end": 37314
+    },
+    {
+      "text": "Norbert Lammert",
+      "label": "PER",
+      "start": 37373,
+      "end": 37388
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 37701,
+      "end": 37710
+    }
+  ]
+}

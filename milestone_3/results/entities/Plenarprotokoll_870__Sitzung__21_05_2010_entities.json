@@ -1,0 +1,9077 @@
+{
+  "filename": "Plenarprotokoll_870._Sitzung,_21.05.2010.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 343,
+      "end": 352
+    },
+    {
+      "text": "Dr. Jürgen Rüttgers",
+      "label": "PER",
+      "start": 387,
+      "end": 406
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 456,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co., Buch- und Offsetdruckerei",
+      "label": "ORG",
+      "start": 516,
+      "end": 566
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 637,
+      "end": 675
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 875,
+      "end": 902
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 948,
+      "end": 966
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "text": "P e t e r M ü l l e r",
+      "label": "PER",
+      "start": 1332,
+      "end": 1353
+    },
+    {
+      "text": "K u r t",
+      "label": "PER",
+      "start": 1435,
+      "end": 1442
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "B e c k",
+      "label": "PER",
+      "start": 1533,
+      "end": 1540
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 1582,
+      "end": 1603
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1630,
+      "end": 1648
+    },
+    {
+      "text": "Stefan Mappus",
+      "label": "PER",
+      "start": 1799,
+      "end": 1812
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1832,
+      "end": 1859
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1987,
+      "end": 2000
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 2204,
+      "end": 2222
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Dr. Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2346,
+      "end": 2365
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 2518,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Dr. Kerstin Kießler",
+      "label": "PER",
+      "start": 2741,
+      "end": 2760
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2972,
+      "end": 2981
+    },
+    {
+      "text": "Dr. Johannes Beermann",
+      "label": "PER",
+      "start": 3022,
+      "end": 3043
+    },
+    {
+      "text": "Dr. Jürgen Schöning",
+      "label": "PER",
+      "start": 3104,
+      "end": 3123
+    },
+    {
+      "text": "Prof. Dr. Angela Kolb",
+      "label": "PER",
+      "start": 3259,
+      "end": 3280
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3304,
+      "end": 3322
+    },
+    {
+      "text": "Dr. Juliane Rumpf",
+      "label": "PER",
+      "start": 3384,
+      "end": 3401
+    },
+    {
+      "text": "Dr. Werner Hoyer",
+      "label": "PER",
+      "start": 3462,
+      "end": 3478
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3587,
+      "end": 3596
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3808,
+      "end": 3819
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 4342,
+      "end": 4351
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7374,
+      "end": 7383
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8277,
+      "end": 8286
+    },
+    {
+      "text": "Jean-Claude J u n c k e r",
+      "label": "PER",
+      "start": 9052,
+      "end": 9077
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9426,
+      "end": 9441
+    },
+    {
+      "text": "Parlamente",
+      "label": "ORG",
+      "start": 9719,
+      "end": 9729
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9889
+    },
+    {
+      "text": "K o s c h y k",
+      "label": "PER",
+      "start": 10202,
+      "end": 10215
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 10334,
+      "end": 10349
+    },
+    {
+      "text": "Bundesaußenminister",
+      "label": "PER",
+      "start": 10681,
+      "end": 10700
+    },
+    {
+      "text": "P a p a n d r e o u",
+      "label": "PER",
+      "start": 10784,
+      "end": 10803
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 11115,
+      "end": 11136
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11156
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 11364,
+      "end": 11366
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F r i c k",
+      "label": "PER",
+      "start": 11513,
+      "end": 11527
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 11590,
+      "end": 11599
+    },
+    {
+      "text": "Gerhard\\nS c h r ö d e r",
+      "label": "PER",
+      "start": 12849,
+      "end": 12872
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13315,
+      "end": 13324
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 13361,
+      "end": 13370
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13413,
+      "end": 13422
+    },
+    {
+      "text": "deutschen Parlamente",
+      "label": "ORG",
+      "start": 13444,
+      "end": 13464
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14368,
+      "end": 14370
+    },
+    {
+      "text": "deutschen Bundesregierung",
+      "label": "ORG",
+      "start": 14487,
+      "end": 14512
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17230,
+      "end": 17245
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 18901,
+      "end": 18916
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19407,
+      "end": 19416
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 23722,
+      "end": 23731
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25095,
+      "end": 25104
+    },
+    {
+      "text": "Dr. Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25141,
+      "end": 25160
+    },
+    {
+      "text": "Herr Beck",
+      "label": "PER",
+      "start": 27330,
+      "end": 27339
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 29133,
+      "end": 29148
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 29640,
+      "end": 29649
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29662,
+      "end": 29671
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30945,
+      "end": 30954
+    },
+    {
+      "text": "Dr. Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30986,
+      "end": 31005
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 32137,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 34133,
+      "end": 34141
+    },
+    {
+      "text": "Dr. Markov",
+      "label": "PER",
+      "start": 34171,
+      "end": 34181
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 34197,
+      "end": 34215
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 34236,
+      "end": 34245
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37077,
+      "end": 37086
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 37123,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 37582,
+      "end": 37595
+    },
+    {
+      "text": "Wirtschafts- und Sozialunion",
+      "label": "ORG",
+      "start": 37610,
+      "end": 37638
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37825,
+      "end": 37834
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41793,
+      "end": 41799
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 41883,
+      "end": 41892
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42807,
+      "end": 42816
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 46044,
+      "end": 46060
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Professor Dr. Reinhart",
+      "label": "PER",
+      "start": 46558,
+      "end": 46580
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 46602,
+      "end": 46629
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 46656,
+      "end": 46665
+    },
+    {
+      "text": "Dr. Helmuth Markov",
+      "label": "PER",
+      "start": 46964,
+      "end": 46982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 47496,
+      "end": 47498
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48186,
+      "end": 48196
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Finanzminister",
+      "label": "PER",
+      "start": 47706,
+      "end": 47720
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 48559,
+      "end": 48586
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 48513,
+      "end": 48522
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 49098,
+      "end": 49111
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 49284,
+      "end": 49293
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49298,
+      "end": 49307
+    },
+    {
+      "text": "Europäischen Währungsunion",
+      "label": "ORG",
+      "start": 49637,
+      "end": 49663
+    },
+    {
+      "text": "Bundesbankpräsident",
+      "label": "PER",
+      "start": 50918,
+      "end": 50937
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "PER",
+      "start": 50985,
+      "end": 51005
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 51266,
+      "end": 51277
+    },
+    {
+      "text": "EUAusschusses",
+      "label": "ORG",
+      "start": 51248,
+      "end": 51261
+    },
+    {
+      "text": "G e i t h n e r",
+      "label": "PER",
+      "start": 51474,
+      "end": 51489
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51424,
+      "end": 51433
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "BaFin-Präsidenten ",
+      "label": "PER",
+      "start": 51775,
+      "end": 51792
+    },
+    {
+      "text": "der BaFin-Präsident",
+      "label": "PER",
+      "start": 52071,
+      "end": 52090
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 52433,
+      "end": 52439
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "S t e i n g a r t",
+      "label": "PER",
+      "start": 52504,
+      "end": 52521
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 53105,
+      "end": 53107
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 53338,
+      "end": 53351
+    },
+    {
+      "text": "Europäischen\\nUnion",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Ministerpräsident",
+      "label": "PER",
+      "start": 54311,
+      "end": 54328
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54487,
+      "end": 54496
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 54528,
+      "end": 54555
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55487,
+      "end": 55502
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55963,
+      "end": 55965
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 56022,
+      "end": 56024
+    },
+    {
+      "text": "Erwin\\nTe u f e l",
+      "label": "PER",
+      "start": 56213,
+      "end": 56229
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "PER",
+      "start": 57917,
+      "end": 57937
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 58769,
+      "end": 58784
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 60324,
+      "end": 60326
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60469,
+      "end": 60478
+    },
+    {
+      "text": "Prof. Dr. Wolfgang Reinhart",
+      "label": "PER",
+      "start": 60515,
+      "end": 60542
+    },
+    {
+      "text": "Konrad\\nA d e n a u e r",
+      "label": "PER",
+      "start": 60686,
+      "end": 60708
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Boddenberg",
+      "label": "PER",
+      "start": 61255,
+      "end": 61265
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 61310,
+      "end": 61319
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 61568,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 62015,
+      "end": 62024
+    },
+    {
+      "text": "Olli\\nR e h n",
+      "label": "PER",
+      "start": 62449,
+      "end": 62461
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64449,
+      "end": 64464
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 65079,
+      "end": 65094
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66359,
+      "end": 66368
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 66400,
+      "end": 66418
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Minister",
+      "label": "PER",
+      "start": 68821,
+      "end": 68829
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Präsident",
+      "label": "PER",
+      "start": 69017,
+      "end": 69026
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69075,
+      "end": 69090
+    },
+    {
+      "text": "S c h ä u b l e",
+      "label": "PER",
+      "start": 69558,
+      "end": 69573
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72130,
+      "end": 72139
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 73078,
+      "end": 73091
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 74614,
+      "end": 74627
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73425,
+      "end": 73434
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 74951,
+      "end": 74966
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "A d e n a u e r",
+      "label": "PER",
+      "start": 75782,
+      "end": 75797
+    },
+    {
+      "text": "K o h l",
+      "label": "PER",
+      "start": 75800,
+      "end": 75807
+    },
+    {
+      "text": "G e n s c h e r",
+      "label": "PER",
+      "start": 75812,
+      "end": 75827
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 75858,
+      "end": 75871
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 76913,
+      "end": 76922
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77176,
+      "end": 77191
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78170,
+      "end": 78179
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78313,
+      "end": 78328
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78358,
+      "end": 78367
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79011,
+      "end": 79026
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "CDS",
+      "label": "ORG",
+      "start": 79526,
+      "end": 79529
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79695,
+      "end": 79710
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82372,
+      "end": 82374
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82449,
+      "end": 82451
+    },
+    {
+      "text": "Ecofin",
+      "label": "ORG",
+      "start": 82492,
+      "end": 82498
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 82571,
+      "end": 82580
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 83300,
+      "end": 83315
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 83398,
+      "end": 83409
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 343,
+      "end": 347
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 348,
+      "end": 352
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 387,
+      "end": 390
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 391,
+      "end": 397
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 456,
+      "end": 459
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 460,
+      "end": 467
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 808,
+      "end": 814
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 815,
+      "end": 821
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 881,
+      "end": 884
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 885,
+      "end": 893
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 894,
+      "end": 902
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 948,
+      "end": 955
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1588,
+      "end": 1591
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 1592,
+      "end": 1598
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 1599,
+      "end": 1603
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 1630,
+      "end": 1637
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 1799,
+      "end": 1805
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1838,
+      "end": 1841
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 1842,
+      "end": 1850
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 1851,
+      "end": 1859
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 1987,
+      "end": 1993
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 1994,
+      "end": 2000
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 2079,
+      "end": 2085
+    },
+    {
+      "text": "Gisela",
+      "label": "PER",
+      "start": 2204,
+      "end": 2210
+    },
+    {
+      "text": "Bernd",
+      "label": "PER",
+      "start": 2293,
+      "end": 2298
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2346,
+      "end": 2349
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 2350,
+      "end": 2356
+    },
+    {
+      "text": "Armin",
+      "label": "PER",
+      "start": 2385,
+      "end": 2390
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2518,
+      "end": 2521
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 2522,
+      "end": 2529
+    },
+    {
+      "text": "Karoline",
+      "label": "PER",
+      "start": 2683,
+      "end": 2691
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2741,
+      "end": 2744
+    },
+    {
+      "text": "Kerstin",
+      "label": "PER",
+      "start": 2745,
+      "end": 2752
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 2848,
+      "end": 2852
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 2853,
+      "end": 2857
+    },
+    {
+      "text": "Karl",
+      "label": "PER",
+      "start": 2888,
+      "end": 2892
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2972,
+      "end": 2981
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3022,
+      "end": 3025
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 3026,
+      "end": 3034
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3104,
+      "end": 3107
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 3108,
+      "end": 3114
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3265,
+      "end": 3268
+    },
+    {
+      "text": "Angela",
+      "label": "PER",
+      "start": 3269,
+      "end": 3275
+    },
+    {
+      "text": "Kolb",
+      "label": "PER",
+      "start": 3276,
+      "end": 3280
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3384,
+      "end": 3387
+    },
+    {
+      "text": "Juliane",
+      "label": "PER",
+      "start": 3388,
+      "end": 3395
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3462,
+      "end": 3465
+    },
+    {
+      "text": "Werner",
+      "label": "PER",
+      "start": 3466,
+      "end": 3472
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3587,
+      "end": 3596
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 3722,
+      "end": 3727
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 3728,
+      "end": 3734
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3808,
+      "end": 3819
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 3874,
+      "end": 3879
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 4262,
+      "end": 4266
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 4287,
+      "end": 4292
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 4294,
+      "end": 4298
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4299,
+      "end": 4303
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 4337,
+      "end": 4341
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 4751,
+      "end": 4756
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 7199,
+      "end": 7204
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7334,
+      "end": 7343
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7374,
+      "end": 7383
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 7415,
+      "end": 7419
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 7420,
+      "end": 7424
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8277,
+      "end": 8286
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 8845,
+      "end": 8850
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9426,
+      "end": 9441
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 9454,
+      "end": 9458
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11156
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 11508,
+      "end": 11512
+    },
+    {
+      "text": "Otto",
+      "label": "PER",
+      "start": 11513,
+      "end": 11517
+    },
+    {
+      "text": "Gerhard",
+      "label": "PER",
+      "start": 12849,
+      "end": 12856
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13315,
+      "end": 13324
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 13361,
+      "end": 13365
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 13366,
+      "end": 13370
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13413,
+      "end": 13422
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 13465,
+      "end": 13470
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 13660,
+      "end": 13664
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 13805,
+      "end": 13810
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 14497,
+      "end": 14512
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17230,
+      "end": 17245
+    },
+    {
+      "text": "langer",
+      "label": "PER",
+      "start": 17270,
+      "end": 17276
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17554,
+      "end": 17569
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19407,
+      "end": 19416
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 19448,
+      "end": 19452
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 19453,
+      "end": 19457
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 20341,
+      "end": 20346
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 21545,
+      "end": 21550
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 21752,
+      "end": 21757
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 22036,
+      "end": 22040
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 23539,
+      "end": 23544
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 23545,
+      "end": 23551
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23566,
+      "end": 23570
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 23652,
+      "end": 23658
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 23674,
+      "end": 23677
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 23678,
+      "end": 23684
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23717,
+      "end": 23721
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 24513,
+      "end": 24519
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25095,
+      "end": 25104
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 25141,
+      "end": 25144
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 25145,
+      "end": 25151
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 25423,
+      "end": 25428
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 25587,
+      "end": 25591
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 25682,
+      "end": 25687
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 25825,
+      "end": 25831
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 25949,
+      "end": 25953
+    },
+    {
+      "text": "reicht",
+      "label": "PER",
+      "start": 26365,
+      "end": 26371
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 27330,
+      "end": 27334
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 27875,
+      "end": 27881
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 28350,
+      "end": 28354
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29662,
+      "end": 29671
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 29707,
+      "end": 29712
+    },
+    {
+      "text": "Handel",
+      "label": "PER",
+      "start": 30698,
+      "end": 30704
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30945,
+      "end": 30954
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 30986,
+      "end": 30989
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 30990,
+      "end": 30996
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 32124,
+      "end": 32128
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 32137,
+      "end": 32141
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 32197,
+      "end": 32202
+    },
+    {
+      "text": "Deutsch",
+      "label": "PER",
+      "start": 32596,
+      "end": 32603
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 33063,
+      "end": 33068
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 34089,
+      "end": 34094
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 34095,
+      "end": 34101
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 34120,
+      "end": 34124
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 34171,
+      "end": 34174
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 34197,
+      "end": 34200
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 34201,
+      "end": 34208
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 34231,
+      "end": 34235
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 35497,
+      "end": 35501
+    },
+    {
+      "text": "klein",
+      "label": "PER",
+      "start": 35537,
+      "end": 35542
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 35616,
+      "end": 35620
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37077,
+      "end": 37086
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 37123,
+      "end": 37126
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 37127,
+      "end": 37134
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 37374,
+      "end": 37379
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37825,
+      "end": 37834
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 38600,
+      "end": 38618
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 41718,
+      "end": 41723
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 41739,
+      "end": 41744
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 41745,
+      "end": 41751
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41779,
+      "end": 41783
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41793,
+      "end": 41799
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 41831,
+      "end": 41836
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 41838,
+      "end": 41844
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41845,
+      "end": 41851
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41878,
+      "end": 41882
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 41965,
+      "end": 41969
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 42044,
+      "end": 42049
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 42515,
+      "end": 42520
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 42593,
+      "end": 42598
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42807,
+      "end": 42816
+    },
+    {
+      "text": "Jürgen",
+      "label": "PER",
+      "start": 42848,
+      "end": 42854
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 42855,
+      "end": 42861
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 44086,
+      "end": 44090
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 44707,
+      "end": 44711
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 46044,
+      "end": 46060
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 46357,
+      "end": 46362
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 46509,
+      "end": 46514
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 46515,
+      "end": 46521
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 46529,
+      "end": 46534
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 46568,
+      "end": 46571
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 46572,
+      "end": 46580
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 46608,
+      "end": 46611
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 46612,
+      "end": 46620
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 46621,
+      "end": 46629
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 46651,
+      "end": 46655
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 46868,
+      "end": 46873
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 46964,
+      "end": 46967
+    },
+    {
+      "text": "Helmuth",
+      "label": "PER",
+      "start": 46968,
+      "end": 46975
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 47508,
+      "end": 47513
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 47824,
+      "end": 47828
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 48513,
+      "end": 48522
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 48565,
+      "end": 48568
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 48569,
+      "end": 48577
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 48578,
+      "end": 48586
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 48639,
+      "end": 48643
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49047,
+      "end": 49056
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49298,
+      "end": 49307
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 49756,
+      "end": 49761
+    },
+    {
+      "text": "Sturm",
+      "label": "PER",
+      "start": 51124,
+      "end": 51129
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 51266,
+      "end": 51277
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51424,
+      "end": 51433
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 52499,
+      "end": 52503
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53735,
+      "end": 53750
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54487,
+      "end": 54496
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 54534,
+      "end": 54537
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 54538,
+      "end": 54546
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 54547,
+      "end": 54555
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55487,
+      "end": 55502
+    },
+    {
+      "text": "klug",
+      "label": "PER",
+      "start": 55504,
+      "end": 55508
+    },
+    {
+      "text": "Erwin",
+      "label": "PER",
+      "start": 56213,
+      "end": 56218
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 57004,
+      "end": 57013
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 58626,
+      "end": 58631
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 58769,
+      "end": 58784
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 59900,
+      "end": 59905
+    },
+    {
+      "text": "klug",
+      "label": "PER",
+      "start": 60072,
+      "end": 60076
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60469,
+      "end": 60478
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 60521,
+      "end": 60524
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 60525,
+      "end": 60533
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 60534,
+      "end": 60542
+    },
+    {
+      "text": "Konrad",
+      "label": "PER",
+      "start": 60686,
+      "end": 60692
+    },
+    {
+      "text": "Konrad",
+      "label": "PER",
+      "start": 60840,
+      "end": 60846
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 61195,
+      "end": 61200
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 61201,
+      "end": 61207
+    },
+    {
+      "text": "schön",
+      "label": "PER",
+      "start": 61215,
+      "end": 61220
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61235,
+      "end": 61239
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 61276,
+      "end": 61283
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61305,
+      "end": 61309
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61421,
+      "end": 61425
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 61748,
+      "end": 61752
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61753,
+      "end": 61757
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61799,
+      "end": 61803
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 61845,
+      "end": 61849
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Parlamenten",
+      "label": "ORG",
+      "start": 62681,
+      "end": 62692
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64449,
+      "end": 64464
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 64543,
+      "end": 64547
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 65346,
+      "end": 65350
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66359,
+      "end": 66368
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 66400,
+      "end": 66407
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 67323,
+      "end": 67340
+    },
+    {
+      "text": "kurz",
+      "label": "PER",
+      "start": 67537,
+      "end": 67541
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 68318,
+      "end": 68322
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 68792,
+      "end": 68796
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 68797,
+      "end": 68801
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 68816,
+      "end": 68820
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 68844,
+      "end": 68848
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 69012,
+      "end": 69016
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69075,
+      "end": 69090
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 69205,
+      "end": 69210
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71274,
+      "end": 71289
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 72113,
+      "end": 72117
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 72118,
+      "end": 72122
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72130,
+      "end": 72139
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 72355,
+      "end": 72363
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73425,
+      "end": 73434
+    },
+    {
+      "text": "knapp",
+      "label": "PER",
+      "start": 73790,
+      "end": 73795
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 76913,
+      "end": 76922
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77176,
+      "end": 77191
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 77470,
+      "end": 77475
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78170,
+      "end": 78179
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78313,
+      "end": 78328
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78358,
+      "end": 78367
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 78872,
+      "end": 78877
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 78891,
+      "end": 78896
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79011,
+      "end": 79026
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 79594,
+      "end": 79599
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79695,
+      "end": 79710
+    },
+    {
+      "text": "groß",
+      "label": "PER",
+      "start": 80659,
+      "end": 80663
+    },
+    {
+      "text": "Kurt",
+      "label": "PER",
+      "start": 82085,
+      "end": 82089
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 82090,
+      "end": 82094
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 82571,
+      "end": 82580
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 83300,
+      "end": 83315
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 83398,
+      "end": 83409
+    }
+  ],
+  "flair": [
+    {
+      "text": "E",
+      "label": "PER",
+      "start": 158,
+      "end": 159
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 160,
+      "end": 161
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 162,
+      "end": 163
+    },
+    {
+      "text": "z i",
+      "label": "PER",
+      "start": 164,
+      "end": 167
+    },
+    {
+      "text": "g e",
+      "label": "PER",
+      "start": 168,
+      "end": 171
+    },
+    {
+      "text": "r P",
+      "label": "PER",
+      "start": 172,
+      "end": 175
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 343,
+      "end": 352
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 391,
+      "end": 406
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 637,
+      "end": 675
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 885,
+      "end": 902
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 948,
+      "end": 966
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "P",
+      "label": "PER",
+      "start": 1332,
+      "end": 1333
+    },
+    {
+      "text": "e t e r M ü l l e r",
+      "label": "PER",
+      "start": 1334,
+      "end": 1353
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 1533,
+      "end": 1534
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 1592,
+      "end": 1603
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1630,
+      "end": 1648
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 1729,
+      "end": 1733
+    },
+    {
+      "text": "Stefan Mappus",
+      "label": "PER",
+      "start": 1799,
+      "end": 1812
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1842,
+      "end": 1859
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1987,
+      "end": 2000
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "Bund  Berlin",
+      "label": "ORG",
+      "start": 2190,
+      "end": 2202
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 2204,
+      "end": 2222
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2350,
+      "end": 2365
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2522,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2745,
+      "end": 2760
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 2795,
+      "end": 2819
+    },
+    {
+      "text": "Bund  Rheinland-Pfalz",
+      "label": "ORG",
+      "start": 2825,
+      "end": 2846
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "Jürgen Schöning",
+      "label": "PER",
+      "start": 3108,
+      "end": 3123
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 3269,
+      "end": 3280
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3304,
+      "end": 3322
+    },
+    {
+      "text": "Juliane Rumpf",
+      "label": "PER",
+      "start": 3388,
+      "end": 3401
+    },
+    {
+      "text": "Landwirtschaft, Umwelt und ländliche Räume",
+      "label": "ORG",
+      "start": 3418,
+      "end": 3460
+    },
+    {
+      "text": "Werner Hoyer",
+      "label": "PER",
+      "start": 3466,
+      "end": 3478
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 4571,
+      "end": 4586
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 4627,
+      "end": 4632
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6558,
+      "end": 6577
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7219,
+      "end": 7240
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Jean-Claude J u n c k e r",
+      "label": "PER",
+      "start": 9052,
+      "end": 9077
+    },
+    {
+      "text": "Deutschen",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9877
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 9878,
+      "end": 9889
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 10171,
+      "end": 10201
+    },
+    {
+      "text": "K o s",
+      "label": "PER",
+      "start": 10202,
+      "end": 10207
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 10208,
+      "end": 10209
+    },
+    {
+      "text": "h y k",
+      "label": "PER",
+      "start": 10210,
+      "end": 10215
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10499,
+      "end": 10514
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10714,
+      "end": 10729
+    },
+    {
+      "text": "P a p a n d r e o u",
+      "label": "PER",
+      "start": 10784,
+      "end": 10803
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 11115,
+      "end": 11136
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F r i c k e",
+      "label": "PER",
+      "start": 11513,
+      "end": 11529
+    },
+    {
+      "text": "Gerhard S c h r ö d e r",
+      "label": "PER",
+      "start": 12849,
+      "end": 12872
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 13361,
+      "end": 13370
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "Hohe Haus",
+      "label": "ORG",
+      "start": 16058,
+      "end": 16067
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Seehofer",
+      "label": "PER",
+      "start": 21709,
+      "end": 21717
+    },
+    {
+      "text": "Süddeutschen Zeitung",
+      "label": "ORG",
+      "start": 21777,
+      "end": 21797
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25145,
+      "end": 25160
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 29640,
+      "end": 29649
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30990,
+      "end": 31005
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 32137,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 34133,
+      "end": 34141
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 34175,
+      "end": 34181
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 34201,
+      "end": 34215
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 37127,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 38600,
+      "end": 38618
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41793,
+      "end": 41799
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 42013,
+      "end": 42028
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 44712,
+      "end": 44718
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 46044,
+      "end": 46060
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 46572,
+      "end": 46580
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 46612,
+      "end": 46629
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 46968,
+      "end": 46982
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47192,
+      "end": 47203
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 47400,
+      "end": 47403
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48186,
+      "end": 48196
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 48569,
+      "end": 48586
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Europäischen Währungsunion",
+      "label": "ORG",
+      "start": 49637,
+      "end": 49663
+    },
+    {
+      "text": "G e i t h n e r",
+      "label": "PER",
+      "start": 51474,
+      "end": 51489
+    },
+    {
+      "text": "Lehman-Bank",
+      "label": "ORG",
+      "start": 51559,
+      "end": 51570
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 52378,
+      "end": 52387
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 52433,
+      "end": 52439
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "S",
+      "label": "PER",
+      "start": 52504,
+      "end": 52505
+    },
+    {
+      "text": "t e i n g a r t",
+      "label": "PER",
+      "start": 52506,
+      "end": 52521
+    },
+    {
+      "text": "Handelsblatt",
+      "label": "ORG",
+      "start": 52562,
+      "end": 52574
+    },
+    {
+      "text": "Vereinigten Europäischen Staaten",
+      "label": "ORG",
+      "start": 52610,
+      "end": 52642
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 53105,
+      "end": 53107
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 54538,
+      "end": 54555
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55402,
+      "end": 55404
+    },
+    {
+      "text": "Erwin Te u f e l",
+      "label": "PER",
+      "start": 56213,
+      "end": 56229
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 60525,
+      "end": 60542
+    },
+    {
+      "text": "Konrad A d e n a u e r",
+      "label": "PER",
+      "start": 60686,
+      "end": 60708
+    },
+    {
+      "text": "Konrad Adenauer",
+      "label": "PER",
+      "start": 60840,
+      "end": 60855
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Boddenberg",
+      "label": "PER",
+      "start": 61255,
+      "end": 61265
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 62015,
+      "end": 62024
+    },
+    {
+      "text": "Olli R e h n",
+      "label": "PER",
+      "start": 62449,
+      "end": 62461
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 66400,
+      "end": 66418
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 67323,
+      "end": 67340
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 68892,
+      "end": 68922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 68988,
+      "end": 68996
+    },
+    {
+      "text": "S c h ä u b l e",
+      "label": "PER",
+      "start": 69558,
+      "end": 69573
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 70775,
+      "end": 70794
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 72215,
+      "end": 72216
+    },
+    {
+      "text": "Wolfgang Schäuble",
+      "label": "PER",
+      "start": 72355,
+      "end": 72372
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 72860,
+      "end": 72889
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 73124,
+      "end": 73127
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 73136,
+      "end": 73139
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73425,
+      "end": 73434
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "A d e",
+      "label": "PER",
+      "start": 75782,
+      "end": 75787
+    },
+    {
+      "text": "n a u e r",
+      "label": "PER",
+      "start": 75788,
+      "end": 75797
+    },
+    {
+      "text": "K",
+      "label": "PER",
+      "start": 75800,
+      "end": 75801
+    },
+    {
+      "text": "o",
+      "label": "PER",
+      "start": 75802,
+      "end": 75803
+    },
+    {
+      "text": "h l",
+      "label": "PER",
+      "start": 75804,
+      "end": 75807
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 75812,
+      "end": 75813
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 75814,
+      "end": 75815
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 75816,
+      "end": 75817
+    },
+    {
+      "text": "s",
+      "label": "PER",
+      "start": 75818,
+      "end": 75819
+    },
+    {
+      "text": "c",
+      "label": "PER",
+      "start": 75820,
+      "end": 75821
+    },
+    {
+      "text": "h",
+      "label": "PER",
+      "start": 75822,
+      "end": 75823
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 75824,
+      "end": 75825
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 75826,
+      "end": 75827
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 76913,
+      "end": 76922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "A",
+      "label": "ORG",
+      "start": 78250,
+      "end": 78251
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78358,
+      "end": 78367
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 80223,
+      "end": 80252
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "Ecofin",
+      "label": "ORG",
+      "start": 82492,
+      "end": 82498
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "NordrheinWestfalen",
+      "label": "ORG",
+      "start": 408,
+      "end": 426
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 604,
+      "end": 626
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 637,
+      "end": 675
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 677,
+      "end": 694
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1012
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1630,
+      "end": 1648
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 1650,
+      "end": 1709
+    },
+    {
+      "text": "Bund\n\nBaden-Württemberg",
+      "label": "ORG",
+      "start": 1729,
+      "end": 1752
+    },
+    {
+      "text": "Stefan Mappus",
+      "label": "PER",
+      "start": 1799,
+      "end": 1812
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1842,
+      "end": 1859
+    },
+    {
+      "text": "Minister für Bundes-, Europa-",
+      "label": "ORG",
+      "start": 1861,
+      "end": 1890
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 2002,
+      "end": 2025
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "Bund\n\nBerlin",
+      "label": "ORG",
+      "start": 2190,
+      "end": 2202
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 2204,
+      "end": 2222
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Justizminister",
+      "label": "ORG",
+      "start": 2309,
+      "end": 2323
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2350,
+      "end": 2365
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Minister für Generationen",
+      "label": "ORG",
+      "start": 2400,
+      "end": 2425
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2522,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2745,
+      "end": 2760
+    },
+    {
+      "text": "Bund\n\nRheinland-Pfalz",
+      "label": "ORG",
+      "start": 2825,
+      "end": 2846
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2901,
+      "end": 2935
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "Jürgen Schöning",
+      "label": "PER",
+      "start": 3108,
+      "end": 3123
+    },
+    {
+      "text": "Minister für Bundes- und\nEuropaangelegenheiten",
+      "label": "ORG",
+      "start": 3125,
+      "end": 3171
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 3269,
+      "end": 3280
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3304,
+      "end": 3322
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3347,
+      "end": 3362
+    },
+    {
+      "text": "Juliane Rumpf",
+      "label": "PER",
+      "start": 3388,
+      "end": 3401
+    },
+    {
+      "text": "Werner Hoyer",
+      "label": "PER",
+      "start": 3466,
+      "end": 3478
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 3532,
+      "end": 3536
+    },
+    {
+      "text": "Bundesminister der Finanzen\n\nBundesrat",
+      "label": "ORG",
+      "start": 3558,
+      "end": 3596
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Börsenaufsicht BaFin",
+      "label": "ORG",
+      "start": 4612,
+      "end": 4632
+    },
+    {
+      "text": "Erwirtschaftetes",
+      "label": "ORG",
+      "start": 5599,
+      "end": 5615
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6558,
+      "end": 6577
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 6593,
+      "end": 6609
+    },
+    {
+      "text": "Finanzspekulationen",
+      "label": "PER",
+      "start": 7134,
+      "end": 7153
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7219,
+      "end": 7240
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Geschäftsordnungseinwänden",
+      "label": "PER",
+      "start": 7490,
+      "end": 7516
+    },
+    {
+      "text": "Fristeinreden",
+      "label": "PER",
+      "start": 7522,
+      "end": 7535
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Euro-Raum",
+      "label": "ORG",
+      "start": 8927,
+      "end": 8936
+    },
+    {
+      "text": "Jean-Claude J",
+      "label": "PER",
+      "start": 9052,
+      "end": 9065
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9889
+    },
+    {
+      "text": "Bundesministerium der\nFinanzen\nK o s c h y k",
+      "label": "ORG",
+      "start": 10171,
+      "end": 10215
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10499,
+      "end": 10514
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10714,
+      "end": 10729
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11156
+    },
+    {
+      "text": "Euro-Raums",
+      "label": "ORG",
+      "start": 11313,
+      "end": 11323
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F",
+      "label": "PER",
+      "start": 11513,
+      "end": 11519
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 11590,
+      "end": 11599
+    },
+    {
+      "text": "liebe Damen",
+      "label": "PER",
+      "start": 11781,
+      "end": 11792
+    },
+    {
+      "text": "Zwei-Wochen-Frist",
+      "label": "ORG",
+      "start": 12408,
+      "end": 12425
+    },
+    {
+      "text": "Verhandlungsintensität",
+      "label": "ORG",
+      "start": 12537,
+      "end": 12559
+    },
+    {
+      "text": "Regierungschefs der deutschen Länder",
+      "label": "ORG",
+      "start": 12748,
+      "end": 12784
+    },
+    {
+      "text": "Gerhard\nS c h r ö d e r",
+      "label": "PER",
+      "start": 12849,
+      "end": 12872
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "deutschen\nLänder",
+      "label": "ORG",
+      "start": 14299,
+      "end": 14315
+    },
+    {
+      "text": "EU-Förderprogramme",
+      "label": "ORG",
+      "start": 14368,
+      "end": 14386
+    },
+    {
+      "text": "unser Europabewusstsein",
+      "label": "ORG",
+      "start": 15142,
+      "end": 15165
+    },
+    {
+      "text": "Haushaltsdisziplin",
+      "label": "PER",
+      "start": 15863,
+      "end": 15881
+    },
+    {
+      "text": "II",
+      "label": "ORG",
+      "start": 16809,
+      "end": 16811
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 18901,
+      "end": 18916
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Steuerzahlergeld",
+      "label": "PER",
+      "start": 20878,
+      "end": 20894
+    },
+    {
+      "text": "Bank!",
+      "label": "ORG",
+      "start": 20906,
+      "end": 20911
+    },
+    {
+      "text": "Seehofer",
+      "label": "PER",
+      "start": 21709,
+      "end": 21717
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25145,
+      "end": 25160
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 28023,
+      "end": 28043
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 29133,
+      "end": 29148
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 29640,
+      "end": 29649
+    },
+    {
+      "text": "Defizitsünder",
+      "label": "PER",
+      "start": 30249,
+      "end": 30262
+    },
+    {
+      "text": "Private\nEquity",
+      "label": "ORG",
+      "start": 30520,
+      "end": 30534
+    },
+    {
+      "text": "Ordnungspolitisch",
+      "label": "PER",
+      "start": 30794,
+      "end": 30811
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30990,
+      "end": 31005
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 32076,
+      "end": 32085
+    },
+    {
+      "text": "Kollege Beck",
+      "label": "PER",
+      "start": 32129,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Herzlichen Dank",
+      "label": "PER",
+      "start": 34103,
+      "end": 34118
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 34133,
+      "end": 34141
+    },
+    {
+      "text": "Dr. Markov",
+      "label": "PER",
+      "start": 34171,
+      "end": 34181
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 34201,
+      "end": 34215
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 37127,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 38600,
+      "end": 38618
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "!\nLiebe",
+      "label": "ORG",
+      "start": 41931,
+      "end": 41938
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "blümerant",
+      "label": "PER",
+      "start": 42061,
+      "end": 42070
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 44375,
+      "end": 44379
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 44712,
+      "end": 44718
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 46044,
+      "end": 46060
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 46523,
+      "end": 46535
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 46968,
+      "end": 46982
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47192,
+      "end": 47203
+    },
+    {
+      "text": "Das Erste",
+      "label": "ORG",
+      "start": 47364,
+      "end": 47373
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 47400,
+      "end": 47403
+    },
+    {
+      "text": "Das Zweite",
+      "label": "ORG",
+      "start": 47457,
+      "end": 47467
+    },
+    {
+      "text": "EU-Ebene",
+      "label": "ORG",
+      "start": 47496,
+      "end": 47504
+    },
+    {
+      "text": "EU-Vertrages",
+      "label": "ORG",
+      "start": 48099,
+      "end": 48111
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48186,
+      "end": 48196
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 49284,
+      "end": 49293
+    },
+    {
+      "text": "Europäischen Währungsunion",
+      "label": "ORG",
+      "start": 49637,
+      "end": 49663
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 50985,
+      "end": 51005
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 51307,
+      "end": 51327
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 52378,
+      "end": 52387
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 52416,
+      "end": 52428
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 53105,
+      "end": 53107
+    },
+    {
+      "text": "EuroRaums",
+      "label": "ORG",
+      "start": 53902,
+      "end": 53911
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55402,
+      "end": 55404
+    },
+    {
+      "text": "EU-Länder",
+      "label": "ORG",
+      "start": 55963,
+      "end": 55972
+    },
+    {
+      "text": "Erwin\nTe u f e l",
+      "label": "PER",
+      "start": 56213,
+      "end": 56229
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 58079,
+      "end": 58088
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 58802,
+      "end": 58811
+    },
+    {
+      "text": "EUStrukturfonds",
+      "label": "ORG",
+      "start": 58967,
+      "end": 58982
+    },
+    {
+      "text": "prudenter agas et respice",
+      "label": "PER",
+      "start": 60012,
+      "end": 60037
+    },
+    {
+      "text": "Konrad\nA d e n a u e r",
+      "label": "PER",
+      "start": 60686,
+      "end": 60708
+    },
+    {
+      "text": "Konrad\nAdenauer",
+      "label": "PER",
+      "start": 60840,
+      "end": 60855
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 61209,
+      "end": 61221
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 61532,
+      "end": 61548
+    },
+    {
+      "text": "Deutschen\nBundestag",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 62015,
+      "end": 62024
+    },
+    {
+      "text": "Olli\nR e h",
+      "label": "PER",
+      "start": 62449,
+      "end": 62459
+    },
+    {
+      "text": "Kommissar",
+      "label": "ORG",
+      "start": 62479,
+      "end": 62488
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 64021,
+      "end": 64030
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 65079,
+      "end": 65094
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 66710,
+      "end": 66719
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 67323,
+      "end": 67340
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 67361,
+      "end": 67370
+    },
+    {
+      "text": "Amtierender",
+      "label": "PER",
+      "start": 68770,
+      "end": 68781
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 68892,
+      "end": 68922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 68943,
+      "end": 68947
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 68969,
+      "end": 68996
+    },
+    {
+      "text": "G-20-Staaten",
+      "label": "ORG",
+      "start": 70256,
+      "end": 70268
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 70775,
+      "end": 70794
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 70951,
+      "end": 70960
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 72034,
+      "end": 72043
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "Wolfgang\nSchäuble",
+      "label": "PER",
+      "start": 72355,
+      "end": 72372
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 72467,
+      "end": 72476
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 72860,
+      "end": 72889
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 73078,
+      "end": 73091
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 73124,
+      "end": 73127
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 73136,
+      "end": 73139
+    },
+    {
+      "text": "Re",
+      "label": "PER",
+      "start": 73761,
+      "end": 73763
+    },
+    {
+      "text": "Haushaltsauswirkungen",
+      "label": "PER",
+      "start": 74273,
+      "end": 74294
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 74926,
+      "end": 74935
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 74951,
+      "end": 74966
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 75348,
+      "end": 75359
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "A d e n a u e r",
+      "label": "ORG",
+      "start": 75782,
+      "end": 75797
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 77711,
+      "end": 77720
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "CDS",
+      "label": "ORG",
+      "start": 79526,
+      "end": 79529
+    },
+    {
+      "text": "verbriefenden Institution",
+      "label": "ORG",
+      "start": 79933,
+      "end": 79958
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 80223,
+      "end": 80252
+    },
+    {
+      "text": "europäischen Finanzsystems",
+      "label": "ORG",
+      "start": 81739,
+      "end": 81765
+    },
+    {
+      "text": "Amtierender",
+      "label": "PER",
+      "start": 82063,
+      "end": 82074
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82372,
+      "end": 82374
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82449,
+      "end": 82451
+    },
+    {
+      "text": "G-20-Regierungschefs",
+      "label": "ORG",
+      "start": 83124,
+      "end": 83144
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "NordrheinWestfalen",
+      "label": "ORG",
+      "start": 408,
+      "end": 426
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "www.heenemann-druck.de",
+      "label": "ORG",
+      "start": 604,
+      "end": 626
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft mbH",
+      "label": "ORG",
+      "start": 637,
+      "end": 675
+    },
+    {
+      "text": "Postfach 10 05 34",
+      "label": "ORG",
+      "start": 677,
+      "end": 694
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 1008,
+      "end": 1012
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 1630,
+      "end": 1648
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten und Bevollmächtigter des",
+      "label": "ORG",
+      "start": 1650,
+      "end": 1709
+    },
+    {
+      "text": "Bund\n\nBaden-Württemberg",
+      "label": "ORG",
+      "start": 1729,
+      "end": 1752
+    },
+    {
+      "text": "Stefan Mappus",
+      "label": "PER",
+      "start": 1799,
+      "end": 1812
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 1842,
+      "end": 1859
+    },
+    {
+      "text": "Minister für Bundes-, Europa-",
+      "label": "ORG",
+      "start": 1861,
+      "end": 1890
+    },
+    {
+      "text": "Minister für Wirtschaft",
+      "label": "ORG",
+      "start": 2002,
+      "end": 2025
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "Bund\n\nBerlin",
+      "label": "ORG",
+      "start": 2190,
+      "end": 2202
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 2204,
+      "end": 2222
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Justizminister",
+      "label": "ORG",
+      "start": 2309,
+      "end": 2323
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2350,
+      "end": 2365
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Minister für Generationen",
+      "label": "ORG",
+      "start": 2400,
+      "end": 2425
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2522,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2745,
+      "end": 2760
+    },
+    {
+      "text": "Bund\n\nRheinland-Pfalz",
+      "label": "ORG",
+      "start": 2825,
+      "end": 2846
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Minister für Bundesangelegenheiten",
+      "label": "ORG",
+      "start": 2901,
+      "end": 2935
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2972,
+      "end": 2981
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "Jürgen Schöning",
+      "label": "PER",
+      "start": 3108,
+      "end": 3123
+    },
+    {
+      "text": "Minister für Bundes- und\nEuropaangelegenheiten",
+      "label": "ORG",
+      "start": 3125,
+      "end": 3171
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 3269,
+      "end": 3280
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3304,
+      "end": 3322
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 3347,
+      "end": 3362
+    },
+    {
+      "text": "Juliane Rumpf",
+      "label": "PER",
+      "start": 3388,
+      "end": 3401
+    },
+    {
+      "text": "Werner Hoyer",
+      "label": "PER",
+      "start": 3466,
+      "end": 3478
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 3532,
+      "end": 3536
+    },
+    {
+      "text": "Bundesminister der Finanzen\n\n",
+      "label": "ORG",
+      "start": 3558,
+      "end": 3587
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3587,
+      "end": 3596
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Börsenaufsicht BaFin",
+      "label": "ORG",
+      "start": 4612,
+      "end": 4632
+    },
+    {
+      "text": "Erwirtschaftetes",
+      "label": "ORG",
+      "start": 5599,
+      "end": 5615
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6558,
+      "end": 6577
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 6593,
+      "end": 6609
+    },
+    {
+      "text": "Finanzspekulationen",
+      "label": "PER",
+      "start": 7134,
+      "end": 7153
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7219,
+      "end": 7240
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7334,
+      "end": 7343
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7374,
+      "end": 7383
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Geschäftsordnungseinwänden",
+      "label": "PER",
+      "start": 7490,
+      "end": 7516
+    },
+    {
+      "text": "Fristeinreden",
+      "label": "PER",
+      "start": 7522,
+      "end": 7535
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8277,
+      "end": 8286
+    },
+    {
+      "text": "Euro-Raum",
+      "label": "ORG",
+      "start": 8927,
+      "end": 8936
+    },
+    {
+      "text": "Jean-Claude J",
+      "label": "PER",
+      "start": 9052,
+      "end": 9065
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 9426,
+      "end": 9441
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9889
+    },
+    {
+      "text": "Bundesministerium der\nFinanzen\nK o s c h y k",
+      "label": "ORG",
+      "start": 10171,
+      "end": 10215
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10499,
+      "end": 10514
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10714,
+      "end": 10729
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11145,
+      "end": 11156
+    },
+    {
+      "text": "Euro-Raums",
+      "label": "ORG",
+      "start": 11313,
+      "end": 11323
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F",
+      "label": "PER",
+      "start": 11513,
+      "end": 11519
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 11590,
+      "end": 11599
+    },
+    {
+      "text": "liebe Damen",
+      "label": "PER",
+      "start": 11781,
+      "end": 11792
+    },
+    {
+      "text": "Zwei-Wochen-Frist",
+      "label": "ORG",
+      "start": 12408,
+      "end": 12425
+    },
+    {
+      "text": "Verhandlungsintensität",
+      "label": "ORG",
+      "start": 12537,
+      "end": 12559
+    },
+    {
+      "text": "Regierungschefs der deutschen Länder",
+      "label": "ORG",
+      "start": 12748,
+      "end": 12784
+    },
+    {
+      "text": "Gerhard\nS c h r ö d e r",
+      "label": "PER",
+      "start": 12849,
+      "end": 12872
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13315,
+      "end": 13324
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 13413,
+      "end": 13422
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "deutschen\nLänder",
+      "label": "ORG",
+      "start": 14299,
+      "end": 14315
+    },
+    {
+      "text": "EU-Förderprogramme",
+      "label": "ORG",
+      "start": 14368,
+      "end": 14386
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 14497,
+      "end": 14512
+    },
+    {
+      "text": "unser Europabewusstsein",
+      "label": "ORG",
+      "start": 15142,
+      "end": 15165
+    },
+    {
+      "text": "Haushaltsdisziplin",
+      "label": "PER",
+      "start": 15863,
+      "end": 15881
+    },
+    {
+      "text": "II",
+      "label": "ORG",
+      "start": 16809,
+      "end": 16811
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17230,
+      "end": 17245
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 17554,
+      "end": 17569
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 18901,
+      "end": 18916
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 19407,
+      "end": 19416
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Steuerzahlergeld",
+      "label": "PER",
+      "start": 20878,
+      "end": 20894
+    },
+    {
+      "text": "Bank!",
+      "label": "ORG",
+      "start": 20906,
+      "end": 20911
+    },
+    {
+      "text": "Seehofer",
+      "label": "PER",
+      "start": 21709,
+      "end": 21717
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25095,
+      "end": 25104
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25145,
+      "end": 25160
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 28023,
+      "end": 28043
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 29133,
+      "end": 29148
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 29640,
+      "end": 29649
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29662,
+      "end": 29671
+    },
+    {
+      "text": "Defizitsünder",
+      "label": "PER",
+      "start": 30249,
+      "end": 30262
+    },
+    {
+      "text": "Private\nEquity",
+      "label": "ORG",
+      "start": 30520,
+      "end": 30534
+    },
+    {
+      "text": "Ordnungspolitisch",
+      "label": "PER",
+      "start": 30794,
+      "end": 30811
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30945,
+      "end": 30954
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30990,
+      "end": 31005
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 32076,
+      "end": 32085
+    },
+    {
+      "text": "Kollege Beck",
+      "label": "PER",
+      "start": 32129,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Herzlichen Dank",
+      "label": "PER",
+      "start": 34103,
+      "end": 34118
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 34133,
+      "end": 34141
+    },
+    {
+      "text": "Dr. Markov",
+      "label": "PER",
+      "start": 34171,
+      "end": 34181
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 34201,
+      "end": 34215
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37077,
+      "end": 37086
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 37127,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 37825,
+      "end": 37834
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 38600,
+      "end": 38618
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "!\nLiebe",
+      "label": "ORG",
+      "start": 41931,
+      "end": 41938
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "blümerant",
+      "label": "PER",
+      "start": 42061,
+      "end": 42070
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42807,
+      "end": 42816
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 44375,
+      "end": 44379
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 44712,
+      "end": 44718
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 46044,
+      "end": 46060
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 46523,
+      "end": 46535
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 46968,
+      "end": 46982
+    },
+    {
+      "text": "Bundestages",
+      "label": "ORG",
+      "start": 47192,
+      "end": 47203
+    },
+    {
+      "text": "Das Erste",
+      "label": "ORG",
+      "start": 47364,
+      "end": 47373
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 47400,
+      "end": 47403
+    },
+    {
+      "text": "Das Zweite",
+      "label": "ORG",
+      "start": 47457,
+      "end": 47467
+    },
+    {
+      "text": "EU-Ebene",
+      "label": "ORG",
+      "start": 47496,
+      "end": 47504
+    },
+    {
+      "text": "EU-Vertrages",
+      "label": "ORG",
+      "start": 48099,
+      "end": 48111
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48186,
+      "end": 48196
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 48513,
+      "end": 48522
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49047,
+      "end": 49056
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 49284,
+      "end": 49293
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 49298,
+      "end": 49307
+    },
+    {
+      "text": "Europäischen Währungsunion",
+      "label": "ORG",
+      "start": 49637,
+      "end": 49663
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 50985,
+      "end": 51005
+    },
+    {
+      "text": "Bundesfinanzminister",
+      "label": "ORG",
+      "start": 51307,
+      "end": 51327
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51424,
+      "end": 51433
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 52378,
+      "end": 52387
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 52416,
+      "end": 52428
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 53105,
+      "end": 53107
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53735,
+      "end": 53750
+    },
+    {
+      "text": "EuroRaums",
+      "label": "ORG",
+      "start": 53902,
+      "end": 53911
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54487,
+      "end": 54496
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55402,
+      "end": 55404
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 55487,
+      "end": 55502
+    },
+    {
+      "text": "EU-Länder",
+      "label": "ORG",
+      "start": 55963,
+      "end": 55972
+    },
+    {
+      "text": "Erwin\nTe u f e l",
+      "label": "PER",
+      "start": 56213,
+      "end": 56229
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 57004,
+      "end": 57013
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 58079,
+      "end": 58088
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 58769,
+      "end": 58784
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 58802,
+      "end": 58811
+    },
+    {
+      "text": "EUStrukturfonds",
+      "label": "ORG",
+      "start": 58967,
+      "end": 58982
+    },
+    {
+      "text": "prudenter agas et respice",
+      "label": "PER",
+      "start": 60012,
+      "end": 60037
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60469,
+      "end": 60478
+    },
+    {
+      "text": "Konrad\nA d e n a u e r",
+      "label": "PER",
+      "start": 60686,
+      "end": 60708
+    },
+    {
+      "text": "Konrad\nAdenauer",
+      "label": "PER",
+      "start": 60840,
+      "end": 60855
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Danke schön!",
+      "label": "ORG",
+      "start": 61209,
+      "end": 61221
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 61532,
+      "end": 61548
+    },
+    {
+      "text": "Deutschen\nBundestag",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 62015,
+      "end": 62024
+    },
+    {
+      "text": "Olli\nR e h",
+      "label": "PER",
+      "start": 62449,
+      "end": 62459
+    },
+    {
+      "text": "Kommissar",
+      "label": "ORG",
+      "start": 62479,
+      "end": 62488
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 64021,
+      "end": 64030
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 64449,
+      "end": 64464
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 65079,
+      "end": 65094
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 66359,
+      "end": 66368
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 66710,
+      "end": 66719
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 67323,
+      "end": 67340
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 67361,
+      "end": 67370
+    },
+    {
+      "text": "Amtierender",
+      "label": "PER",
+      "start": 68770,
+      "end": 68781
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 68892,
+      "end": 68922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Parl",
+      "label": "PER",
+      "start": 68943,
+      "end": 68947
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 68969,
+      "end": 68996
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69075,
+      "end": 69090
+    },
+    {
+      "text": "G-20-Staaten",
+      "label": "ORG",
+      "start": 70256,
+      "end": 70268
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 70775,
+      "end": 70794
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 70951,
+      "end": 70960
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 71274,
+      "end": 71289
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 72034,
+      "end": 72043
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72130,
+      "end": 72139
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "Wolfgang\nSchäuble",
+      "label": "PER",
+      "start": 72355,
+      "end": 72372
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 72467,
+      "end": 72476
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 72860,
+      "end": 72889
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 73078,
+      "end": 73091
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 73124,
+      "end": 73127
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 73136,
+      "end": 73139
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 73425,
+      "end": 73434
+    },
+    {
+      "text": "Re",
+      "label": "PER",
+      "start": 73761,
+      "end": 73763
+    },
+    {
+      "text": "Haushaltsauswirkungen",
+      "label": "PER",
+      "start": 74273,
+      "end": 74294
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 74926,
+      "end": 74935
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 74951,
+      "end": 74966
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 75348,
+      "end": 75359
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "A d e n a u e r",
+      "label": "ORG",
+      "start": 75782,
+      "end": 75797
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 76913,
+      "end": 76922
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 77176,
+      "end": 77191
+    },
+    {
+      "text": "Euro-Zone",
+      "label": "ORG",
+      "start": 77711,
+      "end": 77720
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78170,
+      "end": 78179
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 78313,
+      "end": 78328
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 78358,
+      "end": 78367
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79011,
+      "end": 79026
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "CDS",
+      "label": "ORG",
+      "start": 79526,
+      "end": 79529
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 79695,
+      "end": 79710
+    },
+    {
+      "text": "verbriefenden Institution",
+      "label": "ORG",
+      "start": 79933,
+      "end": 79958
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 80223,
+      "end": 80252
+    },
+    {
+      "text": "europäischen Finanzsystems",
+      "label": "ORG",
+      "start": 81739,
+      "end": 81765
+    },
+    {
+      "text": "Amtierender",
+      "label": "PER",
+      "start": 82063,
+      "end": 82074
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82372,
+      "end": 82374
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82449,
+      "end": 82451
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 82571,
+      "end": 82580
+    },
+    {
+      "text": "G-20-Regierungschefs",
+      "label": "ORG",
+      "start": 83124,
+      "end": 83144
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 83300,
+      "end": 83315
+    }
+  ],
+  "bert": [
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 343,
+      "end": 352
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 391,
+      "end": 406
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 637,
+      "end": 671
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 885,
+      "end": 902
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 948,
+      "end": 966
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "text": "Justiz des Saarlandes",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1412
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 1592,
+      "end": 1603
+    },
+    {
+      "text": "Michael Bo",
+      "label": "PER",
+      "start": 1630,
+      "end": 1640
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1987,
+      "end": 2000
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 2204,
+      "end": 2205
+    },
+    {
+      "text": "##isela von der Aue",
+      "label": "PER",
+      "start": 2205,
+      "end": 2222
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 2238,
+      "end": 2242
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2350,
+      "end": 2365
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2522,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2745,
+      "end": 2760
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Staatskanzlei Bundesrat",
+      "label": "ORG",
+      "start": 2957,
+      "end": 2981
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "Staatskanzlei III",
+      "label": "ORG",
+      "start": 3073,
+      "end": 3091
+    },
+    {
+      "text": "Jürgen Schöning",
+      "label": "PER",
+      "start": 3108,
+      "end": 3123
+    },
+    {
+      "text": "Staatskanzlei Sachsen - Anhalt",
+      "label": "ORG",
+      "start": 3185,
+      "end": 3214
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 3269,
+      "end": 3280
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3303
+    },
+    {
+      "text": "Eckart von Klaeden",
+      "label": "PER",
+      "start": 3304,
+      "end": 3322
+    },
+    {
+      "text": "Juliane Rumpf",
+      "label": "PER",
+      "start": 3388,
+      "end": 3401
+    },
+    {
+      "text": "Werner Hoyer",
+      "label": "PER",
+      "start": 3466,
+      "end": 3478
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "der Finanzen",
+      "label": "ORG",
+      "start": 3573,
+      "end": 3585
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3587,
+      "end": 3596
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Kollege Beck",
+      "label": "PER",
+      "start": 4267,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 4571,
+      "end": 4586
+    },
+    {
+      "text": "BaFin",
+      "label": "PER",
+      "start": 4627,
+      "end": 4632
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6558,
+      "end": 6577
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 6593,
+      "end": 6609
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 7219,
+      "end": 7240
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 8277,
+      "end": 8286
+    },
+    {
+      "text": "Jean - Claude J",
+      "label": "PER",
+      "start": 9052,
+      "end": 9065
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9889
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 10171,
+      "end": 10201
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 11115,
+      "end": 11136
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F",
+      "label": "PER",
+      "start": 11513,
+      "end": 11519
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 11590,
+      "end": 11599
+    },
+    {
+      "text": "Gerhard S",
+      "label": "PER",
+      "start": 12849,
+      "end": 12858
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 13361,
+      "end": 13370
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Süddeutschen Zeitung",
+      "label": "ORG",
+      "start": 21777,
+      "end": 21797
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 23571,
+      "end": 23573
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23579,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 23782,
+      "end": 23784
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 25095,
+      "end": 25104
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25145,
+      "end": 25160
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 29640,
+      "end": 29649
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29662,
+      "end": 29671
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30990,
+      "end": 31005
+    },
+    {
+      "text": "Kollege Beck",
+      "label": "PER",
+      "start": 32129,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Kollege Rüttgers",
+      "label": "PER",
+      "start": 34125,
+      "end": 34141
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 34175,
+      "end": 34181
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 34201,
+      "end": 34215
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Exportüber -",
+      "label": "ORG",
+      "start": 37064,
+      "end": 37075
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 37083,
+      "end": 37086
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 37127,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41793,
+      "end": 41799
+    },
+    {
+      "text": "MecklenburgVorp",
+      "label": "ORG",
+      "start": 41801,
+      "end": 41816
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 42013,
+      "end": 42028
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 42807,
+      "end": 42813
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 44375,
+      "end": 44379
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 44712,
+      "end": 44718
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 46572,
+      "end": 46580
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 46612,
+      "end": 46629
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 46968,
+      "end": 46982
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 47192,
+      "end": 47201
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 47400,
+      "end": 47403
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 48513,
+      "end": 48519
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 48569,
+      "end": 48586
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 49047,
+      "end": 49053
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 49284,
+      "end": 49293
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 49298,
+      "end": 49304
+    },
+    {
+      "text": "Europäischen Währungsunion",
+      "label": "ORG",
+      "start": 49637,
+      "end": 49663
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 51424,
+      "end": 51433
+    },
+    {
+      "text": "Lehman - Bank",
+      "label": "ORG",
+      "start": 51559,
+      "end": 51570
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 52378,
+      "end": 52387
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 52433,
+      "end": 52439
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "S",
+      "label": "PER",
+      "start": 52504,
+      "end": 52505
+    },
+    {
+      "text": "Handelsblatt",
+      "label": "ORG",
+      "start": 52562,
+      "end": 52574
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 54538,
+      "end": 54555
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55402,
+      "end": 55404
+    },
+    {
+      "text": "Erwin Te",
+      "label": "PER",
+      "start": 56213,
+      "end": 56221
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 58769,
+      "end": 58775
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 60469,
+      "end": 60475
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 60525,
+      "end": 60542
+    },
+    {
+      "text": "Konrad A",
+      "label": "PER",
+      "start": 60686,
+      "end": 60694
+    },
+    {
+      "text": "Konrad Aden",
+      "label": "PER",
+      "start": 60840,
+      "end": 60851
+    },
+    {
+      "text": "Konrad Adenauer",
+      "label": "PER",
+      "start": 60840,
+      "end": 60855
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Boddenberg",
+      "label": "PER",
+      "start": 61255,
+      "end": 61265
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 61532,
+      "end": 61548
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Hessische Landesregierung",
+      "label": "ORG",
+      "start": 66136,
+      "end": 66161
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 66400,
+      "end": 66418
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 68892,
+      "end": 68922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 70775,
+      "end": 70794
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 72130,
+      "end": 72139
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "Wolfgang Schäuble",
+      "label": "PER",
+      "start": 72355,
+      "end": 72372
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 72860,
+      "end": 72889
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 73078,
+      "end": 73091
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 73124,
+      "end": 73127
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 73136,
+      "end": 73139
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 80223,
+      "end": 80252
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "Ecofin",
+      "label": "ORG",
+      "start": 82492,
+      "end": 82498
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 21,
+      "end": 22
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 343,
+      "end": 352
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 391,
+      "end": 406
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "text": "H. Heenemann GmbH & Co.",
+      "label": "ORG",
+      "start": 516,
+      "end": 539
+    },
+    {
+      "text": "Buch - und Offsetdruckerei",
+      "label": "ORG",
+      "start": 541,
+      "end": 566
+    },
+    {
+      "text": "##emann",
+      "label": "ORG",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "##uck",
+      "label": "ORG",
+      "start": 620,
+      "end": 623
+    },
+    {
+      "text": "de",
+      "label": "ORG",
+      "start": 624,
+      "end": 626
+    },
+    {
+      "text": "Bundesanzeiger Verlagsgesellschaft",
+      "label": "ORG",
+      "start": 637,
+      "end": 671
+    },
+    {
+      "text": "##bH",
+      "label": "ORG",
+      "start": 673,
+      "end": 675
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 808,
+      "end": 821
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 885,
+      "end": 902
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 948,
+      "end": 966
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "text": "Justiz des Saar",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1406
+    },
+    {
+      "text": "Carsten Frigge",
+      "label": "PER",
+      "start": 1482,
+      "end": 1496
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 1592,
+      "end": 1603
+    },
+    {
+      "text": "Michael Bo",
+      "label": "PER",
+      "start": 1630,
+      "end": 1640
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 1987,
+      "end": 2000
+    },
+    {
+      "text": "Emilia Müller",
+      "label": "PER",
+      "start": 2072,
+      "end": 2085
+    },
+    {
+      "text": "Bund Berlin",
+      "label": "ORG",
+      "start": 2190,
+      "end": 2202
+    },
+    {
+      "text": "Gisela von der Aue",
+      "label": "PER",
+      "start": 2204,
+      "end": 2222
+    },
+    {
+      "text": "##iz Brandenburg",
+      "label": "ORG",
+      "start": 2242,
+      "end": 2257
+    },
+    {
+      "text": "Hartmut Möllring",
+      "label": "PER",
+      "start": 2260,
+      "end": 2276
+    },
+    {
+      "text": "Bernd Busemann",
+      "label": "PER",
+      "start": 2293,
+      "end": 2307
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 2350,
+      "end": 2365
+    },
+    {
+      "text": "Armin Laschet",
+      "label": "PER",
+      "start": 2385,
+      "end": 2398
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 2522,
+      "end": 2536
+    },
+    {
+      "text": "Jens Böhrnsen",
+      "label": "PER",
+      "start": 2569,
+      "end": 2582
+    },
+    {
+      "text": "Karoline Linnert",
+      "label": "PER",
+      "start": 2683,
+      "end": 2699
+    },
+    {
+      "text": "##n",
+      "label": "ORG",
+      "start": 2739,
+      "end": 2740
+    },
+    {
+      "text": "Kerstin Kießler",
+      "label": "PER",
+      "start": 2745,
+      "end": 2760
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 2795,
+      "end": 2819
+    },
+    {
+      "text": "Bund Rheinland - Pfalz",
+      "label": "ORG",
+      "start": 2825,
+      "end": 2846
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 2848,
+      "end": 2857
+    },
+    {
+      "text": "Karl Rauber",
+      "label": "PER",
+      "start": 2888,
+      "end": 2899
+    },
+    {
+      "text": "Staatskanzlei Bundesrat",
+      "label": "ORG",
+      "start": 2957,
+      "end": 2981
+    },
+    {
+      "text": "Johannes Beermann",
+      "label": "PER",
+      "start": 3026,
+      "end": 3043
+    },
+    {
+      "text": "Staatskanzlei III Thüringen",
+      "label": "ORG",
+      "start": 3073,
+      "end": 3102
+    },
+    {
+      "text": "Jürgen Schöning",
+      "label": "PER",
+      "start": 3108,
+      "end": 3123
+    },
+    {
+      "text": "Staatskanzlei Sachsen - Anhalt",
+      "label": "ORG",
+      "start": 3185,
+      "end": 3214
+    },
+    {
+      "text": "Angela Kolb",
+      "label": "PER",
+      "start": 3269,
+      "end": 3280
+    },
+    {
+      "text": "Justiz Ecka",
+      "label": "ORG",
+      "start": 3297,
+      "end": 3308
+    },
+    {
+      "text": "##rt von Klaeden",
+      "label": "PER",
+      "start": 3308,
+      "end": 3322
+    },
+    {
+      "text": "Juliane Rumpf",
+      "label": "PER",
+      "start": 3388,
+      "end": 3401
+    },
+    {
+      "text": "Werner Hoyer",
+      "label": "PER",
+      "start": 3466,
+      "end": 3478
+    },
+    {
+      "text": "##wärtigen Amt",
+      "label": "ORG",
+      "start": 3501,
+      "end": 3513
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 3514,
+      "end": 3530
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 3593,
+      "end": 3596
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 3722,
+      "end": 3734
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 4267,
+      "end": 4269
+    },
+    {
+      "text": "##ge",
+      "label": "PER",
+      "start": 4272,
+      "end": 4274
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 4275,
+      "end": 4279
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 4294,
+      "end": 4303
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 4571,
+      "end": 4586
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 4627,
+      "end": 4632
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 6558,
+      "end": 6577
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 6593,
+      "end": 6609
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 7219,
+      "end": 7238
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 7415,
+      "end": 7424
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 8235,
+      "end": 8253
+    },
+    {
+      "text": "Jean - Claude J",
+      "label": "PER",
+      "start": 9052,
+      "end": 9065
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 9868,
+      "end": 9887
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 10171,
+      "end": 10201
+    },
+    {
+      "text": "K o s c h",
+      "label": "ORG",
+      "start": 10202,
+      "end": 10211
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 10219,
+      "end": 10238
+    },
+    {
+      "text": "Deutschlandfunk",
+      "label": "ORG",
+      "start": 10499,
+      "end": 10514
+    },
+    {
+      "text": "##funk",
+      "label": "ORG",
+      "start": 10725,
+      "end": 10729
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 11115,
+      "end": 11136
+    },
+    {
+      "text": "FDP",
+      "label": "ORG",
+      "start": 11503,
+      "end": 11506
+    },
+    {
+      "text": "Otto F",
+      "label": "PER",
+      "start": 11513,
+      "end": 11519
+    },
+    {
+      "text": "Gerhard S",
+      "label": "PER",
+      "start": 12849,
+      "end": 12858
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 13361,
+      "end": 13370
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 14117,
+      "end": 14119
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 17230,
+      "end": 17236
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 17554,
+      "end": 17560
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 19448,
+      "end": 19457
+    },
+    {
+      "text": "Süddeutschen Zeitung",
+      "label": "ORG",
+      "start": 21777,
+      "end": 21797
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 23539,
+      "end": 23551
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 23571,
+      "end": 23573
+    },
+    {
+      "text": "##ge Beck",
+      "label": "PER",
+      "start": 23576,
+      "end": 23583
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23652,
+      "end": 23667
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 23678,
+      "end": 23693
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 23782,
+      "end": 23784
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 23790,
+      "end": 23794
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 25145,
+      "end": 25160
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 27335,
+      "end": 27339
+    },
+    {
+      "text": "Kollege",
+      "label": "PER",
+      "start": 28355,
+      "end": 28362
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 28363,
+      "end": 28367
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 29520,
+      "end": 29539
+    },
+    {
+      "text": "Jürgen Rüttgers",
+      "label": "PER",
+      "start": 30990,
+      "end": 31005
+    },
+    {
+      "text": "Kollege Beck",
+      "label": "PER",
+      "start": 32129,
+      "end": 32141
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 34089,
+      "end": 34101
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 34133,
+      "end": 34141
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 34175,
+      "end": 34181
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 34201,
+      "end": 34215
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 36840,
+      "end": 36858
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 37127,
+      "end": 37141
+    },
+    {
+      "text": "Europäische Zentralbank",
+      "label": "ORG",
+      "start": 37288,
+      "end": 37311
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 38345,
+      "end": 38349
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 41739,
+      "end": 41751
+    },
+    {
+      "text": "Seidel",
+      "label": "PER",
+      "start": 41793,
+      "end": 41799
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 41838,
+      "end": 41851
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 41988,
+      "end": 41992
+    },
+    {
+      "text": "Financial Times",
+      "label": "ORG",
+      "start": 42013,
+      "end": 42028
+    },
+    {
+      "text": "Jürgen Seidel",
+      "label": "PER",
+      "start": 42848,
+      "end": 42861
+    },
+    {
+      "text": "Gott",
+      "label": "PER",
+      "start": 44375,
+      "end": 44379
+    },
+    {
+      "text": "Markov",
+      "label": "PER",
+      "start": 44712,
+      "end": 44718
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 46509,
+      "end": 46521
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 46572,
+      "end": 46580
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 46612,
+      "end": 46629
+    },
+    {
+      "text": "Helmuth Markov",
+      "label": "PER",
+      "start": 46968,
+      "end": 46982
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 47192,
+      "end": 47201
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 47400,
+      "end": 47403
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 48181,
+      "end": 48184
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 48186,
+      "end": 48196
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 48201,
+      "end": 48204
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 48569,
+      "end": 48586
+    },
+    {
+      "text": "Rüttgers",
+      "label": "PER",
+      "start": 48816,
+      "end": 48824
+    },
+    {
+      "text": "Währungsunion",
+      "label": "ORG",
+      "start": 49650,
+      "end": 49663
+    },
+    {
+      "text": "EUAuss",
+      "label": "ORG",
+      "start": 51248,
+      "end": 51254
+    },
+    {
+      "text": "G",
+      "label": "PER",
+      "start": 51474,
+      "end": 51475
+    },
+    {
+      "text": "Lehman - Bank",
+      "label": "ORG",
+      "start": 51559,
+      "end": 51570
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 51753,
+      "end": 51757
+    },
+    {
+      "text": "Tina",
+      "label": "PER",
+      "start": 52096,
+      "end": 52100
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 52433,
+      "end": 52439
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 52448,
+      "end": 52451
+    },
+    {
+      "text": "S",
+      "label": "PER",
+      "start": 52504,
+      "end": 52505
+    },
+    {
+      "text": "Handelsblatt",
+      "label": "ORG",
+      "start": 52562,
+      "end": 52574
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 53105,
+      "end": 53107
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 53735,
+      "end": 53741
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54220,
+      "end": 54238
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 54538,
+      "end": 54555
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 54642,
+      "end": 54660
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 55402,
+      "end": 55404
+    },
+    {
+      "text": "Erwin Te",
+      "label": "PER",
+      "start": 56213,
+      "end": 56221
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 58769,
+      "end": 58784
+    },
+    {
+      "text": "Wolfgang Reinhart",
+      "label": "PER",
+      "start": 60525,
+      "end": 60542
+    },
+    {
+      "text": "Konrad A",
+      "label": "PER",
+      "start": 60686,
+      "end": 60694
+    },
+    {
+      "text": "Konrad Aden",
+      "label": "PER",
+      "start": 60840,
+      "end": 60851
+    },
+    {
+      "text": "Konrad Adenauer",
+      "label": "PER",
+      "start": 60840,
+      "end": 60855
+    },
+    {
+      "text": "Peter Müller",
+      "label": "PER",
+      "start": 61195,
+      "end": 61207
+    },
+    {
+      "text": "Boddenberg",
+      "label": "PER",
+      "start": 61255,
+      "end": 61265
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 61276,
+      "end": 61294
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "text": "Sozialdemokraten",
+      "label": "ORG",
+      "start": 61532,
+      "end": 61548
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61577
+    },
+    {
+      "text": "SPD",
+      "label": "ORG",
+      "start": 61680,
+      "end": 61683
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 61748,
+      "end": 61757
+    },
+    {
+      "text": "Ko",
+      "label": "PER",
+      "start": 61804,
+      "end": 61806
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 61868,
+      "end": 61872
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 63326,
+      "end": 63344
+    },
+    {
+      "text": "Beck",
+      "label": "PER",
+      "start": 64566,
+      "end": 64570
+    },
+    {
+      "text": "Landesregierung",
+      "label": "ORG",
+      "start": 66146,
+      "end": 66161
+    },
+    {
+      "text": "Reinhart",
+      "label": "PER",
+      "start": 66263,
+      "end": 66271
+    },
+    {
+      "text": "Michael Boddenberg",
+      "label": "PER",
+      "start": 66400,
+      "end": 66418
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 67323,
+      "end": 67340
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 68792,
+      "end": 68801
+    },
+    {
+      "text": "Kampeter",
+      "label": "PER",
+      "start": 68882,
+      "end": 68890
+    },
+    {
+      "text": "Bundesministerium der Finanzen",
+      "label": "ORG",
+      "start": 68892,
+      "end": 68922
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 68925,
+      "end": 68941
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 70775,
+      "end": 70794
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 72113,
+      "end": 72122
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 72197,
+      "end": 72213
+    },
+    {
+      "text": "Wolfgang Schäuble",
+      "label": "PER",
+      "start": 72355,
+      "end": 72372
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 73078,
+      "end": 73091
+    },
+    {
+      "text": "EZB",
+      "label": "ORG",
+      "start": 73124,
+      "end": 73127
+    },
+    {
+      "text": "IWF",
+      "label": "ORG",
+      "start": 73136,
+      "end": 73139
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 75370,
+      "end": 75387
+    },
+    {
+      "text": "Steffen Kampeter",
+      "label": "PER",
+      "start": 78232,
+      "end": 78248
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 78915,
+      "end": 78917
+    },
+    {
+      "text": "BaFin",
+      "label": "ORG",
+      "start": 79342,
+      "end": 79347
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 79695,
+      "end": 79701
+    },
+    {
+      "text": "Internationalen Währungsfonds",
+      "label": "ORG",
+      "start": 80223,
+      "end": 80252
+    },
+    {
+      "text": "Kurt Beck",
+      "label": "PER",
+      "start": 82085,
+      "end": 82094
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82372,
+      "end": 82374
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 82449,
+      "end": 82451
+    },
+    {
+      "text": "C",
+      "label": "PER",
+      "start": 83147,
+      "end": 83148
+    }
+  ]
+}

@@ -1,0 +1,1343 @@
+{
+  "filename": "17.06.2004_68._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 924,
+      "end": 935
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1009,
+      "end": 1029
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1049,
+      "end": 1069
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 1143,
+      "end": 1147
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1149,
+      "end": 1157
+    },
+    {
+      "text": "Dr. Gusenbauer",
+      "label": "PER",
+      "start": 1159,
+      "end": 1173
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1175,
+      "end": 1187
+    },
+    {
+      "text": "Dr. Lichtenberger",
+      "label": "PER",
+      "start": 1192,
+      "end": 1209
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1247,
+      "end": 1267
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1918,
+      "end": 1935
+    },
+    {
+      "text": "DDr. Erwin Niederwieser",
+      "label": "PER",
+      "start": 2564,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 2815,
+      "end": 2846
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2848,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2884,
+      "end": 2906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3027
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3083,
+      "end": 3103
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3135,
+      "end": 3166
+    },
+    {
+      "text": "Mag. Christine Lapp",
+      "label": "PER",
+      "start": 3168,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3203,
+      "end": 3225
+    },
+    {
+      "text": "Mag. Eduard Mainoni",
+      "label": "PER",
+      "start": 3472,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Mag. Eduard Mainoni",
+      "label": "PER",
+      "start": 3643,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3898,
+      "end": 3918
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3944,
+      "end": 3957
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4143,
+      "end": 4162
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 924,
+      "end": 935
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1009,
+      "end": 1029
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1049,
+      "end": 1069
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 1143,
+      "end": 1147
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1149,
+      "end": 1157
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1159,
+      "end": 1162
+    },
+    {
+      "text": "Gusenbauer",
+      "label": "PER",
+      "start": 1163,
+      "end": 1173
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1175,
+      "end": 1187
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1192,
+      "end": 1195
+    },
+    {
+      "text": "Lichtenberger",
+      "label": "PER",
+      "start": 1196,
+      "end": 1209
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1247,
+      "end": 1267
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1918,
+      "end": 1935
+    },
+    {
+      "text": "DDr. Erwin Niederwieser",
+      "label": "PER",
+      "start": 2564,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 2815,
+      "end": 2846
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2848,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2884,
+      "end": 2906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3027
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3083,
+      "end": 3103
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3135,
+      "end": 3166
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3168,
+      "end": 3172
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3203,
+      "end": 3225
+    },
+    {
+      "text": "Mag. Eduard Mainoni",
+      "label": "PER",
+      "start": 3472,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Mag. Eduard Mainoni",
+      "label": "PER",
+      "start": 3643,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3898,
+      "end": 3918
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3944,
+      "end": 3957
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1014,
+      "end": 1029
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1054,
+      "end": 1069
+    },
+    {
+      "text": "Kopf",
+      "label": "PER",
+      "start": 1143,
+      "end": 1147
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1149,
+      "end": 1157
+    },
+    {
+      "text": "Gusenbauer",
+      "label": "PER",
+      "start": 1163,
+      "end": 1173
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1175,
+      "end": 1187
+    },
+    {
+      "text": "Lichtenberger",
+      "label": "PER",
+      "start": 1196,
+      "end": 1209
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1252,
+      "end": 1267
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1923,
+      "end": 1935
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2569,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 2819,
+      "end": 2846
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2853,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2889,
+      "end": 2906
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3139,
+      "end": 3166
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3477,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3648,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3903,
+      "end": 3918
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 480
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 508,
+      "end": 614
+    },
+    {
+      "text": ".....................................................................................................",
+      "label": "ORG",
+      "start": 654,
+      "end": 755
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 924,
+      "end": 935
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1009,
+      "end": 1012
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1014,
+      "end": 1029
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1054,
+      "end": 1069
+    },
+    {
+      "text": "Dr. Gusenbauer",
+      "label": "PER",
+      "start": 1159,
+      "end": 1173
+    },
+    {
+      "text": "Dr. Lichtenberger",
+      "label": "PER",
+      "start": 1192,
+      "end": 1209
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1247,
+      "end": 1250
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1252,
+      "end": 1267
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1905,
+      "end": 1917
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1923,
+      "end": 1935
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2569,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2802,
+      "end": 2814
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 2815,
+      "end": 2846
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2853,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2889,
+      "end": 2906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3027
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3083,
+      "end": 3086
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3122,
+      "end": 3134
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3135,
+      "end": 3166
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3477,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3648,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3898,
+      "end": 3901
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3903,
+      "end": 3918
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3944,
+      "end": 3957
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 378,
+      "end": 480
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 508,
+      "end": 614
+    },
+    {
+      "text": ".....................................................................................................",
+      "label": "ORG",
+      "start": 654,
+      "end": 755
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 924,
+      "end": 935
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1009,
+      "end": 1012
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1014,
+      "end": 1029
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1054,
+      "end": 1069
+    },
+    {
+      "text": "Dr. Gusenbauer",
+      "label": "PER",
+      "start": 1159,
+      "end": 1173
+    },
+    {
+      "text": "Dr. Lichtenberger",
+      "label": "PER",
+      "start": 1192,
+      "end": 1209
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1247,
+      "end": 1250
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1252,
+      "end": 1267
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1905,
+      "end": 1917
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1923,
+      "end": 1935
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2569,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2802,
+      "end": 2814
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 2815,
+      "end": 2846
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2853,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2889,
+      "end": 2906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3027
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3083,
+      "end": 3086
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3122,
+      "end": 3134
+    },
+    {
+      "text": "Dr. Ulrike Baumgartner-Gabitzer",
+      "label": "PER",
+      "start": 3135,
+      "end": 3166
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3477,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3648,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3898,
+      "end": 3901
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3903,
+      "end": 3918
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3944,
+      "end": 3957
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 182,
+      "end": 190
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 924,
+      "end": 932
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1014,
+      "end": 1029
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1054,
+      "end": 1069
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1918,
+      "end": 1921
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1923,
+      "end": 1935
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2569,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Ulrike Baumgartner - Gabitzer",
+      "label": "PER",
+      "start": 2819,
+      "end": 2846
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2848,
+      "end": 2852
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2853,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 2887,
+      "end": 2888
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2889,
+      "end": 2906
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3027
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Ulrike Baumgartner - Gabitzer",
+      "label": "PER",
+      "start": 3139,
+      "end": 3166
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3203,
+      "end": 3207
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3477,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3648,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3903,
+      "end": 3918
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3944,
+      "end": 3957
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1014,
+      "end": 1029
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1049,
+      "end": 1052
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1054,
+      "end": 1069
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1923,
+      "end": 1935
+    },
+    {
+      "text": "Erwin Niederwieser",
+      "label": "PER",
+      "start": 2569,
+      "end": 2587
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 2589,
+      "end": 2601
+    },
+    {
+      "text": "Ulrike Baumgartner",
+      "label": "PER",
+      "start": 2819,
+      "end": 2837
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 2838,
+      "end": 2846
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2853,
+      "end": 2868
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 2870,
+      "end": 2882
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2889,
+      "end": 2906
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3016,
+      "end": 3024
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3088,
+      "end": 3103
+    },
+    {
+      "text": "Ulrike Baumgartner",
+      "label": "PER",
+      "start": 3139,
+      "end": 3157
+    },
+    {
+      "text": "Gabitzer",
+      "label": "PER",
+      "start": 3158,
+      "end": 3166
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3173,
+      "end": 3187
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3189,
+      "end": 3201
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3208,
+      "end": 3225
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3477,
+      "end": 3491
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3493,
+      "end": 3505
+    },
+    {
+      "text": "Eduard Mainoni",
+      "label": "PER",
+      "start": 3648,
+      "end": 3662
+    },
+    {
+      "text": "Werner Miedl",
+      "label": "PER",
+      "start": 3664,
+      "end": 3676
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3898,
+      "end": 3902
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3903,
+      "end": 3918
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4143,
+      "end": 4162
+    }
+  ]
+}

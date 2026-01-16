@@ -1,0 +1,1319 @@
+{
+  "filename": "29.06.2017_191._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 933,
+      "end": 948
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 1166,
+      "end": 1224
+    },
+    {
+      "text": "Mag. Judith Schwentner,",
+      "label": "PER",
+      "start": 1258,
+      "end": 1281
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1363,
+      "end": 1375
+    },
+    {
+      "text": "Karlheinz Kopf.",
+      "label": "PER",
+      "start": 1447,
+      "end": 1462
+    },
+    {
+      "text": "Karlheinz Kopf:",
+      "label": "PER",
+      "start": 1479,
+      "end": 1494
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1528,
+      "end": 1542
+    },
+    {
+      "text": "Ecker,",
+      "label": "PER",
+      "start": 1589,
+      "end": 1595
+    },
+    {
+      "text": "Mühlberghuber,",
+      "label": "PER",
+      "start": 1596,
+      "end": 1610
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "Schenk.",
+      "label": "PER",
+      "start": 1626,
+      "end": 1633
+    },
+    {
+      "text": "Karlheinz Kopf:",
+      "label": "PER",
+      "start": 1668,
+      "end": 1683
+    },
+    {
+      "text": "Mag. Birgit Schatz,",
+      "label": "PER",
+      "start": 2100,
+      "end": 2119
+    },
+    {
+      "text": "Mag. Ruth Becher,",
+      "label": "PER",
+      "start": 2322,
+      "end": 2339
+    },
+    {
+      "text": "Peter Haubner,",
+      "label": "PER",
+      "start": 2555,
+      "end": 2569
+    },
+    {
+      "text": "Kai Jan Krainer,",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Doris Bures,",
+      "label": "PER",
+      "start": 2916,
+      "end": 2928
+    },
+    {
+      "text": "Karlheinz Kopf,",
+      "label": "PER",
+      "start": 2929,
+      "end": 2944
+    },
+    {
+      "text": "Ing. Norbert Hofer,",
+      "label": "PER",
+      "start": 2945,
+      "end": 2964
+    },
+    {
+      "text": "Mag. Albert Steinhauser,",
+      "label": "PER",
+      "start": 2965,
+      "end": 2989
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz,",
+      "label": "PER",
+      "start": 2990,
+      "end": 3015
+    },
+    {
+      "text": "Ing. Waltraud Dietrich,",
+      "label": "PER",
+      "start": 3016,
+      "end": 3039
+    },
+    {
+      "text": "Dr. Gabriela Moser,",
+      "label": "PER",
+      "start": 3245,
+      "end": 3264
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3408,
+      "end": 3420
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "PER",
+      "start": 3657,
+      "end": 3699
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 3896,
+      "end": 3922
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3972
+    },
+    {
+      "text": "Karlheinz Kopf:",
+      "label": "PER",
+      "start": 4116,
+      "end": 4131
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4170
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4415,
+      "end": 4434
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 933,
+      "end": 948
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 1258,
+      "end": 1280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1363,
+      "end": 1374
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1528,
+      "end": 1541
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1589,
+      "end": 1594
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 1596,
+      "end": 1609
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1626,
+      "end": 1632
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1668,
+      "end": 1682
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PER",
+      "start": 2100,
+      "end": 2118
+    },
+    {
+      "text": "Mag. Ruth Becher",
+      "label": "PER",
+      "start": 2322,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2963
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 2965,
+      "end": 2988
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2990,
+      "end": 3014
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 3016,
+      "end": 3038
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3245,
+      "end": 3263
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3408,
+      "end": 3419
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3755,
+      "end": 3770
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3972
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4169
+    }
+  ],
+  "flair": [
+    {
+      "text": "BM f. Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 806,
+      "end": 833
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 933,
+      "end": 948
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1047
+    },
+    {
+      "text": "BM f",
+      "label": "ORG",
+      "start": 1129,
+      "end": 1133
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 1135,
+      "end": 1141
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1224
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1263,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1589,
+      "end": 1594
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 1596,
+      "end": 1609
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1626,
+      "end": 1632
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1668,
+      "end": 1682
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 2048,
+      "end": 2054
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 2059,
+      "end": 2067
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2950,
+      "end": 2963
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 2970,
+      "end": 2988
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 3021,
+      "end": 3038
+    },
+    {
+      "text": "Bundesgesetz",
+      "label": "ORG",
+      "start": 3106,
+      "end": 3118
+    },
+    {
+      "text": "Nationalfonds der Republik Österreich für Opfer",
+      "label": "ORG",
+      "start": 3128,
+      "end": 3175
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3249,
+      "end": 3263
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 3657,
+      "end": 3699
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "...............................................................................................................",
+      "label": "PER",
+      "start": 644,
+      "end": 755
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 806,
+      "end": 811
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1263,
+      "end": 1280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1363,
+      "end": 1374
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1376,
+      "end": 1379
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1528,
+      "end": 1541
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1589,
+      "end": 1594
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 1596,
+      "end": 1609
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1626,
+      "end": 1632
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1668,
+      "end": 1682
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2087,
+      "end": 2099
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2309,
+      "end": 2321
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2963
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 2970,
+      "end": 2988
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 3016,
+      "end": 3038
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3245,
+      "end": 3263
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3408,
+      "end": 3419
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3421,
+      "end": 3424
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 3657,
+      "end": 3699
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 3896,
+      "end": 3922
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3972
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4169
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "...............................................................................................................",
+      "label": "PER",
+      "start": 644,
+      "end": 755
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 806,
+      "end": 811
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 933,
+      "end": 948
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 1166,
+      "end": 1192
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1263,
+      "end": 1280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1363,
+      "end": 1374
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1376,
+      "end": 1379
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1447,
+      "end": 1461
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1479,
+      "end": 1493
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1528,
+      "end": 1541
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1589,
+      "end": 1594
+    },
+    {
+      "text": "Mühlberghuber",
+      "label": "PER",
+      "start": 1596,
+      "end": 1609
+    },
+    {
+      "text": "Schellhorn",
+      "label": "PER",
+      "start": 1611,
+      "end": 1621
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1626,
+      "end": 1632
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1668,
+      "end": 1682
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1910,
+      "end": 1924
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2087,
+      "end": 2099
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2309,
+      "end": 2321
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2945,
+      "end": 2963
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 2970,
+      "end": 2988
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 3016,
+      "end": 3038
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3245,
+      "end": 3263
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3408,
+      "end": 3419
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3421,
+      "end": 3424
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 3657,
+      "end": 3699
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3755,
+      "end": 3770
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 3896,
+      "end": 3922
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3972
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4169
+    }
+  ],
+  "bert": [
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 933,
+      "end": 939
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1977,
+      "end": 1979
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 2048,
+      "end": 2054
+    },
+    {
+      "text": "##ziale",
+      "label": "ORG",
+      "start": 2061,
+      "end": 2066
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2950,
+      "end": 2963
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 2970,
+      "end": 2988
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 3021,
+      "end": 3038
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3249,
+      "end": 3263
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3408,
+      "end": 3416
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3960,
+      "end": 3968
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 806,
+      "end": 808
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 933,
+      "end": 948
+    },
+    {
+      "text": "Nationalrats",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1015
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2034,
+      "end": 2037
+    },
+    {
+      "text": "für Arbeit und Soziale",
+      "label": "ORG",
+      "start": 2044,
+      "end": 2066
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2105,
+      "end": 2118
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2322,
+      "end": 2325
+    },
+    {
+      "text": "Ruth Becher",
+      "label": "PER",
+      "start": 2327,
+      "end": 2338
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2555,
+      "end": 2568
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 2570,
+      "end": 2585
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 2916,
+      "end": 2927
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2929,
+      "end": 2943
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2950,
+      "end": 2963
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 2970,
+      "end": 2988
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 3021,
+      "end": 3038
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3249,
+      "end": 3263
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 3369,
+      "end": 3370
+    },
+    {
+      "text": "VG",
+      "label": "ORG",
+      "start": 3371,
+      "end": 3373
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3473,
+      "end": 3487
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4116,
+      "end": 4130
+    }
+  ]
+}

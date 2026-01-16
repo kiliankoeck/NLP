@@ -1,0 +1,1157 @@
+{
+  "filename": "06.03.2003_8._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 42,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 226,
+      "end": 240
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 910,
+      "end": 922
+    },
+    {
+      "text": "Bundesministerin für öffentliche Leistung und Sport",
+      "label": "PER",
+      "start": 947,
+      "end": 998
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1032,
+      "end": 1051
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1126,
+      "end": 1137
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1203,
+      "end": 1219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1237,
+      "end": 1253
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1288
+    },
+    {
+      "text": "Mag. Stoisits",
+      "label": "PER",
+      "start": 1348,
+      "end": 1361
+    },
+    {
+      "text": "Dipl.-Ing. Klaus Hubert Auer",
+      "label": "PER",
+      "start": 1366,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1430,
+      "end": 1446
+    },
+    {
+      "text": "Rechnungshofes ",
+      "label": "ORG",
+      "start": 1863,
+      "end": 1878
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2229,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2409,
+      "end": 2430
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2636,
+      "end": 2654
+    },
+    {
+      "text": " Mag. Johann Maier",
+      "label": "PER",
+      "start": 2797,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2982,
+      "end": 2998
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3068,
+      "end": 3085
+    },
+    {
+      "text": " Salzburger Landesregierung",
+      "label": "ORG",
+      "start": 3214,
+      "end": 3241
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3269
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3304,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 3585,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3792,
+      "end": 3808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3834,
+      "end": 3847
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4023,
+      "end": 4065
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 42,
+      "end": 55
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 226,
+      "end": 239
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1032,
+      "end": 1051
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1126,
+      "end": 1137
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1203,
+      "end": 1219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1237,
+      "end": 1253
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1348,
+      "end": 1352
+    },
+    {
+      "text": "Stoisits",
+      "label": "PER",
+      "start": 1353,
+      "end": 1361
+    },
+    {
+      "text": "Dipl.-Ing. Klaus Hubert Auer",
+      "label": "PER",
+      "start": 1366,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1430,
+      "end": 1446
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2229,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2409,
+      "end": 2430
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2636,
+      "end": 2654
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 2728,
+      "end": 2734
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2798,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2982,
+      "end": 2998
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3068,
+      "end": 3085
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3269
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3304,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 3585,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3792,
+      "end": 3808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3834,
+      "end": 3847
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministerin für öffentliche Leistung und Sport",
+      "label": "ORG",
+      "start": 947,
+      "end": 998
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 1036,
+      "end": 1051
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1207,
+      "end": 1219
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1241,
+      "end": 1253
+    },
+    {
+      "text": "Stoisits",
+      "label": "PER",
+      "start": 1353,
+      "end": 1361
+    },
+    {
+      "text": "Klaus Hubert Auer",
+      "label": "PER",
+      "start": 1377,
+      "end": 1394
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1434,
+      "end": 1446
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2233,
+      "end": 2247
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2413,
+      "end": 2430
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2640,
+      "end": 2654
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2803,
+      "end": 2815
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2986,
+      "end": 2998
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3073,
+      "end": 3085
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3309,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3590,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3796,
+      "end": 3808
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 4023,
+      "end": 4037
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4038,
+      "end": 4065
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 42,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 226,
+      "end": 263
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 800,
+      "end": 814
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1019,
+      "end": 1031
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1032,
+      "end": 1051
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1126,
+      "end": 1137
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1203,
+      "end": 1219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1237,
+      "end": 1253
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1335,
+      "end": 1347
+    },
+    {
+      "text": "Stoisits",
+      "label": "PER",
+      "start": 1353,
+      "end": 1361
+    },
+    {
+      "text": "Dipl.-Ing. Klaus Hubert Auer",
+      "label": "PER",
+      "start": 1366,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1430,
+      "end": 1446
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1677,
+      "end": 1688
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 1811,
+      "end": 1825
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 1863,
+      "end": 1877
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2229,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2409,
+      "end": 2430
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2636,
+      "end": 2654
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2785,
+      "end": 2797
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2803,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2982,
+      "end": 2998
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3055,
+      "end": 3067
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3073,
+      "end": 3085
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3303
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3309,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3572,
+      "end": 3584
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3590,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3792,
+      "end": 3808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3834,
+      "end": 3847
+    },
+    {
+      "text": "Digitale Publikationen GmbH 782",
+      "label": "ORG",
+      "start": 4038,
+      "end": 4069
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 42,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 226,
+      "end": 263
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 800,
+      "end": 814
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 910,
+      "end": 922
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1019,
+      "end": 1031
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 1032,
+      "end": 1051
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1126,
+      "end": 1137
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1203,
+      "end": 1219
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1237,
+      "end": 1253
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1287
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1335,
+      "end": 1347
+    },
+    {
+      "text": "Stoisits",
+      "label": "PER",
+      "start": 1353,
+      "end": 1361
+    },
+    {
+      "text": "Dipl.-Ing. Klaus Hubert Auer",
+      "label": "PER",
+      "start": 1366,
+      "end": 1394
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1430,
+      "end": 1446
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1677,
+      "end": 1688
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 1811,
+      "end": 1825
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 1863,
+      "end": 1877
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2229,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2409,
+      "end": 2430
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2636,
+      "end": 2654
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2785,
+      "end": 2797
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2803,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2982,
+      "end": 2998
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3055,
+      "end": 3067
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3073,
+      "end": 3085
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3269
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3303
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3309,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3572,
+      "end": 3584
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3590,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3792,
+      "end": 3808
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3834,
+      "end": 3847
+    },
+    {
+      "text": "Digitale Publikationen GmbH 782",
+      "label": "ORG",
+      "start": 4038,
+      "end": 4069
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 42,
+      "end": 79
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 226,
+      "end": 263
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 1036,
+      "end": 1051
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2023,
+      "end": 2056
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2233,
+      "end": 2247
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2413,
+      "end": 2430
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2640,
+      "end": 2654
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2803,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2986,
+      "end": 2998
+    },
+    {
+      "text": "Ausschuss für Sportangelegenheiten",
+      "label": "ORG",
+      "start": 2999,
+      "end": 3033
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3068,
+      "end": 3071
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3073,
+      "end": 3085
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3309,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3590,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3834,
+      "end": 3842
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4023,
+      "end": 4065
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 1036,
+      "end": 1051
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2023,
+      "end": 2026
+    },
+    {
+      "text": "für Arbeit und Soziale",
+      "label": "ORG",
+      "start": 2033,
+      "end": 2055
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 2091,
+      "end": 2109
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2233,
+      "end": 2247
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2413,
+      "end": 2430
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2640,
+      "end": 2654
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2803,
+      "end": 2815
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2919,
+      "end": 2930
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2986,
+      "end": 2998
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3068,
+      "end": 3071
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3073,
+      "end": 3085
+    },
+    {
+      "text": "Salzburger",
+      "label": "ORG",
+      "start": 3215,
+      "end": 3225
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3260
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3309,
+      "end": 3321
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3452,
+      "end": 3464
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3585,
+      "end": 3588
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 3590,
+      "end": 3606
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 3608,
+      "end": 3625
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4023,
+      "end": 4065
+    }
+  ]
+}

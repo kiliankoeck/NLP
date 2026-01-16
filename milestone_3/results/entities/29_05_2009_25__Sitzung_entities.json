@@ -1,0 +1,563 @@
+{
+  "filename": "29.05.2009_25._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 179,
+      "end": 192
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 640,
+      "end": 651
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 718,
+      "end": 738
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 758,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 864,
+      "end": 869
+    },
+    {
+      "text": "Gartelgruber",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 885,
+      "end": 910
+    },
+    {
+      "text": "Dr. Strutz",
+      "label": "PER",
+      "start": 915,
+      "end": 925
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1915,
+      "end": 1935
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1974
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 179,
+      "end": 192
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 640,
+      "end": 651
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 718,
+      "end": 738
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 758,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 864,
+      "end": 869
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 885,
+      "end": 888
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 915,
+      "end": 918
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 919,
+      "end": 925
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 963,
+      "end": 983
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1915,
+      "end": 1935
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1974
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 723,
+      "end": 738
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 864,
+      "end": 869
+    },
+    {
+      "text": "Gartelgruber",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 889,
+      "end": 910
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 919,
+      "end": 925
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1279
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1935
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 179,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 367,
+      "end": 469
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 497,
+      "end": 603
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 640,
+      "end": 651
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 723,
+      "end": 738
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 758,
+      "end": 761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 885,
+      "end": 910
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 963,
+      "end": 966
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1915,
+      "end": 1918
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1935
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1974
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 179,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 367,
+      "end": 469
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 497,
+      "end": 603
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 640,
+      "end": 651
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 723,
+      "end": 738
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 758,
+      "end": 761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 885,
+      "end": 910
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 963,
+      "end": 966
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1915,
+      "end": 1918
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1935
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1974
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 640,
+      "end": 648
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 723,
+      "end": 738
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 864,
+      "end": 869
+    },
+    {
+      "text": "Gartelgruber",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 889,
+      "end": 901
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 902,
+      "end": 910
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 919,
+      "end": 925
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1259,
+      "end": 1292
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1920,
+      "end": 1935
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1961,
+      "end": 1974
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 640,
+      "end": 651
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 718,
+      "end": 721
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 723,
+      "end": 738
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 758,
+      "end": 761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 763,
+      "end": 778
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 852,
+      "end": 862
+    },
+    {
+      "text": "##aßl",
+      "label": "PER",
+      "start": 866,
+      "end": 869
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 889,
+      "end": 901
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 902,
+      "end": 910
+    },
+    {
+      "text": "Strutz",
+      "label": "PER",
+      "start": 919,
+      "end": 925
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 963,
+      "end": 966
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 968,
+      "end": 983
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1915,
+      "end": 1935
+    }
+  ]
+}

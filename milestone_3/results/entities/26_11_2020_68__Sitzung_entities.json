@@ -1,0 +1,1367 @@
+{
+  "filename": "26.11.2020_68._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 76,
+      "end": 90
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 240,
+      "end": 254
+    },
+    {
+      "text": "Bundesministerin für Landesverteidigung",
+      "label": "PER",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "text": "Henrike\\n\\nBrandstötter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1167
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1234,
+      "end": 1255
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1273,
+      "end": 1294
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 1325,
+      "end": 1339
+    },
+    {
+      "text": "Mag. Klaus Fürlinger",
+      "label": "PER",
+      "start": 1395,
+      "end": 1415
+    },
+    {
+      "text": "Mag. Michael\\n\\nHammer",
+      "label": "PER",
+      "start": 1417,
+      "end": 1436
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 1438,
+      "end": 1453
+    },
+    {
+      "text": "Irene Neumann-Hartberger",
+      "label": "PER",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "Mag. Dr. Petra\\n\\nOberrauner",
+      "label": "PER",
+      "start": 1494,
+      "end": 1519
+    },
+    {
+      "text": "Dr. Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 1521,
+      "end": 1545
+    },
+    {
+      "text": " Rosa Ecker, MBA",
+      "label": "PER",
+      "start": 1546,
+      "end": 1562
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1577
+    },
+    {
+      "text": "Mag. Philipp\\n\\nSchrangl",
+      "label": "PER",
+      "start": 1579,
+      "end": 1600
+    },
+    {
+      "text": "Mag. Faika El-Nagashi",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Neßler",
+      "label": "PER",
+      "start": 1625,
+      "end": 1639
+    },
+    {
+      "text": "Bedrana Ribo, MA",
+      "label": "PER",
+      "start": 1641,
+      "end": 1657
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger, MES",
+      "label": "PER",
+      "start": 1680,
+      "end": 1711
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1747,
+      "end": 1768
+    },
+    {
+      "text": "Rechnungshofes ",
+      "label": "ORG",
+      "start": 2146,
+      "end": 2161
+    },
+    {
+      "text": "Mag. Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2380,
+      "end": 2407
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2876,
+      "end": 2897
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3155,
+      "end": 3166
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3225,
+      "end": 3246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3272,
+      "end": 3285
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3478,
+      "end": 3497
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3533,
+      "end": 3552
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 240,
+      "end": 253
+    },
+    {
+      "text": "Henrike",
+      "label": "PER",
+      "start": 1052,
+      "end": 1059
+    },
+    {
+      "text": "Brandstötter",
+      "label": "PER",
+      "start": 1060,
+      "end": 1072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1167
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1234,
+      "end": 1255
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1273,
+      "end": 1294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1325,
+      "end": 1338
+    },
+    {
+      "text": "Mag. Klaus Fürlinger",
+      "label": "PER",
+      "start": 1395,
+      "end": 1415
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1417,
+      "end": 1421
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 1422,
+      "end": 1429
+    },
+    {
+      "text": "Hammer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1436
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 1438,
+      "end": 1453
+    },
+    {
+      "text": "Irene Neumann-Hartberger",
+      "label": "PER",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1494,
+      "end": 1498
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1499,
+      "end": 1502
+    },
+    {
+      "text": "Petra",
+      "label": "PER",
+      "start": 1503,
+      "end": 1508
+    },
+    {
+      "text": "Oberrauner",
+      "label": "PER",
+      "start": 1509,
+      "end": 1519
+    },
+    {
+      "text": "Dr. Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 1521,
+      "end": 1545
+    },
+    {
+      "text": "Rosa Ecker, MBA",
+      "label": "PER",
+      "start": 1547,
+      "end": 1562
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1577
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1579,
+      "end": 1583
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 1584,
+      "end": 1591
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1592,
+      "end": 1600
+    },
+    {
+      "text": "Mag. Faika El-Nagashi",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Neßler",
+      "label": "PER",
+      "start": 1625,
+      "end": 1639
+    },
+    {
+      "text": "Bedrana Ribo, MA",
+      "label": "PER",
+      "start": 1641,
+      "end": 1657
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger, MES",
+      "label": "PER",
+      "start": 1680,
+      "end": 1711
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1747,
+      "end": 1768
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2380,
+      "end": 2384
+    },
+    {
+      "text": "Martina",
+      "label": "PER",
+      "start": 2385,
+      "end": 2392
+    },
+    {
+      "text": "Künsberg",
+      "label": "PER",
+      "start": 2393,
+      "end": 2401
+    },
+    {
+      "text": "Sarre",
+      "label": "PER",
+      "start": 2402,
+      "end": 2407
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2876,
+      "end": 2897
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3155,
+      "end": 3166
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3225,
+      "end": 3246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3272,
+      "end": 3285
+    }
+  ],
+  "flair": [
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 912,
+      "end": 916
+    },
+    {
+      "text": "Bundesministerin für Landesverteidigung",
+      "label": "ORG",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "text": "Henrike Brandstötter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1072
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1239,
+      "end": 1255
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1278,
+      "end": 1294
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1400,
+      "end": 1415
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1422,
+      "end": 1436
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 1438,
+      "end": 1453
+    },
+    {
+      "text": "Irene Neumann-Hartberger",
+      "label": "PER",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "Petra Oberrauner",
+      "label": "PER",
+      "start": 1503,
+      "end": 1519
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 1525,
+      "end": 1545
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1547,
+      "end": 1557
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1577
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 1584,
+      "end": 1600
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1607,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Neßler",
+      "label": "PER",
+      "start": 1625,
+      "end": 1639
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 1641,
+      "end": 1653
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1685,
+      "end": 1706
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1752,
+      "end": 1768
+    },
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 2227,
+      "end": 2231
+    },
+    {
+      "text": "Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2385,
+      "end": 2407
+    },
+    {
+      "text": "Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2534
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2881,
+      "end": 2897
+    },
+    {
+      "text": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3023,
+      "end": 3070
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3230,
+      "end": 3246
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 240,
+      "end": 284
+    },
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 912,
+      "end": 916
+    },
+    {
+      "text": "Bundesministerin für Landesverteidigung",
+      "label": "ORG",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "text": "Henrike\nBrandstötter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1167
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1239,
+      "end": 1255
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1273,
+      "end": 1276
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1278,
+      "end": 1294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1325,
+      "end": 1338
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1394
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1400,
+      "end": 1415
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 1422,
+      "end": 1436
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 1438,
+      "end": 1453
+    },
+    {
+      "text": "Irene Neumann-Hartberger",
+      "label": "PER",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "Dr. Petra\nOberrauner",
+      "label": "PER",
+      "start": 1499,
+      "end": 1519
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 1525,
+      "end": 1545
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1547,
+      "end": 1557
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1577
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1579,
+      "end": 1582
+    },
+    {
+      "text": "Philipp\nSchrangl",
+      "label": "PER",
+      "start": 1584,
+      "end": 1600
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1607,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Neßler",
+      "label": "PER",
+      "start": 1625,
+      "end": 1639
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 1641,
+      "end": 1653
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1685,
+      "end": 1706
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1711
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1747,
+      "end": 1750
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1752,
+      "end": 1768
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1996,
+      "end": 2010
+    },
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 2227,
+      "end": 2231
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 2241,
+      "end": 2255
+    },
+    {
+      "text": "Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2385,
+      "end": 2407
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2876,
+      "end": 2879
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2881,
+      "end": 2897
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3155,
+      "end": 3166
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3230,
+      "end": 3246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3272,
+      "end": 3285
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nDonnerstag",
+      "label": "ORG",
+      "start": 76,
+      "end": 124
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 240,
+      "end": 284
+    },
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 912,
+      "end": 916
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 942,
+      "end": 954
+    },
+    {
+      "text": "Bundesministerin für Landesverteidigung",
+      "label": "ORG",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "text": "Henrike\nBrandstötter",
+      "label": "PER",
+      "start": 1052,
+      "end": 1072
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1156,
+      "end": 1167
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1239,
+      "end": 1255
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1273,
+      "end": 1276
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1278,
+      "end": 1294
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1325,
+      "end": 1338
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1382,
+      "end": 1394
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1400,
+      "end": 1415
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 1422,
+      "end": 1436
+    },
+    {
+      "text": "Johann Höfinger",
+      "label": "PER",
+      "start": 1438,
+      "end": 1453
+    },
+    {
+      "text": "Irene Neumann-Hartberger",
+      "label": "PER",
+      "start": 1455,
+      "end": 1479
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "Dr. Petra\nOberrauner",
+      "label": "PER",
+      "start": 1499,
+      "end": 1519
+    },
+    {
+      "text": "Reinhard Eugen Bösch",
+      "label": "PER",
+      "start": 1525,
+      "end": 1545
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1547,
+      "end": 1557
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1577
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1579,
+      "end": 1582
+    },
+    {
+      "text": "Philipp\nSchrangl",
+      "label": "PER",
+      "start": 1584,
+      "end": 1600
+    },
+    {
+      "text": "Faika El-Nagashi",
+      "label": "PER",
+      "start": 1607,
+      "end": 1623
+    },
+    {
+      "text": "Barbara Neßler",
+      "label": "PER",
+      "start": 1625,
+      "end": 1639
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 1641,
+      "end": 1653
+    },
+    {
+      "text": "Michael Bernhard",
+      "label": "PER",
+      "start": 1659,
+      "end": 1675
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1685,
+      "end": 1706
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1711
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1747,
+      "end": 1750
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1752,
+      "end": 1768
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1996,
+      "end": 2010
+    },
+    {
+      "text": "BUND",
+      "label": "ORG",
+      "start": 2227,
+      "end": 2231
+    },
+    {
+      "text": "Austauschseite",
+      "label": "PER",
+      "start": 2241,
+      "end": 2255
+    },
+    {
+      "text": "Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2385,
+      "end": 2407
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2876,
+      "end": 2879
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2881,
+      "end": 2897
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3155,
+      "end": 3166
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3230,
+      "end": 3246
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3272,
+      "end": 3285
+    }
+  ],
+  "bert": [
+    {
+      "text": "Bundesministerin für Landesverteidigung",
+      "label": "ORG",
+      "start": 979,
+      "end": 1018
+    },
+    {
+      "text": "Rechnungshofes",
+      "label": "ORG",
+      "start": 2146,
+      "end": 2160
+    },
+    {
+      "text": "Unterrichtsausschus",
+      "label": "ORG",
+      "start": 2324,
+      "end": 2343
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2380,
+      "end": 2384
+    },
+    {
+      "text": "Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2385,
+      "end": 2407
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2487,
+      "end": 2490
+    },
+    {
+      "text": "##schuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 2490,
+      "end": 2534
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2881,
+      "end": 2897
+    },
+    {
+      "text": "Gesundheitsausschus",
+      "label": "ORG",
+      "start": 2951,
+      "end": 2970
+    },
+    {
+      "text": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "label": "ORG",
+      "start": 3023,
+      "end": 3070
+    },
+    {
+      "text": "Tourismusausschuss",
+      "label": "ORG",
+      "start": 3125,
+      "end": 3143
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3155,
+      "end": 3166
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3230,
+      "end": 3246
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3272,
+      "end": 3280
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##TION",
+      "label": "ORG",
+      "start": 20,
+      "end": 24
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 2146,
+      "end": 2158
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2380,
+      "end": 2383
+    },
+    {
+      "text": "Martina Künsberg Sarre",
+      "label": "PER",
+      "start": 2385,
+      "end": 2407
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2570,
+      "end": 2586
+    },
+    {
+      "text": "Lukas Hammer",
+      "label": "PER",
+      "start": 2709,
+      "end": 2721
+    },
+    {
+      "text": "Johannes Schmuckenschlager",
+      "label": "PER",
+      "start": 2723,
+      "end": 2749
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 2876,
+      "end": 2897
+    },
+    {
+      "text": "Gesundheitsausschus",
+      "label": "ORG",
+      "start": 2951,
+      "end": 2970
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3225,
+      "end": 3228
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 3230,
+      "end": 3246
+    }
+  ]
+}

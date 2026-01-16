@@ -1,0 +1,1379 @@
+{
+  "filename": "07.12.2005_130._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "ASFINAG-",
+      "label": "ORG",
+      "start": 1374,
+      "end": 1382
+    },
+    {
+      "text": "ASFINAG-",
+      "label": "ORG",
+      "start": 1397,
+      "end": 1405
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1472,
+      "end": 1500
+    },
+    {
+      "text": "Dr. Johannes\\n\\nJarolim,",
+      "label": "PER",
+      "start": 1534,
+      "end": 1555
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "PER",
+      "start": 1605,
+      "end": 1680
+    },
+    {
+      "text": "Mag. Johann Maier,",
+      "label": "PER",
+      "start": 1714,
+      "end": 1732
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1815,
+      "end": 1827
+    },
+    {
+      "text": "Dr. Andreas Khol.",
+      "label": "PER",
+      "start": 1891,
+      "end": 1908
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 1925,
+      "end": 1942
+    },
+    {
+      "text": "Murauer,",
+      "label": "PER",
+      "start": 2015,
+      "end": 2023
+    },
+    {
+      "text": "Broukal,",
+      "label": "PER",
+      "start": 2024,
+      "end": 2032
+    },
+    {
+      "text": "Dr. Einem,",
+      "label": "PER",
+      "start": 2033,
+      "end": 2043
+    },
+    {
+      "text": "Heinisch-Hosek,",
+      "label": "PER",
+      "start": 2044,
+      "end": 2059
+    },
+    {
+      "text": "Mag. Muttonen,",
+      "label": "PER",
+      "start": 2060,
+      "end": 2074
+    },
+    {
+      "text": "Prähauser,",
+      "label": "PER",
+      "start": 2075,
+      "end": 2085
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2086,
+      "end": 2098
+    },
+    {
+      "text": "Wurm.",
+      "label": "PER",
+      "start": 2103,
+      "end": 2108
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 2143,
+      "end": 2160
+    },
+    {
+      "text": "ASFINAG-",
+      "label": "ORG",
+      "start": 2518,
+      "end": 2526
+    },
+    {
+      "text": "ASFINAG-",
+      "label": "ORG",
+      "start": 2541,
+      "end": 2549
+    },
+    {
+      "text": "Heidrun Silhavy,",
+      "label": "PER",
+      "start": 2723,
+      "end": 2739
+    },
+    {
+      "text": "Dr. Andrea Wolfmayr,",
+      "label": "PER",
+      "start": 3101,
+      "end": 3121
+    },
+    {
+      "text": "Dr. Helene Partik-Pablé,",
+      "label": "PER",
+      "start": 3122,
+      "end": 3146
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek,",
+      "label": "PER",
+      "start": 3407,
+      "end": 3436
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 3507,
+      "end": 3510
+    },
+    {
+      "text": "Dieter Brosz,",
+      "label": "PER",
+      "start": 3583,
+      "end": 3596
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3726,
+      "end": 3738
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3795,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz,",
+      "label": "PER",
+      "start": 3847,
+      "end": 3860
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen,",
+      "label": "PER",
+      "start": 4046,
+      "end": 4075
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "Dr. Andreas Khol:",
+      "label": "PER",
+      "start": 4747,
+      "end": 4764
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4789,
+      "end": 4802
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5346,
+      "end": 5365
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 1047,
+      "end": 1051
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 1270,
+      "end": 1274
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1534,
+      "end": 1537
+    },
+    {
+      "text": "Johannes",
+      "label": "PER",
+      "start": 1538,
+      "end": 1546
+    },
+    {
+      "text": "Jarolim",
+      "label": "PER",
+      "start": 1547,
+      "end": 1554
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1714,
+      "end": 1731
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1891,
+      "end": 1907
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1925,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2033,
+      "end": 2036
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 2037,
+      "end": 2042
+    },
+    {
+      "text": "Heinisch-Hosek",
+      "label": "PER",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2060,
+      "end": 2064
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 2065,
+      "end": 2073
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 2075,
+      "end": 2084
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2086,
+      "end": 2098
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2103,
+      "end": 2107
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3101,
+      "end": 3104
+    },
+    {
+      "text": "Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3105,
+      "end": 3120
+    },
+    {
+      "text": "Dr. Helene Partik-Pablé",
+      "label": "PER",
+      "start": 3122,
+      "end": 3145
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3407,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3726,
+      "end": 3737
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3795,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4046,
+      "end": 4074
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 4451,
+      "end": 4455
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 4681,
+      "end": 4685
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4747,
+      "end": 4763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4789,
+      "end": 4802
+    }
+  ],
+  "flair": [
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "Zusammenarbeit",
+      "label": "ORG",
+      "start": 1157,
+      "end": 1171
+    },
+    {
+      "text": "Inneres",
+      "label": "ORG",
+      "start": 1493,
+      "end": 1500
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 1538,
+      "end": 1554
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1605,
+      "end": 1680
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1719,
+      "end": 1731
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1895,
+      "end": 1907
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1929,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 2037,
+      "end": 2042
+    },
+    {
+      "text": "Heinisch-Hosek",
+      "label": "PER",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 2065,
+      "end": 2073
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 2075,
+      "end": 2084
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2086,
+      "end": 2098
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 2103,
+      "end": 2107
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3105,
+      "end": 3120
+    },
+    {
+      "text": "Helene Partik-Pablé",
+      "label": "PER",
+      "start": 3126,
+      "end": 3145
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 3319,
+      "end": 3323
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3411,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3799,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4050,
+      "end": 4074
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "Internationalen Übereinkommen",
+      "label": "ORG",
+      "start": 4230,
+      "end": 4259
+    },
+    {
+      "text": "Zusammenarbeit",
+      "label": "ORG",
+      "start": 4287,
+      "end": 4301
+    },
+    {
+      "text": "Sicherung",
+      "label": "ORG",
+      "start": 4306,
+      "end": 4315
+    },
+    {
+      "text": "Zusammenarbeit",
+      "label": "ORG",
+      "start": 4568,
+      "end": 4582
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4751,
+      "end": 4763
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 511,
+      "end": 617
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 927,
+      "end": 938
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1212
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1500
+    },
+    {
+      "text": "Dr. Johannes\nJarolim",
+      "label": "PER",
+      "start": 1534,
+      "end": 1554
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1605,
+      "end": 1644
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1701,
+      "end": 1713
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1719,
+      "end": 1731
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1891,
+      "end": 1907
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1925,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Heinisch-Hosek",
+      "label": "ORG",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2063
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "HelferInnen",
+      "label": "ORG",
+      "start": 2811,
+      "end": 2822
+    },
+    {
+      "text": "Dr. Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3101,
+      "end": 3120
+    },
+    {
+      "text": "Dr. Helene Partik-Pablé",
+      "label": "PER",
+      "start": 3122,
+      "end": 3145
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3407,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3726,
+      "end": 3737
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3795,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4050,
+      "end": 4074
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 4612,
+      "end": 4623
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4747,
+      "end": 4763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4789,
+      "end": 4802
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 381,
+      "end": 483
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 511,
+      "end": 617
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 927,
+      "end": 938
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1212
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1472,
+      "end": 1500
+    },
+    {
+      "text": "Dr. Johannes\nJarolim",
+      "label": "PER",
+      "start": 1534,
+      "end": 1554
+    },
+    {
+      "text": "Bundesministerin für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1605,
+      "end": 1644
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1701,
+      "end": 1713
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1719,
+      "end": 1731
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1891,
+      "end": 1907
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1925,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Heinisch-Hosek",
+      "label": "ORG",
+      "start": 2044,
+      "end": 2058
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2063
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2348,
+      "end": 2362
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "HelferInnen",
+      "label": "ORG",
+      "start": 2811,
+      "end": 2822
+    },
+    {
+      "text": "Dr. Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3101,
+      "end": 3120
+    },
+    {
+      "text": "Dr. Helene Partik-Pablé",
+      "label": "PER",
+      "start": 3122,
+      "end": 3145
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3407,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3726,
+      "end": 3737
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3795,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4050,
+      "end": 4074
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "EUROCONTROL",
+      "label": "ORG",
+      "start": 4612,
+      "end": 4623
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4747,
+      "end": 4763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4789,
+      "end": 4802
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 927,
+      "end": 929
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 1201,
+      "end": 1203
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1929,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 2037,
+      "end": 2042
+    },
+    {
+      "text": "Heinisch",
+      "label": "PER",
+      "start": 2044,
+      "end": 2052
+    },
+    {
+      "text": "Hosek",
+      "label": "PER",
+      "start": 2053,
+      "end": 2058
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2060,
+      "end": 2063
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 2065,
+      "end": 2073
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 2075,
+      "end": 2084
+    },
+    {
+      "text": "Verzetnits",
+      "label": "PER",
+      "start": 2086,
+      "end": 2096
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2419,
+      "end": 2421
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2431,
+      "end": 2433
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3105,
+      "end": 3120
+    },
+    {
+      "text": "Helene Partik - Pablé",
+      "label": "PER",
+      "start": 3126,
+      "end": 3145
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 3411,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "n",
+      "label": "PER",
+      "start": 3800,
+      "end": 3801
+    },
+    {
+      "text": "Khol",
+      "label": "PER",
+      "start": 3807,
+      "end": 3811
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4050,
+      "end": 4074
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4751,
+      "end": 4763
+    },
+    {
+      "text": "SPÖKlub",
+      "label": "ORG",
+      "start": 5009,
+      "end": 5016
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 796,
+      "end": 821
+    },
+    {
+      "text": "Khol",
+      "label": "PER",
+      "start": 1903,
+      "end": 1907
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1929,
+      "end": 1941
+    },
+    {
+      "text": "Murauer",
+      "label": "PER",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "text": "Broukal",
+      "label": "PER",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 2037,
+      "end": 2042
+    },
+    {
+      "text": "Heinisch",
+      "label": "PER",
+      "start": 2044,
+      "end": 2052
+    },
+    {
+      "text": "Hosek",
+      "label": "PER",
+      "start": 2053,
+      "end": 2058
+    },
+    {
+      "text": "Muttonen",
+      "label": "PER",
+      "start": 2065,
+      "end": 2073
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2723,
+      "end": 2738
+    },
+    {
+      "text": "Andrea Wolfmayr",
+      "label": "PER",
+      "start": 3105,
+      "end": 3120
+    },
+    {
+      "text": "Helene Partik - Pablé",
+      "label": "PER",
+      "start": 3126,
+      "end": 3145
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 3411,
+      "end": 3426
+    },
+    {
+      "text": "Piesczek",
+      "label": "PER",
+      "start": 3427,
+      "end": 3435
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3583,
+      "end": 3595
+    },
+    {
+      "text": "K",
+      "label": "PER",
+      "start": 3807,
+      "end": 3808
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3847,
+      "end": 3859
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 4050,
+      "end": 4074
+    },
+    {
+      "text": "Europäischen Gemeinschaft",
+      "label": "ORG",
+      "start": 4200,
+      "end": 4225
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4751,
+      "end": 4763
+    },
+    {
+      "text": "SPÖK",
+      "label": "ORG",
+      "start": 5009,
+      "end": 5013
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 from dataclasses import dataclass, asdict
+from typing import List
 
 
 @dataclass
@@ -10,3 +11,9 @@ class Entity:
 
     def to_dict(self) -> dict:
         return asdict(self)
+    
+@dataclass()
+class AnnotatedProtocol:
+    filename: str
+    full_text: str
+    entities: List[Entity]

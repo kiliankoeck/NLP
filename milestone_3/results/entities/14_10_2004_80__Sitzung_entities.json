@@ -1,0 +1,569 @@
+{
+  "filename": "14.10.2004_80._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1235
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1309,
+      "end": 1336
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1354,
+      "end": 1381
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1416
+    },
+    {
+      "text": "Dr. Stummvoll",
+      "label": "PER",
+      "start": 1477,
+      "end": 1490
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1501,
+      "end": 1513
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 1518,
+      "end": 1531
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2230,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2733,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2993,
+      "end": 3012
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 1170,
+      "end": 1174
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1235
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1309,
+      "end": 1336
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1354,
+      "end": 1381
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1416
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1477,
+      "end": 1480
+    },
+    {
+      "text": "Stummvoll",
+      "label": "PER",
+      "start": 1481,
+      "end": 1490
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1501,
+      "end": 1513
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1518,
+      "end": 1521
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 1522,
+      "end": 1531
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2230,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 2690,
+      "end": 2694
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2733,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "flair": [
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1320,
+      "end": 1336
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1365,
+      "end": 1381
+    },
+    {
+      "text": "Stummvoll",
+      "label": "PER",
+      "start": 1481,
+      "end": 1490
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1501,
+      "end": 1513
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 1522,
+      "end": 1531
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1578,
+      "end": 1594
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2234,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 882,
+      "end": 899
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1235
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1309,
+      "end": 1336
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1354,
+      "end": 1381
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1416
+    },
+    {
+      "text": "Dr. Stummvoll",
+      "label": "PER",
+      "start": 1477,
+      "end": 1490
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 1518,
+      "end": 1531
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2230,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2733,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 387,
+      "end": 489
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 517,
+      "end": 623
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 882,
+      "end": 899
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1235
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1309,
+      "end": 1336
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1354,
+      "end": 1381
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1416
+    },
+    {
+      "text": "Dr. Stummvoll",
+      "label": "PER",
+      "start": 1477,
+      "end": 1490
+    },
+    {
+      "text": "Lackner",
+      "label": "PER",
+      "start": 1492,
+      "end": 1499
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 1518,
+      "end": 1531
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "text": "Dr. Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2230,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2733,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 212,
+      "end": 222
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2161,
+      "end": 2194
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2234,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2786,
+      "end": 2799
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Bürgerinitiative Nr",
+      "label": "ORG",
+      "start": 2009,
+      "end": 2028
+    },
+    {
+      "text": "Alfred Gusenbauer",
+      "label": "PER",
+      "start": 2234,
+      "end": 2251
+    },
+    {
+      "text": "Kurt Eder",
+      "label": "PER",
+      "start": 2394,
+      "end": 2403
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2744,
+      "end": 2760
+    }
+  ]
+}

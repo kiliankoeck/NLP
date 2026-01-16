@@ -1,0 +1,767 @@
+{
+  "filename": "18.11.2004_88._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 669,
+      "end": 680
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 762
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 846,
+      "end": 859
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 968,
+      "end": 984
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1422,
+      "end": 1440
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 1642,
+      "end": 1664
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1795,
+      "end": 1814
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1881
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 2054,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2263,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2521,
+      "end": 2537
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2563,
+      "end": 2576
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 669,
+      "end": 680
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 762
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 846,
+      "end": 859
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 919,
+      "end": 922
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 968,
+      "end": 984
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1422,
+      "end": 1440
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 1642,
+      "end": 1664
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1795,
+      "end": 1798
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 1799,
+      "end": 1802
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1881
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Mag. Karin Hakl",
+      "label": "PER",
+      "start": 2054,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2263,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2521,
+      "end": 2537
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2563,
+      "end": 2576
+    }
+  ],
+  "flair": [
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 784,
+      "end": 796
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 972,
+      "end": 984
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1269,
+      "end": 1302
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1426,
+      "end": 1440
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1647,
+      "end": 1664
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 1799,
+      "end": 1814
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2059,
+      "end": 2069
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2267,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "ASFINAG",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2473
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2525,
+      "end": 2537
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 388,
+      "end": 494
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 522,
+      "end": 628
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 669,
+      "end": 680
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 762
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 846,
+      "end": 859
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 968,
+      "end": 984
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1422,
+      "end": 1440
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1629,
+      "end": 1641
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1647,
+      "end": 1664
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1795,
+      "end": 1814
+    },
+    {
+      "text": "Kärntner Landtagswahlen",
+      "label": "ORG",
+      "start": 1964,
+      "end": 1987
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2059,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2263,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "ASFINAG",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2473
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2521,
+      "end": 2537
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2563,
+      "end": 2576
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 388,
+      "end": 494
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 522,
+      "end": 628
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 669,
+      "end": 680
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 746,
+      "end": 762
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 846,
+      "end": 859
+    },
+    {
+      "text": "Dr. Bleckmann",
+      "label": "PER",
+      "start": 919,
+      "end": 932
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 968,
+      "end": 984
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1422,
+      "end": 1440
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1629,
+      "end": 1641
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 1647,
+      "end": 1664
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 1795,
+      "end": 1814
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1881
+    },
+    {
+      "text": "Kärntner Landtagswahlen",
+      "label": "ORG",
+      "start": 1964,
+      "end": 1987
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2059,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2263,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "ASFINAG",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2473
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2521,
+      "end": 2537
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2563,
+      "end": 2576
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 669,
+      "end": 680
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 784,
+      "end": 796
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 972,
+      "end": 984
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2059,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2267,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "ASFINAG",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2473
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2525,
+      "end": 2537
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2563,
+      "end": 2576
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 750,
+      "end": 762
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 784,
+      "end": 796
+    },
+    {
+      "text": "Bleckmann",
+      "label": "PER",
+      "start": 923,
+      "end": 932
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 972,
+      "end": 984
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 2038,
+      "end": 2052
+    },
+    {
+      "text": "Karin Hakl",
+      "label": "PER",
+      "start": 2059,
+      "end": 2069
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2194,
+      "end": 2205
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2267,
+      "end": 2279
+    },
+    {
+      "text": "Heinz Gradwohl",
+      "label": "PER",
+      "start": 2315,
+      "end": 2329
+    },
+    {
+      "text": "ASFINAG",
+      "label": "ORG",
+      "start": 2466,
+      "end": 2473
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2525,
+      "end": 2537
+    }
+  ]
+}

@@ -1,0 +1,1601 @@
+{
+  "filename": "12.11.2015_103._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "PER",
+      "start": 672,
+      "end": 730
+    },
+    {
+      "text": "Mag. Gerald Loacker,",
+      "label": "PER",
+      "start": 764,
+      "end": 784
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 834,
+      "end": 908
+    },
+    {
+      "text": "Josef A. Riemer,",
+      "label": "PER",
+      "start": 942,
+      "end": 958
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1008,
+      "end": 1082
+    },
+    {
+      "text": "Walter Rauch,",
+      "label": "PER",
+      "start": 1116,
+      "end": 1129
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1179,
+      "end": 1253
+    },
+    {
+      "text": "Cornelia Ecker,",
+      "label": "PER",
+      "start": 1287,
+      "end": 1302
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1398
+    },
+    {
+      "text": "Doris Bures.",
+      "label": "PER",
+      "start": 1463,
+      "end": 1475
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 1494,
+      "end": 1506
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "Katzian,",
+      "label": "PER",
+      "start": 1601,
+      "end": 1609
+    },
+    {
+      "text": "Keck,",
+      "label": "PER",
+      "start": 1610,
+      "end": 1615
+    },
+    {
+      "text": "Johannes Rauch,",
+      "label": "PER",
+      "start": 1616,
+      "end": 1631
+    },
+    {
+      "text": "Kickl,",
+      "label": "PER",
+      "start": 1632,
+      "end": 1638
+    },
+    {
+      "text": "Brosz,",
+      "label": "PER",
+      "start": 1639,
+      "end": 1645
+    },
+    {
+      "text": "Windbüchler-Souschill,",
+      "label": "PER",
+      "start": 1646,
+      "end": 1668
+    },
+    {
+      "text": "Strolz.",
+      "label": "PER",
+      "start": 1669,
+      "end": 1676
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 1713,
+      "end": 1725
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein,",
+      "label": "PER",
+      "start": 2154,
+      "end": 2187
+    },
+    {
+      "text": "AMS-",
+      "label": "ORG",
+      "start": 2245,
+      "end": 2249
+    },
+    {
+      "text": "AMS-",
+      "label": "ORG",
+      "start": 2326,
+      "end": 2330
+    },
+    {
+      "text": "Mag. Gerald Loacker,",
+      "label": "PER",
+      "start": 2376,
+      "end": 2396
+    },
+    {
+      "text": "Dr. Rainer Hable,",
+      "label": "PER",
+      "start": 2573,
+      "end": 2590
+    },
+    {
+      "text": "Harald Jannach,",
+      "label": "PER",
+      "start": 2770,
+      "end": 2785
+    },
+    {
+      "text": "Michael Pock,",
+      "label": "PER",
+      "start": 2954,
+      "end": 2967
+    },
+    {
+      "text": "Dr. Walter Rosenkranz,",
+      "label": "PER",
+      "start": 3124,
+      "end": 3146
+    },
+    {
+      "text": "Christoph Hagen,",
+      "label": "PER",
+      "start": 3246,
+      "end": 3262
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3413,
+      "end": 3425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler,",
+      "label": "PER",
+      "start": 3572,
+      "end": 3593
+    },
+    {
+      "text": "Leopold Steinbichler,",
+      "label": "PER",
+      "start": 3689,
+      "end": 3710
+    },
+    {
+      "text": "Dr. Gabriela Moser,",
+      "label": "PER",
+      "start": 3846,
+      "end": 3865
+    },
+    {
+      "text": "Christoph Hagen,",
+      "label": "PER",
+      "start": 3996,
+      "end": 4012
+    },
+    {
+      "text": "Leopold Steinbichler,",
+      "label": "PER",
+      "start": 4175,
+      "end": 4196
+    },
+    {
+      "text": "Mag. Albert Steinhauser,",
+      "label": "PER",
+      "start": 4402,
+      "end": 4426
+    },
+    {
+      "text": "Doris Bures:",
+      "label": "PER",
+      "start": 4502,
+      "end": 4514
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4897,
+      "end": 4911
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5108,
+      "end": 5127
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 764,
+      "end": 783
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1397
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1463,
+      "end": 1474
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1494,
+      "end": 1505
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1540,
+      "end": 1553
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1601,
+      "end": 1608
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Johannes Rauch",
+      "label": "PER",
+      "start": 1616,
+      "end": 1630
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1639,
+      "end": 1644
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1646,
+      "end": 1667
+    },
+    {
+      "text": "Strolz",
+      "label": "PER",
+      "start": 1669,
+      "end": 1675
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1713,
+      "end": 1724
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2154,
+      "end": 2157
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2158,
+      "end": 2164
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 2376,
+      "end": 2395
+    },
+    {
+      "text": "Dr. Rainer Hable",
+      "label": "PER",
+      "start": 2573,
+      "end": 2589
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 2954,
+      "end": 2961
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 3124,
+      "end": 3145
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3413,
+      "end": 3424
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3846,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 4402,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4897,
+      "end": 4910
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 672,
+      "end": 730
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 769,
+      "end": 783
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 854,
+      "end": 908
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1082
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1199,
+      "end": 1253
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1463,
+      "end": 1474
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1494,
+      "end": 1505
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1601,
+      "end": 1608
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Johannes Rauch",
+      "label": "PER",
+      "start": 1616,
+      "end": 1630
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "Brosz",
+      "label": "PER",
+      "start": 1639,
+      "end": 1644
+    },
+    {
+      "text": "Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1646,
+      "end": 1667
+    },
+    {
+      "text": "Strolz",
+      "label": "PER",
+      "start": 1669,
+      "end": 1675
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1713,
+      "end": 1724
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2099,
+      "end": 2118
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2158,
+      "end": 2186
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2381,
+      "end": 2395
+    },
+    {
+      "text": "Rainer Hable",
+      "label": "PER",
+      "start": 2577,
+      "end": 2589
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 2954,
+      "end": 2966
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 3128,
+      "end": 3145
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3850,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 4407,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 672,
+      "end": 698
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 769,
+      "end": 783
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 834,
+      "end": 879
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1008,
+      "end": 1053
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1224
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1397
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1399,
+      "end": 1402
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1463,
+      "end": 1474
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1494,
+      "end": 1505
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1540,
+      "end": 1553
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1601,
+      "end": 1608
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Johannes Rauch",
+      "label": "PER",
+      "start": 1616,
+      "end": 1630
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1713,
+      "end": 1724
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1951,
+      "end": 1965
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2036
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2154,
+      "end": 2186
+    },
+    {
+      "text": "AMS-Leitungsebene",
+      "label": "ORG",
+      "start": 2245,
+      "end": 2262
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2363,
+      "end": 2375
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2381,
+      "end": 2395
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2560,
+      "end": 2572
+    },
+    {
+      "text": "Dr. Rainer Hable",
+      "label": "PER",
+      "start": 2573,
+      "end": 2589
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 2954,
+      "end": 2966
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3111,
+      "end": 3123
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 3124,
+      "end": 3145
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3413,
+      "end": 3424
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3429
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3846,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "IG-Luft",
+      "label": "ORG",
+      "start": 4050,
+      "end": 4057
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4389,
+      "end": 4401
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 4407,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4897,
+      "end": 4910
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 672,
+      "end": 698
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 769,
+      "end": 783
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 834,
+      "end": 879
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1008,
+      "end": 1053
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1224
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1397
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1399,
+      "end": 1402
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1463,
+      "end": 1474
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1494,
+      "end": 1505
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1540,
+      "end": 1553
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1601,
+      "end": 1608
+    },
+    {
+      "text": "Keck",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Johannes Rauch",
+      "label": "PER",
+      "start": 1616,
+      "end": 1630
+    },
+    {
+      "text": "Kickl",
+      "label": "PER",
+      "start": 1632,
+      "end": 1637
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1713,
+      "end": 1724
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1951,
+      "end": 1965
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2036
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2154,
+      "end": 2186
+    },
+    {
+      "text": "AMS-Leitungsebene",
+      "label": "ORG",
+      "start": 2245,
+      "end": 2262
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2363,
+      "end": 2375
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2381,
+      "end": 2395
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2560,
+      "end": 2572
+    },
+    {
+      "text": "Dr. Rainer Hable",
+      "label": "PER",
+      "start": 2573,
+      "end": 2589
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 2954,
+      "end": 2966
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3111,
+      "end": 3123
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 3124,
+      "end": 3145
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3413,
+      "end": 3424
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3429
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3846,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "IG-Luft",
+      "label": "ORG",
+      "start": 4050,
+      "end": 4057
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4389,
+      "end": 4401
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 4407,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4897,
+      "end": 4910
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 188,
+      "end": 196
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 764,
+      "end": 783
+    },
+    {
+      "text": "##wirtschaft",
+      "label": "ORG",
+      "start": 869,
+      "end": 879
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1394
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2085,
+      "end": 2118
+    },
+    {
+      "text": "Dagmar Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 2158,
+      "end": 2186
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2381,
+      "end": 2395
+    },
+    {
+      "text": "Rainer Hable",
+      "label": "PER",
+      "start": 2577,
+      "end": 2589
+    },
+    {
+      "text": "VG",
+      "label": "ORG",
+      "start": 2696,
+      "end": 2698
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 2954,
+      "end": 2966
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 3128,
+      "end": 3145
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Doris Bu",
+      "label": "PER",
+      "start": 3484,
+      "end": 3492
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3497,
+      "end": 3536
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3850,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 4407,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 4641,
+      "end": 4679
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 4706,
+      "end": 4739
+    },
+    {
+      "text": "##anzausschus",
+      "label": "ORG",
+      "start": 4769,
+      "end": 4780
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 4823,
+      "end": 4862
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 764,
+      "end": 783
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 816,
+      "end": 818
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 942,
+      "end": 957
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 990,
+      "end": 992
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1116,
+      "end": 1128
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1163
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1287,
+      "end": 1301
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1336
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1386,
+      "end": 1394
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2085,
+      "end": 2088
+    },
+    {
+      "text": "für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2095,
+      "end": 2118
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2158,
+      "end": 2177
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2178,
+      "end": 2186
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2381,
+      "end": 2395
+    },
+    {
+      "text": "Rainer Hable",
+      "label": "PER",
+      "start": 2577,
+      "end": 2589
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2770,
+      "end": 2784
+    },
+    {
+      "text": "Michael Pock",
+      "label": "PER",
+      "start": 2954,
+      "end": 2966
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 3073,
+      "end": 3077
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 3080,
+      "end": 3083
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 3128,
+      "end": 3145
+    },
+    {
+      "text": "NEU",
+      "label": "ORG",
+      "start": 3207,
+      "end": 3210
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3246,
+      "end": 3261
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 3484,
+      "end": 3495
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3572,
+      "end": 3592
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 3689,
+      "end": 3709
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3850,
+      "end": 3864
+    },
+    {
+      "text": "Christoph Hagen",
+      "label": "PER",
+      "start": 3996,
+      "end": 4011
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4175,
+      "end": 4195
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 4407,
+      "end": 4425
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 4502,
+      "end": 4513
+    }
+  ]
+}

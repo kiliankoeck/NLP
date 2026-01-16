@@ -1,0 +1,1169 @@
+{
+  "filename": "27.04.2005_108._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1052
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "PER",
+      "start": 1079,
+      "end": 1117
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "PER",
+      "start": 1228,
+      "end": 1266
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "PER",
+      "start": 1369,
+      "end": 1407
+    },
+    {
+      "text": "Mag. Norbert Darabos",
+      "label": "PER",
+      "start": 1441,
+      "end": 1461
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 1300,
+      "end": 1318
+    },
+    {
+      "text": "Dipl.Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 1151,
+      "end": 1177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1554
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1628,
+      "end": 1648
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1668,
+      "end": 1688
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1711,
+      "end": 1724
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 1785,
+      "end": 1794
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 1796,
+      "end": 1812
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "Mag. Wurm",
+      "label": "PER",
+      "start": 1827,
+      "end": 1836
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1874,
+      "end": 1894
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2692,
+      "end": 2709
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2893,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3280,
+      "end": 3308
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3446
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3504,
+      "end": 3524
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3579,
+      "end": 3597
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3799,
+      "end": 3819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3845,
+      "end": 3858
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4035,
+      "end": 4054
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1156,
+      "end": 1160
+    },
+    {
+      "text": "Hannes Missethon",
+      "label": "PER",
+      "start": 1161,
+      "end": 1177
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 1300,
+      "end": 1318
+    },
+    {
+      "text": "Mag. Norbert Darabos",
+      "label": "PER",
+      "start": 1441,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1554
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1628,
+      "end": 1648
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1668,
+      "end": 1688
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1711,
+      "end": 1724
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 1785,
+      "end": 1794
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1796,
+      "end": 1799
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 1800,
+      "end": 1812
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1827,
+      "end": 1831
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 1832,
+      "end": 1836
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1874,
+      "end": 1894
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2692,
+      "end": 2709
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2893,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3280,
+      "end": 3308
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3446
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3504,
+      "end": 3524
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3579,
+      "end": 3597
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3799,
+      "end": 3819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3845,
+      "end": 3858
+    }
+  ],
+  "flair": [
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 961,
+      "end": 963
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1040
+    },
+    {
+      "text": "für Landesverteidigung",
+      "label": "ORG",
+      "start": 1095,
+      "end": 1117
+    },
+    {
+      "text": "Hannes Missethon",
+      "label": "PER",
+      "start": 1161,
+      "end": 1177
+    },
+    {
+      "text": "Landesverteidigung",
+      "label": "ORG",
+      "start": 1248,
+      "end": 1266
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 1304,
+      "end": 1318
+    },
+    {
+      "text": "Landesverteidigung",
+      "label": "ORG",
+      "start": 1389,
+      "end": 1407
+    },
+    {
+      "text": "Norbert Darabos",
+      "label": "PER",
+      "start": 1446,
+      "end": 1461
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1633,
+      "end": 1648
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1673,
+      "end": 1688
+    },
+    {
+      "text": "Donabauer",
+      "label": "PER",
+      "start": 1785,
+      "end": 1794
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 1800,
+      "end": 1812
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "Wurm",
+      "label": "PER",
+      "start": 1832,
+      "end": 1836
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1879,
+      "end": 1894
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2697,
+      "end": 2709
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3284,
+      "end": 3308
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3509,
+      "end": 3524
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3804,
+      "end": 3819
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 637,
+      "end": 654
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 830,
+      "end": 945
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 961,
+      "end": 963
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1040
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "ORG",
+      "start": 1079,
+      "end": 1117
+    },
+    {
+      "text": "Dipl.Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 1151,
+      "end": 1177
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 1300,
+      "end": 1318
+    },
+    {
+      "text": "Norbert Darabos",
+      "label": "PER",
+      "start": 1446,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1554
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1628,
+      "end": 1631
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1633,
+      "end": 1648
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1668,
+      "end": 1671
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1673,
+      "end": 1688
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1711,
+      "end": 1724
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 1796,
+      "end": 1812
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1827,
+      "end": 1830
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1874,
+      "end": 1877
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1879,
+      "end": 1894
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2122,
+      "end": 2136
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2363,
+      "end": 2391
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2470
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2679,
+      "end": 2691
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2697,
+      "end": 2709
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2893,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3284,
+      "end": 3308
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3446
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3504,
+      "end": 3507
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3509,
+      "end": 3524
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3579,
+      "end": 3597
+    },
+    {
+      "text": "IKT",
+      "label": "ORG",
+      "start": 3707,
+      "end": 3710
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3799,
+      "end": 3802
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3804,
+      "end": 3819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3845,
+      "end": 3858
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 637,
+      "end": 654
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 830,
+      "end": 945
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 961,
+      "end": 963
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1040
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "ORG",
+      "start": 1079,
+      "end": 1117
+    },
+    {
+      "text": "Dipl.Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 1151,
+      "end": 1177
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 1300,
+      "end": 1318
+    },
+    {
+      "text": "Norbert Darabos",
+      "label": "PER",
+      "start": 1446,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1543,
+      "end": 1554
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1628,
+      "end": 1631
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1633,
+      "end": 1648
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1668,
+      "end": 1671
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1673,
+      "end": 1688
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1711,
+      "end": 1724
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 1796,
+      "end": 1812
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1814,
+      "end": 1822
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1827,
+      "end": 1830
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1874,
+      "end": 1877
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1879,
+      "end": 1894
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2122,
+      "end": 2136
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2363,
+      "end": 2391
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2470
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2679,
+      "end": 2691
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2697,
+      "end": 2709
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2893,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3284,
+      "end": 3308
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3446
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3504,
+      "end": 3507
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3509,
+      "end": 3524
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3579,
+      "end": 3597
+    },
+    {
+      "text": "IKT",
+      "label": "ORG",
+      "start": 3707,
+      "end": 3710
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3799,
+      "end": 3802
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3804,
+      "end": 3819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3845,
+      "end": 3858
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 210,
+      "end": 220
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2468,
+      "end": 2470
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2697,
+      "end": 2709
+    },
+    {
+      "text": "##wirtschaft",
+      "label": "ORG",
+      "start": 2847,
+      "end": 2857
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3284,
+      "end": 3308
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3443
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3509,
+      "end": 3521
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3804,
+      "end": 3819
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3845,
+      "end": 3858
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "WHO",
+      "label": "ORG",
+      "start": 2570,
+      "end": 2573
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2697,
+      "end": 2709
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2908,
+      "end": 2927
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 3101,
+      "end": 3113
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3284,
+      "end": 3308
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3446
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3509,
+      "end": 3521
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 3533,
+      "end": 3542
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3583,
+      "end": 3597
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3804,
+      "end": 3819
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 4035,
+      "end": 4044
+    },
+    {
+      "text": "##ire",
+      "label": "ORG",
+      "start": 4046,
+      "end": 4049
+    }
+  ]
+}

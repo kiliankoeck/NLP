@@ -1,0 +1,1547 @@
+{
+  "filename": "31.01.2008_48._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1293,
+      "end": 1313
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1333,
+      "end": 1353
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1427,
+      "end": 1437
+    },
+    {
+      "text": "Faul",
+      "label": "PER",
+      "start": 1439,
+      "end": 1443
+    },
+    {
+      "text": "Fazekas",
+      "label": "PER",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1454,
+      "end": 1465
+    },
+    {
+      "text": "Parnigoni",
+      "label": "PER",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "Mag. Heribert Donnerbauer",
+      "label": "PER",
+      "start": 1486,
+      "end": 1511
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1513,
+      "end": 1527
+    },
+    {
+      "text": "Maria Grander",
+      "label": "PER",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1583,
+      "end": 1603
+    },
+    {
+      "text": "Bundesministers",
+      "label": "PER",
+      "start": 1986,
+      "end": 2001
+    },
+    {
+      "text": "Bundesministers",
+      "label": "PER",
+      "start": 2097,
+      "end": 2112
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 2958,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2993,
+      "end": 3013
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3015,
+      "end": 3038
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 3171,
+      "end": 3189
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3265
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3324,
+      "end": 3344
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3396,
+      "end": 3420
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3558,
+      "end": 3582
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3777,
+      "end": 3797
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3936,
+      "end": 3960
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 4099,
+      "end": 4116
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4567,
+      "end": 4587
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4806,
+      "end": 4826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4852,
+      "end": 4865
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1293,
+      "end": 1313
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1333,
+      "end": 1353
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1427,
+      "end": 1437
+    },
+    {
+      "text": "Faul",
+      "label": "PER",
+      "start": 1439,
+      "end": 1443
+    },
+    {
+      "text": "Fazekas",
+      "label": "PER",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1454,
+      "end": 1457
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1458,
+      "end": 1465
+    },
+    {
+      "text": "Parnigoni",
+      "label": "PER",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "Mag. Heribert Donnerbauer",
+      "label": "PER",
+      "start": 1486,
+      "end": 1511
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1513,
+      "end": 1527
+    },
+    {
+      "text": "Maria Grander",
+      "label": "PER",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1583,
+      "end": 1603
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 2958,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2993,
+      "end": 3013
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3015,
+      "end": 3038
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 3171,
+      "end": 3189
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3265
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3324,
+      "end": 3344
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3396,
+      "end": 3420
+    },
+    {
+      "text": "Dr. Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3558,
+      "end": 3582
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 3707,
+      "end": 3713
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3777,
+      "end": 3797
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3936,
+      "end": 3960
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 4099,
+      "end": 4116
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4567,
+      "end": 4587
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4806,
+      "end": 4826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4852,
+      "end": 4865
+    }
+  ],
+  "flair": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 846,
+      "end": 848
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1060
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1086
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1163
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1298,
+      "end": 1313
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1338,
+      "end": 1353
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1427,
+      "end": 1437
+    },
+    {
+      "text": "Faul",
+      "label": "PER",
+      "start": 1439,
+      "end": 1443
+    },
+    {
+      "text": "Fazekas",
+      "label": "PER",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "Kräuter",
+      "label": "PER",
+      "start": 1458,
+      "end": 1465
+    },
+    {
+      "text": "Parnigoni",
+      "label": "PER",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "Heribert Donnerbauer",
+      "label": "PER",
+      "start": 1491,
+      "end": 1511
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1513,
+      "end": 1527
+    },
+    {
+      "text": "Maria Grander",
+      "label": "PER",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1588,
+      "end": 1603
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2962,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3002,
+      "end": 3013
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3020,
+      "end": 3038
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3400,
+      "end": 3420
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3562,
+      "end": 3582
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3782,
+      "end": 3797
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3960
+    },
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 4103,
+      "end": 4116
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 4228,
+      "end": 4232
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4576,
+      "end": 4587
+    },
+    {
+      "text": "Organisation",
+      "label": "ORG",
+      "start": 4677,
+      "end": 4689
+    },
+    {
+      "text": "Universitäten",
+      "label": "ORG",
+      "start": 4694,
+      "end": 4707
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4811,
+      "end": 4826
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 386,
+      "end": 488
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 516,
+      "end": 622
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 655,
+      "end": 768
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 780,
+      "end": 782
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 846,
+      "end": 860
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 872,
+      "end": 874
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1072
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1086
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1298,
+      "end": 1313
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1333,
+      "end": 1336
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1338,
+      "end": 1353
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1427,
+      "end": 1437
+    },
+    {
+      "text": "Faul",
+      "label": "PER",
+      "start": 1439,
+      "end": 1443
+    },
+    {
+      "text": "Fazekas",
+      "label": "PER",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1454,
+      "end": 1465
+    },
+    {
+      "text": "Parnigoni",
+      "label": "PER",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "Heribert Donnerbauer",
+      "label": "PER",
+      "start": 1491,
+      "end": 1511
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1513,
+      "end": 1527
+    },
+    {
+      "text": "Maria Grander",
+      "label": "PER",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1583,
+      "end": 1586
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1588,
+      "end": 1603
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1986,
+      "end": 2014
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2080,
+      "end": 2082
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2097,
+      "end": 2125
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2311,
+      "end": 2313
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2328,
+      "end": 2356
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2433,
+      "end": 2435
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 2958,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3002,
+      "end": 3013
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3015,
+      "end": 3038
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3158,
+      "end": 3170
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3324,
+      "end": 3327
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3764,
+      "end": 3776
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3782,
+      "end": 3797
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3936,
+      "end": 3960
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 4099,
+      "end": 4116
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4554,
+      "end": 4566
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4576,
+      "end": 4587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4806,
+      "end": 4809
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4811,
+      "end": 4826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4852,
+      "end": 4865
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 386,
+      "end": 488
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 516,
+      "end": 622
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 655,
+      "end": 768
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 780,
+      "end": 782
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 846,
+      "end": 860
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 872,
+      "end": 874
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1072
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1086
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 1161,
+      "end": 1166
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1298,
+      "end": 1313
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1333,
+      "end": 1336
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1338,
+      "end": 1353
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1427,
+      "end": 1437
+    },
+    {
+      "text": "Faul",
+      "label": "PER",
+      "start": 1439,
+      "end": 1443
+    },
+    {
+      "text": "Fazekas",
+      "label": "PER",
+      "start": 1445,
+      "end": 1452
+    },
+    {
+      "text": "Dr. Kräuter",
+      "label": "PER",
+      "start": 1454,
+      "end": 1465
+    },
+    {
+      "text": "Parnigoni",
+      "label": "PER",
+      "start": 1467,
+      "end": 1476
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1478,
+      "end": 1484
+    },
+    {
+      "text": "Heribert Donnerbauer",
+      "label": "PER",
+      "start": 1491,
+      "end": 1511
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 1513,
+      "end": 1527
+    },
+    {
+      "text": "Maria Grander",
+      "label": "PER",
+      "start": 1532,
+      "end": 1545
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1583,
+      "end": 1586
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1588,
+      "end": 1603
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 1986,
+      "end": 2014
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2080,
+      "end": 2082
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2097,
+      "end": 2125
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2311,
+      "end": 2313
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2328,
+      "end": 2356
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2433,
+      "end": 2435
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 2958,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3002,
+      "end": 3013
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 3015,
+      "end": 3038
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3158,
+      "end": 3170
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3265
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3324,
+      "end": 3327
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3764,
+      "end": 3776
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3782,
+      "end": 3797
+    },
+    {
+      "text": "Dr. Michael Spindelegger",
+      "label": "PER",
+      "start": 3936,
+      "end": 3960
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 4099,
+      "end": 4116
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4554,
+      "end": 4566
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4576,
+      "end": 4587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4806,
+      "end": 4809
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4811,
+      "end": 4826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4852,
+      "end": 4865
+    }
+  ],
+  "bert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 846,
+      "end": 848
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2489,
+      "end": 2522
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2962,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3002,
+      "end": 3013
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3015,
+      "end": 3019
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3020,
+      "end": 3038
+    },
+    {
+      "text": "##schuss",
+      "label": "ORG",
+      "start": 3130,
+      "end": 3136
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3265
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3329,
+      "end": 3341
+    },
+    {
+      "text": "Umwelt",
+      "label": "ORG",
+      "start": 3346,
+      "end": 3352
+    },
+    {
+      "text": "##schuss",
+      "label": "ORG",
+      "start": 3355,
+      "end": 3361
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3400,
+      "end": 3420
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3562,
+      "end": 3582
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3960
+    },
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 4103,
+      "end": 4116
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 4261,
+      "end": 4299
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Wissenschaftsausschus",
+      "label": "ORG",
+      "start": 4513,
+      "end": 4534
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4576,
+      "end": 4587
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4811,
+      "end": 4826
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4852,
+      "end": 4860
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 846,
+      "end": 848
+    },
+    {
+      "text": "für Arbeit und So",
+      "label": "ORG",
+      "start": 2499,
+      "end": 2516
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2739,
+      "end": 2759
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 2962,
+      "end": 2976
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3002,
+      "end": 3013
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 3020,
+      "end": 3038
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 3176,
+      "end": 3189
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3254,
+      "end": 3265
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3329,
+      "end": 3341
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3400,
+      "end": 3420
+    },
+    {
+      "text": "Ruperta Lichtenecker",
+      "label": "PER",
+      "start": 3562,
+      "end": 3582
+    },
+    {
+      "text": "Michael Spindelegger",
+      "label": "PER",
+      "start": 3940,
+      "end": 3960
+    },
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 4103,
+      "end": 4116
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und",
+      "label": "ORG",
+      "start": 4261,
+      "end": 4289
+    },
+    {
+      "text": "Bernhard Themessl",
+      "label": "PER",
+      "start": 4331,
+      "end": 4348
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4576,
+      "end": 4587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4806,
+      "end": 4809
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4811,
+      "end": 4826
+    }
+  ]
+}

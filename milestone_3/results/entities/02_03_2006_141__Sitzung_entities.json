@@ -1,0 +1,1535 @@
+{
+  "filename": "02.03.2006_141._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "Institute of Science and\\nTechnology-Austria",
+      "label": "ORG",
+      "start": 881,
+      "end": 924
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2077
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2177,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Mag. Posch",
+      "label": "PER",
+      "start": 2286,
+      "end": 2296
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2307,
+      "end": 2319
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 2321,
+      "end": 2337
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2339,
+      "end": 2357
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 2362,
+      "end": 2380
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2416,
+      "end": 2432
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2761,
+      "end": 2778
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3971,
+      "end": 3988
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 3795,
+      "end": 3817
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 4169,
+      "end": 4188
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4336,
+      "end": 4352
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 4891,
+      "end": 4896
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4929,
+      "end": 4945
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5113,
+      "end": 5126
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 925,
+      "end": 929
+    },
+    {
+      "text": "Haager",
+      "label": "PER",
+      "start": 955,
+      "end": 961
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2077
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2177,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2286,
+      "end": 2290
+    },
+    {
+      "text": "Posch",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2307,
+      "end": 2319
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2321,
+      "end": 2324
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 2325,
+      "end": 2337
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2339,
+      "end": 2357
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2362,
+      "end": 2365
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 2366,
+      "end": 2380
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2416,
+      "end": 2432
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2761,
+      "end": 2778
+    },
+    {
+      "text": "Haager",
+      "label": "PER",
+      "start": 2964,
+      "end": 2970
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 3795,
+      "end": 3817
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3971,
+      "end": 3988
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 4169,
+      "end": 4188
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4336,
+      "end": 4352
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 4560,
+      "end": 4564
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4929,
+      "end": 4945
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5113,
+      "end": 5126
+    }
+  ],
+  "flair": [
+    {
+      "text": "Institute of Science and Technology-Austria",
+      "label": "ORG",
+      "start": 881,
+      "end": 924
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 955,
+      "end": 1003
+    },
+    {
+      "text": "Staaten",
+      "label": "ORG",
+      "start": 1163,
+      "end": 1170
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "Vereinigten Staaten von Amerika",
+      "label": "ORG",
+      "start": 1302,
+      "end": 1333
+    },
+    {
+      "text": "Staaten",
+      "label": "ORG",
+      "start": 1500,
+      "end": 1507
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "Staaten von Amerika",
+      "label": "ORG",
+      "start": 1688,
+      "end": 1707
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2181,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Posch",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2307,
+      "end": 2319
+    },
+    {
+      "text": "Partik-Pablé",
+      "label": "PER",
+      "start": 2325,
+      "end": 2337
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 2366,
+      "end": 2380
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2420,
+      "end": 2432
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2766,
+      "end": 2778
+    },
+    {
+      "text": "Bundesforste AG",
+      "label": "ORG",
+      "start": 2917,
+      "end": 2932
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 2964,
+      "end": 3012
+    },
+    {
+      "text": "Staaten",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3186
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Vereinigten Staaten von Amerika",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3349
+    },
+    {
+      "text": "Staaten",
+      "label": "ORG",
+      "start": 3523,
+      "end": 3530
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Vereinigten Staaten von Amerika",
+      "label": "ORG",
+      "start": 3699,
+      "end": 3730
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 3800,
+      "end": 3817
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3976,
+      "end": 3988
+    },
+    {
+      "text": "Bundesforste",
+      "label": "ORG",
+      "start": 4058,
+      "end": 4070
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 4174,
+      "end": 4188
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4340,
+      "end": 4352
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start": 4625,
+      "end": 4628
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4933,
+      "end": 4945
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Institute of Science and\nTechnology-Austria",
+      "label": "ORG",
+      "start": 881,
+      "end": 924
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 955,
+      "end": 1003
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 1626,
+      "end": 1635
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 1956,
+      "end": 1966
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2029
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2077
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2177,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Posch",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 2321,
+      "end": 2337
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 2362,
+      "end": 2380
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2416,
+      "end": 2432
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2748,
+      "end": 2760
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2766,
+      "end": 2778
+    },
+    {
+      "text": "Bundesforste AG",
+      "label": "ORG",
+      "start": 2917,
+      "end": 2932
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 2964,
+      "end": 3012
+    },
+    {
+      "text": "Auslieferungsvertrag",
+      "label": "ORG",
+      "start": 3077,
+      "end": 3097
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 3268,
+      "end": 3277
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 3649,
+      "end": 3658
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3782,
+      "end": 3794
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 3800,
+      "end": 3817
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3958,
+      "end": 3970
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3976,
+      "end": 3988
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4168
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 4174,
+      "end": 4188
+    },
+    {
+      "text": "Frauenförderungsbericht",
+      "label": "PER",
+      "start": 4227,
+      "end": 4250
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4336,
+      "end": 4352
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 4720,
+      "end": 4748
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4929,
+      "end": 4945
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5113,
+      "end": 5126
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 183,
+      "end": 220
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 377,
+      "end": 479
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 507,
+      "end": 613
+    },
+    {
+      "text": "Institute of Science and\nTechnology-Austria",
+      "label": "ORG",
+      "start": 881,
+      "end": 924
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 955,
+      "end": 1003
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1275,
+      "end": 1293
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 1626,
+      "end": 1635
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 1649,
+      "end": 1667
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 1956,
+      "end": 1966
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2029
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2077
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2143,
+      "end": 2159
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2177,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Posch",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Dr. Partik-Pablé",
+      "label": "PER",
+      "start": 2321,
+      "end": 2337
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Dr. Van der Bellen",
+      "label": "PER",
+      "start": 2362,
+      "end": 2380
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2416,
+      "end": 2432
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2748,
+      "end": 2760
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2766,
+      "end": 2778
+    },
+    {
+      "text": "Bundesforste AG",
+      "label": "ORG",
+      "start": 2917,
+      "end": 2932
+    },
+    {
+      "text": "Haager Konferenz für Internationales Privatrecht",
+      "label": "ORG",
+      "start": 2964,
+      "end": 3012
+    },
+    {
+      "text": "Auslieferungsvertrag",
+      "label": "ORG",
+      "start": 3077,
+      "end": 3097
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 3268,
+      "end": 3277
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Abkommens",
+      "label": "ORG",
+      "start": 3649,
+      "end": 3658
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3782,
+      "end": 3794
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 3800,
+      "end": 3817
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3958,
+      "end": 3970
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3976,
+      "end": 3988
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4156,
+      "end": 4168
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 4174,
+      "end": 4188
+    },
+    {
+      "text": "Frauenförderungsbericht",
+      "label": "PER",
+      "start": 4227,
+      "end": 4250
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4336,
+      "end": 4352
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 4720,
+      "end": 4748
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4929,
+      "end": 4945
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5113,
+      "end": 5126
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 44,
+      "end": 52
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 183,
+      "end": 191
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 788,
+      "end": 789
+    },
+    {
+      "text": "Institute of Science and Technology",
+      "label": "ORG",
+      "start": 881,
+      "end": 916
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2017
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2074
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2181,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Posch",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2307,
+      "end": 2319
+    },
+    {
+      "text": "Partik - Pablé",
+      "label": "PER",
+      "start": 2325,
+      "end": 2337
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 2366,
+      "end": 2380
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2420,
+      "end": 2432
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2766,
+      "end": 2778
+    },
+    {
+      "text": "Bundesforste AG",
+      "label": "ORG",
+      "start": 2917,
+      "end": 2932
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 3800,
+      "end": 3817
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3976,
+      "end": 3988
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 4174,
+      "end": 4188
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4340,
+      "end": 4352
+    },
+    {
+      "text": "Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 4368,
+      "end": 4394
+    },
+    {
+      "text": "VG",
+      "label": "ORG",
+      "start": 4426,
+      "end": 4428
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4933,
+      "end": 4945
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5113,
+      "end": 5126
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Institute of Science and Technology",
+      "label": "ORG",
+      "start": 881,
+      "end": 916
+    },
+    {
+      "text": "Haager Konferenz",
+      "label": "ORG",
+      "start": 955,
+      "end": 971
+    },
+    {
+      "text": "Privatrecht",
+      "label": "ORG",
+      "start": 992,
+      "end": 1003
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2066,
+      "end": 2074
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2147,
+      "end": 2159
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2181,
+      "end": 2193
+    },
+    {
+      "text": "Dobnigg",
+      "label": "PER",
+      "start": 2267,
+      "end": 2274
+    },
+    {
+      "text": "Gradwohl",
+      "label": "PER",
+      "start": 2276,
+      "end": 2284
+    },
+    {
+      "text": "Mag. Posch",
+      "label": "PER",
+      "start": 2286,
+      "end": 2296
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 2307,
+      "end": 2319
+    },
+    {
+      "text": "Partik - Pablé",
+      "label": "PER",
+      "start": 2325,
+      "end": 2337
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2343,
+      "end": 2357
+    },
+    {
+      "text": "Van der Bellen",
+      "label": "PER",
+      "start": 2366,
+      "end": 2380
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2420,
+      "end": 2432
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2766,
+      "end": 2778
+    },
+    {
+      "text": "Bundesforste AG",
+      "label": "ORG",
+      "start": 2917,
+      "end": 2932
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 2935,
+      "end": 2939
+    },
+    {
+      "text": "##nferenz",
+      "label": "ORG",
+      "start": 2973,
+      "end": 2980
+    },
+    {
+      "text": "Pri",
+      "label": "ORG",
+      "start": 3001,
+      "end": 3004
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3291,
+      "end": 3309
+    },
+    {
+      "text": "von",
+      "label": "ORG",
+      "start": 3338,
+      "end": 3341
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3690
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3795,
+      "end": 3798
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 3800,
+      "end": 3817
+    },
+    {
+      "text": "Br",
+      "label": "PER",
+      "start": 3800,
+      "end": 3802
+    },
+    {
+      "text": "##igid Weinzinger",
+      "label": "PER",
+      "start": 3802,
+      "end": 3817
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3971,
+      "end": 3974
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3976,
+      "end": 3988
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 4174,
+      "end": 4188
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4271,
+      "end": 4282
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4340,
+      "end": 4352
+    },
+    {
+      "text": "Institute of Science and TechnologyAustria",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4559
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4933,
+      "end": 4945
+    }
+  ]
+}

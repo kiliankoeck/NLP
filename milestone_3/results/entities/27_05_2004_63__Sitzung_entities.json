@@ -1,0 +1,1343 @@
+{
+  "filename": "27.05.2004_63._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Bundesminister für Verkehr,\\nInnovation und Technologie",
+      "label": "PER",
+      "start": 734,
+      "end": 788
+    },
+    {
+      "text": "Ing. Erwin Kaipel",
+      "label": "PER",
+      "start": 683,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 884,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1014,
+      "end": 1041
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1076
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1203,
+      "end": 1220
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1243,
+      "end": 1251
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1287,
+      "end": 1314
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1739,
+      "end": 1758
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1979,
+      "end": 1996
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2424,
+      "end": 2442
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2607,
+      "end": 2626
+    },
+    {
+      "text": "Agentur für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2759,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3007
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3060,
+      "end": 3087
+    },
+    {
+      "text": "Bundesministeriums für\\nBildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3710
+    },
+    {
+      "text": "Bundesministeriums für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3796
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 3879,
+      "end": 3898
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 3999,
+      "end": 4072
+    },
+    {
+      "text": "Brenner Basistunnel Aktiengesellschaft",
+      "label": "ORG",
+      "start": 4128,
+      "end": 4166
+    },
+    {
+      "text": "Brenner Eisenbahn GmbH",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4241
+    },
+    {
+      "text": "Mag. Hans Moser",
+      "label": "PER",
+      "start": 4325,
+      "end": 4340
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4772,
+      "end": 4799
+    },
+    {
+      "text": "Schasching",
+      "label": "PER",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4959,
+      "end": 4972
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5148,
+      "end": 5167
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Ing. Erwin Kaipel",
+      "label": "PER",
+      "start": 683,
+      "end": 700
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 884,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1014,
+      "end": 1041
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1076
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1189,
+      "end": 1202
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1203,
+      "end": 1220
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1243,
+      "end": 1251
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1287,
+      "end": 1314
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 1739,
+      "end": 1758
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1979,
+      "end": 1996
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2424,
+      "end": 2442
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2607,
+      "end": 2610
+    },
+    {
+      "text": "Eva",
+      "label": "PER",
+      "start": 2611,
+      "end": 2614
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2759,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3007
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3060,
+      "end": 3087
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 3879,
+      "end": 3898
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 4325,
+      "end": 4329
+    },
+    {
+      "text": "Hans",
+      "label": "PER",
+      "start": 4330,
+      "end": 4334
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 4335,
+      "end": 4340
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4772,
+      "end": 4799
+    },
+    {
+      "text": "Schasching",
+      "label": "PER",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4959,
+      "end": 4972
+    }
+  ],
+  "flair": [
+    {
+      "text": "Erwin Kaipel",
+      "label": "PER",
+      "start": 688,
+      "end": 700
+    },
+    {
+      "text": "Bundesminister für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 734,
+      "end": 788
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 980,
+      "end": 996
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1207,
+      "end": 1220
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1243,
+      "end": 1251
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1314
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1744,
+      "end": 1758
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "text": "Agentur für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2611,
+      "end": 2626
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3071,
+      "end": 3087
+    },
+    {
+      "text": "Bundesministeriums für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3710
+    },
+    {
+      "text": "Bundesministeriums für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3796
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 3883,
+      "end": 3898
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4072
+    },
+    {
+      "text": "Brenner Basistunnel Aktiengesellschaft",
+      "label": "ORG",
+      "start": 4128,
+      "end": 4166
+    },
+    {
+      "text": "Brenner Eisenbahn GmbH",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4241
+    },
+    {
+      "text": "Hans Moser",
+      "label": "PER",
+      "start": 4330,
+      "end": 4340
+    },
+    {
+      "text": "Wissenschaft und",
+      "label": "ORG",
+      "start": 4453,
+      "end": 4469
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4783,
+      "end": 4799
+    },
+    {
+      "text": "Schasching",
+      "label": "PER",
+      "start": 4839,
+      "end": 4849
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 375,
+      "end": 477
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 505,
+      "end": 611
+    },
+    {
+      "text": "Erwin Kaipel",
+      "label": "PER",
+      "start": 688,
+      "end": 700
+    },
+    {
+      "text": "Bundesminister für Verkehr",
+      "label": "ORG",
+      "start": 734,
+      "end": 760
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 884,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1014,
+      "end": 1041
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1076
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1189,
+      "end": 1202
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1203,
+      "end": 1220
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1287,
+      "end": 1314
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "J.\nB.",
+      "label": "PER",
+      "start": 1623,
+      "end": 1628
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1726,
+      "end": 1738
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1744,
+      "end": 1758
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1966,
+      "end": 1978
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2424,
+      "end": 2442
+    },
+    {
+      "text": "Agentur für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2607,
+      "end": 2626
+    },
+    {
+      "text": "Bt11",
+      "label": "PER",
+      "start": 2719,
+      "end": 2723
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2746,
+      "end": 2758
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3007
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3060,
+      "end": 3087
+    },
+    {
+      "text": "Prüfungstätigkeiten",
+      "label": "PER",
+      "start": 3173,
+      "end": 3192
+    },
+    {
+      "text": "Bundesministeriums für\nBildung",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3685
+    },
+    {
+      "text": "Bundesministeriums für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3767
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3866,
+      "end": 3878
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 3879,
+      "end": 3898
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4043
+    },
+    {
+      "text": "Brenner Eisenbahn",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4236
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4312,
+      "end": 4324
+    },
+    {
+      "text": "Hans Moser",
+      "label": "PER",
+      "start": 4330,
+      "end": 4340
+    },
+    {
+      "text": "Forschungsorganisation in Österreich",
+      "label": "ORG",
+      "start": 4546,
+      "end": 4582
+    },
+    {
+      "text": "FOG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4674
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4772,
+      "end": 4799
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4959,
+      "end": 4972
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 375,
+      "end": 477
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 505,
+      "end": 611
+    },
+    {
+      "text": "Erwin Kaipel",
+      "label": "PER",
+      "start": 688,
+      "end": 700
+    },
+    {
+      "text": "Bundesminister für Verkehr",
+      "label": "ORG",
+      "start": 734,
+      "end": 760
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 884,
+      "end": 895
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 969,
+      "end": 996
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1014,
+      "end": 1041
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1076
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1189,
+      "end": 1202
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1203,
+      "end": 1220
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1287,
+      "end": 1314
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1540,
+      "end": 1554
+    },
+    {
+      "text": "J.\nB.",
+      "label": "PER",
+      "start": 1623,
+      "end": 1628
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1726,
+      "end": 1738
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 1744,
+      "end": 1758
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1966,
+      "end": 1978
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 2424,
+      "end": 2442
+    },
+    {
+      "text": "Agentur für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Dr. Eva Glawischnig",
+      "label": "PER",
+      "start": 2607,
+      "end": 2626
+    },
+    {
+      "text": "Bt11",
+      "label": "PER",
+      "start": 2719,
+      "end": 2723
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2746,
+      "end": 2758
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3007
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3060,
+      "end": 3087
+    },
+    {
+      "text": "Prüfungstätigkeiten",
+      "label": "PER",
+      "start": 3173,
+      "end": 3192
+    },
+    {
+      "text": "Bundesministeriums für\nBildung",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3685
+    },
+    {
+      "text": "Bundesministeriums für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3767
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3866,
+      "end": 3878
+    },
+    {
+      "text": "Dr. Günther Kräuter",
+      "label": "PER",
+      "start": 3879,
+      "end": 3898
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3999,
+      "end": 4043
+    },
+    {
+      "text": "Brenner Eisenbahn",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4236
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4312,
+      "end": 4324
+    },
+    {
+      "text": "Hans Moser",
+      "label": "PER",
+      "start": 4330,
+      "end": 4340
+    },
+    {
+      "text": "Forschungsorganisation in Österreich",
+      "label": "ORG",
+      "start": 4546,
+      "end": 4582
+    },
+    {
+      "text": "FOG",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4674
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4772,
+      "end": 4799
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4959,
+      "end": 4972
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 181,
+      "end": 189
+    },
+    {
+      "text": "Erwin Kaipel",
+      "label": "PER",
+      "start": 688,
+      "end": 700
+    },
+    {
+      "text": "Bundesminister für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 734,
+      "end": 788
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 884,
+      "end": 895
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 980,
+      "end": 996
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1207,
+      "end": 1220
+    },
+    {
+      "text": "Csörgits",
+      "label": "PER",
+      "start": 1243,
+      "end": 1251
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1314
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1979,
+      "end": 1983
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "text": "Agentur für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2611,
+      "end": 2626
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2759,
+      "end": 2763
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2910,
+      "end": 2949
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3004
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3071,
+      "end": 3087
+    },
+    {
+      "text": "Bundesministeriums für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3710
+    },
+    {
+      "text": "Bundesministeriums für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3767
+    },
+    {
+      "text": "Wasserwirtschaft",
+      "label": "ORG",
+      "start": 3780,
+      "end": 3796
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 3883,
+      "end": 3898
+    },
+    {
+      "text": "Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 4018,
+      "end": 4043
+    },
+    {
+      "text": "Umwelt",
+      "label": "ORG",
+      "start": 4045,
+      "end": 4051
+    },
+    {
+      "text": "Wasserwirtschaft",
+      "label": "ORG",
+      "start": 4056,
+      "end": 4072
+    },
+    {
+      "text": "Brenner Basistunnel Aktiengesellschaft",
+      "label": "ORG",
+      "start": 4128,
+      "end": 4166
+    },
+    {
+      "text": "Brenner Eisenbahn GmbH",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4241
+    },
+    {
+      "text": "Hans Moser",
+      "label": "PER",
+      "start": 4330,
+      "end": 4340
+    },
+    {
+      "text": "Ausschuss für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 4439,
+      "end": 4479
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4783,
+      "end": 4799
+    },
+    {
+      "text": "Schasching",
+      "label": "PER",
+      "start": 4839,
+      "end": 4849
+    },
+    {
+      "text": "Ausschuss für Sportangelegenheiten",
+      "label": "ORG",
+      "start": 4890,
+      "end": 4924
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Erwin Kaipel",
+      "label": "PER",
+      "start": 688,
+      "end": 700
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 884,
+      "end": 892
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 980,
+      "end": 996
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1025,
+      "end": 1041
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1207,
+      "end": 1220
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1314
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1984,
+      "end": 1996
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "text": "Agent",
+      "label": "ORG",
+      "start": 2517,
+      "end": 2522
+    },
+    {
+      "text": "für Gesundheit und Ernährungssicherheit",
+      "label": "ORG",
+      "start": 2525,
+      "end": 2564
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2570
+    },
+    {
+      "text": "Eva Glawischnig",
+      "label": "PER",
+      "start": 2611,
+      "end": 2626
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2764,
+      "end": 2776
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3007
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3071,
+      "end": 3087
+    },
+    {
+      "text": "Bundesministerium",
+      "label": "ORG",
+      "start": 3655,
+      "end": 3672
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 3719,
+      "end": 3725
+    },
+    {
+      "text": "Günther Kräuter",
+      "label": "PER",
+      "start": 3883,
+      "end": 3898
+    },
+    {
+      "text": "Brenner",
+      "label": "ORG",
+      "start": 4128,
+      "end": 4135
+    },
+    {
+      "text": "Brenner Eisenbahn GmbH",
+      "label": "ORG",
+      "start": 4219,
+      "end": 4241
+    },
+    {
+      "text": "Hans Moser",
+      "label": "PER",
+      "start": 4330,
+      "end": 4340
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 4783,
+      "end": 4799
+    },
+    {
+      "text": "Schasching",
+      "label": "PER",
+      "start": 4839,
+      "end": 4849
+    }
+  ]
+}

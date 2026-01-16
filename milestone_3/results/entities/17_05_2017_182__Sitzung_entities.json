@@ -1,0 +1,2147 @@
+{
+  "filename": "17.05.2017_182._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "PER",
+      "start": 652,
+      "end": 710
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 809,
+      "end": 883
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1191
+    },
+    {
+      "text": "Mag. Stefan",
+      "label": "PER",
+      "start": 1255,
+      "end": 1266
+    },
+    {
+      "text": "Dr. Hable",
+      "label": "PER",
+      "start": 1271,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 1760,
+      "end": 1782
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PER",
+      "start": 1944,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 2272,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Mag. Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2480,
+      "end": 2504
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2828,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Dipl.-Ing. Karin Doppelbauer",
+      "label": "PER",
+      "start": 2886,
+      "end": 2914
+    },
+    {
+      "text": "Agrarmarkt Austria",
+      "label": "ORG",
+      "start": 3040,
+      "end": 3058
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3177,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes\\nfür Menschenrechte",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3311
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3313,
+      "end": 3324
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3448,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Mag. Andreas Schieder",
+      "label": "PER",
+      "start": 3802,
+      "end": 3823
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 3825,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian Strache",
+      "label": "PER",
+      "start": 3847,
+      "end": 3869
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3871,
+      "end": 3899
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 3901,
+      "end": 3925
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3927,
+      "end": 3944
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4042,
+      "end": 4055
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 4110,
+      "end": 4128
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4130,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Mag. Philipp Schrangl",
+      "label": "PER",
+      "start": 4681,
+      "end": 4702
+    },
+    {
+      "text": "Dr. Karlheinz Töchterle",
+      "label": "PER",
+      "start": 4823,
+      "end": 4846
+    },
+    {
+      "text": "Mag. Andrea Kuntzl",
+      "label": "PER",
+      "start": 4848,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5188
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5454,
+      "end": 5473
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1191
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1255,
+      "end": 1259
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 1260,
+      "end": 1266
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1271,
+      "end": 1274
+    },
+    {
+      "text": "Hable",
+      "label": "PER",
+      "start": 1275,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 1760,
+      "end": 1782
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PER",
+      "start": 1944,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 2272,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Mag. Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2480,
+      "end": 2504
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2828,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Dipl.-Ing. Karin Doppelbauer",
+      "label": "PER",
+      "start": 2886,
+      "end": 2914
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3177,
+      "end": 3217
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3313,
+      "end": 3324
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3448,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Mag. Andreas Schieder",
+      "label": "PER",
+      "start": 3802,
+      "end": 3823
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 3825,
+      "end": 3845
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 3862,
+      "end": 3869
+    },
+    {
+      "text": "Dr. Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3871,
+      "end": 3899
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 3901,
+      "end": 3925
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3927,
+      "end": 3944
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4042,
+      "end": 4055
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 4110,
+      "end": 4128
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4130,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Mag. Philipp Schrangl",
+      "label": "PER",
+      "start": 4681,
+      "end": 4702
+    },
+    {
+      "text": "Linzer",
+      "label": "PER",
+      "start": 4748,
+      "end": 4754
+    },
+    {
+      "text": "Dr. Karlheinz Töchterle",
+      "label": "PER",
+      "start": 4823,
+      "end": 4846
+    },
+    {
+      "text": "Mag. Andrea Kuntzl",
+      "label": "PER",
+      "start": 4848,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5188
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 652,
+      "end": 710
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 825,
+      "end": 883
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 1260,
+      "end": 1266
+    },
+    {
+      "text": "Hable",
+      "label": "PER",
+      "start": 1275,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1765,
+      "end": 1782
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 2276,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2485,
+      "end": 2504
+    },
+    {
+      "text": "StF",
+      "label": "ORG",
+      "start": 2702,
+      "end": 2705
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2897,
+      "end": 2914
+    },
+    {
+      "text": "Agrarmarkt Austria",
+      "label": "ORG",
+      "start": 3040,
+      "end": 3058
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 3190,
+      "end": 3192
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3194,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes für Menschenrechte",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3311
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3465,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 3807,
+      "end": 3823
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 3829,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian Strache",
+      "label": "PER",
+      "start": 3847,
+      "end": 3869
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3875,
+      "end": 3899
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3910,
+      "end": 3925
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3932,
+      "end": 3944
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 4114,
+      "end": 4128
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4135,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 4686,
+      "end": 4702
+    },
+    {
+      "text": "Karlheinz Töchterle",
+      "label": "PER",
+      "start": 4827,
+      "end": 4846
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 4853,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 652,
+      "end": 710
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 809,
+      "end": 854
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1024
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1026,
+      "end": 1029
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1191
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1242,
+      "end": 1254
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 1260,
+      "end": 1266
+    },
+    {
+      "text": "Dr. Hable",
+      "label": "PER",
+      "start": 1271,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1558,
+      "end": 1572
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1747,
+      "end": 1759
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1765,
+      "end": 1782
+    },
+    {
+      "text": "ASVG",
+      "label": "ORG",
+      "start": 1888,
+      "end": 1892
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1943
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 2272,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2467,
+      "end": 2479
+    },
+    {
+      "text": "Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2485,
+      "end": 2504
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2828,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Dipl.-Ing. Karin Doppelbauer",
+      "label": "PER",
+      "start": 2886,
+      "end": 2914
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3194,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3292
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3326,
+      "end": 3329
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3465,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3789,
+      "end": 3801
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 3807,
+      "end": 3823
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 3825,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian Strache",
+      "label": "PER",
+      "start": 3847,
+      "end": 3869
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3875,
+      "end": 3899
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3910,
+      "end": 3925
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3927,
+      "end": 3944
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4042,
+      "end": 4055
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 4110,
+      "end": 4128
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4135,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 4686,
+      "end": 4702
+    },
+    {
+      "text": "Dr. Karlheinz",
+      "label": "PER",
+      "start": 4823,
+      "end": 4836
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 4853,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Uni-Budgets",
+      "label": "ORG",
+      "start": 5078,
+      "end": 5089
+    },
+    {
+      "text": "LV-Periode",
+      "label": "ORG",
+      "start": 5098,
+      "end": 5108
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5188
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "Bundesministers für Wissenschaft, Forschung und Wirtschaft",
+      "label": "ORG",
+      "start": 652,
+      "end": 710
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 809,
+      "end": 854
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1024
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1026,
+      "end": 1029
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1191
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1242,
+      "end": 1254
+    },
+    {
+      "text": "Stefan",
+      "label": "PER",
+      "start": 1260,
+      "end": 1266
+    },
+    {
+      "text": "Dr. Hable",
+      "label": "PER",
+      "start": 1271,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1558,
+      "end": 1572
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1747,
+      "end": 1759
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 1765,
+      "end": 1782
+    },
+    {
+      "text": "ASVG",
+      "label": "ORG",
+      "start": 1888,
+      "end": 1892
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1943
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Dr. Christoph Matznetter",
+      "label": "PER",
+      "start": 2272,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2467,
+      "end": 2479
+    },
+    {
+      "text": "Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2485,
+      "end": 2504
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2828,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Dipl.-Ing. Karin Doppelbauer",
+      "label": "PER",
+      "start": 2886,
+      "end": 2914
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3194,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3292
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3313,
+      "end": 3324
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3326,
+      "end": 3329
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3465,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3789,
+      "end": 3801
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 3807,
+      "end": 3823
+    },
+    {
+      "text": "Dr. Reinhold Lopatka",
+      "label": "PER",
+      "start": 3825,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian Strache",
+      "label": "PER",
+      "start": 3847,
+      "end": 3869
+    },
+    {
+      "text": "Eva Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 3875,
+      "end": 3899
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3910,
+      "end": 3925
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3927,
+      "end": 3944
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4042,
+      "end": 4055
+    },
+    {
+      "text": "Dr. Peter Wittmann",
+      "label": "PER",
+      "start": 4110,
+      "end": 4128
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4135,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 4686,
+      "end": 4702
+    },
+    {
+      "text": "Dr. Karlheinz",
+      "label": "PER",
+      "start": 4823,
+      "end": 4836
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 4853,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Uni-Budgets",
+      "label": "ORG",
+      "start": 5078,
+      "end": 5089
+    },
+    {
+      "text": "LV-Periode",
+      "label": "ORG",
+      "start": 5098,
+      "end": 5108
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5188
+    }
+  ],
+  "bert": [
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 829,
+      "end": 854
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1021
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Mag. Stefan",
+      "label": "PER",
+      "start": 1255,
+      "end": 1266
+    },
+    {
+      "text": "Dr. Hable",
+      "label": "PER",
+      "start": 1271,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 2276,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2485,
+      "end": 2504
+    },
+    {
+      "text": "KS",
+      "label": "ORG",
+      "start": 2695,
+      "end": 2697
+    },
+    {
+      "text": "StF",
+      "label": "ORG",
+      "start": 2702,
+      "end": 2705
+    },
+    {
+      "text": "Ausschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 2740,
+      "end": 2779
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2897,
+      "end": 2914
+    },
+    {
+      "text": "Agrarmarkt",
+      "label": "ORG",
+      "start": 3040,
+      "end": 3050
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3194,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes für Menschenrechte Nationalrat",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3324
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3465,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 3807,
+      "end": 3823
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 3829,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian Strache",
+      "label": "PER",
+      "start": 3847,
+      "end": 3869
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 3875,
+      "end": 3899
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3910,
+      "end": 3925
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3932,
+      "end": 3944
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 4114,
+      "end": 4128
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4135,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 4686,
+      "end": 4702
+    },
+    {
+      "text": "Karlheinz Töchterle",
+      "label": "PER",
+      "start": 4827,
+      "end": 4846
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 4853,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5183
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 744,
+      "end": 756
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 790,
+      "end": 792
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 917,
+      "end": 931
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 965,
+      "end": 967
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1013,
+      "end": 1021
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1097,
+      "end": 1111
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1129,
+      "end": 1143
+    },
+    {
+      "text": "Mag. Stefan",
+      "label": "PER",
+      "start": 1255,
+      "end": 1266
+    },
+    {
+      "text": "Hable",
+      "label": "PER",
+      "start": 1275,
+      "end": 1280
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1316,
+      "end": 1330
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "text": "Josef Muchitsch",
+      "label": "PER",
+      "start": 2070,
+      "end": 2085
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 2087,
+      "end": 2102
+    },
+    {
+      "text": "Christoph Matznetter",
+      "label": "PER",
+      "start": 2276,
+      "end": 2296
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2298,
+      "end": 2311
+    },
+    {
+      "text": "Aygül Berivan Aslan",
+      "label": "PER",
+      "start": 2485,
+      "end": 2504
+    },
+    {
+      "text": "KS",
+      "label": "ORG",
+      "start": 2695,
+      "end": 2697
+    },
+    {
+      "text": "##chG",
+      "label": "ORG",
+      "start": 2697,
+      "end": 2700
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 2702,
+      "end": 2704
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 2812,
+      "end": 2826
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 2843,
+      "end": 2862
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2864,
+      "end": 2884
+    },
+    {
+      "text": "Karin Doppelbauer",
+      "label": "PER",
+      "start": 2897,
+      "end": 2914
+    },
+    {
+      "text": "Agra",
+      "label": "ORG",
+      "start": 3040,
+      "end": 3044
+    },
+    {
+      "text": "##rkt Austria",
+      "label": "ORG",
+      "start": 3047,
+      "end": 3058
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3156,
+      "end": 3175
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 3190,
+      "end": 3192
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3194,
+      "end": 3217
+    },
+    {
+      "text": "Europäischen Gerichtshofes für Menschen",
+      "label": "ORG",
+      "start": 3266,
+      "end": 3305
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3377,
+      "end": 3391
+    },
+    {
+      "text": "Franz Kirchgatterer",
+      "label": "PER",
+      "start": 3427,
+      "end": 3446
+    },
+    {
+      "text": "F",
+      "label": "ORG",
+      "start": 3461,
+      "end": 3462
+    },
+    {
+      "text": "Elisabeth Pfurtscheller",
+      "label": "PER",
+      "start": 3465,
+      "end": 3488
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 3632,
+      "end": 3643
+    },
+    {
+      "text": "Andreas Schieder",
+      "label": "PER",
+      "start": 3807,
+      "end": 3823
+    },
+    {
+      "text": "Reinhold Lopatka",
+      "label": "PER",
+      "start": 3829,
+      "end": 3845
+    },
+    {
+      "text": "HeinzChristian",
+      "label": "ORG",
+      "start": 3847,
+      "end": 3861
+    },
+    {
+      "text": "Strache",
+      "label": "PER",
+      "start": 3862,
+      "end": 3869
+    },
+    {
+      "text": "Eva Glawischnig - Piesczek",
+      "label": "PER",
+      "start": 3875,
+      "end": 3899
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3910,
+      "end": 3925
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3932,
+      "end": 3944
+    },
+    {
+      "text": "Peter Wittmann",
+      "label": "PER",
+      "start": 4114,
+      "end": 4128
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 4135,
+      "end": 4150
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 4479,
+      "end": 4497
+    },
+    {
+      "text": "Philipp Schrangl",
+      "label": "PER",
+      "start": 4686,
+      "end": 4702
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 4780,
+      "end": 4789
+    },
+    {
+      "text": "Karlheinz Töchterle",
+      "label": "PER",
+      "start": 4827,
+      "end": 4846
+    },
+    {
+      "text": "Andrea Kuntzl",
+      "label": "PER",
+      "start": 4853,
+      "end": 4866
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 5011,
+      "end": 5024
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 5135,
+      "end": 5149
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 5175,
+      "end": 5183
+    }
+  ]
+}

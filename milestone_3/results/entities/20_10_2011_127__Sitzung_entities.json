@@ -1,0 +1,779 @@
+{
+  "filename": "20.10.2011_127._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 741,
+      "end": 761
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 781,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Mag. Cortolezis-Schlager",
+      "label": "PER",
+      "start": 882,
+      "end": 906
+    },
+    {
+      "text": "Mag. Fuhrmann",
+      "label": "PER",
+      "start": 908,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 933,
+      "end": 943
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 948,
+      "end": 961
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 999,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1367,
+      "end": 1380
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1993,
+      "end": 2013
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2039,
+      "end": 2052
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2240,
+      "end": 2259
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 741,
+      "end": 761
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 781,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 882,
+      "end": 886
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 887,
+      "end": 906
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 908,
+      "end": 912
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 933,
+      "end": 937
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 938,
+      "end": 943
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 948,
+      "end": 951
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 999,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1367,
+      "end": 1380
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1993,
+      "end": 2013
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2039,
+      "end": 2052
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 746,
+      "end": 761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 887,
+      "end": 906
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 938,
+      "end": 943
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1367,
+      "end": 1380
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1998,
+      "end": 2013
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 746,
+      "end": 761
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 781,
+      "end": 784
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 887,
+      "end": 906
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 933,
+      "end": 943
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 948,
+      "end": 961
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1367,
+      "end": 1380
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "text": "BZÖ-Kinderschutzpaket",
+      "label": "ORG",
+      "start": 1693,
+      "end": 1714
+    },
+    {
+      "text": "BZÖ-Offensive",
+      "label": "ORG",
+      "start": 1729,
+      "end": 1742
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Nationalen Aktionsplanes",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1950
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1993,
+      "end": 1996
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1998,
+      "end": 2013
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2039,
+      "end": 2052
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 188,
+      "end": 231
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 746,
+      "end": 761
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 781,
+      "end": 784
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 887,
+      "end": 906
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 933,
+      "end": 943
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 948,
+      "end": 961
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 1367,
+      "end": 1380
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "text": "BZÖ-Kinderschutzpaket",
+      "label": "ORG",
+      "start": 1693,
+      "end": 1714
+    },
+    {
+      "text": "BZÖ-Offensive",
+      "label": "ORG",
+      "start": 1729,
+      "end": 1742
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 1804,
+      "end": 1816
+    },
+    {
+      "text": "Nationalen Aktionsplanes",
+      "label": "ORG",
+      "start": 1926,
+      "end": 1950
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1993,
+      "end": 1996
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1998,
+      "end": 2013
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2039,
+      "end": 2052
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 746,
+      "end": 761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 882,
+      "end": 885
+    },
+    {
+      "text": "Cortolezis - Schlager",
+      "label": "PER",
+      "start": 887,
+      "end": 906
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 913,
+      "end": 921
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 923,
+      "end": 931
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 933,
+      "end": 943
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1998,
+      "end": 2013
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2039,
+      "end": 2052
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 663,
+      "end": 674
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 741,
+      "end": 744
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 746,
+      "end": 761
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 781,
+      "end": 784
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Riepl",
+      "label": "PER",
+      "start": 875,
+      "end": 880
+    },
+    {
+      "text": "Cortolezi",
+      "label": "PER",
+      "start": 887,
+      "end": 896
+    },
+    {
+      "text": "##s",
+      "label": "ORG",
+      "start": 896,
+      "end": 897
+    },
+    {
+      "text": "Fu",
+      "label": "PER",
+      "start": 913,
+      "end": 915
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 938,
+      "end": 943
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 952,
+      "end": 961
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 999,
+      "end": 1002
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1004,
+      "end": 1019
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1993,
+      "end": 2013
+    },
+    {
+      "text": "Parlament",
+      "label": "ORG",
+      "start": 2240,
+      "end": 2249
+    },
+    {
+      "text": "##irektion 1017",
+      "label": "ORG",
+      "start": 2251,
+      "end": 2264
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "filename": "24.11.2016_156._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 830,
+      "end": 843
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mag. Gisela Wurm",
+      "label": "PER",
+      "start": 906,
+      "end": 922
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 924,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Präsident Karlheinz Kopf",
+      "label": "PER",
+      "start": 973,
+      "end": 997
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4360,
+      "end": 4371
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4644,
+      "end": 4657
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 188,
+      "end": 201
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 830,
+      "end": 843
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Mag. Gisela Wurm",
+      "label": "PER",
+      "start": 906,
+      "end": 922
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 924,
+      "end": 927
+    },
+    {
+      "text": "Nachbaur",
+      "label": "PER",
+      "start": 928,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4360,
+      "end": 4371
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4644,
+      "end": 4657
+    }
+  ],
+  "flair": [
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "Nachbaur",
+      "label": "PER",
+      "start": 928,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 1497,
+      "end": 1553
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 3003,
+      "end": 3054
+    },
+    {
+      "text": "ISG",
+      "label": "ORG",
+      "start": 3085,
+      "end": 3088
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 678,
+      "end": 681
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 830,
+      "end": 843
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 924,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften\nÖsterreichs",
+      "label": "ORG",
+      "start": 1497,
+      "end": 1553
+    },
+    {
+      "text": "Gesundheitsund Sozialbereich-Beihilfengesetz",
+      "label": "ORG",
+      "start": 2307,
+      "end": 2351
+    },
+    {
+      "text": "BeamtenKranken-",
+      "label": "ORG",
+      "start": 2448,
+      "end": 2463
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2719,
+      "end": 2722
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "ISG",
+      "label": "ORG",
+      "start": 3085,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4360,
+      "end": 4371
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 4373,
+      "end": 4376
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4644,
+      "end": 4657
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 188,
+      "end": 225
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 678,
+      "end": 681
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 830,
+      "end": 843
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 924,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften\nÖsterreichs",
+      "label": "ORG",
+      "start": 1497,
+      "end": 1553
+    },
+    {
+      "text": "Gesundheitsund Sozialbereich-Beihilfengesetz",
+      "label": "ORG",
+      "start": 2307,
+      "end": 2351
+    },
+    {
+      "text": "BeamtenKranken-",
+      "label": "ORG",
+      "start": 2448,
+      "end": 2463
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2719,
+      "end": 2722
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "ISG",
+      "label": "ORG",
+      "start": 3085,
+      "end": 3088
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4360,
+      "end": 4371
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 4373,
+      "end": 4376
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4644,
+      "end": 4657
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "Nachbaur",
+      "label": "PER",
+      "start": 928,
+      "end": 936
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1273,
+      "end": 1306
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2717
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4360,
+      "end": 4368
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 665,
+      "end": 676
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 781,
+      "end": 795
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 891,
+      "end": 904
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 911,
+      "end": 922
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 941,
+      "end": 959
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 983,
+      "end": 997
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2706,
+      "end": 2714
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2775,
+      "end": 2789
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4392,
+      "end": 4406
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4604,
+      "end": 4618
+    }
+  ]
+}

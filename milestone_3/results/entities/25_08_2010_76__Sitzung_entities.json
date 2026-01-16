@@ -1,0 +1,1475 @@
+{
+  "filename": "25.08.2010_76._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "BM f. Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 790,
+      "end": 826
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 853,
+      "end": 927
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 961,
+      "end": 984
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1035,
+      "end": 1109
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "PER",
+      "start": 1204,
+      "end": 1253
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "PER",
+      "start": 1359,
+      "end": 1408
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "PER",
+      "start": 1514,
+      "end": 1563
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1287,
+      "end": 1308
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1442,
+      "end": 1463
+    },
+    {
+      "text": "Mag. Heidemarie Unterreiner",
+      "label": "PER",
+      "start": 1597,
+      "end": 1624
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1783,
+      "end": 1803
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1821,
+      "end": 1841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1888
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Mag. Hakl",
+      "label": "PER",
+      "start": 1948,
+      "end": 1957
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1959,
+      "end": 1966
+    },
+    {
+      "text": "Markowitz",
+      "label": "PER",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2016,
+      "end": 2036
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2540,
+      "end": 2558
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2720,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3528,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3720,
+      "end": 3740
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3793,
+      "end": 3811
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3963,
+      "end": 3981
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4107,
+      "end": 4125
+    },
+    {
+      "text": "Bundesministers für Handel und Gewerbe, Industrie und Bauten",
+      "label": "PER",
+      "start": 4225,
+      "end": 4285
+    },
+    {
+      "text": "Bundesministerin für Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 4567,
+      "end": 4618
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4651,
+      "end": 4671
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4746,
+      "end": 4765
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 124,
+      "end": 130
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 183,
+      "end": 196
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 263,
+      "end": 269
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 308,
+      "end": 314
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 961,
+      "end": 984
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Kunst",
+      "label": "PER",
+      "start": 1237,
+      "end": 1242
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1287,
+      "end": 1308
+    },
+    {
+      "text": "Kunst",
+      "label": "PER",
+      "start": 1392,
+      "end": 1397
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1442,
+      "end": 1463
+    },
+    {
+      "text": "Kunst",
+      "label": "PER",
+      "start": 1547,
+      "end": 1552
+    },
+    {
+      "text": "Mag. Heidemarie Unterreiner",
+      "label": "PER",
+      "start": 1597,
+      "end": 1624
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 1693,
+      "end": 1699
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1783,
+      "end": 1803
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1821,
+      "end": 1841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1888
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1948,
+      "end": 1952
+    },
+    {
+      "text": "Hakl",
+      "label": "PER",
+      "start": 1953,
+      "end": 1957
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1959,
+      "end": 1966
+    },
+    {
+      "text": "Markowitz",
+      "label": "PER",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 2016,
+      "end": 2036
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2540,
+      "end": 2558
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2720,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3528,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "August",
+      "label": "PER",
+      "start": 3680,
+      "end": 3686
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3720,
+      "end": 3740
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3793,
+      "end": 3811
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 3877,
+      "end": 3887
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3963,
+      "end": 3981
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4107,
+      "end": 4125
+    },
+    {
+      "text": "Handel",
+      "label": "PER",
+      "start": 4245,
+      "end": 4251
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4651,
+      "end": 4671
+    }
+  ],
+  "flair": [
+    {
+      "text": "BM f. Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 790,
+      "end": 826
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 853,
+      "end": 927
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 966,
+      "end": 984
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1109
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1204,
+      "end": 1253
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1291,
+      "end": 1308
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1408
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1446,
+      "end": 1463
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1563
+    },
+    {
+      "text": "Heidemarie Unterreiner",
+      "label": "PER",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1830,
+      "end": 1841
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Hakl",
+      "label": "PER",
+      "start": 1953,
+      "end": 1957
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1959,
+      "end": 1966
+    },
+    {
+      "text": "Markowitz",
+      "label": "PER",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2025,
+      "end": 2036
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2402,
+      "end": 2435
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2545,
+      "end": 2558
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3182,
+      "end": 3195
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3533,
+      "end": 3546
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3729,
+      "end": 3740
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3798,
+      "end": 3811
+    },
+    {
+      "text": "Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3903,
+      "end": 3927
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3968,
+      "end": 3981
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 4112,
+      "end": 4125
+    },
+    {
+      "text": "Bundesministers für Handel und Gewerbe, Industrie und Bauten",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4285
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start": 4450,
+      "end": 4453
+    },
+    {
+      "text": "Bundesministerin für Frauen und öffentlichen Dienst",
+      "label": "ORG",
+      "start": 4567,
+      "end": 4618
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4660,
+      "end": 4671
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 183,
+      "end": 226
+    },
+    {
+      "text": "Frauenbericht",
+      "label": "ORG",
+      "start": 770,
+      "end": 783
+    },
+    {
+      "text": "BM f. Frauen",
+      "label": "ORG",
+      "start": 790,
+      "end": 802
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 853,
+      "end": 898
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 966,
+      "end": 984
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1080
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1204,
+      "end": 1253
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1286
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1287,
+      "end": 1308
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1408
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1429,
+      "end": 1441
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1442,
+      "end": 1463
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1563
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1584,
+      "end": 1596
+    },
+    {
+      "text": "Heidemarie Unterreiner",
+      "label": "PER",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1821,
+      "end": 1824
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1830,
+      "end": 1841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1888
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1948,
+      "end": 1952
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2025,
+      "end": 2036
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2264,
+      "end": 2278
+    },
+    {
+      "text": "KSV-SG",
+      "label": "ORG",
+      "start": 2487,
+      "end": 2493
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2540,
+      "end": 2558
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2720,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3528,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "Martin Graf\n\n",
+      "label": "PER",
+      "start": 3729,
+      "end": 3742
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3793,
+      "end": 3811
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 3877,
+      "end": 3887
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3963,
+      "end": 3981
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4107,
+      "end": 4125
+    },
+    {
+      "text": "Bundesministers für Handel und Gewerbe",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4263
+    },
+    {
+      "text": "Frauenbericht",
+      "label": "PER",
+      "start": 4544,
+      "end": 4557
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 4567,
+      "end": 4594
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4651,
+      "end": 4654
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4660,
+      "end": 4671
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 183,
+      "end": 226
+    },
+    {
+      "text": "Frauenbericht",
+      "label": "ORG",
+      "start": 770,
+      "end": 783
+    },
+    {
+      "text": "BM f. Frauen",
+      "label": "ORG",
+      "start": 790,
+      "end": 802
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 853,
+      "end": 898
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 966,
+      "end": 984
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1080
+    },
+    {
+      "text": "Petra Bayr",
+      "label": "PER",
+      "start": 1143,
+      "end": 1153
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1204,
+      "end": 1253
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1286
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1287,
+      "end": 1308
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1359,
+      "end": 1408
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1429,
+      "end": 1441
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1442,
+      "end": 1463
+    },
+    {
+      "text": "Bundesministerin für Unterricht, Kunst und Kultur",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1563
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1584,
+      "end": 1596
+    },
+    {
+      "text": "Heidemarie Unterreiner",
+      "label": "PER",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1706,
+      "end": 1717
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1792,
+      "end": 1803
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1821,
+      "end": 1824
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1830,
+      "end": 1841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1888
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1948,
+      "end": 1952
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2025,
+      "end": 2036
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2264,
+      "end": 2278
+    },
+    {
+      "text": "KSV-SG",
+      "label": "ORG",
+      "start": 2487,
+      "end": 2493
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2540,
+      "end": 2558
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2720,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3528,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "Martin Graf\n\n",
+      "label": "PER",
+      "start": 3729,
+      "end": 3742
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3793,
+      "end": 3811
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 3877,
+      "end": 3887
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3963,
+      "end": 3981
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4107,
+      "end": 4125
+    },
+    {
+      "text": "Bundesministers für Handel und Gewerbe",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4263
+    },
+    {
+      "text": "Frauenbericht",
+      "label": "PER",
+      "start": 4544,
+      "end": 4557
+    },
+    {
+      "text": "Bundesministerin für Frauen",
+      "label": "ORG",
+      "start": 4567,
+      "end": 4594
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4651,
+      "end": 4654
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4660,
+      "end": 4671
+    }
+  ],
+  "bert": [
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 853,
+      "end": 859
+    },
+    {
+      "text": "für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 869,
+      "end": 898
+    },
+    {
+      "text": "Umwelt",
+      "label": "ORG",
+      "start": 900,
+      "end": 906
+    },
+    {
+      "text": "Wasserwirtschaft",
+      "label": "ORG",
+      "start": 911,
+      "end": 927
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 961,
+      "end": 965
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 966,
+      "end": 984
+    },
+    {
+      "text": "Bundesministers für Land - und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1109
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Mag. Hakl",
+      "label": "PER",
+      "start": 1948,
+      "end": 1957
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1959,
+      "end": 1966
+    },
+    {
+      "text": "Markowitz",
+      "label": "PER",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2025,
+      "end": 2036
+    },
+    {
+      "text": "KSV",
+      "label": "ORG",
+      "start": 2487,
+      "end": 2490
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2545,
+      "end": 2558
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3182,
+      "end": 3195
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3533,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 3800,
+      "end": 3801
+    },
+    {
+      "text": "##bert Hofer",
+      "label": "PER",
+      "start": 3801,
+      "end": 3811
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3889,
+      "end": 3927
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3968,
+      "end": 3981
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 4112,
+      "end": 4125
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4660,
+      "end": 4671
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 790,
+      "end": 792
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 961,
+      "end": 965
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 966,
+      "end": 984
+    },
+    {
+      "text": "Haberzettl",
+      "label": "PER",
+      "start": 1936,
+      "end": 1946
+    },
+    {
+      "text": "Hakl",
+      "label": "PER",
+      "start": 1953,
+      "end": 1957
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1959,
+      "end": 1966
+    },
+    {
+      "text": "Markowitz",
+      "label": "PER",
+      "start": 1971,
+      "end": 1980
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 2025,
+      "end": 2036
+    },
+    {
+      "text": "KS",
+      "label": "ORG",
+      "start": 2487,
+      "end": 2489
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2545,
+      "end": 2558
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2725,
+      "end": 2738
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 2886,
+      "end": 2899
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3177,
+      "end": 3181
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3182,
+      "end": 3195
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 3528,
+      "end": 3532
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3533,
+      "end": 3546
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3653,
+      "end": 3664
+    },
+    {
+      "text": "r",
+      "label": "PER",
+      "start": 3800,
+      "end": 3801
+    },
+    {
+      "text": "##bert Hofer",
+      "label": "PER",
+      "start": 3801,
+      "end": 3811
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 3963,
+      "end": 3966
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3968,
+      "end": 3981
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4107,
+      "end": 4125
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4660,
+      "end": 4671
+    }
+  ]
+}

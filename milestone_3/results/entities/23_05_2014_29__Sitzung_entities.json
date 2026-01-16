@@ -1,0 +1,485 @@
+{
+  "filename": "23.05.2014_29._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 178,
+      "end": 191
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "PER",
+      "start": 797,
+      "end": 810
+    },
+    {
+      "text": "Mag. Haider",
+      "label": "PER",
+      "start": 858,
+      "end": 869
+    },
+    {
+      "text": "Mag. Schwentner",
+      "label": "PER",
+      "start": 874,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1536,
+      "end": 1550
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1576,
+      "end": 1589
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1785,
+      "end": 1804
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 178,
+      "end": 191
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 797,
+      "end": 810
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 858,
+      "end": 862
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 863,
+      "end": 869
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 874,
+      "end": 878
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 879,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1536,
+      "end": 1550
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1576,
+      "end": 1589
+    }
+  ],
+  "flair": [
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 863,
+      "end": 869
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 879,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1536,
+      "end": 1550
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 178,
+      "end": 215
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 646,
+      "end": 649
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 797,
+      "end": 810
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 845,
+      "end": 857
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 863,
+      "end": 869
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 874,
+      "end": 877
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 879,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1536,
+      "end": 1550
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1576,
+      "end": 1589
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 178,
+      "end": 215
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 646,
+      "end": 649
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 797,
+      "end": 810
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 845,
+      "end": 857
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 863,
+      "end": 869
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 874,
+      "end": 877
+    },
+    {
+      "text": "Schwentner",
+      "label": "PER",
+      "start": 879,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 1536,
+      "end": 1550
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1576,
+      "end": 1589
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 633,
+      "end": 644
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Mag. Haider",
+      "label": "PER",
+      "start": 858,
+      "end": 869
+    },
+    {
+      "text": "Mag. Schwentner",
+      "label": "PER",
+      "start": 874,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 1215,
+      "end": 1218
+    },
+    {
+      "text": "für Arbeit",
+      "label": "ORG",
+      "start": 1225,
+      "end": 1235
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 1240,
+      "end": 1248
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 1304,
+      "end": 1307
+    },
+    {
+      "text": "für Land - und",
+      "label": "ORG",
+      "start": 1314,
+      "end": 1327
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 717,
+      "end": 731
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Mag. Haider",
+      "label": "PER",
+      "start": 858,
+      "end": 869
+    },
+    {
+      "text": "Mag. Schwentner",
+      "label": "PER",
+      "start": 874,
+      "end": 889
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 925,
+      "end": 939
+    },
+    {
+      "text": "Sp",
+      "label": "ORG",
+      "start": 1285,
+      "end": 1287
+    },
+    {
+      "text": "##B",
+      "label": "ORG",
+      "start": 1287,
+      "end": 1288
+    },
+    {
+      "text": "##egr",
+      "label": "ORG",
+      "start": 1288,
+      "end": 1291
+    }
+  ]
+}

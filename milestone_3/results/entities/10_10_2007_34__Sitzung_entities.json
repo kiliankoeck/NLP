@@ -1,0 +1,1505 @@
+{
+  "filename": "10.10.2007_34._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 816,
+      "end": 828
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 967,
+      "end": 987
+    },
+    {
+      "text": "Bundesministerin für europäische und internationale Angelegenheiten",
+      "label": "PER",
+      "start": 1021,
+      "end": 1088
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1203
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1271,
+      "end": 1291
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1311,
+      "end": 1331
+    },
+    {
+      "text": "Fleckl",
+      "label": "PER",
+      "start": 1405,
+      "end": 1411
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 1423,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1433,
+      "end": 1443
+    },
+    {
+      "text": "Dipl.-Ing. Klement",
+      "label": "PER",
+      "start": 1448,
+      "end": 1466
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1504,
+      "end": 1524
+    },
+    {
+      "text": "Familie und Beruf Management GmbH",
+      "label": "ORG",
+      "start": 2151,
+      "end": 2184
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "Mag. Herbert",
+      "label": "PER",
+      "start": 2597,
+      "end": 2609
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2699,
+      "end": 2731
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2879,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3171,
+      "end": 3182
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3242,
+      "end": 3262
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4386,
+      "end": 4406
+    },
+    {
+      "text": "Dr. Einem",
+      "label": "PER",
+      "start": 4513,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4735,
+      "end": 4748
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4989,
+      "end": 5008
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 967,
+      "end": 987
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1203
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1271,
+      "end": 1291
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1311,
+      "end": 1331
+    },
+    {
+      "text": "Fleckl",
+      "label": "PER",
+      "start": 1405,
+      "end": 1411
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 1423,
+      "end": 1431
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1433,
+      "end": 1437
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1438,
+      "end": 1443
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 1448,
+      "end": 1458
+    },
+    {
+      "text": "Klement",
+      "label": "PER",
+      "start": 1459,
+      "end": 1466
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1504,
+      "end": 1524
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2597,
+      "end": 2601
+    },
+    {
+      "text": "Herbert",
+      "label": "PER",
+      "start": 2602,
+      "end": 2609
+    },
+    {
+      "text": "Haupt",
+      "label": "PER",
+      "start": 2610,
+      "end": 2615
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2699,
+      "end": 2702
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2703,
+      "end": 2709
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2879,
+      "end": 2882
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2883,
+      "end": 2889
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3171,
+      "end": 3182
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3242,
+      "end": 3262
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4386,
+      "end": 4406
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4513,
+      "end": 4516
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 4517,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4735,
+      "end": 4748
+    }
+  ],
+  "flair": [
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 695,
+      "end": 708
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 816,
+      "end": 828
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "für europäische und internationale",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1072
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "text": "Fleckl",
+      "label": "PER",
+      "start": 1405,
+      "end": 1411
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 1423,
+      "end": 1431
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1438,
+      "end": 1443
+    },
+    {
+      "text": "Klement",
+      "label": "PER",
+      "start": 1459,
+      "end": 1466
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1509,
+      "end": 1524
+    },
+    {
+      "text": "Familie und Beruf Management GmbH",
+      "label": "ORG",
+      "start": 2151,
+      "end": 2184
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2602,
+      "end": 2615
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2703,
+      "end": 2731
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2883,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3247,
+      "end": 3262
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4391,
+      "end": 4406
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 4517,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 383,
+      "end": 485
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 513,
+      "end": 619
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "R.H.G.",
+      "label": "ORG",
+      "start": 850,
+      "end": 856
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Bundesministerin für europäische und internationale Angelegenheiten",
+      "label": "ORG",
+      "start": 1021,
+      "end": 1088
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1203
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1311,
+      "end": 1314
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "text": "Fleckl",
+      "label": "PER",
+      "start": 1405,
+      "end": 1411
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 1423,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1433,
+      "end": 1443
+    },
+    {
+      "text": "Dipl.-Ing. Klement",
+      "label": "PER",
+      "start": 1448,
+      "end": 1466
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1504,
+      "end": 1507
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1509,
+      "end": 1524
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1755,
+      "end": 1766
+    },
+    {
+      "text": "Gesellschaft „Familie und Beruf Management GmbH",
+      "label": "ORG",
+      "start": 2137,
+      "end": 2184
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "BM a.D. Mag",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2600
+    },
+    {
+      "text": "Herbert\nHaupt",
+      "label": "PER",
+      "start": 2602,
+      "end": 2615
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2699,
+      "end": 2731
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2879,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3171,
+      "end": 3182
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3242,
+      "end": 3245
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3247,
+      "end": 3262
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4386,
+      "end": 4389
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4391,
+      "end": 4406
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4500,
+      "end": 4512
+    },
+    {
+      "text": "Dr. Einem",
+      "label": "PER",
+      "start": 4513,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4735,
+      "end": 4748
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 383,
+      "end": 485
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 513,
+      "end": 619
+    },
+    {
+      "text": "Dr. Robert Aspöck",
+      "label": "PER",
+      "start": 691,
+      "end": 708
+    },
+    {
+      "text": "Rechnungshof",
+      "label": "ORG",
+      "start": 816,
+      "end": 828
+    },
+    {
+      "text": "R.H.G.",
+      "label": "ORG",
+      "start": 850,
+      "end": 856
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Bundesministerin für europäische und internationale Angelegenheiten",
+      "label": "ORG",
+      "start": 1021,
+      "end": 1088
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1203
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1311,
+      "end": 1314
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "text": "Fleckl",
+      "label": "PER",
+      "start": 1405,
+      "end": 1411
+    },
+    {
+      "text": "Großruck",
+      "label": "PER",
+      "start": 1413,
+      "end": 1421
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 1423,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1433,
+      "end": 1443
+    },
+    {
+      "text": "Dipl.-Ing. Klement",
+      "label": "PER",
+      "start": 1448,
+      "end": 1466
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1504,
+      "end": 1507
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1509,
+      "end": 1524
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1755,
+      "end": 1766
+    },
+    {
+      "text": "Gesellschaft „Familie und Beruf Management GmbH",
+      "label": "ORG",
+      "start": 2137,
+      "end": 2184
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "BM a.D. Mag",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2600
+    },
+    {
+      "text": "Herbert\nHaupt",
+      "label": "PER",
+      "start": 2602,
+      "end": 2615
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2699,
+      "end": 2731
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2879,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3171,
+      "end": 3182
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3242,
+      "end": 3245
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3247,
+      "end": 3262
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4386,
+      "end": 4389
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4391,
+      "end": 4406
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4500,
+      "end": 4512
+    },
+    {
+      "text": "Dr. Einem",
+      "label": "PER",
+      "start": 4513,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4735,
+      "end": 4748
+    }
+  ],
+  "bert": [
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 695,
+      "end": 708
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1203
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2591
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2602,
+      "end": 2615
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 2620,
+      "end": 2622
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dagmar Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 2703,
+      "end": 2731
+    },
+    {
+      "text": "Dagmar Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 2883,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3171,
+      "end": 3182
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3247,
+      "end": 3259
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4391,
+      "end": 4406
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 4517,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4735,
+      "end": 4748
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Robert Aspöck",
+      "label": "PER",
+      "start": 695,
+      "end": 708
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 976,
+      "end": 987
+    },
+    {
+      "text": "Michail Cherney",
+      "label": "PER",
+      "start": 1119,
+      "end": 1134
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1200
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1276,
+      "end": 1291
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1311,
+      "end": 1314
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "text": "Familie und Beruf Management GmbH",
+      "label": "ORG",
+      "start": 2151,
+      "end": 2184
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2481,
+      "end": 2504
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 2589,
+      "end": 2591
+    },
+    {
+      "text": "Herbert Haupt",
+      "label": "PER",
+      "start": 2602,
+      "end": 2615
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 2620,
+      "end": 2622
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 2628,
+      "end": 2642
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2703,
+      "end": 2722
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2723,
+      "end": 2731
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2883,
+      "end": 2902
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2903,
+      "end": 2911
+    },
+    {
+      "text": "Barbara Rosenkranz",
+      "label": "PER",
+      "start": 3077,
+      "end": 3095
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3247,
+      "end": 3262
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 3297,
+      "end": 3320
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3519,
+      "end": 3534
+    },
+    {
+      "text": "Bund",
+      "label": "PER",
+      "start": 3624,
+      "end": 3628
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3683,
+      "end": 3695
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 3862,
+      "end": 3874
+    },
+    {
+      "text": "Josef Bucher",
+      "label": "PER",
+      "start": 4041,
+      "end": 4053
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 4263,
+      "end": 4283
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4391,
+      "end": 4406
+    },
+    {
+      "text": "Einem",
+      "label": "PER",
+      "start": 4517,
+      "end": 4522
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 4642,
+      "end": 4652
+    }
+  ]
+}

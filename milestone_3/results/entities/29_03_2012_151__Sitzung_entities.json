@@ -1,0 +1,1583 @@
+{
+  "filename": "29.03.2012_151._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Wolfgang Zanger,",
+      "label": "PER",
+      "start": 1069,
+      "end": 1085
+    },
+    {
+      "text": "Bundesminister für Gesundheit",
+      "label": "PER",
+      "start": 1118,
+      "end": 1147
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "PER",
+      "start": 1237,
+      "end": 1287
+    },
+    {
+      "text": "Mag. Johann Maier,",
+      "label": "PER",
+      "start": 1321,
+      "end": 1339
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "PER",
+      "start": 1391,
+      "end": 1441
+    },
+    {
+      "text": "Dr. Harald Walser,",
+      "label": "PER",
+      "start": 1475,
+      "end": 1493
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1575,
+      "end": 1587
+    },
+    {
+      "text": "Mag. Dr. Martin Graf.",
+      "label": "PER",
+      "start": 1660,
+      "end": 1681
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 1698,
+      "end": 1719
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1767
+    },
+    {
+      "text": "Mag. Cortolezis-Schlager,",
+      "label": "PER",
+      "start": 1814,
+      "end": 1839
+    },
+    {
+      "text": "Einwallner,",
+      "label": "PER",
+      "start": 1840,
+      "end": 1851
+    },
+    {
+      "text": "Dr. Ferdinand Maier,",
+      "label": "PER",
+      "start": 1852,
+      "end": 1872
+    },
+    {
+      "text": "Ing. Hofer, Dr. Winter,",
+      "label": "PER",
+      "start": 1873,
+      "end": 1896
+    },
+    {
+      "text": "Mag. Brunner",
+      "label": "PER",
+      "start": 1897,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann-Bruckberger.",
+      "label": "PER",
+      "start": 1914,
+      "end": 1935
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 1970,
+      "end": 1991
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "PER",
+      "start": 2548,
+      "end": 2577
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "PER",
+      "start": 2647,
+      "end": 2676
+    },
+    {
+      "text": "Ulrike Königsberger-Ludwig,",
+      "label": "PER",
+      "start": 2810,
+      "end": 2837
+    },
+    {
+      "text": "Dr. Franz-Joseph\\n\\nHuainigg,",
+      "label": "PER",
+      "start": 2838,
+      "end": 2864
+    },
+    {
+      "text": "Mag. Judith Schwentner,",
+      "label": "PER",
+      "start": 2865,
+      "end": 2888
+    },
+    {
+      "text": "Gerhard Huber,",
+      "label": "PER",
+      "start": 2889,
+      "end": 2903
+    },
+    {
+      "text": "Gerhard Huber,",
+      "label": "PER",
+      "start": 3067,
+      "end": 3081
+    },
+    {
+      "text": "Werner Neubauer,",
+      "label": "PER",
+      "start": 3082,
+      "end": 3098
+    },
+    {
+      "text": "Anneliese Kitzmüller,",
+      "label": "PER",
+      "start": 3292,
+      "end": 3313
+    },
+    {
+      "text": "Anneliese Kitzmüller,",
+      "label": "PER",
+      "start": 3429,
+      "end": 3450
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3586,
+      "end": 3598
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3652,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller,",
+      "label": "PER",
+      "start": 3730,
+      "end": 3751
+    },
+    {
+      "text": "Martina Schenk,",
+      "label": "PER",
+      "start": 3906,
+      "end": 3921
+    },
+    {
+      "text": "Martina Schenk,",
+      "label": "PER",
+      "start": 4042,
+      "end": 4057
+    },
+    {
+      "text": "Herbert Scheibner,",
+      "label": "PER",
+      "start": 4216,
+      "end": 4234
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "PER",
+      "start": 4454,
+      "end": 4483
+    },
+    {
+      "text": "Mag. Dr. Martin Graf:",
+      "label": "PER",
+      "start": 4612,
+      "end": 4633
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4672
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4868,
+      "end": 4887
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1069,
+      "end": 1084
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 1321,
+      "end": 1338
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 1475,
+      "end": 1492
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1575,
+      "end": 1586
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1660,
+      "end": 1680
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1698,
+      "end": 1718
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1814,
+      "end": 1818
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 1819,
+      "end": 1838
+    },
+    {
+      "text": "Einwallner",
+      "label": "PER",
+      "start": 1840,
+      "end": 1850
+    },
+    {
+      "text": "Dr. Ferdinand Maier",
+      "label": "PER",
+      "start": 1852,
+      "end": 1871
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1873,
+      "end": 1877
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1878,
+      "end": 1883
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1885,
+      "end": 1888
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1889,
+      "end": 1895
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1897,
+      "end": 1901
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann-Bruckberger",
+      "label": "PER",
+      "start": 1914,
+      "end": 1934
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 1970,
+      "end": 1990
+    },
+    {
+      "text": "Ulrike Königsberger-Ludwig",
+      "label": "PER",
+      "start": 2810,
+      "end": 2836
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2838,
+      "end": 2841
+    },
+    {
+      "text": "Franz-Joseph",
+      "label": "PER",
+      "start": 2842,
+      "end": 2854
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 2855,
+      "end": 2863
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 2865,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3586,
+      "end": 3597
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 3652,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 4612,
+      "end": 4632
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4671
+    }
+  ],
+  "flair": [
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 773,
+      "end": 775
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 804,
+      "end": 806
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 830,
+      "end": 832
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 868,
+      "end": 870
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1007
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1069,
+      "end": 1084
+    },
+    {
+      "text": "Gesundheit",
+      "label": "ORG",
+      "start": 1137,
+      "end": 1147
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1237,
+      "end": 1287
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1326,
+      "end": 1338
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1441
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1479,
+      "end": 1492
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1669,
+      "end": 1680
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1707,
+      "end": 1718
+    },
+    {
+      "text": "Cortolezis-Schlager",
+      "label": "PER",
+      "start": 1819,
+      "end": 1838
+    },
+    {
+      "text": "Einwallner",
+      "label": "PER",
+      "start": 1840,
+      "end": 1850
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1856,
+      "end": 1871
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1878,
+      "end": 1883
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1889,
+      "end": 1895
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann-Bruckberger",
+      "label": "PER",
+      "start": 1914,
+      "end": 1934
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "Ulrike Königsberger-Ludwig",
+      "label": "PER",
+      "start": 2810,
+      "end": 2836
+    },
+    {
+      "text": "Franz-Joseph Huainigg",
+      "label": "PER",
+      "start": 2842,
+      "end": 2863
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 2870,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3661,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Finanzen",
+      "label": "ORG",
+      "start": 4475,
+      "end": 4483
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4621,
+      "end": 4632
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "...............................................................................................................",
+      "label": "PER",
+      "start": 646,
+      "end": 757
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 773,
+      "end": 775
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 804,
+      "end": 818
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 830,
+      "end": 832
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 868,
+      "end": 873
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1069,
+      "end": 1084
+    },
+    {
+      "text": "Bundesminister für Gesundheit",
+      "label": "ORG",
+      "start": 1118,
+      "end": 1147
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1237,
+      "end": 1287
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1308,
+      "end": 1320
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1326,
+      "end": 1338
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1441
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1479,
+      "end": 1492
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1575,
+      "end": 1586
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1660,
+      "end": 1663
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1669,
+      "end": 1680
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1698,
+      "end": 1701
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1707,
+      "end": 1718
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1801,
+      "end": 1813
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1856,
+      "end": 1871
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1873,
+      "end": 1883
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1885,
+      "end": 1895
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann-Bruckberger",
+      "label": "PER",
+      "start": 1914,
+      "end": 1934
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2221,
+      "end": 2232
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2548,
+      "end": 2577
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2647,
+      "end": 2676
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2689,
+      "end": 2691
+    },
+    {
+      "text": "Ulrike Königsberger-Ludwig",
+      "label": "PER",
+      "start": 2810,
+      "end": 2836
+    },
+    {
+      "text": "Dr. Franz-Joseph\nHuainigg",
+      "label": "PER",
+      "start": 2838,
+      "end": 2863
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2865,
+      "end": 2868
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 2870,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3661,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 4454,
+      "end": 4483
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4612,
+      "end": 4615
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4621,
+      "end": 4632
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4671
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 185,
+      "end": 228
+    },
+    {
+      "text": "...............................................................................................................",
+      "label": "PER",
+      "start": 646,
+      "end": 757
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 773,
+      "end": 775
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 804,
+      "end": 818
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 830,
+      "end": 832
+    },
+    {
+      "text": "BM f.",
+      "label": "ORG",
+      "start": 868,
+      "end": 873
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1069,
+      "end": 1084
+    },
+    {
+      "text": "Bundesminister für Gesundheit",
+      "label": "ORG",
+      "start": 1118,
+      "end": 1147
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1237,
+      "end": 1287
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1308,
+      "end": 1320
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 1326,
+      "end": 1338
+    },
+    {
+      "text": "Bundesministers für Wirtschaft, Familie und Jugend",
+      "label": "ORG",
+      "start": 1391,
+      "end": 1441
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1479,
+      "end": 1492
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1575,
+      "end": 1586
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1660,
+      "end": 1663
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1669,
+      "end": 1680
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1698,
+      "end": 1701
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1707,
+      "end": 1718
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1801,
+      "end": 1813
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1856,
+      "end": 1871
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1873,
+      "end": 1883
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1885,
+      "end": 1895
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann-Bruckberger",
+      "label": "PER",
+      "start": 1914,
+      "end": 1934
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2221,
+      "end": 2232
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2548,
+      "end": 2577
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 2647,
+      "end": 2676
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2689,
+      "end": 2691
+    },
+    {
+      "text": "Ulrike Königsberger-Ludwig",
+      "label": "PER",
+      "start": 2810,
+      "end": 2836
+    },
+    {
+      "text": "Dr. Franz-Joseph\nHuainigg",
+      "label": "PER",
+      "start": 2838,
+      "end": 2863
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2865,
+      "end": 2868
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 2870,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3586,
+      "end": 3597
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3661,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Bundesministerin für Finanzen",
+      "label": "ORG",
+      "start": 4454,
+      "end": 4483
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4612,
+      "end": 4615
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4621,
+      "end": 4632
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4671
+    }
+  ],
+  "bert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 804,
+      "end": 806
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 868,
+      "end": 870
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1007
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann",
+      "label": "PER",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "Bruckberger",
+      "label": "PER",
+      "start": 1923,
+      "end": 1934
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 2647,
+      "end": 2653
+    },
+    {
+      "text": "Fin",
+      "label": "ORG",
+      "start": 2668,
+      "end": 2671
+    },
+    {
+      "text": "Ulrike Königsberger - Ludwig",
+      "label": "PER",
+      "start": 2810,
+      "end": 2836
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 2842,
+      "end": 2863
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 2870,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3586,
+      "end": 3597
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3661,
+      "end": 3672
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4621,
+      "end": 4632
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4666
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1902,
+      "end": 1909
+    },
+    {
+      "text": "Kaufmann",
+      "label": "PER",
+      "start": 1914,
+      "end": 1922
+    },
+    {
+      "text": "- Bruckberger",
+      "label": "PER",
+      "start": 1922,
+      "end": 1934
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "text": "Ulrike Königsberger",
+      "label": "PER",
+      "start": 2810,
+      "end": 2829
+    },
+    {
+      "text": "Ludwig",
+      "label": "PER",
+      "start": 2830,
+      "end": 2836
+    },
+    {
+      "text": "Franz - Joseph Huainigg",
+      "label": "PER",
+      "start": 2842,
+      "end": 2863
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 2870,
+      "end": 2887
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2889,
+      "end": 2902
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3067,
+      "end": 3080
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 3082,
+      "end": 3097
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3292,
+      "end": 3312
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3429,
+      "end": 3449
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3586,
+      "end": 3597
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 3661,
+      "end": 3672
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 3686,
+      "end": 3689
+    },
+    {
+      "text": "Anneliese Kitzmüller",
+      "label": "PER",
+      "start": 3730,
+      "end": 3750
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3906,
+      "end": 3920
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4042,
+      "end": 4056
+    },
+    {
+      "text": "Herbert Scheibner",
+      "label": "PER",
+      "start": 4216,
+      "end": 4233
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 4621,
+      "end": 4632
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4658,
+      "end": 4666
+    },
+    {
+      "text": "Parlamentsdirektion 1017",
+      "label": "ORG",
+      "start": 4868,
+      "end": 4892
+    }
+  ]
+}

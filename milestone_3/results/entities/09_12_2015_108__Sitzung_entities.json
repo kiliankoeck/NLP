@@ -1,0 +1,1193 @@
+{
+  "filename": "09.12.2015_108._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 932,
+      "end": 954
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1005,
+      "end": 1033
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "Bundesministers für Europa, Integration und Äußeres",
+      "label": "PER",
+      "start": 1132,
+      "end": 1183
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1413,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1449,
+      "end": 1467
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "text": "Weninger",
+      "label": "PER",
+      "start": 1557,
+      "end": 1565
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1567,
+      "end": 1573
+    },
+    {
+      "text": "Höfinger",
+      "label": "PER",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1585,
+      "end": 1595
+    },
+    {
+      "text": "Mag. Hauser",
+      "label": "PER",
+      "start": 1597,
+      "end": 1608
+    },
+    {
+      "text": "Mag. Brunner",
+      "label": "PER",
+      "start": 1610,
+      "end": 1622
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1624,
+      "end": 1638
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1643,
+      "end": 1647
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1683,
+      "end": 1701
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2242,
+      "end": 2274
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 2546,
+      "end": 2565
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2702,
+      "end": 2734
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2848,
+      "end": 2859
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2916,
+      "end": 2934
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2992,
+      "end": 3016
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3251,
+      "end": 3264
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3454,
+      "end": 3473
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Mag. Judith Schwentner",
+      "label": "PER",
+      "start": 932,
+      "end": 954
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1413,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1449,
+      "end": 1467
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "text": "Weninger",
+      "label": "PER",
+      "start": 1557,
+      "end": 1565
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1567,
+      "end": 1573
+    },
+    {
+      "text": "Höfinger",
+      "label": "PER",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1585,
+      "end": 1589
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 1590,
+      "end": 1595
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1597,
+      "end": 1601
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1602,
+      "end": 1608
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1615,
+      "end": 1622
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1624,
+      "end": 1627
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 1628,
+      "end": 1638
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1683,
+      "end": 1701
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2242,
+      "end": 2245
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2246,
+      "end": 2252
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 2546,
+      "end": 2565
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2702,
+      "end": 2705
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2706,
+      "end": 2712
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2848,
+      "end": 2859
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2916,
+      "end": 2934
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2992,
+      "end": 3016
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3251,
+      "end": 3264
+    }
+  ],
+  "flair": [
+    {
+      "text": "für Familien und Jugend",
+      "label": "ORG",
+      "start": 875,
+      "end": 898
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 937,
+      "end": 954
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "für Europa, Integration und Äußeres",
+      "label": "ORG",
+      "start": 1148,
+      "end": 1183
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1418,
+      "end": 1431
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1454,
+      "end": 1467
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "text": "Weninger",
+      "label": "PER",
+      "start": 1557,
+      "end": 1565
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1567,
+      "end": 1573
+    },
+    {
+      "text": "Höfinger",
+      "label": "PER",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 1590,
+      "end": 1595
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1602,
+      "end": 1608
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1615,
+      "end": 1622
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 1628,
+      "end": 1638
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1643,
+      "end": 1647
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1688,
+      "end": 1701
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2173,
+      "end": 2206
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2246,
+      "end": 2274
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2551,
+      "end": 2565
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2706,
+      "end": 2734
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2921,
+      "end": 2934
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3001,
+      "end": 3016
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3212,
+      "end": 3225
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 638,
+      "end": 655
+    },
+    {
+      "text": "Bundesministerin für Familien und Jugend",
+      "label": "ORG",
+      "start": 858,
+      "end": 898
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 937,
+      "end": 954
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1033
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "Bundesministers für Europa",
+      "label": "ORG",
+      "start": 1132,
+      "end": 1158
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1342,
+      "end": 1345
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1413,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1449,
+      "end": 1467
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "text": "Weninger",
+      "label": "PER",
+      "start": 1557,
+      "end": 1565
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1567,
+      "end": 1573
+    },
+    {
+      "text": "Höfinger",
+      "label": "PER",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1585,
+      "end": 1595
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1597,
+      "end": 1600
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1602,
+      "end": 1608
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1615,
+      "end": 1622
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1624,
+      "end": 1638
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1643,
+      "end": 1647
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1683,
+      "end": 1701
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1929,
+      "end": 1943
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2242,
+      "end": 2274
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2533,
+      "end": 2545
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2551,
+      "end": 2565
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2702,
+      "end": 2734
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2848,
+      "end": 2859
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2861,
+      "end": 2864
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2916,
+      "end": 2934
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2979,
+      "end": 2991
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3001,
+      "end": 3016
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3251,
+      "end": 3264
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 638,
+      "end": 655
+    },
+    {
+      "text": "Bundesministerin für Familien und Jugend",
+      "label": "ORG",
+      "start": 858,
+      "end": 898
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 937,
+      "end": 954
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1033
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "Bundesministers für Europa",
+      "label": "ORG",
+      "start": 1132,
+      "end": 1158
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 1218,
+      "end": 1245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1340
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1342,
+      "end": 1345
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1413,
+      "end": 1431
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1449,
+      "end": 1467
+    },
+    {
+      "text": "Ecker",
+      "label": "PER",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "text": "Weninger",
+      "label": "PER",
+      "start": 1557,
+      "end": 1565
+    },
+    {
+      "text": "Wimmer",
+      "label": "PER",
+      "start": 1567,
+      "end": 1573
+    },
+    {
+      "text": "Höfinger",
+      "label": "PER",
+      "start": 1575,
+      "end": 1583
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1585,
+      "end": 1595
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1597,
+      "end": 1600
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1602,
+      "end": 1608
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1610,
+      "end": 1614
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1615,
+      "end": 1622
+    },
+    {
+      "text": "Dr. Pirklhuber",
+      "label": "PER",
+      "start": 1624,
+      "end": 1638
+    },
+    {
+      "text": "Pock",
+      "label": "PER",
+      "start": 1643,
+      "end": 1647
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1683,
+      "end": 1701
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1929,
+      "end": 1943
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2242,
+      "end": 2274
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2533,
+      "end": 2545
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2551,
+      "end": 2565
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2702,
+      "end": 2734
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2848,
+      "end": 2859
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2861,
+      "end": 2864
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2916,
+      "end": 2934
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2979,
+      "end": 2991
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3001,
+      "end": 3016
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3207,
+      "end": 3225
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3251,
+      "end": 3264
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 185,
+      "end": 193
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 932,
+      "end": 936
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 937,
+      "end": 954
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2173,
+      "end": 2206
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2246,
+      "end": 2265
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2266,
+      "end": 2274
+    },
+    {
+      "text": "##sa",
+      "label": "ORG",
+      "start": 2397,
+      "end": 2399
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2551,
+      "end": 2565
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 2635,
+      "end": 2666
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2706,
+      "end": 2725
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2726,
+      "end": 2734
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2848,
+      "end": 2856
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2921,
+      "end": 2934
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 2946,
+      "end": 2955
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3001,
+      "end": 3016
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3212,
+      "end": 3225
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3251,
+      "end": 3259
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BAGGB",
+      "label": "ORG",
+      "start": 821,
+      "end": 826
+    },
+    {
+      "text": "Judith Schwentner",
+      "label": "PER",
+      "start": 937,
+      "end": 954
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 1067,
+      "end": 1081
+    },
+    {
+      "text": "##G",
+      "label": "ORG",
+      "start": 2101,
+      "end": 2102
+    },
+    {
+      "text": "GB",
+      "label": "ORG",
+      "start": 2103,
+      "end": 2105
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2246,
+      "end": 2265
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2266,
+      "end": 2274
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 2551,
+      "end": 2565
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2706,
+      "end": 2725
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2726,
+      "end": 2734
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2916,
+      "end": 2934
+    },
+    {
+      "text": "Unterrichtsausschus",
+      "label": "ORG",
+      "start": 2936,
+      "end": 2955
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 3001,
+      "end": 3016
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3212,
+      "end": 3225
+    }
+  ]
+}

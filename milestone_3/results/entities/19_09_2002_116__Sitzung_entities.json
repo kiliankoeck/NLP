@@ -1,0 +1,1115 @@
+{
+  "filename": "19.09.2002_116._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 235,
+      "end": 248
+    },
+    {
+      "text": "Hermann Böhacker,",
+      "label": "PER",
+      "start": 737,
+      "end": 754
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll,",
+      "label": "PER",
+      "start": 755,
+      "end": 782
+    },
+    {
+      "text": "Verband der\\n\\nVolksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1385
+    },
+    {
+      "text": "VLÖ-G)",
+      "label": "ORG",
+      "start": 1387,
+      "end": 1393
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1480
+    },
+    {
+      "text": "Dr. Heinz Fischer.",
+      "label": "PER",
+      "start": 1544,
+      "end": 1562
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 1579,
+      "end": 1597
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1666
+    },
+    {
+      "text": "Dr. Petrovic.",
+      "label": "PER",
+      "start": 1736,
+      "end": 1749
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 1784,
+      "end": 1802
+    },
+    {
+      "text": "Hermann Böhacker,",
+      "label": "PER",
+      "start": 2220,
+      "end": 2237
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll,",
+      "label": "PER",
+      "start": 2238,
+      "end": 2265
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2868
+    },
+    {
+      "text": "VLÖ-G)",
+      "label": "ORG",
+      "start": 2870,
+      "end": 2876
+    },
+    {
+      "text": "Internationalen\\n\\nOlympischen Comitee",
+      "label": "ORG",
+      "start": 2963,
+      "end": 2998
+    },
+    {
+      "text": "IOC)",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3004
+    },
+    {
+      "text": "Mag. Terezija Stoisits,",
+      "label": "PER",
+      "start": 3144,
+      "end": 3167
+    },
+    {
+      "text": "Dr. Josef Cap,",
+      "label": "PER",
+      "start": 3376,
+      "end": 3390
+    },
+    {
+      "text": "Mag. Karl Schweitzer,",
+      "label": "PER",
+      "start": 3391,
+      "end": 3412
+    },
+    {
+      "text": "Dr. Andreas Khol,",
+      "label": "PER",
+      "start": 3413,
+      "end": 3430
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen,",
+      "label": "PER",
+      "start": 3431,
+      "end": 3460
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3570
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3608
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3666,
+      "end": 3683
+    },
+    {
+      "text": "Dr. Heinz Fischer:",
+      "label": "PER",
+      "start": 3866,
+      "end": 3884
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3942,
+      "end": 3955
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4586,
+      "end": 4628
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 235,
+      "end": 248
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 761,
+      "end": 764
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1479
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1544,
+      "end": 1561
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1579,
+      "end": 1596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1665
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1736,
+      "end": 1739
+    },
+    {
+      "text": "Petrovic",
+      "label": "PER",
+      "start": 1740,
+      "end": 1748
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1801
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2244,
+      "end": 2247
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 3144,
+      "end": 3166
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 3376,
+      "end": 3389
+    },
+    {
+      "text": "Mag. Karl Schweitzer",
+      "label": "PER",
+      "start": 3391,
+      "end": 3411
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3413,
+      "end": 3429
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3431,
+      "end": 3459
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3570
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3607
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3666,
+      "end": 3683
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3866,
+      "end": 3883
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3942,
+      "end": 3955
+    },
+    {
+      "text": "schwer",
+      "label": "PER",
+      "start": 4395,
+      "end": 4401
+    }
+  ],
+  "flair": [
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1385
+    },
+    {
+      "text": "VLÖ-G",
+      "label": "ORG",
+      "start": 1387,
+      "end": 1392
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1548,
+      "end": 1561
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1583,
+      "end": 1596
+    },
+    {
+      "text": "Petrovic",
+      "label": "PER",
+      "start": 1740,
+      "end": 1748
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1788,
+      "end": 1801
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2868
+    },
+    {
+      "text": "VLÖ-G",
+      "label": "ORG",
+      "start": 2870,
+      "end": 2875
+    },
+    {
+      "text": "Internationalen Olympischen Comitee",
+      "label": "ORG",
+      "start": 2963,
+      "end": 2998
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3003
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3149,
+      "end": 3166
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 3380,
+      "end": 3389
+    },
+    {
+      "text": "Karl Schweitzer",
+      "label": "PER",
+      "start": 3396,
+      "end": 3411
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3417,
+      "end": 3429
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3435,
+      "end": 3459
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3670,
+      "end": 3683
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3870,
+      "end": 3883
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 4586,
+      "end": 4600
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4601,
+      "end": 4628
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 235,
+      "end": 272
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 755,
+      "end": 759
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Verband der\nVolksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1479
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1544,
+      "end": 1561
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1579,
+      "end": 1596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1665
+    },
+    {
+      "text": "Dr. Petrovic",
+      "label": "PER",
+      "start": 1736,
+      "end": 1748
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1801
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2045,
+      "end": 2056
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2238,
+      "end": 2242
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2868
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3003
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3131,
+      "end": 3143
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3149,
+      "end": 3166
+    },
+    {
+      "text": "NS-Militärjustiz",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3271
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 3376,
+      "end": 3389
+    },
+    {
+      "text": "Karl Schweitzer",
+      "label": "PER",
+      "start": 3396,
+      "end": 3411
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3413,
+      "end": 3429
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3435,
+      "end": 3459
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3570
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3607
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3666,
+      "end": 3683
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3866,
+      "end": 3883
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3942,
+      "end": 3955
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4601,
+      "end": 4628
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 235,
+      "end": 272
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 755,
+      "end": 759
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Verband der\nVolksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1385
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1479
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1544,
+      "end": 1561
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1579,
+      "end": 1596
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1652,
+      "end": 1665
+    },
+    {
+      "text": "Dr. Petrovic",
+      "label": "PER",
+      "start": 1736,
+      "end": 1748
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1784,
+      "end": 1801
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 2045,
+      "end": 2056
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2238,
+      "end": 2242
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2868
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3003
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3131,
+      "end": 3143
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3149,
+      "end": 3166
+    },
+    {
+      "text": "NS-Militärjustiz",
+      "label": "ORG",
+      "start": 3255,
+      "end": 3271
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 3376,
+      "end": 3389
+    },
+    {
+      "text": "Karl Schweitzer",
+      "label": "PER",
+      "start": 3396,
+      "end": 3411
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3413,
+      "end": 3429
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3435,
+      "end": 3459
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3570
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3607
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3666,
+      "end": 3683
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3866,
+      "end": 3883
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3942,
+      "end": 3955
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4601,
+      "end": 4628
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 235,
+      "end": 248
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 262,
+      "end": 272
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Verband der Volksdeutschen Lands",
+      "label": "ORG",
+      "start": 1329,
+      "end": 1361
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "Verband der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2812,
+      "end": 2868
+    },
+    {
+      "text": "VLÖ - G",
+      "label": "ORG",
+      "start": 2870,
+      "end": 2875
+    },
+    {
+      "text": "Internationalen Olympischen Comitee",
+      "label": "ORG",
+      "start": 2963,
+      "end": 2998
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3003
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3144,
+      "end": 3147
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3149,
+      "end": 3166
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 3380,
+      "end": 3389
+    },
+    {
+      "text": "Karl Schweitzer",
+      "label": "PER",
+      "start": 3396,
+      "end": 3411
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3417,
+      "end": 3429
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3435,
+      "end": 3459
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3607
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3670,
+      "end": 3683
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3870,
+      "end": 3883
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3942,
+      "end": 3955
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4586,
+      "end": 4628
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 737,
+      "end": 753
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 765,
+      "end": 781
+    },
+    {
+      "text": "Hermann Böhacker",
+      "label": "PER",
+      "start": 2220,
+      "end": 2236
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2248,
+      "end": 2264
+    },
+    {
+      "text": "der Volksdeutschen Landsmannschaften Österreichs",
+      "label": "ORG",
+      "start": 2820,
+      "end": 2868
+    },
+    {
+      "text": "VLÖ",
+      "label": "ORG",
+      "start": 2870,
+      "end": 2873
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 2874,
+      "end": 2875
+    },
+    {
+      "text": "Internationalen Olympischen Comitee",
+      "label": "ORG",
+      "start": 2963,
+      "end": 2998
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start": 3000,
+      "end": 3003
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 3149,
+      "end": 3166
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 3380,
+      "end": 3389
+    },
+    {
+      "text": "Karl Schweitzer",
+      "label": "PER",
+      "start": 3396,
+      "end": 3411
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3417,
+      "end": 3429
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 3435,
+      "end": 3459
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3596,
+      "end": 3604
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3670,
+      "end": 3683
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3870,
+      "end": 3883
+    },
+    {
+      "text": "Verfassung",
+      "label": "ORG",
+      "start": 4190,
+      "end": 4200
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 4586,
+      "end": 4628
+    }
+  ]
+}

@@ -1,0 +1,1223 @@
+{
+  "filename": "16.10.2012_174._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Gerhard Huber)",
+      "label": "PER",
+      "start": 921,
+      "end": 935
+    },
+    {
+      "text": "Dr. Walter Rosenkranz)",
+      "label": "PER",
+      "start": 1065,
+      "end": 1087
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1318,
+      "end": 1374
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1442
+    },
+    {
+      "text": "Mag. Barbara Prammer.",
+      "label": "PER",
+      "start": 1508,
+      "end": 1529
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 1548,
+      "end": 1569
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1617
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1690,
+      "end": 1709
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "text": "Steindl.",
+      "label": "PER",
+      "start": 1807,
+      "end": 1815
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 1852,
+      "end": 1873
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 2280,
+      "end": 2336
+    },
+    {
+      "text": "Gerhard Huber,",
+      "label": "PER",
+      "start": 2698,
+      "end": 2712
+    },
+    {
+      "text": "Dr. Walter Rosenkranz;",
+      "label": "PER",
+      "start": 2829,
+      "end": 2851
+    },
+    {
+      "text": "Mag. Birgit Schatz,",
+      "label": "PER",
+      "start": 2972,
+      "end": 2991
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll,",
+      "label": "PER",
+      "start": 3286,
+      "end": 3313
+    },
+    {
+      "text": "Kai Jan Krainer,",
+      "label": "PER",
+      "start": 3314,
+      "end": 3330
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3588
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3647,
+      "end": 3667
+    },
+    {
+      "text": "Dr. Wolfgang Spadiut,",
+      "label": "PER",
+      "start": 3725,
+      "end": 3746
+    },
+    {
+      "text": "Dr. Kurt Grünewald,",
+      "label": "PER",
+      "start": 3879,
+      "end": 3898
+    },
+    {
+      "text": "Ursula Haubner,",
+      "label": "PER",
+      "start": 4017,
+      "end": 4032
+    },
+    {
+      "text": "Martina Schenk,",
+      "label": "PER",
+      "start": 4233,
+      "end": 4248
+    },
+    {
+      "text": "Mag. Birgit Schatz,",
+      "label": "PER",
+      "start": 4438,
+      "end": 4457
+    },
+    {
+      "text": "Werner Neubauer,",
+      "label": "PER",
+      "start": 4602,
+      "end": 4618
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 4691,
+      "end": 4694
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 4728,
+      "end": 4749
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4774,
+      "end": 4787
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4975,
+      "end": 4994
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1065,
+      "end": 1086
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1441
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1508,
+      "end": 1528
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1548,
+      "end": 1568
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1616
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "text": "Steindl",
+      "label": "PER",
+      "start": 1807,
+      "end": 1814
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1852,
+      "end": 1872
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 2829,
+      "end": 2850
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PER",
+      "start": 2972,
+      "end": 2990
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3292,
+      "end": 3295
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3587
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3647,
+      "end": 3667
+    },
+    {
+      "text": "Dr. Wolfgang Spadiut",
+      "label": "PER",
+      "start": 3725,
+      "end": 3745
+    },
+    {
+      "text": "Dr. Kurt Grünewald",
+      "label": "PER",
+      "start": 3879,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Mag. Birgit Schatz",
+      "label": "PER",
+      "start": 4438,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4728,
+      "end": 4748
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4774,
+      "end": 4787
+    }
+  ],
+  "flair": [
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1069,
+      "end": 1086
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1374
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1513,
+      "end": 1528
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1553,
+      "end": 1568
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "text": "Steindl",
+      "label": "PER",
+      "start": 1807,
+      "end": 1814
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1857,
+      "end": 1872
+    },
+    {
+      "text": "Bundesministerin für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 2280,
+      "end": 2336
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 2833,
+      "end": 2850
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2977,
+      "end": 2990
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3667
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 3729,
+      "end": 3745
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 4443,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4733,
+      "end": 4748
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1065,
+      "end": 1086
+    },
+    {
+      "text": "...........................................................................................",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1198
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1346
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1441
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1513,
+      "end": 1528
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1548,
+      "end": 1551
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1553,
+      "end": 1568
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1616
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1690,
+      "end": 1709
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "text": "Steindl",
+      "label": "PER",
+      "start": 1807,
+      "end": 1814
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1852,
+      "end": 1855
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1857,
+      "end": 1872
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2100,
+      "end": 2114
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 2280,
+      "end": 2308
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 2829,
+      "end": 2850
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2971
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2977,
+      "end": 2990
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 3286,
+      "end": 3290
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3647,
+      "end": 3650
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3667
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 3729,
+      "end": 3745
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4425,
+      "end": 4437
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 4443,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Atomkraftwerken",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4686
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4728,
+      "end": 4731
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4733,
+      "end": 4748
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4774,
+      "end": 4787
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 186,
+      "end": 229
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 1065,
+      "end": 1086
+    },
+    {
+      "text": "...........................................................................................",
+      "label": "ORG",
+      "start": 1107,
+      "end": 1198
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1346
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1430,
+      "end": 1441
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1513,
+      "end": 1528
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1548,
+      "end": 1551
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1553,
+      "end": 1568
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1616
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1690,
+      "end": 1709
+    },
+    {
+      "text": "Hornek",
+      "label": "PER",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "text": "Steindl",
+      "label": "PER",
+      "start": 1807,
+      "end": 1814
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1852,
+      "end": 1855
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1857,
+      "end": 1872
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2100,
+      "end": 2114
+    },
+    {
+      "text": "Bundesministerin für Verkehr",
+      "label": "ORG",
+      "start": 2280,
+      "end": 2308
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Dr. Walter Rosenkranz",
+      "label": "PER",
+      "start": 2829,
+      "end": 2850
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2959,
+      "end": 2971
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2977,
+      "end": 2990
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 3286,
+      "end": 3290
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3647,
+      "end": 3650
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3652,
+      "end": 3667
+    },
+    {
+      "text": "Wolfgang Spadiut",
+      "label": "PER",
+      "start": 3729,
+      "end": 3745
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4425,
+      "end": 4437
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 4443,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Atomkraftwerken",
+      "label": "ORG",
+      "start": 4671,
+      "end": 4686
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4728,
+      "end": 4731
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4733,
+      "end": 4748
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4774,
+      "end": 4787
+    }
+  ],
+  "bert": [
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1069,
+      "end": 1086
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 2833,
+      "end": 2850
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2903,
+      "end": 2906
+    },
+    {
+      "text": "für Arbeit",
+      "label": "ORG",
+      "start": 2913,
+      "end": 2923
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 2928,
+      "end": 2936
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2977,
+      "end": 2990
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3587
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 3595,
+      "end": 3597
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3652,
+      "end": 3664
+    },
+    {
+      "text": "##mer Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 3664,
+      "end": 3689
+    },
+    {
+      "text": "Wolfgang Spadiu",
+      "label": "PER",
+      "start": 3729,
+      "end": 3744
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 4443,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4733,
+      "end": 4748
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4774,
+      "end": 4787
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 921,
+      "end": 934
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 1069,
+      "end": 1086
+    },
+    {
+      "text": "##ÄG",
+      "label": "ORG",
+      "start": 2193,
+      "end": 2195
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 2698,
+      "end": 2711
+    },
+    {
+      "text": "Walter Rosenkranz",
+      "label": "PER",
+      "start": 2833,
+      "end": 2850
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2972,
+      "end": 2975
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 2977,
+      "end": 2990
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 3296,
+      "end": 3312
+    },
+    {
+      "text": "Kai Jan Krainer",
+      "label": "PER",
+      "start": 3314,
+      "end": 3329
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3576,
+      "end": 3587
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3647,
+      "end": 3650
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3652,
+      "end": 3664
+    },
+    {
+      "text": "##sausschus",
+      "label": "ORG",
+      "start": 3679,
+      "end": 3688
+    },
+    {
+      "text": "Wolfgang Spadiu",
+      "label": "PER",
+      "start": 3729,
+      "end": 3744
+    },
+    {
+      "text": "Kurt Grünewald",
+      "label": "PER",
+      "start": 3883,
+      "end": 3897
+    },
+    {
+      "text": "Ursula Haubner",
+      "label": "PER",
+      "start": 4017,
+      "end": 4031
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 4233,
+      "end": 4247
+    },
+    {
+      "text": "Birgit Schatz",
+      "label": "PER",
+      "start": 4443,
+      "end": 4456
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 4602,
+      "end": 4617
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4728,
+      "end": 4731
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4733,
+      "end": 4748
+    }
+  ]
+}

@@ -1,0 +1,1373 @@
+{
+  "filename": "06.05.2004_60._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 180,
+      "end": 193
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "PER",
+      "start": 658,
+      "end": 732
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "PER",
+      "start": 840,
+      "end": 914
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "PER",
+      "start": 1011,
+      "end": 1053
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 1087,
+      "end": 1103
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1266,
+      "end": 1283
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1301,
+      "end": 1318
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1440
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1476,
+      "end": 1493
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Arbeitslosenanwaltschaft",
+      "label": "ORG",
+      "start": 2251,
+      "end": 2275
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll",
+      "label": "PER",
+      "start": 2503,
+      "end": 2529
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2531,
+      "end": 2558
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2695,
+      "end": 2712
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2892,
+      "end": 2909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2992,
+      "end": 3001
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3017
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3308,
+      "end": 3325
+    },
+    {
+      "text": "Mag. Christine Muttonen",
+      "label": "PER",
+      "start": 3984,
+      "end": 4007
+    },
+    {
+      "text": "Bundesbeschaffungs Gesellschaft",
+      "label": "ORG",
+      "start": 4178,
+      "end": 4209
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4940,
+      "end": 4957
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4983,
+      "end": 4996
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5179,
+      "end": 5198
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 180,
+      "end": 193
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 1087,
+      "end": 1103
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1266,
+      "end": 1283
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1301,
+      "end": 1318
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1440
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1476,
+      "end": 1493
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2509,
+      "end": 2512
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2531,
+      "end": 2558
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2695,
+      "end": 2712
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2892,
+      "end": 2909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2992,
+      "end": 3001
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3017
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3308,
+      "end": 3325
+    },
+    {
+      "text": "Mag. Christine Muttonen",
+      "label": "PER",
+      "start": 3984,
+      "end": 4007
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4940,
+      "end": 4957
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4983,
+      "end": 4996
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 658,
+      "end": 732
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 840,
+      "end": 914
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1028,
+      "end": 1053
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1270,
+      "end": 1283
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1305,
+      "end": 1318
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1440
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1480,
+      "end": 1493
+    },
+    {
+      "text": "Arbeit",
+      "label": "ORG",
+      "start": 1883,
+      "end": 1889
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 1894,
+      "end": 1902
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2542,
+      "end": 2558
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2700,
+      "end": 2712
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2897,
+      "end": 2909
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3312,
+      "end": 3325
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3989,
+      "end": 4007
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 4273,
+      "end": 4277
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4944,
+      "end": 4957
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 180,
+      "end": 217
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 372,
+      "end": 474
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 502,
+      "end": 608
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 658,
+      "end": 696
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 840,
+      "end": 878
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1011,
+      "end": 1053
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1266,
+      "end": 1283
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1301,
+      "end": 1318
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1440
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1476,
+      "end": 1493
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1734,
+      "end": 1748
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2503,
+      "end": 2507
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2531,
+      "end": 2558
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2682,
+      "end": 2694
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2700,
+      "end": 2712
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2897,
+      "end": 2909
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3017
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3308,
+      "end": 3325
+    },
+    {
+      "text": "Organisation der Bezirksgerichte",
+      "label": "ORG",
+      "start": 3831,
+      "end": 3863
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3989,
+      "end": 4007
+    },
+    {
+      "text": "BG",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4151
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4940,
+      "end": 4957
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4983,
+      "end": 4996
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 180,
+      "end": 217
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 372,
+      "end": 474
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 502,
+      "end": 608
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 658,
+      "end": 696
+    },
+    {
+      "text": "Gabriele Heinisch-Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 840,
+      "end": 878
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1011,
+      "end": 1053
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1266,
+      "end": 1283
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1301,
+      "end": 1318
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Verzetnitsch",
+      "label": "PER",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Hagenhofer",
+      "label": "PER",
+      "start": 1430,
+      "end": 1440
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 1476,
+      "end": 1493
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1734,
+      "end": 1748
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2503,
+      "end": 2507
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2531,
+      "end": 2558
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2682,
+      "end": 2694
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2700,
+      "end": 2712
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2879,
+      "end": 2891
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2897,
+      "end": 2909
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2992,
+      "end": 3001
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3017
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 3308,
+      "end": 3325
+    },
+    {
+      "text": "Organisation der Bezirksgerichte",
+      "label": "ORG",
+      "start": 3831,
+      "end": 3863
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3989,
+      "end": 4007
+    },
+    {
+      "text": "BG",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4151
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Dr. Heinz Fischer",
+      "label": "PER",
+      "start": 4940,
+      "end": 4957
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4983,
+      "end": 4996
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 180,
+      "end": 188
+    },
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "soziale Sicherheit",
+      "label": "ORG",
+      "start": 860,
+      "end": 878
+    },
+    {
+      "text": "##en",
+      "label": "ORG",
+      "start": 890,
+      "end": 892
+    },
+    {
+      "text": "Konsumentens",
+      "label": "ORG",
+      "start": 897,
+      "end": 909
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 1087,
+      "end": 1103
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1189
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1270,
+      "end": 1283
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1305,
+      "end": 1318
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2542,
+      "end": 2558
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2695,
+      "end": 2712
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 2892,
+      "end": 2896
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2897,
+      "end": 2909
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3006,
+      "end": 3014
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3312,
+      "end": 3325
+    },
+    {
+      "text": "Mag. Christine Muttonen",
+      "label": "PER",
+      "start": 3984,
+      "end": 4007
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4944,
+      "end": 4957
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Gabriele Heinisch - Hosek",
+      "label": "PER",
+      "start": 766,
+      "end": 789
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 948,
+      "end": 960
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1087,
+      "end": 1090
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1192
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1270,
+      "end": 1283
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 1305,
+      "end": 1318
+    },
+    {
+      "text": "SVÄG",
+      "label": "ORG",
+      "start": 1953,
+      "end": 1957
+    },
+    {
+      "text": "Heidrun Silhavy",
+      "label": "PER",
+      "start": 2181,
+      "end": 2196
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2513,
+      "end": 2529
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 2542,
+      "end": 2558
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2695,
+      "end": 2698
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2700,
+      "end": 2712
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2892,
+      "end": 2895
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2897,
+      "end": 2909
+    },
+    {
+      "text": "AGES",
+      "label": "ORG",
+      "start": 3068,
+      "end": 3072
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 3136,
+      "end": 3152
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3256
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 3312,
+      "end": 3325
+    },
+    {
+      "text": "##izausschus",
+      "label": "ORG",
+      "start": 3331,
+      "end": 3341
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 3386,
+      "end": 3387
+    },
+    {
+      "text": "##esRÄ",
+      "label": "ORG",
+      "start": 3387,
+      "end": 3391
+    },
+    {
+      "text": "Christine Muttonen",
+      "label": "PER",
+      "start": 3989,
+      "end": 4007
+    },
+    {
+      "text": "BG",
+      "label": "ORG",
+      "start": 4149,
+      "end": 4151
+    },
+    {
+      "text": "Beate Schasching",
+      "label": "PER",
+      "start": 4359,
+      "end": 4375
+    },
+    {
+      "text": "ChemGNov",
+      "label": "ORG",
+      "start": 4517,
+      "end": 4525
+    },
+    {
+      "text": "Erika Scharer",
+      "label": "PER",
+      "start": 4599,
+      "end": 4612
+    },
+    {
+      "text": "Gerhard Reheis",
+      "label": "PER",
+      "start": 4827,
+      "end": 4841
+    },
+    {
+      "text": "Heinz Fischer",
+      "label": "PER",
+      "start": 4944,
+      "end": 4957
+    }
+  ]
+}

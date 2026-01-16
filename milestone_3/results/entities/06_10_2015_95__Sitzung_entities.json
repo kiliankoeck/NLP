@@ -1,0 +1,1463 @@
+{
+  "filename": "06.10.2015_95._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Mag. Haider",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Mag. Aslan",
+      "label": "PER",
+      "start": 905,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 1310,
+      "end": 1332
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1517,
+      "end": 1543
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1763,
+      "end": 1782
+    },
+    {
+      "text": "Dr. Susanne Winter",
+      "label": "PER",
+      "start": 1997,
+      "end": 2015
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2136,
+      "end": 2160
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2332,
+      "end": 2356
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2464,
+      "end": 2481
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2618,
+      "end": 2635
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2921,
+      "end": 2938
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 3081,
+      "end": 3098
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3270,
+      "end": 3287
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3651,
+      "end": 3676
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3816,
+      "end": 3841
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3968,
+      "end": 3993
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4103
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 182,
+      "end": 195
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 881,
+      "end": 885
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 905,
+      "end": 909
+    },
+    {
+      "text": "Aslan",
+      "label": "PER",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 1310,
+      "end": 1332
+    },
+    {
+      "text": "Mag. Beate Meinl-Reisinger, MES",
+      "label": "PER",
+      "start": 1517,
+      "end": 1548
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 1763,
+      "end": 1782
+    },
+    {
+      "text": "Dr. Susanne Winter",
+      "label": "PER",
+      "start": 1997,
+      "end": 2015
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2136,
+      "end": 2160
+    },
+    {
+      "text": "Mag. Dr. Matthias Strolz",
+      "label": "PER",
+      "start": 2332,
+      "end": 2356
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2464,
+      "end": 2481
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2618,
+      "end": 2635
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2816
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 2921,
+      "end": 2938
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 3033,
+      "end": 3038
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 3081,
+      "end": 3098
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3270,
+      "end": 3287
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3651,
+      "end": 3654
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3816,
+      "end": 3819
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3968,
+      "end": 3971
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4103
+    }
+  ],
+  "flair": [
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Aslan",
+      "label": "PER",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1255,
+      "end": 1274
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 1315,
+      "end": 1332
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1522,
+      "end": 1543
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1768,
+      "end": 1782
+    },
+    {
+      "text": "Susanne Winter",
+      "label": "PER",
+      "start": 2001,
+      "end": 2015
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2341,
+      "end": 2356
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2468,
+      "end": 2481
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2622,
+      "end": 2635
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2925,
+      "end": 2938
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 3085,
+      "end": 3098
+    },
+    {
+      "text": "Bundesministeriums für Bildung und Frauen",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3235
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3275,
+      "end": 3287
+    },
+    {
+      "text": "Wirtschaft",
+      "label": "ORG",
+      "start": 3435,
+      "end": 3445
+    },
+    {
+      "text": "Industrie",
+      "label": "ORG",
+      "start": 3450,
+      "end": 3459
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3655,
+      "end": 3676
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 3707,
+      "end": 3740
+    },
+    {
+      "text": "Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3820,
+      "end": 3841
+    },
+    {
+      "text": "Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3972,
+      "end": 3993
+    },
+    {
+      "text": "Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 4370,
+      "end": 4407
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 661,
+      "end": 664
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Aslan",
+      "label": "PER",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 1310,
+      "end": 1332
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1504,
+      "end": 1516
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1522,
+      "end": 1543
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1545,
+      "end": 1548
+    },
+    {
+      "text": "Industriellenvereinigung bezüglich Elementarbildung\nGesundheitsausschuss",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1727
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1762
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1768,
+      "end": 1782
+    },
+    {
+      "text": "Sozialversicherungsträgern",
+      "label": "ORG",
+      "start": 1899,
+      "end": 1925
+    },
+    {
+      "text": "Dr. Susanne Winter",
+      "label": "PER",
+      "start": 1997,
+      "end": 2015
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2123,
+      "end": 2135
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2319,
+      "end": 2331
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2341,
+      "end": 2356
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2468,
+      "end": 2481
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2622,
+      "end": 2635
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2816
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2818,
+      "end": 2821
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2925,
+      "end": 2938
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 3085,
+      "end": 3098
+    },
+    {
+      "text": "Bundesministeriums für Bildung und Frauen",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3235
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3270,
+      "end": 3287
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3651,
+      "end": 3676
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3816,
+      "end": 3841
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3968,
+      "end": 3993
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4103
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 182,
+      "end": 219
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 661,
+      "end": 664
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 812,
+      "end": 825
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Aslan",
+      "label": "PER",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Ing. Waltraud Dietrich",
+      "label": "PER",
+      "start": 1310,
+      "end": 1332
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1504,
+      "end": 1516
+    },
+    {
+      "text": "Beate Meinl-Reisinger",
+      "label": "PER",
+      "start": 1522,
+      "end": 1543
+    },
+    {
+      "text": "MES",
+      "label": "ORG",
+      "start": 1545,
+      "end": 1548
+    },
+    {
+      "text": "Industriellenvereinigung bezüglich Elementarbildung\nGesundheitsausschuss",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1727
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1762
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 1768,
+      "end": 1782
+    },
+    {
+      "text": "Sozialversicherungsträgern",
+      "label": "ORG",
+      "start": 1899,
+      "end": 1925
+    },
+    {
+      "text": "Dr. Susanne Winter",
+      "label": "PER",
+      "start": 1997,
+      "end": 2015
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2123,
+      "end": 2135
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2319,
+      "end": 2331
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2341,
+      "end": 2356
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2468,
+      "end": 2481
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2622,
+      "end": 2635
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2816
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 2818,
+      "end": 2821
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2925,
+      "end": 2938
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 3085,
+      "end": 3098
+    },
+    {
+      "text": "Bundesministeriums für Bildung und Frauen",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3235
+    },
+    {
+      "text": "Ing. Robert Lugar",
+      "label": "PER",
+      "start": 3270,
+      "end": 3287
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3651,
+      "end": 3676
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3816,
+      "end": 3841
+    },
+    {
+      "text": "Dr. Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3968,
+      "end": 3993
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4103
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 881,
+      "end": 884
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "As",
+      "label": "PER",
+      "start": 910,
+      "end": 912
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "für Arbeit",
+      "label": "ORG",
+      "start": 1251,
+      "end": 1261
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 1266,
+      "end": 1274
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 1315,
+      "end": 1332
+    },
+    {
+      "text": "Susanne Winter",
+      "label": "PER",
+      "start": 2001,
+      "end": 2015
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2341,
+      "end": 2356
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2468,
+      "end": 2481
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2622,
+      "end": 2635
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2816
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2925,
+      "end": 2938
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 3085,
+      "end": 3098
+    },
+    {
+      "text": "Bundesministeriums für Bildung und Frauen",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3235
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3275,
+      "end": 3287
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3421,
+      "end": 3459
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 3655,
+      "end": 3676
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 3707,
+      "end": 3740
+    },
+    {
+      "text": "Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 3820,
+      "end": 3841
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 3820,
+      "end": 3832
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3833,
+      "end": 3841
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 3872,
+      "end": 3892
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 3972,
+      "end": 3984
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3985,
+      "end": 3993
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 4024,
+      "end": 4055
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4090,
+      "end": 4103
+    },
+    {
+      "text": "Finanzauss",
+      "label": "ORG",
+      "start": 4273,
+      "end": 4283
+    },
+    {
+      "text": "##handlung",
+      "label": "ORG",
+      "start": 4313,
+      "end": 4321
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4407
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 648,
+      "end": 659
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 732,
+      "end": 746
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 764,
+      "end": 778
+    },
+    {
+      "text": "Singer",
+      "label": "PER",
+      "start": 873,
+      "end": 879
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 881,
+      "end": 884
+    },
+    {
+      "text": "Haider",
+      "label": "PER",
+      "start": 886,
+      "end": 892
+    },
+    {
+      "text": "Riemer",
+      "label": "PER",
+      "start": 894,
+      "end": 900
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 905,
+      "end": 908
+    },
+    {
+      "text": "Aslan",
+      "label": "PER",
+      "start": 910,
+      "end": 915
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 1310,
+      "end": 1313
+    },
+    {
+      "text": "Waltraud Dietrich",
+      "label": "PER",
+      "start": 1315,
+      "end": 1332
+    },
+    {
+      "text": "Susanne Winter",
+      "label": "PER",
+      "start": 2001,
+      "end": 2015
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2145,
+      "end": 2160
+    },
+    {
+      "text": "Matthias Strolz",
+      "label": "PER",
+      "start": 2341,
+      "end": 2356
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2468,
+      "end": 2481
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2622,
+      "end": 2635
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2805,
+      "end": 2813
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 2871,
+      "end": 2885
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 2925,
+      "end": 2938
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 3085,
+      "end": 3098
+    },
+    {
+      "text": "Bundesministeriums für Bildung und Frauen",
+      "label": "ORG",
+      "start": 3194,
+      "end": 3235
+    },
+    {
+      "text": "Robert Lugar",
+      "label": "PER",
+      "start": 3275,
+      "end": 3287
+    },
+    {
+      "text": "Rec",
+      "label": "ORG",
+      "start": 3405,
+      "end": 3408
+    },
+    {
+      "text": "##shof",
+      "label": "ORG",
+      "start": 3413,
+      "end": 3417
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3421,
+      "end": 3424
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 3565,
+      "end": 3579
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 3655,
+      "end": 3667
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3668,
+      "end": 3676
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3707,
+      "end": 3710
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 3820,
+      "end": 3832
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3833,
+      "end": 3841
+    },
+    {
+      "text": "Belakowitsch",
+      "label": "PER",
+      "start": 3972,
+      "end": 3984
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3985,
+      "end": 3993
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 4024,
+      "end": 4055
+    },
+    {
+      "text": "Ausschuss für Forschung, Innovation und Technologie",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4407
+    }
+  ]
+}

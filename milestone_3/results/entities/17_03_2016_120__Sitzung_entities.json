@@ -1,0 +1,2579 @@
+{
+  "filename": "17.03.2016_120._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 661,
+      "end": 689
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 785,
+      "end": 813
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 847,
+      "end": 870
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 951,
+      "end": 962
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1032,
+      "end": 1050
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1068,
+      "end": 1086
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1109,
+      "end": 1122
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 1183,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Mag. Schieder",
+      "label": "PER",
+      "start": 1212,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Dipl.-Kffr. (FH) Pfurtscheller",
+      "label": "PER",
+      "start": 1261,
+      "end": 1291
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1293,
+      "end": 1303
+    },
+    {
+      "text": "Dr. Hübner",
+      "label": "PER",
+      "start": 1305,
+      "end": 1315
+    },
+    {
+      "text": "Mag. Schrangl",
+      "label": "PER",
+      "start": 1317,
+      "end": 1330
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1344,
+      "end": 1350
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Dr. Winter",
+      "label": "PER",
+      "start": 1371,
+      "end": 1381
+    },
+    {
+      "text": "Hechtl",
+      "label": "PER",
+      "start": 1386,
+      "end": 1392
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2324,
+      "end": 2356
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2469,
+      "end": 2501
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 2646,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2954,
+      "end": 2986
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2419
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 3099,
+      "end": 3118
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3257,
+      "end": 3291
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3366,
+      "end": 3377
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3431,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Dr. Erwin Rasinger",
+      "label": "PER",
+      "start": 3503,
+      "end": 3521
+    },
+    {
+      "text": "Mag. Gernot Darmann",
+      "label": "PER",
+      "start": 3737,
+      "end": 3756
+    },
+    {
+      "text": "Mag. Michaela Steinacker",
+      "label": "PER",
+      "start": 3904,
+      "end": 3928
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3930,
+      "end": 3950
+    },
+    {
+      "text": "Mag. Michaela Steinacker",
+      "label": "PER",
+      "start": 4170,
+      "end": 4194
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 4196,
+      "end": 4216
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 4463,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4781,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Dr. Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5205,
+      "end": 5229
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 5320,
+      "end": 5338
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5364,
+      "end": 5377
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5571,
+      "end": 5590
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Mag. Albert Steinhauser",
+      "label": "PER",
+      "start": 847,
+      "end": 870
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 951,
+      "end": 962
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1032,
+      "end": 1050
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1068,
+      "end": 1086
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1109,
+      "end": 1122
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1183,
+      "end": 1187
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 1188,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1212,
+      "end": 1216
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1217,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1242,
+      "end": 1245
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1247,
+      "end": 1250
+    },
+    {
+      "text": "Nachbaur",
+      "label": "PER",
+      "start": 1251,
+      "end": 1259
+    },
+    {
+      "text": "Dipl.-Kffr.",
+      "label": "PER",
+      "start": 1261,
+      "end": 1272
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 1278,
+      "end": 1291
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1293,
+      "end": 1297
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 1298,
+      "end": 1303
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1305,
+      "end": 1308
+    },
+    {
+      "text": "Hübner",
+      "label": "PER",
+      "start": 1309,
+      "end": 1315
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1317,
+      "end": 1321
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1322,
+      "end": 1330
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1344,
+      "end": 1350
+    },
+    {
+      "text": "Julian Schmid, BA",
+      "label": "PER",
+      "start": 1352,
+      "end": 1369
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1371,
+      "end": 1374
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1375,
+      "end": 1381
+    },
+    {
+      "text": "Hechtl",
+      "label": "PER",
+      "start": 1386,
+      "end": 1392
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2324,
+      "end": 2327
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2328,
+      "end": 2334
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2469,
+      "end": 2472
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2473,
+      "end": 2479
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 2646,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2954,
+      "end": 2957
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2958,
+      "end": 2964
+    },
+    {
+      "text": "Mag. Gerald Loacker",
+      "label": "PER",
+      "start": 3099,
+      "end": 3118
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3257,
+      "end": 3291
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3366,
+      "end": 3377
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3431,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Dr. Erwin Rasinger",
+      "label": "PER",
+      "start": 3503,
+      "end": 3521
+    },
+    {
+      "text": "Mag. Gernot Darmann",
+      "label": "PER",
+      "start": 3737,
+      "end": 3756
+    },
+    {
+      "text": "Mag. Michaela Steinacker",
+      "label": "PER",
+      "start": 3904,
+      "end": 3928
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3930,
+      "end": 3950
+    },
+    {
+      "text": "Mag. Michaela Steinacker",
+      "label": "PER",
+      "start": 4170,
+      "end": 4194
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 4196,
+      "end": 4216
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4463,
+      "end": 4466
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 4467,
+      "end": 4473
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4781,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Dr. Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5205,
+      "end": 5229
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 5320,
+      "end": 5338
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5364,
+      "end": 5377
+    }
+  ],
+  "flair": [
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1037,
+      "end": 1050
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1073,
+      "end": 1086
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 1188,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1217,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Nachbaur",
+      "label": "PER",
+      "start": 1251,
+      "end": 1259
+    },
+    {
+      "text": "FH",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1276
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 1278,
+      "end": 1291
+    },
+    {
+      "text": "Hackl",
+      "label": "PER",
+      "start": 1298,
+      "end": 1303
+    },
+    {
+      "text": "Hübner",
+      "label": "PER",
+      "start": 1309,
+      "end": 1315
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1322,
+      "end": 1330
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1344,
+      "end": 1350
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Winter",
+      "label": "PER",
+      "start": 1375,
+      "end": 1381
+    },
+    {
+      "text": "Hechtl",
+      "label": "PER",
+      "start": 1386,
+      "end": 1392
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1433,
+      "end": 1446
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1808,
+      "end": 1841
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2328,
+      "end": 2356
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2419
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2473,
+      "end": 2501
+    },
+    {
+      "text": "PVA",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "ASVG",
+      "label": "ORG",
+      "start": 2607,
+      "end": 2611
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 2651,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2958,
+      "end": 2986
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3104,
+      "end": 3118
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3272,
+      "end": 3291
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3436,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Erwin Rasinger",
+      "label": "PER",
+      "start": 3507,
+      "end": 3521
+    },
+    {
+      "text": "Gernot Darmann",
+      "label": "PER",
+      "start": 3742,
+      "end": 3756
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 3909,
+      "end": 3928
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3934,
+      "end": 3950
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 4175,
+      "end": 4194
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 4200,
+      "end": 4216
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 4467,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4796,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5209,
+      "end": 5229
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 5325,
+      "end": 5338
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 661,
+      "end": 689
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 785,
+      "end": 813
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 834,
+      "end": 846
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 951,
+      "end": 962
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 964,
+      "end": 967
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1032,
+      "end": 1050
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1068,
+      "end": 1086
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1109,
+      "end": 1122
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1170,
+      "end": 1182
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 1188,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1217,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1242,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "FH)",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1293,
+      "end": 1303
+    },
+    {
+      "text": "Dr. Hübner",
+      "label": "PER",
+      "start": 1305,
+      "end": 1315
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1322,
+      "end": 1330
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1344,
+      "end": 1350
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1367,
+      "end": 1369
+    },
+    {
+      "text": "Dr. Winter und Hechtl",
+      "label": "ORG",
+      "start": 1371,
+      "end": 1392
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1674,
+      "end": 1688
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1754,
+      "end": 1759
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Monatsgehalts",
+      "label": "PER",
+      "start": 2234,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2324,
+      "end": 2356
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2419
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 2430,
+      "end": 2434
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2469,
+      "end": 2501
+    },
+    {
+      "text": "PVA",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2633,
+      "end": 2645
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 2651,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2954,
+      "end": 2986
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3064
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3086,
+      "end": 3098
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3104,
+      "end": 3118
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3257,
+      "end": 3291
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3366,
+      "end": 3377
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3379,
+      "end": 3382
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3431,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Erwin Rasinger",
+      "label": "PER",
+      "start": 3507,
+      "end": 3521
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3724,
+      "end": 3736
+    },
+    {
+      "text": "Gernot Darmann",
+      "label": "PER",
+      "start": 3742,
+      "end": 3756
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3891,
+      "end": 3903
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 3909,
+      "end": 3928
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3930,
+      "end": 3950
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4169
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 4175,
+      "end": 4194
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 4196,
+      "end": 4216
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 4463,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 4569,
+      "end": 4573
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4781,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5209,
+      "end": 5229
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 5320,
+      "end": 5338
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5364,
+      "end": 5377
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 661,
+      "end": 689
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 785,
+      "end": 813
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 834,
+      "end": 846
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 951,
+      "end": 962
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 964,
+      "end": 967
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1032,
+      "end": 1050
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1068,
+      "end": 1086
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1109,
+      "end": 1122
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1170,
+      "end": 1182
+    },
+    {
+      "text": "Greiner",
+      "label": "PER",
+      "start": 1188,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1217,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1242,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "FH)",
+      "label": "ORG",
+      "start": 1274,
+      "end": 1277
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1293,
+      "end": 1303
+    },
+    {
+      "text": "Dr. Hübner",
+      "label": "PER",
+      "start": 1305,
+      "end": 1315
+    },
+    {
+      "text": "Schrangl",
+      "label": "PER",
+      "start": 1322,
+      "end": 1330
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1332,
+      "end": 1342
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1344,
+      "end": 1350
+    },
+    {
+      "text": "Julian Schmid",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1367,
+      "end": 1369
+    },
+    {
+      "text": "Dr. Winter und Hechtl",
+      "label": "ORG",
+      "start": 1371,
+      "end": 1392
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1428,
+      "end": 1446
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 1674,
+      "end": 1688
+    },
+    {
+      "text": "AB\nB.",
+      "label": "ORG",
+      "start": 1754,
+      "end": 1759
+    },
+    {
+      "text": "Herbert Kickl",
+      "label": "PER",
+      "start": 1877,
+      "end": 1890
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Monatsgehalts",
+      "label": "PER",
+      "start": 2234,
+      "end": 2247
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2324,
+      "end": 2356
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2419
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 2430,
+      "end": 2434
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2469,
+      "end": 2501
+    },
+    {
+      "text": "PVA",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2633,
+      "end": 2645
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 2651,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2954,
+      "end": 2986
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 3060,
+      "end": 3064
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3086,
+      "end": 3098
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3104,
+      "end": 3118
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3257,
+      "end": 3291
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3366,
+      "end": 3377
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3379,
+      "end": 3382
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3431,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Erwin Rasinger",
+      "label": "PER",
+      "start": 3507,
+      "end": 3521
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3724,
+      "end": 3736
+    },
+    {
+      "text": "Gernot Darmann",
+      "label": "PER",
+      "start": 3742,
+      "end": 3756
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3891,
+      "end": 3903
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 3909,
+      "end": 3928
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 3930,
+      "end": 3950
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4169
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 4175,
+      "end": 4194
+    },
+    {
+      "text": "Dr. Johannes Jarolim",
+      "label": "PER",
+      "start": 4196,
+      "end": 4216
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 4463,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 4569,
+      "end": 4573
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4781,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5209,
+      "end": 5229
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 5320,
+      "end": 5338
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5364,
+      "end": 5377
+    }
+  ],
+  "bert": [
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 951,
+      "end": 962
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1037,
+      "end": 1050
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1073,
+      "end": 1086
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 1183,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Mag. Schieder",
+      "label": "PER",
+      "start": 1212,
+      "end": 1225
+    },
+    {
+      "text": "Ertlschweiger",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "MSc",
+      "label": "PER",
+      "start": 1242,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Nachbaur",
+      "label": "PER",
+      "start": 1247,
+      "end": 1259
+    },
+    {
+      "text": "Di",
+      "label": "PER",
+      "start": 1261,
+      "end": 1263
+    },
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 1265,
+      "end": 1266
+    },
+    {
+      "text": "Kffr.",
+      "label": "PER",
+      "start": 1267,
+      "end": 1272
+    },
+    {
+      "text": "FH",
+      "label": "PER",
+      "start": 1274,
+      "end": 1276
+    },
+    {
+      "text": "Pfurtscheller",
+      "label": "PER",
+      "start": 1278,
+      "end": 1291
+    },
+    {
+      "text": "Ing. Hackl",
+      "label": "PER",
+      "start": 1293,
+      "end": 1303
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2328,
+      "end": 2347
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2348,
+      "end": 2356
+    },
+    {
+      "text": "V",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2417
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2473,
+      "end": 2492
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2493,
+      "end": 2501
+    },
+    {
+      "text": "PVA",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 2651,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2958,
+      "end": 2977
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2978,
+      "end": 2986
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3104,
+      "end": 3118
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3272,
+      "end": 3291
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3436,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Erwin Rasinger",
+      "label": "PER",
+      "start": 3507,
+      "end": 3521
+    },
+    {
+      "text": "Gernot Dar",
+      "label": "PER",
+      "start": 3742,
+      "end": 3752
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 3909,
+      "end": 3928
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3934,
+      "end": 3950
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 4175,
+      "end": 4194
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 4200,
+      "end": 4216
+    },
+    {
+      "text": "Ausschuss für Konsumentenschutz",
+      "label": "ORG",
+      "start": 4396,
+      "end": 4427
+    },
+    {
+      "text": "Dagmar Belakowitsch - Jenewein",
+      "label": "PER",
+      "start": 4467,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 4569,
+      "end": 4573
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 4574,
+      "end": 4577
+    },
+    {
+      "text": "für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 4584,
+      "end": 4613
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4796,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5209,
+      "end": 5229
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 5325,
+      "end": 5338
+    }
+  ],
+  "distilbert": [
+    {
+      "text": ".",
+      "label": "PER",
+      "start": 405,
+      "end": 406
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 723,
+      "end": 734
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 847,
+      "end": 850
+    },
+    {
+      "text": "Albert Steinhauser",
+      "label": "PER",
+      "start": 852,
+      "end": 870
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 1032,
+      "end": 1035
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1037,
+      "end": 1050
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 1068,
+      "end": 1071
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1073,
+      "end": 1086
+    },
+    {
+      "text": "Mag. Greiner",
+      "label": "PER",
+      "start": 1183,
+      "end": 1195
+    },
+    {
+      "text": "Hell",
+      "label": "PER",
+      "start": 1197,
+      "end": 1201
+    },
+    {
+      "text": "Katzian",
+      "label": "PER",
+      "start": 1203,
+      "end": 1210
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 1217,
+      "end": 1225
+    },
+    {
+      "text": "Ertl",
+      "label": "PER",
+      "start": 1227,
+      "end": 1231
+    },
+    {
+      "text": "##ger",
+      "label": "PER",
+      "start": 1237,
+      "end": 1240
+    },
+    {
+      "text": "Nach",
+      "label": "PER",
+      "start": 1251,
+      "end": 1255
+    },
+    {
+      "text": "##baur",
+      "label": "PER",
+      "start": 1255,
+      "end": 1259
+    },
+    {
+      "text": "F",
+      "label": "PER",
+      "start": 1274,
+      "end": 1275
+    },
+    {
+      "text": "P",
+      "label": "PER",
+      "start": 1278,
+      "end": 1279
+    },
+    {
+      "text": "##furtscheller",
+      "label": "PER",
+      "start": 1279,
+      "end": 1291
+    },
+    {
+      "text": ". Hackl",
+      "label": "PER",
+      "start": 1296,
+      "end": 1303
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2328,
+      "end": 2347
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2348,
+      "end": 2356
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 2416,
+      "end": 2419
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2473,
+      "end": 2492
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2493,
+      "end": 2501
+    },
+    {
+      "text": "PVA",
+      "label": "ORG",
+      "start": 2564,
+      "end": 2567
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 2651,
+      "end": 2664
+    },
+    {
+      "text": "Georg Willi",
+      "label": "PER",
+      "start": 2666,
+      "end": 2677
+    },
+    {
+      "text": "Josef Schellhorn",
+      "label": "PER",
+      "start": 2679,
+      "end": 2695
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 2697,
+      "end": 2717
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2958,
+      "end": 2977
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2978,
+      "end": 2986
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 3046,
+      "end": 3049
+    },
+    {
+      "text": "Gerald Loacker",
+      "label": "PER",
+      "start": 3104,
+      "end": 3118
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3272,
+      "end": 3291
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 3431,
+      "end": 3434
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3436,
+      "end": 3449
+    },
+    {
+      "text": "Erwin Spindelberger",
+      "label": "PER",
+      "start": 3482,
+      "end": 3501
+    },
+    {
+      "text": "Erwin Rasinger",
+      "label": "PER",
+      "start": 3507,
+      "end": 3521
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3737,
+      "end": 3740
+    },
+    {
+      "text": "Gernot",
+      "label": "PER",
+      "start": 3742,
+      "end": 3748
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 3909,
+      "end": 3928
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 3934,
+      "end": 3950
+    },
+    {
+      "text": "Michaela Steinacker",
+      "label": "PER",
+      "start": 4175,
+      "end": 4194
+    },
+    {
+      "text": "Johannes Jarolim",
+      "label": "PER",
+      "start": 4200,
+      "end": 4216
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 4467,
+      "end": 4486
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 4487,
+      "end": 4495
+    },
+    {
+      "text": "VKI",
+      "label": "ORG",
+      "start": 4555,
+      "end": 4558
+    },
+    {
+      "text": "TTIP",
+      "label": "ORG",
+      "start": 4569,
+      "end": 4573
+    },
+    {
+      "text": "Leopold Steinbichler",
+      "label": "PER",
+      "start": 4649,
+      "end": 4669
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 4796,
+      "end": 4815
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 4940,
+      "end": 4952
+    },
+    {
+      "text": "Andreas F. Karlsböck",
+      "label": "PER",
+      "start": 5209,
+      "end": 5229
+    },
+    {
+      "text": "U",
+      "label": "ORG",
+      "start": 5300,
+      "end": 5301
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 5325,
+      "end": 5338
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "filename": "30.04.2014_24._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1559,
+      "end": 1579
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1599,
+      "end": 1619
+    },
+    {
+      "text": "Pendl",
+      "label": "PER",
+      "start": 1692,
+      "end": 1697
+    },
+    {
+      "text": "Steger",
+      "label": "PER",
+      "start": 1699,
+      "end": 1705
+    },
+    {
+      "text": "Ing. Lugar",
+      "label": "PER",
+      "start": 1710,
+      "end": 1720
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1758,
+      "end": 1778
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2846,
+      "end": 2878
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 3047,
+      "end": 3074
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3239,
+      "end": 3271
+    },
+    {
+      "text": "Mag. Roman Haider",
+      "label": "PER",
+      "start": 3439,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3568
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3624,
+      "end": 3644
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4032,
+      "end": 4052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4170
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1559,
+      "end": 1579
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1599,
+      "end": 1619
+    },
+    {
+      "text": "Pendl",
+      "label": "PER",
+      "start": 1692,
+      "end": 1697
+    },
+    {
+      "text": "Steger",
+      "label": "PER",
+      "start": 1699,
+      "end": 1705
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1710,
+      "end": 1714
+    },
+    {
+      "text": "Lugar",
+      "label": "PER",
+      "start": 1715,
+      "end": 1720
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 1758,
+      "end": 1778
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2846,
+      "end": 2849
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 2850,
+      "end": 2856
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 3047,
+      "end": 3074
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3239,
+      "end": 3242
+    },
+    {
+      "text": "Dagmar",
+      "label": "PER",
+      "start": 3243,
+      "end": 3249
+    },
+    {
+      "text": "Mag. Roman Haider",
+      "label": "PER",
+      "start": 3439,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3568
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3624,
+      "end": 3644
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4032,
+      "end": 4052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4170
+    }
+  ],
+  "flair": [
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1564,
+      "end": 1579
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1604,
+      "end": 1619
+    },
+    {
+      "text": "Pendl",
+      "label": "PER",
+      "start": 1692,
+      "end": 1697
+    },
+    {
+      "text": "Steger",
+      "label": "PER",
+      "start": 1699,
+      "end": 1705
+    },
+    {
+      "text": "Lugar",
+      "label": "PER",
+      "start": 1715,
+      "end": 1720
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1763,
+      "end": 1778
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2850,
+      "end": 2878
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 3047,
+      "end": 3074
+    },
+    {
+      "text": "Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3243,
+      "end": 3271
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 3444,
+      "end": 3456
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3629,
+      "end": 3644
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4037,
+      "end": 4052
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": ".................................................................................................",
+      "label": "ORG",
+      "start": 1145,
+      "end": 1242
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1499
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1564,
+      "end": 1579
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1599,
+      "end": 1602
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1604,
+      "end": 1619
+    },
+    {
+      "text": "Pendl",
+      "label": "PER",
+      "start": 1692,
+      "end": 1697
+    },
+    {
+      "text": "Steger",
+      "label": "PER",
+      "start": 1699,
+      "end": 1705
+    },
+    {
+      "text": "Ing. Lugar",
+      "label": "PER",
+      "start": 1710,
+      "end": 1720
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1758,
+      "end": 1761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1763,
+      "end": 1778
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2846,
+      "end": 2878
+    },
+    {
+      "text": "Scheinanmeldungen",
+      "label": "PER",
+      "start": 2933,
+      "end": 2950
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 3047,
+      "end": 3074
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3239,
+      "end": 3271
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3438
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 3444,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3568
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3570,
+      "end": 3573
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3624,
+      "end": 3627
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3629,
+      "end": 3644
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4032,
+      "end": 4035
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4037,
+      "end": 4052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4170
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 1110,
+      "end": 1125
+    },
+    {
+      "text": ".................................................................................................",
+      "label": "ORG",
+      "start": 1145,
+      "end": 1242
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1483,
+      "end": 1494
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1499
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1564,
+      "end": 1579
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1599,
+      "end": 1602
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1604,
+      "end": 1619
+    },
+    {
+      "text": "Pendl",
+      "label": "PER",
+      "start": 1692,
+      "end": 1697
+    },
+    {
+      "text": "Steger",
+      "label": "PER",
+      "start": 1699,
+      "end": 1705
+    },
+    {
+      "text": "Ing. Lugar",
+      "label": "PER",
+      "start": 1710,
+      "end": 1720
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1758,
+      "end": 1761
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 1763,
+      "end": 1778
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 2846,
+      "end": 2878
+    },
+    {
+      "text": "Scheinanmeldungen",
+      "label": "PER",
+      "start": 2933,
+      "end": 2950
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 3047,
+      "end": 3074
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch-Jenewein",
+      "label": "PER",
+      "start": 3239,
+      "end": 3271
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3426,
+      "end": 3438
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 3444,
+      "end": 3456
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3557,
+      "end": 3568
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3570,
+      "end": 3573
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3624,
+      "end": 3627
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3629,
+      "end": 3644
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4032,
+      "end": 4035
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4037,
+      "end": 4052
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4170
+    }
+  ],
+  "bert": [
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "für Arbeit",
+      "label": "ORG",
+      "start": 2788,
+      "end": 2798
+    },
+    {
+      "text": "Soziales",
+      "label": "ORG",
+      "start": 2803,
+      "end": 2811
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2850,
+      "end": 2869
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2870,
+      "end": 2878
+    },
+    {
+      "text": "Tanja Windbüchler",
+      "label": "PER",
+      "start": 3047,
+      "end": 3064
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 3065,
+      "end": 3074
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 3243,
+      "end": 3262
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3263,
+      "end": 3271
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3439,
+      "end": 3442
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 3444,
+      "end": 3456
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3624,
+      "end": 3627
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3629,
+      "end": 3644
+    },
+    {
+      "text": "für Konsumentenschutz",
+      "label": "ORG",
+      "start": 3656,
+      "end": 3677
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "usschuss für Land - und Forstwirtschaft",
+      "label": "ORG",
+      "start": 3800,
+      "end": 3838
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4037,
+      "end": 4052
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4157,
+      "end": 4165
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 1061,
+      "end": 1074
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 1076,
+      "end": 1088
+    },
+    {
+      "text": "Hermann Gahr",
+      "label": "PER",
+      "start": 2308,
+      "end": 2320
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2485,
+      "end": 2498
+    },
+    {
+      "text": "Walter Rauch",
+      "label": "PER",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "text": "Josef A. Riemer",
+      "label": "PER",
+      "start": 2514,
+      "end": 2529
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2534,
+      "end": 2549
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 2850,
+      "end": 2869
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 2870,
+      "end": 2878
+    },
+    {
+      "text": "Tanja Windbüchler",
+      "label": "PER",
+      "start": 3047,
+      "end": 3064
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 3065,
+      "end": 3074
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 3184,
+      "end": 3204
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 3243,
+      "end": 3262
+    },
+    {
+      "text": "Jenewein",
+      "label": "PER",
+      "start": 3263,
+      "end": 3271
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3439,
+      "end": 3442
+    },
+    {
+      "text": "Roman Haider",
+      "label": "PER",
+      "start": 3444,
+      "end": 3456
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3624,
+      "end": 3627
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 3629,
+      "end": 3641
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 3646,
+      "end": 3649
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 3712,
+      "end": 3722
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3873,
+      "end": 3887
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4037,
+      "end": 4052
+    }
+  ]
+}

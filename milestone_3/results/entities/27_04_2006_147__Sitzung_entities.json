@@ -1,0 +1,1313 @@
+{
+  "filename": "27.04.2006_147._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Ministerrat",
+      "label": "ORG",
+      "start": 831,
+      "end": 842
+    },
+    {
+      "text": "Regierung",
+      "label": "ORG",
+      "start": 789,
+      "end": 798
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 1218,
+      "end": 1241
+    },
+    {
+      "text": "Rates;",
+      "label": "ORG",
+      "start": 1283,
+      "end": 1289
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1355,
+      "end": 1410
+    },
+    {
+      "text": "Dr. Gabriela Moser,",
+      "label": "PER",
+      "start": 1444,
+      "end": 1463
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 1513,
+      "end": 1568
+    },
+    {
+      "text": "Gabriele Binder-Maier,",
+      "label": "PER",
+      "start": 1602,
+      "end": 1624
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "PER",
+      "start": 1674,
+      "end": 1727
+    },
+    {
+      "text": "Dieter Brosz,",
+      "label": "PER",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1855,
+      "end": 1867
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "PER",
+      "start": 1882,
+      "end": 1935
+    },
+    {
+      "text": "Mag. Christine Lapp,",
+      "label": "PER",
+      "start": 1969,
+      "end": 1989
+    },
+    {
+      "text": "Bundesministerin für auswärtige Angelegenheiten",
+      "label": "PER",
+      "start": 2039,
+      "end": 2086
+    },
+    {
+      "text": "Renate Csörgits,",
+      "label": "PER",
+      "start": 2120,
+      "end": 2136
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2195
+    },
+    {
+      "text": "Mag. Barbara Prammer.",
+      "label": "PER",
+      "start": 2302,
+      "end": 2323
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 2342,
+      "end": 2363
+    },
+    {
+      "text": "Dr. Mitterlehner",
+      "label": "PER",
+      "start": 2436,
+      "end": 2452
+    },
+    {
+      "text": "Ing. Kaipel.",
+      "label": "PER",
+      "start": 2457,
+      "end": 2469
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 2506,
+      "end": 2527
+    },
+    {
+      "text": "Regierung",
+      "label": "ORG",
+      "start": 2942,
+      "end": 2951
+    },
+    {
+      "text": "Ministerrat",
+      "label": "ORG",
+      "start": 2984,
+      "end": 2995
+    },
+    {
+      "text": "Walter Murauer,",
+      "label": "PER",
+      "start": 3177,
+      "end": 3192
+    },
+    {
+      "text": "Markus Fauland,",
+      "label": "PER",
+      "start": 3193,
+      "end": 3208
+    },
+    {
+      "text": "Mag. Christine Lapp,",
+      "label": "PER",
+      "start": 3606,
+      "end": 3626
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "PER",
+      "start": 3841,
+      "end": 3894
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "PER",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Rates",
+      "label": "PER",
+      "start": 4082,
+      "end": 4087
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4157
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4180,
+      "end": 4200
+    },
+    {
+      "text": "Mag. Barbara Prammer:",
+      "label": "PER",
+      "start": 4214,
+      "end": 4235
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4727
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4920,
+      "end": 4939
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 1218,
+      "end": 1241
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1444,
+      "end": 1462
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 1761,
+      "end": 1773
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1855,
+      "end": 1866
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1969,
+      "end": 1973
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2194
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2302,
+      "end": 2322
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2342,
+      "end": 2362
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2436,
+      "end": 2439
+    },
+    {
+      "text": "Mitterlehner",
+      "label": "PER",
+      "start": 2440,
+      "end": 2452
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 2457,
+      "end": 2461
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 2462,
+      "end": 2468
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2506,
+      "end": 2526
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 3606,
+      "end": 3610
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4156
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4180,
+      "end": 4200
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 4214,
+      "end": 4234
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4726
+    }
+  ],
+  "flair": [
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 1218,
+      "end": 1241
+    },
+    {
+      "text": "BM f",
+      "label": "ORG",
+      "start": 1290,
+      "end": 1294
+    },
+    {
+      "text": "Bildung",
+      "label": "ORG",
+      "start": 1296,
+      "end": 1303
+    },
+    {
+      "text": "Wissenschaft und",
+      "label": "ORG",
+      "start": 1305,
+      "end": 1321
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1355,
+      "end": 1410
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1448,
+      "end": 1462
+    },
+    {
+      "text": "Bundesministers für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1513,
+      "end": 1568
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1727
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 1761,
+      "end": 1773
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 1882,
+      "end": 1935
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2307,
+      "end": 2322
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2347,
+      "end": 2362
+    },
+    {
+      "text": "Mitterlehner",
+      "label": "PER",
+      "start": 2440,
+      "end": 2452
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 2462,
+      "end": 2468
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2511,
+      "end": 2526
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start": 3741,
+      "end": 3744
+    },
+    {
+      "text": "Bundesministerin für Bildung, Wissenschaft und Kultur",
+      "label": "ORG",
+      "start": 3841,
+      "end": 3894
+    },
+    {
+      "text": "Europäischen",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4029
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4185,
+      "end": 4200
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4219,
+      "end": 4234
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 383,
+      "end": 485
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 513,
+      "end": 619
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 643,
+      "end": 660
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 959,
+      "end": 1074
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 1218,
+      "end": 1241
+    },
+    {
+      "text": "BM f. Bildung",
+      "label": "ORG",
+      "start": 1290,
+      "end": 1303
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1355,
+      "end": 1382
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1444,
+      "end": 1462
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1513,
+      "end": 1540
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1702
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 1761,
+      "end": 1773
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1855,
+      "end": 1866
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 1882,
+      "end": 1910
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2194
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2302,
+      "end": 2305
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2307,
+      "end": 2322
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2342,
+      "end": 2345
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2347,
+      "end": 2362
+    },
+    {
+      "text": "Dr. Mitterlehner",
+      "label": "PER",
+      "start": 2436,
+      "end": 2452
+    },
+    {
+      "text": "Ing. Kaipel",
+      "label": "PER",
+      "start": 2457,
+      "end": 2468
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2506,
+      "end": 2509
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2511,
+      "end": 2526
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2754,
+      "end": 2768
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 3841,
+      "end": 3869
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4156
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4180,
+      "end": 4183
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4185,
+      "end": 4200
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4214,
+      "end": 4217
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4219,
+      "end": 4234
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4726
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 185,
+      "end": 222
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 383,
+      "end": 485
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 513,
+      "end": 619
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 643,
+      "end": 660
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 959,
+      "end": 1074
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 1218,
+      "end": 1241
+    },
+    {
+      "text": "BM f. Bildung",
+      "label": "ORG",
+      "start": 1290,
+      "end": 1303
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1355,
+      "end": 1382
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1444,
+      "end": 1462
+    },
+    {
+      "text": "Bundesministers für Verkehr",
+      "label": "ORG",
+      "start": 1513,
+      "end": 1540
+    },
+    {
+      "text": "Gabriele Binder-Maier",
+      "label": "PER",
+      "start": 1602,
+      "end": 1623
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1702
+    },
+    {
+      "text": "Dieter Brosz",
+      "label": "PER",
+      "start": 1761,
+      "end": 1773
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1855,
+      "end": 1866
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 1882,
+      "end": 1910
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2194
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2302,
+      "end": 2305
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2307,
+      "end": 2322
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2342,
+      "end": 2345
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2347,
+      "end": 2362
+    },
+    {
+      "text": "Dr. Mitterlehner",
+      "label": "PER",
+      "start": 2436,
+      "end": 2452
+    },
+    {
+      "text": "Ing. Kaipel",
+      "label": "PER",
+      "start": 2457,
+      "end": 2468
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2506,
+      "end": 2509
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2511,
+      "end": 2526
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2754,
+      "end": 2768
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "Bundesministerin für Bildung",
+      "label": "ORG",
+      "start": 3841,
+      "end": 3869
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4156
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4180,
+      "end": 4183
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4185,
+      "end": 4200
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4214,
+      "end": 4217
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4219,
+      "end": 4234
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4726
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 185,
+      "end": 198
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 212,
+      "end": 222
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2021,
+      "end": 2023
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2168,
+      "end": 2170
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2183,
+      "end": 2194
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2307,
+      "end": 2322
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2347,
+      "end": 2362
+    },
+    {
+      "text": "Mitterlehner",
+      "label": "PER",
+      "start": 2440,
+      "end": 2452
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 2462,
+      "end": 2468
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2511,
+      "end": 2526
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4156
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4185,
+      "end": 4200
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4219,
+      "end": 4234
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4726
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 1974,
+      "end": 1988
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2021,
+      "end": 2023
+    },
+    {
+      "text": "Renate Csörgits",
+      "label": "PER",
+      "start": 2120,
+      "end": 2135
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2168,
+      "end": 2170
+    },
+    {
+      "text": "XXII. GP",
+      "label": "ORG",
+      "start": 2196,
+      "end": 2204
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2302,
+      "end": 2305
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2307,
+      "end": 2322
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2342,
+      "end": 2345
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2347,
+      "end": 2362
+    },
+    {
+      "text": "Mitterlehner",
+      "label": "PER",
+      "start": 2440,
+      "end": 2452
+    },
+    {
+      "text": "Kaipel",
+      "label": "PER",
+      "start": 2462,
+      "end": 2468
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2511,
+      "end": 2526
+    },
+    {
+      "text": "A",
+      "label": "PER",
+      "start": 2754,
+      "end": 2755
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2822,
+      "end": 2824
+    },
+    {
+      "text": "Walter Murauer",
+      "label": "PER",
+      "start": 3177,
+      "end": 3191
+    },
+    {
+      "text": "Markus Fauland",
+      "label": "PER",
+      "start": 3193,
+      "end": 3207
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3606,
+      "end": 3609
+    },
+    {
+      "text": "Christine Lapp",
+      "label": "PER",
+      "start": 3611,
+      "end": 3625
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 4017,
+      "end": 4040
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4145,
+      "end": 4156
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4180,
+      "end": 4183
+    },
+    {
+      "text": ".",
+      "label": "ORG",
+      "start": 4183,
+      "end": 4184
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 4185,
+      "end": 4197
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4214,
+      "end": 4217
+    },
+    {
+      "text": ".",
+      "label": "ORG",
+      "start": 4217,
+      "end": 4218
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 4219,
+      "end": 4234
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4713,
+      "end": 4726
+    }
+  ]
+}

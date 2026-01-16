@@ -1,0 +1,7967 @@
+{
+  "filename": "Plenarprotokoll_988._Sitzung,_27.03.2020.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 122,
+      "end": 140
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "Alfred\\n\\nGomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 644,
+      "end": 658
+    },
+    {
+      "text": "Dr. Peter Tschentscher",
+      "label": "PER",
+      "start": 699,
+      "end": 721
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 1160,
+      "end": 1192
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt,",
+      "label": "PER",
+      "start": 1252,
+      "end": 1276
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 1300,
+      "end": 1315
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH,",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1974
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2872,
+      "end": 2881
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 3512,
+      "end": 3535
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 3544,
+      "end": 3549
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4752,
+      "end": 4763
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5134,
+      "end": 5145
+    },
+    {
+      "text": "Europäischen\\n\\nParlaments",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5928
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 5937,
+      "end": 5942
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7197,
+      "end": 7206
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Dr. Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 7344,
+      "end": 7373
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 7428,
+      "end": 7442
+    },
+    {
+      "text": "Europäischen\\n\\nUnion",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8819,
+      "end": 8830
+    },
+    {
+      "text": "Beratungsgremien der Europäischen Union",
+      "label": "ORG",
+      "start": 8834,
+      "end": 8873
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 9198,
+      "end": 9230
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9780,
+      "end": 9791
+    },
+    {
+      "text": "Beratungsgremien der Europäischen Union",
+      "label": "ORG",
+      "start": 9795,
+      "end": 9834
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt,",
+      "label": "PER",
+      "start": 10405,
+      "end": 10429
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 10453,
+      "end": 10468
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10932,
+      "end": 10943
+    },
+    {
+      "text": "Beratungsgremien der Europäischen Union",
+      "label": "ORG",
+      "start": 10947,
+      "end": 10986
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11216,
+      "end": 11227
+    },
+    {
+      "text": "Beratungsgremien der Europäischen Union",
+      "label": "ORG",
+      "start": 11231,
+      "end": 11270
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11306,
+      "end": 11315
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 11427,
+      "end": 11442
+    },
+    {
+      "text": "Ministerrat",
+      "label": "ORG",
+      "start": 11447,
+      "end": 11458
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 12175,
+      "end": 12199
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12514,
+      "end": 12523
+    },
+    {
+      "text": "D r . D i e t m a r W o i d k e",
+      "label": "PER",
+      "start": 12605,
+      "end": 12636
+    },
+    {
+      "text": "Lorenz Caffier,",
+      "label": "PER",
+      "start": 12705,
+      "end": 12720
+    },
+    {
+      "text": "Franz Untersteller,",
+      "label": "PER",
+      "start": 12788,
+      "end": 12807
+    },
+    {
+      "text": "Georg Eisenreich,",
+      "label": "PER",
+      "start": 12866,
+      "end": 12883
+    },
+    {
+      "text": "Birgit Honé,",
+      "label": "PER",
+      "start": 12911,
+      "end": 12923
+    },
+    {
+      "text": "Dr. Stephan Holthoff-Pförtner,",
+      "label": "PER",
+      "start": 13073,
+      "end": 13103
+    },
+    {
+      "text": "Michael Müller,",
+      "label": "PER",
+      "start": 13224,
+      "end": 13239
+    },
+    {
+      "text": "Dilek Kalayci,",
+      "label": "PER",
+      "start": 13266,
+      "end": 13280
+    },
+    {
+      "text": "Dr. Manja Schüle,",
+      "label": "PER",
+      "start": 13347,
+      "end": 13364
+    },
+    {
+      "text": "Dr. Olaf Joachim,",
+      "label": "PER",
+      "start": 13424,
+      "end": 13441
+    },
+    {
+      "text": "Dr. Peter Tschentscher,",
+      "label": "PER",
+      "start": 13519,
+      "end": 13542
+    },
+    {
+      "text": "Senats,",
+      "label": "ORG",
+      "start": 13557,
+      "end": 13564
+    },
+    {
+      "text": "Lucia Puttrich,",
+      "label": "PER",
+      "start": 13595,
+      "end": 13610
+    },
+    {
+      "text": "Herbert Mertin,",
+      "label": "PER",
+      "start": 13726,
+      "end": 13741
+    },
+    {
+      "text": "Henrik Eitel,",
+      "label": "PER",
+      "start": 13773,
+      "end": 13786
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 13812,
+      "end": 13825
+    },
+    {
+      "text": "Martin Dulig,",
+      "label": "PER",
+      "start": 13882,
+      "end": 13895
+    },
+    {
+      "text": "Michael Richter,",
+      "label": "PER",
+      "start": 13963,
+      "end": 13979
+    },
+    {
+      "text": "Jan Philipp Albrecht,",
+      "label": "PER",
+      "start": 14023,
+      "end": 14044
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14127,
+      "end": 14136
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff,",
+      "label": "PER",
+      "start": 14180,
+      "end": 14213
+    },
+    {
+      "text": "Staatskanzlei,",
+      "label": "ORG",
+      "start": 14282,
+      "end": 14296
+    },
+    {
+      "text": "Bundesregierung:",
+      "label": "ORG",
+      "start": 14352,
+      "end": 14368
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt,",
+      "label": "PER",
+      "start": 14369,
+      "end": 14393
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 14417,
+      "end": 14432
+    },
+    {
+      "text": "Uwe Feiler,",
+      "label": "PER",
+      "start": 14433,
+      "end": 14444
+    },
+    {
+      "text": "Beate Kasch,",
+      "label": "PER",
+      "start": 14524,
+      "end": 14536
+    },
+    {
+      "text": "Bundesministerium\\n\\nfür Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14609,
+      "end": 14618
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 14723,
+      "end": 14742
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 14855,
+      "end": 14867
+    },
+    {
+      "text": "Christian D r o s t e n",
+      "label": "PER",
+      "start": 15101,
+      "end": 15124
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15914,
+      "end": 15923
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17627,
+      "end": 17636
+    },
+    {
+      "text": "Bundesrat.",
+      "label": "ORG",
+      "start": 17905,
+      "end": 17915
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18388,
+      "end": 18397
+    },
+    {
+      "text": "Polizei",
+      "label": "ORG",
+      "start": 18967,
+      "end": 18974
+    },
+    {
+      "text": "Gomolka",
+      "label": "PER",
+      "start": 20299,
+      "end": 20306
+    },
+    {
+      "text": "Europaparlaments",
+      "label": "ORG",
+      "start": 20838,
+      "end": 20854
+    },
+    {
+      "text": "Europäische Union.",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20936
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 21822,
+      "end": 21833
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Landtages",
+      "label": "ORG",
+      "start": 22127,
+      "end": 22136
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 22323,
+      "end": 22335
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22779,
+      "end": 22788
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23498,
+      "end": 23507
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Dr. Tschentscher",
+      "label": "PER",
+      "start": 23736,
+      "end": 23752
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 23778,
+      "end": 23785
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Professor Dr. Hoff",
+      "label": "PER",
+      "start": 23909,
+      "end": 23927
+    },
+    {
+      "text": "Dr. Hoppenstedt",
+      "label": "PER",
+      "start": 23964,
+      "end": 23979
+    },
+    {
+      "text": "Bundeskanzleramt).",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23999
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26302,
+      "end": 26311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26360,
+      "end": 26369
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26549,
+      "end": 26558
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26937,
+      "end": 26946
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27138,
+      "end": 27147
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28119,
+      "end": 28128
+    },
+    {
+      "text": "EU)",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28515
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28552
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 28561,
+      "end": 28566
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29028,
+      "end": 29037
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29233,
+      "end": 29242
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29325,
+      "end": 29334
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "Dr. HolthoffPförtner",
+      "label": "PER",
+      "start": 29803,
+      "end": 29823
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 29878,
+      "end": 29885
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30105,
+      "end": 30114
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30855,
+      "end": 30864
+    },
+    {
+      "text": "Professor\\n\\nDr. Hoff",
+      "label": "PER",
+      "start": 31573,
+      "end": 31591
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 31621,
+      "end": 31653
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32020,
+      "end": 32029
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32226,
+      "end": 32235
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 32424,
+      "end": 32439
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "K l ö c k n e r",
+      "label": "ORG",
+      "start": 32927,
+      "end": 32942
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 32980,
+      "end": 32993
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33027,
+      "end": 33040
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 33349,
+      "end": 33352
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 35751,
+      "end": 35770
+    },
+    {
+      "text": "Professor Dr. Hoff!",
+      "label": "PER",
+      "start": 35793,
+      "end": 35812
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 35911,
+      "end": 35921
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "MR Bernd Langer",
+      "label": "PER",
+      "start": 36115,
+      "end": 36130
+    },
+    {
+      "text": "Präsident!)",
+      "label": "PER",
+      "start": 36157,
+      "end": 36168
+    },
+    {
+      "text": "MR Bernd Langer",
+      "label": "PER",
+      "start": 36178,
+      "end": 36193
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 36311,
+      "end": 36330
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 36399,
+      "end": 36431
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 36481,
+      "end": 36500
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 36531,
+      "end": 36551
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 36694,
+      "end": 36713
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 36769,
+      "end": 36778
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 37047,
+      "end": 37058
+    },
+    {
+      "text": "Dr. Hoppenstedt",
+      "label": "PER",
+      "start": 37558,
+      "end": 37573
+    },
+    {
+      "text": "Bundeskanzleramt)",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37592
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38150,
+      "end": 38159
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38322,
+      "end": 38331
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38426,
+      "end": 38441
+    },
+    {
+      "text": "Sozialbeirats",
+      "label": "ORG",
+      "start": 38708,
+      "end": 38721
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38833,
+      "end": 38842
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Dr. Peter Tschentscher",
+      "label": "PER",
+      "start": 41384,
+      "end": 41406
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42814,
+      "end": 42823
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 46048,
+      "end": 46080
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 46510,
+      "end": 46519
+    },
+    {
+      "text": "Olaf Scholz,",
+      "label": "PER",
+      "start": 47267,
+      "end": 47279
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 47841,
+      "end": 47873
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49046,
+      "end": 49069
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49129,
+      "end": 49144
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49376,
+      "end": 49391
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50427,
+      "end": 50436
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51197,
+      "end": 51212
+    },
+    {
+      "text": "Dr. Markus Söder",
+      "label": "PER",
+      "start": 51350,
+      "end": 51366
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51964,
+      "end": 51979
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 52014,
+      "end": 52023
+    },
+    {
+      "text": "Bundesregierung,",
+      "label": "ORG",
+      "start": 53448,
+      "end": 53464
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53505,
+      "end": 53520
+    },
+    {
+      "text": "Dr. Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 54474,
+      "end": 54503
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54925,
+      "end": 54934
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57151,
+      "end": 57168
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57354,
+      "end": 57371
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 59357,
+      "end": 59374
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60688,
+      "end": 60697
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 61571,
+      "end": 61581
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 62266,
+      "end": 62276
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65130,
+      "end": 65139
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Landesregierungen",
+      "label": "ORG",
+      "start": 66066,
+      "end": 66083
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66208,
+      "end": 66223
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66466,
+      "end": 66481
+    },
+    {
+      "text": "Landesregierungen",
+      "label": "ORG",
+      "start": 66678,
+      "end": 66695
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66759,
+      "end": 66774
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 67258,
+      "end": 67261
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 68055,
+      "end": 68058
+    },
+    {
+      "text": "EU-",
+      "label": "ORG",
+      "start": 68086,
+      "end": 68089
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68469
+    },
+    {
+      "text": "Bundesregierung,",
+      "label": "ORG",
+      "start": 68532,
+      "end": 68548
+    },
+    {
+      "text": "Kommission.",
+      "label": "ORG",
+      "start": 68569,
+      "end": 68580
+    },
+    {
+      "text": "EuGH-",
+      "label": "ORG",
+      "start": 68710,
+      "end": 68715
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68814,
+      "end": 68824
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69004,
+      "end": 69019
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69060,
+      "end": 69075
+    },
+    {
+      "text": "EuGH-",
+      "label": "ORG",
+      "start": 69482,
+      "end": 69487
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 69543,
+      "end": 69552
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70251,
+      "end": 70260
+    },
+    {
+      "text": "GAK",
+      "label": "ORG",
+      "start": 70624,
+      "end": 70627
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 71098,
+      "end": 71108
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72411,
+      "end": 72434
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72492,
+      "end": 72507
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72512,
+      "end": 72527
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 122,
+      "end": 125
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 126,
+      "end": 133
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 259,
+      "end": 270
+    },
+    {
+      "text": "Alfred",
+      "label": "PER",
+      "start": 329,
+      "end": 335
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 644,
+      "end": 651
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 652,
+      "end": 658
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 699,
+      "end": 702
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 703,
+      "end": 708
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 1075,
+      "end": 1078
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 1079,
+      "end": 1086
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 1087,
+      "end": 1095
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1166,
+      "end": 1169
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1252,
+      "end": 1255
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2872,
+      "end": 2881
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 3512,
+      "end": 3535
+    },
+    {
+      "text": "Wolfram",
+      "label": "PER",
+      "start": 3690,
+      "end": 3697
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 4752,
+      "end": 4763
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 5134,
+      "end": 5145
+    },
+    {
+      "text": "Parlaments",
+      "label": "ORG",
+      "start": 5918,
+      "end": 5928
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7197,
+      "end": 7206
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 7239,
+      "end": 7244
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 7295,
+      "end": 7300
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 7344,
+      "end": 7347
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 7348,
+      "end": 7355
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 8819,
+      "end": 8830
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 9204,
+      "end": 9207
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 9780,
+      "end": 9791
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 10405,
+      "end": 10408
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 10812,
+      "end": 10815
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 10816,
+      "end": 10823
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 10824,
+      "end": 10832
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 10932,
+      "end": 10943
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 11216,
+      "end": 11227
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 11252,
+      "end": 11270
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11306,
+      "end": 11315
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 11427,
+      "end": 11442
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12514,
+      "end": 12523
+    },
+    {
+      "text": "Franz",
+      "label": "PER",
+      "start": 12788,
+      "end": 12793
+    },
+    {
+      "text": "Klima",
+      "label": "PER",
+      "start": 12829,
+      "end": 12834
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 12866,
+      "end": 12871
+    },
+    {
+      "text": "Birgit",
+      "label": "PER",
+      "start": 12911,
+      "end": 12917
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13073,
+      "end": 13076
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 13077,
+      "end": 13084
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 13224,
+      "end": 13231
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 13232,
+      "end": 13238
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13347,
+      "end": 13350
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13424,
+      "end": 13427
+    },
+    {
+      "text": "Joachim",
+      "label": "PER",
+      "start": 13433,
+      "end": 13440
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 13519,
+      "end": 13522
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 13523,
+      "end": 13528
+    },
+    {
+      "text": "Herbert",
+      "label": "PER",
+      "start": 13726,
+      "end": 13733
+    },
+    {
+      "text": "Martin",
+      "label": "PER",
+      "start": 13882,
+      "end": 13888
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 13963,
+      "end": 13970
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 13971,
+      "end": 13978
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 14023,
+      "end": 14026
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 14027,
+      "end": 14034
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 14035,
+      "end": 14043
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14127,
+      "end": 14136
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 14186,
+      "end": 14189
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 14352,
+      "end": 14367
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 14369,
+      "end": 14372
+    },
+    {
+      "text": "Uwe",
+      "label": "PER",
+      "start": 14433,
+      "end": 14436
+    },
+    {
+      "text": "Beate",
+      "label": "PER",
+      "start": 14524,
+      "end": 14529
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14609,
+      "end": 14618
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 14723,
+      "end": 14726
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 14727,
+      "end": 14734
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 14855,
+      "end": 14866
+    },
+    {
+      "text": "Christian",
+      "label": "PER",
+      "start": 15101,
+      "end": 15110
+    },
+    {
+      "text": "ernst",
+      "label": "PER",
+      "start": 15330,
+      "end": 15335
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15914,
+      "end": 15923
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 16721,
+      "end": 16726
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17627,
+      "end": 17636
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17905,
+      "end": 17914
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18388,
+      "end": 18397
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 20705,
+      "end": 20711
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred",
+      "label": "PER",
+      "start": 20937,
+      "end": 20943
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 21822,
+      "end": 21833
+    },
+    {
+      "text": "Alfred",
+      "label": "PER",
+      "start": 21834,
+      "end": 21840
+    },
+    {
+      "text": "Alfred",
+      "label": "PER",
+      "start": 21884,
+      "end": 21890
+    },
+    {
+      "text": "seiner",
+      "label": "PER",
+      "start": 21983,
+      "end": 21989
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22323,
+      "end": 22334
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22779,
+      "end": 22788
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23498,
+      "end": 23507
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23654,
+      "end": 23658
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 23685,
+      "end": 23692
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 23693,
+      "end": 23699
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23710,
+      "end": 23714
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 23736,
+      "end": 23739
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23764,
+      "end": 23768
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23812,
+      "end": 23816
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23850,
+      "end": 23854
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23895,
+      "end": 23899
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 23919,
+      "end": 23922
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 23944,
+      "end": 23948
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 23964,
+      "end": 23967
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23997
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24305,
+      "end": 24314
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26302,
+      "end": 26311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26360,
+      "end": 26369
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26549,
+      "end": 26558
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26937,
+      "end": 26946
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27138,
+      "end": 27147
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28119,
+      "end": 28128
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28552
+    },
+    {
+      "text": "Wolfram",
+      "label": "PER",
+      "start": 28707,
+      "end": 28714
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29028,
+      "end": 29037
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29233,
+      "end": 29242
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29325,
+      "end": 29334
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 29589,
+      "end": 29593
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 29745,
+      "end": 29749
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 29789,
+      "end": 29793
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 29803,
+      "end": 29806
+    },
+    {
+      "text": "Wunsch",
+      "label": "PER",
+      "start": 29852,
+      "end": 29858
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30105,
+      "end": 30114
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30855,
+      "end": 30864
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 31583,
+      "end": 31586
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 31627,
+      "end": 31630
+    },
+    {
+      "text": "weiß",
+      "label": "PER",
+      "start": 31703,
+      "end": 31707
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32020,
+      "end": 32029
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32226,
+      "end": 32235
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 32424,
+      "end": 32439
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 35751,
+      "end": 35754
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 35755,
+      "end": 35762
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 35788,
+      "end": 35792
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 35803,
+      "end": 35806
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 35891,
+      "end": 35895
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 35976,
+      "end": 35980
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd",
+      "label": "PER",
+      "start": 36118,
+      "end": 36123
+    },
+    {
+      "text": "Langer",
+      "label": "PER",
+      "start": 36124,
+      "end": 36130
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 36152,
+      "end": 36156
+    },
+    {
+      "text": "Bernd",
+      "label": "PER",
+      "start": 36181,
+      "end": 36186
+    },
+    {
+      "text": "Langer",
+      "label": "PER",
+      "start": 36187,
+      "end": 36193
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 36311,
+      "end": 36314
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 36315,
+      "end": 36322
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 36405,
+      "end": 36408
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 36481,
+      "end": 36484
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 36485,
+      "end": 36492
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 36531,
+      "end": 36534
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 36535,
+      "end": 36542
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 36543,
+      "end": 36551
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 36694,
+      "end": 36697
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 36698,
+      "end": 36705
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 36769,
+      "end": 36778
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 37047,
+      "end": 37058
+    },
+    {
+      "text": "Kraft",
+      "label": "PER",
+      "start": 37277,
+      "end": 37282
+    },
+    {
+      "text": "Herr",
+      "label": "PER",
+      "start": 37538,
+      "end": 37542
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 37558,
+      "end": 37561
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38150,
+      "end": 38159
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38322,
+      "end": 38331
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38426,
+      "end": 38441
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38833,
+      "end": 38842
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 38948,
+      "end": 38955
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 38956,
+      "end": 38962
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 41384,
+      "end": 41387
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 41388,
+      "end": 41393
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42814,
+      "end": 42823
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 43056,
+      "end": 43059
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 43060,
+      "end": 43067
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 43068,
+      "end": 43076
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 43162,
+      "end": 43165
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 43166,
+      "end": 43173
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 43174,
+      "end": 43182
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 43940,
+      "end": 43943
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 43944,
+      "end": 43951
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 43952,
+      "end": 43960
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 46054,
+      "end": 46057
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 46510,
+      "end": 46519
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 47847,
+      "end": 47850
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 49046,
+      "end": 49049
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49129,
+      "end": 49144
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49376,
+      "end": 49391
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 49701,
+      "end": 49706
+    },
+    {
+      "text": "Klima",
+      "label": "PER",
+      "start": 50256,
+      "end": 50261
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50427,
+      "end": 50436
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51197,
+      "end": 51212
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 51350,
+      "end": 51353
+    },
+    {
+      "text": "Markus",
+      "label": "PER",
+      "start": 51354,
+      "end": 51360
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51964,
+      "end": 51979
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 52014,
+      "end": 52023
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53448,
+      "end": 53463
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53505,
+      "end": 53520
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 54474,
+      "end": 54477
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 54478,
+      "end": 54485
+    },
+    {
+      "text": "stark",
+      "label": "PER",
+      "start": 54687,
+      "end": 54692
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54925,
+      "end": 54934
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 56310,
+      "end": 56315
+    },
+    {
+      "text": "Falle",
+      "label": "PER",
+      "start": 56324,
+      "end": 56329
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 56861,
+      "end": 56866
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60688,
+      "end": 60697
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 60906,
+      "end": 60911
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65130,
+      "end": 65139
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 65791,
+      "end": 65806
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65906
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66208,
+      "end": 66223
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66466,
+      "end": 66481
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66759,
+      "end": 66774
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 66958,
+      "end": 66961
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 66962,
+      "end": 66969
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 66970,
+      "end": 66978
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68532,
+      "end": 68547
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69004,
+      "end": 69019
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69060,
+      "end": 69075
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 69543,
+      "end": 69552
+    },
+    {
+      "text": "fast",
+      "label": "PER",
+      "start": 69553,
+      "end": 69557
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70251,
+      "end": 70260
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 72411,
+      "end": 72414
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72492,
+      "end": 72507
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72512,
+      "end": 72527
+    }
+  ],
+  "flair": [
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 126,
+      "end": 140
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 644,
+      "end": 658
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 1170,
+      "end": 1192
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 1256,
+      "end": 1275
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3013,
+      "end": 3015
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3495,
+      "end": 3497
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 3512,
+      "end": 3535
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 5888,
+      "end": 5890
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5928
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 5995,
+      "end": 5997
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 7348,
+      "end": 7373
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 7428,
+      "end": 7442
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "Working party on the UK",
+      "label": "ORG",
+      "start": 8926,
+      "end": 8949
+    },
+    {
+      "text": "WPUK",
+      "label": "ORG",
+      "start": 8951,
+      "end": 8955
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 9208,
+      "end": 9230
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 10409,
+      "end": 10428
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "IXIM",
+      "label": "ORG",
+      "start": 11052,
+      "end": 11056
+    },
+    {
+      "text": "Bund-LänderVereinbarung",
+      "label": "ORG",
+      "start": 11109,
+      "end": 11132
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 11252,
+      "end": 11270
+    },
+    {
+      "text": "Telekommunikation",
+      "label": "ORG",
+      "start": 11349,
+      "end": 11366
+    },
+    {
+      "text": "Ministerrat Verkehr, Telekommunikation und Energie",
+      "label": "ORG",
+      "start": 11447,
+      "end": 11497
+    },
+    {
+      "text": "D",
+      "label": "PER",
+      "start": 12611,
+      "end": 12612
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 12613,
+      "end": 12614
+    },
+    {
+      "text": "e t m a r W o i d k e",
+      "label": "PER",
+      "start": 12615,
+      "end": 12636
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 12705,
+      "end": 12719
+    },
+    {
+      "text": "Franz Untersteller",
+      "label": "PER",
+      "start": 12788,
+      "end": 12806
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 12866,
+      "end": 12882
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 12911,
+      "end": 12922
+    },
+    {
+      "text": "Bund  Nordrhein-Westfalen",
+      "label": "ORG",
+      "start": 13046,
+      "end": 13071
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 13077,
+      "end": 13102
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 13224,
+      "end": 13238
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 13266,
+      "end": 13279
+    },
+    {
+      "text": "Pflege",
+      "label": "ORG",
+      "start": 13307,
+      "end": 13313
+    },
+    {
+      "text": "Manja Schüle",
+      "label": "PER",
+      "start": 13351,
+      "end": 13363
+    },
+    {
+      "text": "Wissenschaft, Forschung und Kultur",
+      "label": "ORG",
+      "start": 13380,
+      "end": 13414
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 13428,
+      "end": 13440
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 13474,
+      "end": 13498
+    },
+    {
+      "text": "Bund  Hamburg",
+      "label": "ORG",
+      "start": 13504,
+      "end": 13517
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 13523,
+      "end": 13541
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 13595,
+      "end": 13609
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 13726,
+      "end": 13740
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 13773,
+      "end": 13785
+    },
+    {
+      "text": "Bund  Sachsen",
+      "label": "ORG",
+      "start": 13867,
+      "end": 13880
+    },
+    {
+      "text": "Martin Dulig",
+      "label": "PER",
+      "start": 13882,
+      "end": 13894
+    },
+    {
+      "text": "Arbeit und",
+      "label": "ORG",
+      "start": 13927,
+      "end": 13937
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 13963,
+      "end": 13978
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 14023,
+      "end": 14043
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 14190,
+      "end": 14212
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 14373,
+      "end": 14392
+    },
+    {
+      "text": "Uwe Feiler",
+      "label": "PER",
+      "start": 14433,
+      "end": 14443
+    },
+    {
+      "text": "Beate Kasch",
+      "label": "PER",
+      "start": 14524,
+      "end": 14535
+    },
+    {
+      "text": "Bundesministerium für Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 14727,
+      "end": 14741
+    },
+    {
+      "text": "Christian D r o s t e n",
+      "label": "PER",
+      "start": 15101,
+      "end": 15124
+    },
+    {
+      "text": "Gomolka",
+      "label": "PER",
+      "start": 20299,
+      "end": 20306
+    },
+    {
+      "text": "Europaparlaments",
+      "label": "ORG",
+      "start": 20838,
+      "end": 20854
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Tschentscher",
+      "label": "PER",
+      "start": 23740,
+      "end": 23752
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 23778,
+      "end": 23785
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 23923,
+      "end": 23927
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 23968,
+      "end": 23979
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23997
+    },
+    {
+      "text": "Frauen",
+      "label": "ORG",
+      "start": 26046,
+      "end": 26052
+    },
+    {
+      "text": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+      "label": "ORG",
+      "start": 26069,
+      "end": 26120
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26511,
+      "end": 26513
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26592,
+      "end": 26594
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28514
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28552
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "HolthoffPförtner",
+      "label": "PER",
+      "start": 29807,
+      "end": 29823
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 29878,
+      "end": 29885
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 31587,
+      "end": 31591
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 31631,
+      "end": 31653
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 32531,
+      "end": 32535
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 32883,
+      "end": 32887
+    },
+    {
+      "text": "K l ö c k n e r",
+      "label": "PER",
+      "start": 32927,
+      "end": 32942
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 34497,
+      "end": 34501
+    },
+    {
+      "text": "Land schafft Verbindung",
+      "label": "ORG",
+      "start": 34988,
+      "end": 35011
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 35755,
+      "end": 35769
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 35807,
+      "end": 35811
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 35911,
+      "end": 35921
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36118,
+      "end": 36130
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36181,
+      "end": 36193
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36315,
+      "end": 36329
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 36409,
+      "end": 36431
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36485,
+      "end": 36499
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 36531,
+      "end": 36551
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36698,
+      "end": 36712
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 37562,
+      "end": 37573
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 40549,
+      "end": 40553
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 41388,
+      "end": 41406
+    },
+    {
+      "text": "und",
+      "label": "ORG",
+      "start": 41480,
+      "end": 41483
+    },
+    {
+      "text": "und",
+      "label": "ORG",
+      "start": 41787,
+      "end": 41790
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 46058,
+      "end": 46080
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 47267,
+      "end": 47278
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 47851,
+      "end": 47873
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49050,
+      "end": 49069
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Markus Söder",
+      "label": "PER",
+      "start": 51354,
+      "end": 51366
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 54478,
+      "end": 54503
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57151,
+      "end": 57168
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57354,
+      "end": 57371
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 59357,
+      "end": 59374
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60688,
+      "end": 60697
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 61558,
+      "end": 61562
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 61734,
+      "end": 61738
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 62216,
+      "end": 62220
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 62266,
+      "end": 62276
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 64024,
+      "end": 64034
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Europäischen",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65895
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68569,
+      "end": 68579
+    },
+    {
+      "text": "GAK",
+      "label": "ORG",
+      "start": 70624,
+      "end": 70627
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72415,
+      "end": 72434
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 72436,
+      "end": 72438
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 122,
+      "end": 140
+    },
+    {
+      "text": "CoronaPandemie",
+      "label": "ORG",
+      "start": 145,
+      "end": 159
+    },
+    {
+      "text": "Alfred\nGomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 1256,
+      "end": 1275
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 1300,
+      "end": 1315
+    },
+    {
+      "text": "Bundeshaushaltsplan",
+      "label": "ORG",
+      "start": 1390,
+      "end": 1409
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 1975,
+      "end": 1983
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3013,
+      "end": 3015
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3495,
+      "end": 3497
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 3512,
+      "end": 3535
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 3544,
+      "end": 3549
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 5888,
+      "end": 5890
+    },
+    {
+      "text": "Europäischen\nParlaments",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5928
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 5937,
+      "end": 5942
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 5995,
+      "end": 5997
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 7348,
+      "end": 7373
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 7428,
+      "end": 7442
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "WPUK",
+      "label": "ORG",
+      "start": 8951,
+      "end": 8955
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 8979,
+      "end": 8991
+    },
+    {
+      "text": "Kontaminanten-Verordnung",
+      "label": "ORG",
+      "start": 9120,
+      "end": 9144
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 9910,
+      "end": 9922
+    },
+    {
+      "text": "EUZBLG",
+      "label": "ORG",
+      "start": 9956,
+      "end": 9962
+    },
+    {
+      "text": "GEIG",
+      "label": "ORG",
+      "start": 10227,
+      "end": 10231
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 10409,
+      "end": 10428
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 10453,
+      "end": 10468
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "JI-Bereich",
+      "label": "ORG",
+      "start": 11039,
+      "end": 11049
+    },
+    {
+      "text": "EUZBLG\ni.V.m",
+      "label": "ORG",
+      "start": 11079,
+      "end": 11091
+    },
+    {
+      "text": "Bund-LänderVereinbarung",
+      "label": "ORG",
+      "start": 11109,
+      "end": 11132
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 11252,
+      "end": 11270
+    },
+    {
+      "text": "EUZBLG",
+      "label": "ORG",
+      "start": 11616,
+      "end": 11622
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 12705,
+      "end": 12719
+    },
+    {
+      "text": "Minister für Inneres",
+      "label": "ORG",
+      "start": 12721,
+      "end": 12741
+    },
+    {
+      "text": "Franz Untersteller",
+      "label": "PER",
+      "start": 12788,
+      "end": 12806
+    },
+    {
+      "text": "Minister für Umwelt",
+      "label": "ORG",
+      "start": 12808,
+      "end": 12827
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 12866,
+      "end": 12882
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 12911,
+      "end": 12922
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 13077,
+      "end": 13102
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 13117,
+      "end": 13148
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 13224,
+      "end": 13238
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 13266,
+      "end": 13279
+    },
+    {
+      "text": "Manja Schüle",
+      "label": "PER",
+      "start": 13351,
+      "end": 13363
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 13428,
+      "end": 13440
+    },
+    {
+      "text": "Bund\n\nHamburg",
+      "label": "ORG",
+      "start": 13504,
+      "end": 13517
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 13523,
+      "end": 13541
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 13557,
+      "end": 13563
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 13595,
+      "end": 13609
+    },
+    {
+      "text": "Bund\n\nRheinland-Pfalz",
+      "label": "ORG",
+      "start": 13703,
+      "end": 13724
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 13726,
+      "end": 13740
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 13773,
+      "end": 13785
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 13867,
+      "end": 13880
+    },
+    {
+      "text": "Martin Dulig",
+      "label": "PER",
+      "start": 13882,
+      "end": 13894
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 13963,
+      "end": 13978
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 14023,
+      "end": 14043
+    },
+    {
+      "text": "Minister für Energiewende",
+      "label": "ORG",
+      "start": 14045,
+      "end": 14070
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 14297,
+      "end": 14323
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 14373,
+      "end": 14392
+    },
+    {
+      "text": "Uwe Feiler",
+      "label": "PER",
+      "start": 14433,
+      "end": 14443
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 14445,
+      "end": 14449
+    },
+    {
+      "text": "Bundesministerin für Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14474,
+      "end": 14523
+    },
+    {
+      "text": "Beate Kasch",
+      "label": "PER",
+      "start": 14524,
+      "end": 14535
+    },
+    {
+      "text": "Bundesministerium\nfür Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 14723,
+      "end": 14741
+    },
+    {
+      "text": "Christian D r o s t e",
+      "label": "PER",
+      "start": 15101,
+      "end": 15122
+    },
+    {
+      "text": "COVID-19.",
+      "label": "PER",
+      "start": 15552,
+      "end": 15561
+    },
+    {
+      "text": "Sensationsgehabe",
+      "label": "PER",
+      "start": 19087,
+      "end": 19103
+    },
+    {
+      "text": "Mein",
+      "label": "PER",
+      "start": 19380,
+      "end": 19384
+    },
+    {
+      "text": "Europaparlaments",
+      "label": "ORG",
+      "start": 20838,
+      "end": 20854
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Volkskammer",
+      "label": "ORG",
+      "start": 22086,
+      "end": 22097
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 22102,
+      "end": 22105
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22323,
+      "end": 22334
+    },
+    {
+      "text": "Bundeshaushaltsplan",
+      "label": "PER",
+      "start": 22398,
+      "end": 22417
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Dr. Tschentscher",
+      "label": "PER",
+      "start": 23736,
+      "end": 23752
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Dr. Hoff",
+      "label": "PER",
+      "start": 23919,
+      "end": 23927
+    },
+    {
+      "text": "Dr. Hoppenstedt",
+      "label": "PER",
+      "start": 23964,
+      "end": 23979
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23997
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26511,
+      "end": 26513
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26592,
+      "end": 26594
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28514
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28552
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "Herrn Minister Caffier",
+      "label": "PER",
+      "start": 29863,
+      "end": 29885
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 31567,
+      "end": 31572
+    },
+    {
+      "text": "Dr. Hoff",
+      "label": "PER",
+      "start": 31583,
+      "end": 31591
+    },
+    {
+      "text": "Internationalen Grünen",
+      "label": "ORG",
+      "start": 32321,
+      "end": 32343
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 32980,
+      "end": 32993
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33027,
+      "end": 33040
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 33296,
+      "end": 33307
+    },
+    {
+      "text": "EU-Ebene",
+      "label": "ORG",
+      "start": 33349,
+      "end": 33357
+    },
+    {
+      "text": "Wirtschaftsprogramme",
+      "label": "ORG",
+      "start": 33950,
+      "end": 33970
+    },
+    {
+      "text": "Bewegung\n„Land",
+      "label": "ORG",
+      "start": 34978,
+      "end": 34992
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 35751,
+      "end": 35769
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36118,
+      "end": 36130
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36181,
+      "end": 36193
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36311,
+      "end": 36329
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 36405,
+      "end": 36431
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36481,
+      "end": 36499
+    },
+    {
+      "text": "Jan Philipp Albrecht\nSchleswig-Holstein!",
+      "label": "PER",
+      "start": 36531,
+      "end": 36571
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36694,
+      "end": 36712
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "FS",
+      "label": "ORG",
+      "start": 38804,
+      "end": 38806
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Corona-Epidemie",
+      "label": "ORG",
+      "start": 40421,
+      "end": 40436
+    },
+    {
+      "text": "Einsatztätigkeiten",
+      "label": "ORG",
+      "start": 41045,
+      "end": 41063
+    },
+    {
+      "text": "Dr. Peter Tschentscher",
+      "label": "PER",
+      "start": 41384,
+      "end": 41406
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 42097,
+      "end": 42106
+    },
+    {
+      "text": "COVID-19-bedingter",
+      "label": "PER",
+      "start": 42142,
+      "end": 42160
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "Corona-Epidemie",
+      "label": "ORG",
+      "start": 46827,
+      "end": 46842
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 47238,
+      "end": 47265
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 47267,
+      "end": 47278
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49050,
+      "end": 49069
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 49071,
+      "end": 49073
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50211,
+      "end": 50215
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50536,
+      "end": 50540
+    },
+    {
+      "text": "Sonderdezernate",
+      "label": "PER",
+      "start": 50775,
+      "end": 50790
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50810,
+      "end": 50814
+    },
+    {
+      "text": "III.",
+      "label": "PER",
+      "start": 51288,
+      "end": 51292
+    },
+    {
+      "text": "Dr. Markus Söder",
+      "label": "PER",
+      "start": 51350,
+      "end": 51366
+    },
+    {
+      "text": "Judenhass",
+      "label": "ORG",
+      "start": 51438,
+      "end": 51447
+    },
+    {
+      "text": "V.",
+      "label": "PER",
+      "start": 53490,
+      "end": 53492
+    },
+    {
+      "text": "IV.",
+      "label": "PER",
+      "start": 53761,
+      "end": 53764
+    },
+    {
+      "text": "Beleidigungsstrafrecht",
+      "label": "ORG",
+      "start": 53869,
+      "end": 53891
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 54478,
+      "end": 54503
+    },
+    {
+      "text": "sozialen\nNetzwerke",
+      "label": "ORG",
+      "start": 54804,
+      "end": 54822
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 58256,
+      "end": 58264
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 58903,
+      "end": 58911
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 59716,
+      "end": 59724
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 61571,
+      "end": 61581
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 62266,
+      "end": 62276
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 64024,
+      "end": 64034
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 64383,
+      "end": 64396
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 64717,
+      "end": 64730
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65906
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "EG-Nitratrichtlinie",
+      "label": "ORG",
+      "start": 68013,
+      "end": 68032
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68469
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68569,
+      "end": 68579
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68814,
+      "end": 68824
+    },
+    {
+      "text": "GAK",
+      "label": "ORG",
+      "start": 70624,
+      "end": 70627
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 71098,
+      "end": 71108
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72415,
+      "end": 72434
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 72436,
+      "end": 72438
+    },
+    {
+      "text": "DüV",
+      "label": "ORG",
+      "start": 72971,
+      "end": 72974
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Freitag",
+      "label": "PER",
+      "start": 76,
+      "end": 83
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 122,
+      "end": 140
+    },
+    {
+      "text": "CoronaPandemie",
+      "label": "ORG",
+      "start": 145,
+      "end": 159
+    },
+    {
+      "text": "Alfred\nGomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 1256,
+      "end": 1275
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 1300,
+      "end": 1315
+    },
+    {
+      "text": "Bundeshaushaltsplan",
+      "label": "ORG",
+      "start": 1390,
+      "end": 1409
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 1975,
+      "end": 1983
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2872,
+      "end": 2881
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3013,
+      "end": 3015
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3495,
+      "end": 3497
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 3512,
+      "end": 3535
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 3544,
+      "end": 3549
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 5888,
+      "end": 5890
+    },
+    {
+      "text": "Europäischen\nParlaments",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5928
+    },
+    {
+      "text": "Rates",
+      "label": "ORG",
+      "start": 5937,
+      "end": 5942
+    },
+    {
+      "text": "EG",
+      "label": "ORG",
+      "start": 5995,
+      "end": 5997
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 7197,
+      "end": 7206
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 7348,
+      "end": 7373
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 7428,
+      "end": 7442
+    },
+    {
+      "text": "Europäischen\nUnion",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "WPUK",
+      "label": "ORG",
+      "start": 8951,
+      "end": 8955
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 8979,
+      "end": 8991
+    },
+    {
+      "text": "Kontaminanten-Verordnung",
+      "label": "ORG",
+      "start": 9120,
+      "end": 9144
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "EUZBLG i.V.m",
+      "label": "ORG",
+      "start": 9910,
+      "end": 9922
+    },
+    {
+      "text": "EUZBLG",
+      "label": "ORG",
+      "start": 9956,
+      "end": 9962
+    },
+    {
+      "text": "GEIG",
+      "label": "ORG",
+      "start": 10227,
+      "end": 10231
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 10409,
+      "end": 10428
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 10453,
+      "end": 10468
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "JI-Bereich",
+      "label": "ORG",
+      "start": 11039,
+      "end": 11049
+    },
+    {
+      "text": "EUZBLG\ni.V.m",
+      "label": "ORG",
+      "start": 11079,
+      "end": 11091
+    },
+    {
+      "text": "Bund-LänderVereinbarung",
+      "label": "ORG",
+      "start": 11109,
+      "end": 11132
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 11252,
+      "end": 11270
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 11306,
+      "end": 11315
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 11427,
+      "end": 11442
+    },
+    {
+      "text": "EUZBLG",
+      "label": "ORG",
+      "start": 11616,
+      "end": 11622
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 12514,
+      "end": 12523
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 12705,
+      "end": 12719
+    },
+    {
+      "text": "Minister für Inneres",
+      "label": "ORG",
+      "start": 12721,
+      "end": 12741
+    },
+    {
+      "text": "Franz Untersteller",
+      "label": "PER",
+      "start": 12788,
+      "end": 12806
+    },
+    {
+      "text": "Minister für Umwelt",
+      "label": "ORG",
+      "start": 12808,
+      "end": 12827
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 12866,
+      "end": 12882
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 12911,
+      "end": 12922
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 13077,
+      "end": 13102
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 13117,
+      "end": 13148
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 13224,
+      "end": 13238
+    },
+    {
+      "text": "Dilek Kalayci",
+      "label": "PER",
+      "start": 13266,
+      "end": 13279
+    },
+    {
+      "text": "Manja Schüle",
+      "label": "PER",
+      "start": 13351,
+      "end": 13363
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 13428,
+      "end": 13440
+    },
+    {
+      "text": "Bund\n\nHamburg",
+      "label": "ORG",
+      "start": 13504,
+      "end": 13517
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 13523,
+      "end": 13541
+    },
+    {
+      "text": "Senats",
+      "label": "ORG",
+      "start": 13557,
+      "end": 13563
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 13595,
+      "end": 13609
+    },
+    {
+      "text": "Bund\n\nRheinland-Pfalz",
+      "label": "ORG",
+      "start": 13703,
+      "end": 13724
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 13726,
+      "end": 13740
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 13773,
+      "end": 13785
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 13867,
+      "end": 13880
+    },
+    {
+      "text": "Martin Dulig",
+      "label": "PER",
+      "start": 13882,
+      "end": 13894
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 13963,
+      "end": 13978
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 14023,
+      "end": 14043
+    },
+    {
+      "text": "Minister für Energiewende",
+      "label": "ORG",
+      "start": 14045,
+      "end": 14070
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14127,
+      "end": 14136
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 14297,
+      "end": 14323
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 14352,
+      "end": 14367
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 14373,
+      "end": 14392
+    },
+    {
+      "text": "Uwe Feiler",
+      "label": "PER",
+      "start": 14433,
+      "end": 14443
+    },
+    {
+      "text": "Parl",
+      "label": "ORG",
+      "start": 14445,
+      "end": 14449
+    },
+    {
+      "text": "Bundesministerin für Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14474,
+      "end": 14523
+    },
+    {
+      "text": "Beate Kasch",
+      "label": "PER",
+      "start": 14524,
+      "end": 14535
+    },
+    {
+      "text": "Bundesministerium\nfür Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14609,
+      "end": 14618
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 14723,
+      "end": 14741
+    },
+    {
+      "text": "Christian D r o s t e",
+      "label": "PER",
+      "start": 15101,
+      "end": 15122
+    },
+    {
+      "text": "COVID-19.",
+      "label": "PER",
+      "start": 15552,
+      "end": 15561
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 15914,
+      "end": 15923
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17627,
+      "end": 17636
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 17905,
+      "end": 17914
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 18388,
+      "end": 18397
+    },
+    {
+      "text": "Sensationsgehabe",
+      "label": "PER",
+      "start": 19087,
+      "end": 19103
+    },
+    {
+      "text": "Mein",
+      "label": "PER",
+      "start": 19380,
+      "end": 19384
+    },
+    {
+      "text": "Europaparlaments",
+      "label": "ORG",
+      "start": 20838,
+      "end": 20854
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Volkskammer",
+      "label": "ORG",
+      "start": 22086,
+      "end": 22097
+    },
+    {
+      "text": "DDR",
+      "label": "ORG",
+      "start": 22102,
+      "end": 22105
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 22323,
+      "end": 22334
+    },
+    {
+      "text": "Bundeshaushaltsplan",
+      "label": "PER",
+      "start": 22398,
+      "end": 22417
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 22779,
+      "end": 22788
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 23498,
+      "end": 23507
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Dr. Tschentscher",
+      "label": "PER",
+      "start": 23736,
+      "end": 23752
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Dr. Hoff",
+      "label": "PER",
+      "start": 23919,
+      "end": 23927
+    },
+    {
+      "text": "Dr. Hoppenstedt",
+      "label": "PER",
+      "start": 23964,
+      "end": 23979
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23997
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 24305,
+      "end": 24314
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26302,
+      "end": 26311
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26360,
+      "end": 26369
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26511,
+      "end": 26513
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26549,
+      "end": 26558
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26592,
+      "end": 26594
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 26937,
+      "end": 26946
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 27138,
+      "end": 27147
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 28119,
+      "end": 28128
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28514
+    },
+    {
+      "text": "Europäischen Parlaments",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28552
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29028,
+      "end": 29037
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29233,
+      "end": 29242
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 29325,
+      "end": 29334
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "Herrn Minister Caffier",
+      "label": "PER",
+      "start": 29863,
+      "end": 29885
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30105,
+      "end": 30114
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 30855,
+      "end": 30864
+    },
+    {
+      "text": "Herrn",
+      "label": "PER",
+      "start": 31567,
+      "end": 31572
+    },
+    {
+      "text": "Dr. Hoff",
+      "label": "PER",
+      "start": 31583,
+      "end": 31591
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32020,
+      "end": 32029
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 32226,
+      "end": 32235
+    },
+    {
+      "text": "Internationalen Grünen",
+      "label": "ORG",
+      "start": 32321,
+      "end": 32343
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 32424,
+      "end": 32439
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 32980,
+      "end": 32993
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33027,
+      "end": 33040
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "Deutschland",
+      "label": "ORG",
+      "start": 33296,
+      "end": 33307
+    },
+    {
+      "text": "EU-Ebene",
+      "label": "ORG",
+      "start": 33349,
+      "end": 33357
+    },
+    {
+      "text": "Wirtschaftsprogramme",
+      "label": "ORG",
+      "start": 33950,
+      "end": 33970
+    },
+    {
+      "text": "Bewegung\n„Land",
+      "label": "ORG",
+      "start": 34978,
+      "end": 34992
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 35751,
+      "end": 35769
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36118,
+      "end": 36130
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36181,
+      "end": 36193
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36311,
+      "end": 36329
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Dr. Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 36405,
+      "end": 36431
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36481,
+      "end": 36499
+    },
+    {
+      "text": "Jan Philipp Albrecht\nSchleswig-Holstein!",
+      "label": "PER",
+      "start": 36531,
+      "end": 36571
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 36694,
+      "end": 36712
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 36769,
+      "end": 36778
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38150,
+      "end": 38159
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38322,
+      "end": 38331
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 38426,
+      "end": 38441
+    },
+    {
+      "text": "FS",
+      "label": "ORG",
+      "start": 38804,
+      "end": 38806
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38833,
+      "end": 38842
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Corona-Epidemie",
+      "label": "ORG",
+      "start": 40421,
+      "end": 40436
+    },
+    {
+      "text": "Einsatztätigkeiten",
+      "label": "ORG",
+      "start": 41045,
+      "end": 41063
+    },
+    {
+      "text": "Dr. Peter Tschentscher",
+      "label": "PER",
+      "start": 41384,
+      "end": 41406
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 42097,
+      "end": 42106
+    },
+    {
+      "text": "COVID-19-bedingter",
+      "label": "PER",
+      "start": 42142,
+      "end": 42160
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 42814,
+      "end": 42823
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 46510,
+      "end": 46519
+    },
+    {
+      "text": "Corona-Epidemie",
+      "label": "ORG",
+      "start": 46827,
+      "end": 46842
+    },
+    {
+      "text": "Bundesminister der Finanzen",
+      "label": "ORG",
+      "start": 47238,
+      "end": 47265
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 47267,
+      "end": 47278
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49050,
+      "end": 49069
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 49071,
+      "end": 49073
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49129,
+      "end": 49144
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49376,
+      "end": 49391
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50211,
+      "end": 50215
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 50427,
+      "end": 50436
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50536,
+      "end": 50540
+    },
+    {
+      "text": "Sonderdezernate",
+      "label": "PER",
+      "start": 50775,
+      "end": 50790
+    },
+    {
+      "text": "Hass",
+      "label": "PER",
+      "start": 50810,
+      "end": 50814
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51197,
+      "end": 51212
+    },
+    {
+      "text": "III.",
+      "label": "PER",
+      "start": 51288,
+      "end": 51292
+    },
+    {
+      "text": "Dr. Markus Söder",
+      "label": "PER",
+      "start": 51350,
+      "end": 51366
+    },
+    {
+      "text": "Judenhass",
+      "label": "ORG",
+      "start": 51438,
+      "end": 51447
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 51964,
+      "end": 51979
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 52014,
+      "end": 52023
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53448,
+      "end": 53463
+    },
+    {
+      "text": "V.",
+      "label": "PER",
+      "start": 53490,
+      "end": 53492
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 53505,
+      "end": 53520
+    },
+    {
+      "text": "IV.",
+      "label": "PER",
+      "start": 53761,
+      "end": 53764
+    },
+    {
+      "text": "Beleidigungsstrafrecht",
+      "label": "ORG",
+      "start": 53869,
+      "end": 53891
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 54478,
+      "end": 54503
+    },
+    {
+      "text": "sozialen\nNetzwerke",
+      "label": "ORG",
+      "start": 54804,
+      "end": 54822
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 54925,
+      "end": 54934
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 58256,
+      "end": 58264
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 58903,
+      "end": 58911
+    },
+    {
+      "text": "NetzDG-E",
+      "label": "ORG",
+      "start": 59716,
+      "end": 59724
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 60688,
+      "end": 60697
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 61571,
+      "end": 61581
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 62266,
+      "end": 62276
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 64024,
+      "end": 64034
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 64383,
+      "end": 64396
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Landesantrags",
+      "label": "ORG",
+      "start": 64717,
+      "end": 64730
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 65130,
+      "end": 65139
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 65791,
+      "end": 65806
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65906
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66208,
+      "end": 66223
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66466,
+      "end": 66481
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66759,
+      "end": 66774
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "EG-Nitratrichtlinie",
+      "label": "ORG",
+      "start": 68013,
+      "end": 68032
+    },
+    {
+      "text": "EU-Kommission",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68469
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 68532,
+      "end": 68547
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68569,
+      "end": 68579
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 68814,
+      "end": 68824
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69004,
+      "end": 69019
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 69060,
+      "end": 69075
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 69543,
+      "end": 69552
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 70251,
+      "end": 70260
+    },
+    {
+      "text": "GAK",
+      "label": "ORG",
+      "start": 70624,
+      "end": 70627
+    },
+    {
+      "text": "Kommission",
+      "label": "ORG",
+      "start": 71098,
+      "end": 71108
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72415,
+      "end": 72434
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 72436,
+      "end": 72438
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72492,
+      "end": 72507
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 72512,
+      "end": 72527
+    },
+    {
+      "text": "DüV",
+      "label": "ORG",
+      "start": 72971,
+      "end": 72974
+    }
+  ],
+  "bert": [
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 126,
+      "end": 140
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 644,
+      "end": 658
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 1170,
+      "end": 1192
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 1256,
+      "end": 1275
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3013,
+      "end": 3015
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 5888,
+      "end": 5890
+    },
+    {
+      "text": "Europäischen Parlament",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5927
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Stephan Holthoff",
+      "label": "PER",
+      "start": 7348,
+      "end": 7364
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "##s Königreich",
+      "label": "ORG",
+      "start": 8911,
+      "end": 8923
+    },
+    {
+      "text": "Working party on the UK",
+      "label": "ORG",
+      "start": 8926,
+      "end": 8949
+    },
+    {
+      "text": "WPUK",
+      "label": "ORG",
+      "start": 8951,
+      "end": 8955
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 9208,
+      "end": 9230
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 10409,
+      "end": 10428
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "##ekommunikation",
+      "label": "ORG",
+      "start": 11471,
+      "end": 11485
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 12705,
+      "end": 12719
+    },
+    {
+      "text": "Franz Untersteller",
+      "label": "PER",
+      "start": 12788,
+      "end": 12806
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 12866,
+      "end": 12882
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 12911,
+      "end": 12922
+    },
+    {
+      "text": "Bundes - und Europaangelegenheiten",
+      "label": "ORG",
+      "start": 12939,
+      "end": 12972
+    },
+    {
+      "text": "Entwicklung",
+      "label": "ORG",
+      "start": 12987,
+      "end": 12998
+    },
+    {
+      "text": "Nordrhein -",
+      "label": "ORG",
+      "start": 13052,
+      "end": 13062
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 13077,
+      "end": 13102
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 13117,
+      "end": 13148
+    },
+    {
+      "text": "Manja Schüle",
+      "label": "PER",
+      "start": 13351,
+      "end": 13363
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 13428,
+      "end": 13440
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 13474,
+      "end": 13498
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 13523,
+      "end": 13541
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 13595,
+      "end": 13609
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 13726,
+      "end": 13740
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 13755,
+      "end": 13759
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 13773,
+      "end": 13785
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 13812,
+      "end": 13825
+    },
+    {
+      "text": "Martin Dulig",
+      "label": "PER",
+      "start": 13882,
+      "end": 13894
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 13963,
+      "end": 13978
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 14023,
+      "end": 14043
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14127,
+      "end": 14136
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 14190,
+      "end": 14212
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 14282,
+      "end": 14295
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 14352,
+      "end": 14358
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 14373,
+      "end": 14392
+    },
+    {
+      "text": "Uwe Feiler",
+      "label": "PER",
+      "start": 14433,
+      "end": 14443
+    },
+    {
+      "text": "##nährung",
+      "label": "ORG",
+      "start": 14497,
+      "end": 14504
+    },
+    {
+      "text": "Beate Kasch",
+      "label": "PER",
+      "start": 14524,
+      "end": 14535
+    },
+    {
+      "text": "Bundesministerium für Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 14609,
+      "end": 14618
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 14727,
+      "end": 14741
+    },
+    {
+      "text": "Christian D",
+      "label": "PER",
+      "start": 15101,
+      "end": 15112
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 17905,
+      "end": 17911
+    },
+    {
+      "text": "Gomolka",
+      "label": "PER",
+      "start": 20299,
+      "end": 20306
+    },
+    {
+      "text": "Europa",
+      "label": "ORG",
+      "start": 20838,
+      "end": 20844
+    },
+    {
+      "text": "##lament",
+      "label": "ORG",
+      "start": 20847,
+      "end": 20853
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Tschentscher",
+      "label": "PER",
+      "start": 23740,
+      "end": 23752
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 23778,
+      "end": 23785
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 23923,
+      "end": 23927
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 23968,
+      "end": 23979
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 26032,
+      "end": 26035
+    },
+    {
+      "text": "für Frauen und Jugend",
+      "label": "ORG",
+      "start": 26042,
+      "end": 26063
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 26069,
+      "end": 26072
+    },
+    {
+      "text": "##schuss für Arbeit, Integration und Sozialpolitik",
+      "label": "ORG",
+      "start": 26072,
+      "end": 26120
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26592,
+      "end": 26594
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28514
+    },
+    {
+      "text": "Europäischen Parlament",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28551
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "HolthoffPförtner",
+      "label": "PER",
+      "start": 29807,
+      "end": 29823
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 29878,
+      "end": 29885
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 31587,
+      "end": 31591
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 31631,
+      "end": 31653
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 32980,
+      "end": 32993
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 33027,
+      "end": 33040
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 35755,
+      "end": 35769
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 35807,
+      "end": 35811
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 35911,
+      "end": 35921
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36118,
+      "end": 36130
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36181,
+      "end": 36193
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36315,
+      "end": 36329
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 36409,
+      "end": 36431
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36485,
+      "end": 36499
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 36531,
+      "end": 36551
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36698,
+      "end": 36712
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 37047,
+      "end": 37058
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 37562,
+      "end": 37573
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 38322,
+      "end": 38328
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 38426,
+      "end": 38432
+    },
+    {
+      "text": "Sozialbeirats",
+      "label": "ORG",
+      "start": 38708,
+      "end": 38721
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 38833,
+      "end": 38839
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 41388,
+      "end": 41406
+    },
+    {
+      "text": "COVID",
+      "label": "ORG",
+      "start": 41573,
+      "end": 41578
+    },
+    {
+      "text": "19",
+      "label": "ORG",
+      "start": 41579,
+      "end": 41581
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "##Holstein",
+      "label": "ORG",
+      "start": 44851,
+      "end": 44859
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 46058,
+      "end": 46080
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 46510,
+      "end": 46516
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 47267,
+      "end": 47278
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 47851,
+      "end": 47873
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49050,
+      "end": 49069
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 50427,
+      "end": 50433
+    },
+    {
+      "text": "Markus Söder",
+      "label": "PER",
+      "start": 51354,
+      "end": 51366
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 53448,
+      "end": 53454
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 53505,
+      "end": 53511
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 54478,
+      "end": 54503
+    },
+    {
+      "text": "Landes Nordrhein",
+      "label": "ORG",
+      "start": 56957,
+      "end": 56973
+    },
+    {
+      "text": "Netz",
+      "label": "ORG",
+      "start": 57073,
+      "end": 57077
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57151,
+      "end": 57168
+    },
+    {
+      "text": "Bundeskriminalamt",
+      "label": "ORG",
+      "start": 57354,
+      "end": 57371
+    },
+    {
+      "text": "Bundeskriminala",
+      "label": "ORG",
+      "start": 59357,
+      "end": 59372
+    },
+    {
+      "text": "NetzDG",
+      "label": "ORG",
+      "start": 60070,
+      "end": 60076
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65906
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68469
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68458
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 69060,
+      "end": 69066
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 69543,
+      "end": 69549
+    },
+    {
+      "text": "GAK",
+      "label": "ORG",
+      "start": 70624,
+      "end": 70627
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72415,
+      "end": 72434
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 72436,
+      "end": 72438
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDE",
+      "label": "ORG",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 126,
+      "end": 140
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 329,
+      "end": 343
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 644,
+      "end": 658
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 703,
+      "end": 721
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 832,
+      "end": 844
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 1075,
+      "end": 1095
+    },
+    {
+      "text": "Benjamin",
+      "label": "PER",
+      "start": 1170,
+      "end": 1178
+    },
+    {
+      "text": "Immanuel Hoff",
+      "label": "PER",
+      "start": 1179,
+      "end": 1192
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 1256,
+      "end": 1275
+    },
+    {
+      "text": "##F",
+      "label": "ORG",
+      "start": 1596,
+      "end": 1597
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 1947,
+      "end": 1973
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 2980,
+      "end": 2982
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 3013,
+      "end": 3015
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 5888,
+      "end": 5890
+    },
+    {
+      "text": "Europäischen Parlament",
+      "label": "ORG",
+      "start": 5905,
+      "end": 5927
+    },
+    {
+      "text": "G",
+      "label": "ORG",
+      "start": 6865,
+      "end": 6866
+    },
+    {
+      "text": "##KVIPReG",
+      "label": "ORG",
+      "start": 6866,
+      "end": 6873
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 7203,
+      "end": 7206
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7239,
+      "end": 7255
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 7295,
+      "end": 7311
+    },
+    {
+      "text": "Stephan Holthoff",
+      "label": "PER",
+      "start": 7348,
+      "end": 7364
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 7653,
+      "end": 7671
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8693,
+      "end": 8711
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 8855,
+      "end": 8873
+    },
+    {
+      "text": "Vereinigtes Königreich",
+      "label": "ORG",
+      "start": 8901,
+      "end": 8923
+    },
+    {
+      "text": "Working party on",
+      "label": "ORG",
+      "start": 8926,
+      "end": 8942
+    },
+    {
+      "text": "UK",
+      "label": "ORG",
+      "start": 8947,
+      "end": 8949
+    },
+    {
+      "text": "WPUK",
+      "label": "ORG",
+      "start": 8951,
+      "end": 8955
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 9208,
+      "end": 9230
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 9816,
+      "end": 9834
+    },
+    {
+      "text": "GEIG",
+      "label": "ORG",
+      "start": 10227,
+      "end": 10231
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 10409,
+      "end": 10428
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 10812,
+      "end": 10832
+    },
+    {
+      "text": "Europäischen Union",
+      "label": "ORG",
+      "start": 10968,
+      "end": 10986
+    },
+    {
+      "text": "IX",
+      "label": "ORG",
+      "start": 11052,
+      "end": 11054
+    },
+    {
+      "text": "GO",
+      "label": "ORG",
+      "start": 12023,
+      "end": 12025
+    },
+    {
+      "text": "BR",
+      "label": "ORG",
+      "start": 12026,
+      "end": 12028
+    },
+    {
+      "text": "Bundesverfassungsgericht",
+      "label": "ORG",
+      "start": 12175,
+      "end": 12199
+    },
+    {
+      "text": "GO BR",
+      "label": "ORG",
+      "start": 12448,
+      "end": 12453
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 12605,
+      "end": 12606
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 12705,
+      "end": 12719
+    },
+    {
+      "text": "Franz Untersteller",
+      "label": "PER",
+      "start": 12788,
+      "end": 12806
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 12866,
+      "end": 12882
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 12911,
+      "end": 12922
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 13077,
+      "end": 13102
+    },
+    {
+      "text": "Manja Schüle",
+      "label": "PER",
+      "start": 13351,
+      "end": 13363
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 13428,
+      "end": 13440
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 13474,
+      "end": 13498
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 13523,
+      "end": 13541
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 13595,
+      "end": 13609
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 13726,
+      "end": 13740
+    },
+    {
+      "text": "Just",
+      "label": "ORG",
+      "start": 13755,
+      "end": 13759
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 13773,
+      "end": 13785
+    },
+    {
+      "text": "Martin Dulig",
+      "label": "PER",
+      "start": 13882,
+      "end": 13894
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 13963,
+      "end": 13978
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 14023,
+      "end": 14043
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 14190,
+      "end": 14212
+    },
+    {
+      "text": "Staatskan",
+      "label": "ORG",
+      "start": 14282,
+      "end": 14291
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 14373,
+      "end": 14392
+    },
+    {
+      "text": "Uwe Feiler",
+      "label": "PER",
+      "start": 14433,
+      "end": 14443
+    },
+    {
+      "text": "##hrung",
+      "label": "ORG",
+      "start": 14499,
+      "end": 14504
+    },
+    {
+      "text": "Beate Kasch",
+      "label": "PER",
+      "start": 14524,
+      "end": 14535
+    },
+    {
+      "text": "Bundesministerium für Ernährung und Landwirtschaft",
+      "label": "ORG",
+      "start": 14557,
+      "end": 14607
+    },
+    {
+      "text": "##rat",
+      "label": "ORG",
+      "start": 14615,
+      "end": 14618
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 14727,
+      "end": 14741
+    },
+    {
+      "text": "Christian D r",
+      "label": "PER",
+      "start": 15101,
+      "end": 15114
+    },
+    {
+      "text": "CO",
+      "label": "ORG",
+      "start": 15552,
+      "end": 15554
+    },
+    {
+      "text": "Fa",
+      "label": "PER",
+      "start": 19346,
+      "end": 19348
+    },
+    {
+      "text": "##kene",
+      "label": "PER",
+      "start": 19348,
+      "end": 19352
+    },
+    {
+      "text": "Gomolka",
+      "label": "PER",
+      "start": 20299,
+      "end": 20306
+    },
+    {
+      "text": "Europäische Union",
+      "label": "ORG",
+      "start": 20918,
+      "end": 20935
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 20937,
+      "end": 20951
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21834,
+      "end": 21848
+    },
+    {
+      "text": "Alfred Gomolka",
+      "label": "PER",
+      "start": 21884,
+      "end": 21898
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 22779,
+      "end": 22785
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 23685,
+      "end": 23699
+    },
+    {
+      "text": "Tschentscher",
+      "label": "PER",
+      "start": 23740,
+      "end": 23752
+    },
+    {
+      "text": "Eitel",
+      "label": "PER",
+      "start": 23832,
+      "end": 23837
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 23864,
+      "end": 23872
+    },
+    {
+      "text": ". Hoff",
+      "label": "PER",
+      "start": 23921,
+      "end": 23927
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 23968,
+      "end": 23979
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 23981,
+      "end": 23997
+    },
+    {
+      "text": "Fin",
+      "label": "ORG",
+      "start": 26129,
+      "end": 26132
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26511,
+      "end": 26513
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 26592,
+      "end": 26594
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 28512,
+      "end": 28514
+    },
+    {
+      "text": "Europäischen",
+      "label": "ORG",
+      "start": 28529,
+      "end": 28541
+    },
+    {
+      "text": "Tantal",
+      "label": "PER",
+      "start": 28699,
+      "end": 28705
+    },
+    {
+      "text": "Wolfram",
+      "label": "PER",
+      "start": 28707,
+      "end": 28714
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 29548,
+      "end": 29562
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 29765,
+      "end": 29775
+    },
+    {
+      "text": "HolthoffPförtner",
+      "label": "PER",
+      "start": 29807,
+      "end": 29823
+    },
+    {
+      "text": "Caffier",
+      "label": "PER",
+      "start": 29878,
+      "end": 29885
+    },
+    {
+      "text": "TOP",
+      "label": "ORG",
+      "start": 31040,
+      "end": 31043
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 31587,
+      "end": 31591
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 31631,
+      "end": 31653
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 32226,
+      "end": 32232
+    },
+    {
+      "text": "Deutschen Bundestag",
+      "label": "ORG",
+      "start": 32443,
+      "end": 32462
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 32980,
+      "end": 32993
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 33027,
+      "end": 33040
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 33254,
+      "end": 33267
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 35755,
+      "end": 35769
+    },
+    {
+      "text": "Hoff",
+      "label": "PER",
+      "start": 35807,
+      "end": 35811
+    },
+    {
+      "text": "Eisenreich",
+      "label": "PER",
+      "start": 35911,
+      "end": 35921
+    },
+    {
+      "text": "Puttrich",
+      "label": "PER",
+      "start": 35954,
+      "end": 35962
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 35990,
+      "end": 35998
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36118,
+      "end": 36130
+    },
+    {
+      "text": "Bernd Langer",
+      "label": "PER",
+      "start": 36181,
+      "end": 36193
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36315,
+      "end": 36329
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 36351,
+      "end": 36365
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 36409,
+      "end": 36431
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36485,
+      "end": 36499
+    },
+    {
+      "text": "Jan Philipp Albrecht Schleswig - Holstein",
+      "label": "PER",
+      "start": 36531,
+      "end": 36570
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 36596,
+      "end": 36610
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 36698,
+      "end": 36712
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 36769,
+      "end": 36775
+    },
+    {
+      "text": "Hoppenstedt",
+      "label": "PER",
+      "start": 37562,
+      "end": 37573
+    },
+    {
+      "text": "Bundeskanzleramt",
+      "label": "ORG",
+      "start": 37575,
+      "end": 37591
+    },
+    {
+      "text": "##S",
+      "label": "ORG",
+      "start": 38800,
+      "end": 38801
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 38833,
+      "end": 38842
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 38948,
+      "end": 38962
+    },
+    {
+      "text": "Lorenz Caffier",
+      "label": "PER",
+      "start": 39017,
+      "end": 39031
+    },
+    {
+      "text": "Peter Tschentscher",
+      "label": "PER",
+      "start": 41388,
+      "end": 41406
+    },
+    {
+      "text": "Hansestad",
+      "label": "ORG",
+      "start": 41484,
+      "end": 41493
+    },
+    {
+      "text": "Hamburg",
+      "label": "ORG",
+      "start": 41495,
+      "end": 41502
+    },
+    {
+      "text": "und Hans",
+      "label": "ORG",
+      "start": 41787,
+      "end": 41795
+    },
+    {
+      "text": "##t Hamburg",
+      "label": "ORG",
+      "start": 41800,
+      "end": 41809
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 41874,
+      "end": 41886
+    },
+    {
+      "text": "Bundestag",
+      "label": "ORG",
+      "start": 42097,
+      "end": 42106
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43056,
+      "end": 43076
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43162,
+      "end": 43182
+    },
+    {
+      "text": "##s",
+      "label": "PER",
+      "start": 43799,
+      "end": 43800
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 43940,
+      "end": 43960
+    },
+    {
+      "text": "Schleswig",
+      "label": "PER",
+      "start": 44842,
+      "end": 44851
+    },
+    {
+      "text": "##ols",
+      "label": "PER",
+      "start": 44852,
+      "end": 44855
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 46058,
+      "end": 46080
+    },
+    {
+      "text": "Olaf Scholz",
+      "label": "PER",
+      "start": 47267,
+      "end": 47278
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 47851,
+      "end": 47873
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 49050,
+      "end": 49069
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 49071,
+      "end": 49073
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 49376,
+      "end": 49391
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 49701,
+      "end": 49717
+    },
+    {
+      "text": "Markus Söder",
+      "label": "PER",
+      "start": 51354,
+      "end": 51366
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 54478,
+      "end": 54503
+    },
+    {
+      "text": "Netz",
+      "label": "ORG",
+      "start": 57073,
+      "end": 57077
+    },
+    {
+      "text": "NetzDG",
+      "label": "ORG",
+      "start": 60070,
+      "end": 60076
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 60688,
+      "end": 60694
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 60906,
+      "end": 60922
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 64451,
+      "end": 64465
+    },
+    {
+      "text": "Europäische Kommission",
+      "label": "ORG",
+      "start": 65418,
+      "end": 65440
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 65883,
+      "end": 65906
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 65938,
+      "end": 65956
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 66466,
+      "end": 66481
+    },
+    {
+      "text": "Europäischen Kommission",
+      "label": "ORG",
+      "start": 66783,
+      "end": 66806
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 66958,
+      "end": 66978
+    },
+    {
+      "text": "EU - Kommission",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68469
+    },
+    {
+      "text": "EU",
+      "label": "ORG",
+      "start": 68456,
+      "end": 68458
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 72415,
+      "end": 72434
+    },
+    {
+      "text": "BK",
+      "label": "ORG",
+      "start": 72436,
+      "end": 72438
+    }
+  ]
+}

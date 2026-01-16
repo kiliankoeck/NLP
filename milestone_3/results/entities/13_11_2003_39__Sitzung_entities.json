@@ -1,0 +1,1295 @@
+{
+  "filename": "13.11.2003_39._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 43,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates ",
+      "label": "ORG",
+      "start": 186,
+      "end": 200
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 674,
+      "end": 701
+    },
+    {
+      "text": "Mag. Johann\\n\\nMaier",
+      "label": "PER",
+      "start": 735,
+      "end": 752
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "PER",
+      "start": 801,
+      "end": 828
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Präsidenten des Nationalrates",
+      "label": "PER",
+      "start": 935,
+      "end": 964
+    },
+    {
+      "text": "ag. Cordula\\n\\nFrieser",
+      "label": "PER",
+      "start": 999,
+      "end": 1018
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "Präsidenten des Nationalrates ",
+      "label": "PER",
+      "start": 1069,
+      "end": 1099
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1311,
+      "end": 1327
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1473
+    },
+    {
+      "text": "Mag. Sima",
+      "label": "PER",
+      "start": 1521,
+      "end": 1530
+    },
+    {
+      "text": "Mag. Lunacek",
+      "label": "PER",
+      "start": 1532,
+      "end": 1544
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 1546,
+      "end": 1553
+    },
+    {
+      "text": "Eder ",
+      "label": "PER",
+      "start": 1555,
+      "end": 1560
+    },
+    {
+      "text": "Miedl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1569
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1605,
+      "end": 1621
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1987
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2134,
+      "end": 2156
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2288,
+      "end": 2318
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2320,
+      "end": 2342
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2494
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2693,
+      "end": 2714
+    },
+    {
+      "text": "Mag. Dr. Magda Bleckmann",
+      "label": "PER",
+      "start": 2716,
+      "end": 2740
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2822,
+      "end": 2833
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2891,
+      "end": 2907
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3103
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 3300,
+      "end": 3319
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 186,
+      "end": 199
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 735,
+      "end": 739
+    },
+    {
+      "text": "Johann",
+      "label": "PER",
+      "start": 740,
+      "end": 746
+    },
+    {
+      "text": "Maier",
+      "label": "PER",
+      "start": 747,
+      "end": 752
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 951,
+      "end": 964
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 998,
+      "end": 1002
+    },
+    {
+      "text": "Cordula",
+      "label": "PER",
+      "start": 1003,
+      "end": 1010
+    },
+    {
+      "text": "Frieser",
+      "label": "PER",
+      "start": 1011,
+      "end": 1018
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1098
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1311,
+      "end": 1327
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1473
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1521,
+      "end": 1525
+    },
+    {
+      "text": "Sima",
+      "label": "PER",
+      "start": 1526,
+      "end": 1530
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1532,
+      "end": 1536
+    },
+    {
+      "text": "Lunacek",
+      "label": "PER",
+      "start": 1537,
+      "end": 1544
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 1546,
+      "end": 1553
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 1555,
+      "end": 1559
+    },
+    {
+      "text": "Miedl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1569
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1605,
+      "end": 1621
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1987
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2134,
+      "end": 2156
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2288,
+      "end": 2318
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2320,
+      "end": 2323
+    },
+    {
+      "text": "Helene",
+      "label": "PER",
+      "start": 2324,
+      "end": 2330
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2477,
+      "end": 2494
+    },
+    {
+      "text": "Mag. Wilhelm Molterer",
+      "label": "PER",
+      "start": 2693,
+      "end": 2714
+    },
+    {
+      "text": "Mag. Dr. Magda Bleckmann",
+      "label": "PER",
+      "start": 2716,
+      "end": 2740
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2822,
+      "end": 2833
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2891,
+      "end": 2907
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3103
+    }
+  ],
+  "flair": [
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Cordula Frieser",
+      "label": "PER",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1049,
+      "end": 1053
+    },
+    {
+      "text": "JPR",
+      "label": "ORG",
+      "start": 1060,
+      "end": 1063
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1185
+    },
+    {
+      "text": "JPR",
+      "label": "ORG",
+      "start": 1192,
+      "end": 1195
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1315,
+      "end": 1327
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1349,
+      "end": 1361
+    },
+    {
+      "text": "Sima",
+      "label": "PER",
+      "start": 1526,
+      "end": 1530
+    },
+    {
+      "text": "Lunacek",
+      "label": "PER",
+      "start": 1537,
+      "end": 1544
+    },
+    {
+      "text": "Silhavy",
+      "label": "PER",
+      "start": 1546,
+      "end": 1553
+    },
+    {
+      "text": "Eder",
+      "label": "PER",
+      "start": 1555,
+      "end": 1559
+    },
+    {
+      "text": "Miedl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1569
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1609,
+      "end": 1621
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1993,
+      "end": 1997
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2005,
+      "end": 2009
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2139,
+      "end": 2156
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2324,
+      "end": 2342
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2482,
+      "end": 2494
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2698,
+      "end": 2714
+    },
+    {
+      "text": "Magda Bleckmann",
+      "label": "PER",
+      "start": 2725,
+      "end": 2740
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2895,
+      "end": 2907
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 388,
+      "end": 490
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 518,
+      "end": 624
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 674,
+      "end": 701
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 722,
+      "end": 734
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 801,
+      "end": 828
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 951,
+      "end": 964
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 985,
+      "end": 997
+    },
+    {
+      "text": "Cordula\nFrieser",
+      "label": "PER",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1098
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1311,
+      "end": 1327
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 1393,
+      "end": 1400
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1473
+    },
+    {
+      "text": "Sima",
+      "label": "PER",
+      "start": 1526,
+      "end": 1530
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1532,
+      "end": 1535
+    },
+    {
+      "text": "Lunacek",
+      "label": "ORG",
+      "start": 1537,
+      "end": 1544
+    },
+    {
+      "text": "Miedl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1569
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1605,
+      "end": 1621
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1852,
+      "end": 1863
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1987
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2121,
+      "end": 2133
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2139,
+      "end": 2156
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2275,
+      "end": 2287
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2320,
+      "end": 2342
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2464,
+      "end": 2476
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2482,
+      "end": 2494
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2680,
+      "end": 2692
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2698,
+      "end": 2714
+    },
+    {
+      "text": "Magda Bleckmann",
+      "label": "PER",
+      "start": 2725,
+      "end": 2740
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2891,
+      "end": 2907
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3103
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 186,
+      "end": 223
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 388,
+      "end": 490
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 518,
+      "end": 624
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 674,
+      "end": 701
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 722,
+      "end": 734
+    },
+    {
+      "text": "Johann\nMaier",
+      "label": "PER",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "Bundesministers für Inneres",
+      "label": "ORG",
+      "start": 801,
+      "end": 828
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 951,
+      "end": 964
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 985,
+      "end": 997
+    },
+    {
+      "text": "Cordula\nFrieser",
+      "label": "PER",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1098
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1311,
+      "end": 1327
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1345,
+      "end": 1361
+    },
+    {
+      "text": "Herren!",
+      "label": "ORG",
+      "start": 1393,
+      "end": 1400
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1460,
+      "end": 1473
+    },
+    {
+      "text": "Sima",
+      "label": "PER",
+      "start": 1526,
+      "end": 1530
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1532,
+      "end": 1535
+    },
+    {
+      "text": "Lunacek",
+      "label": "ORG",
+      "start": 1537,
+      "end": 1544
+    },
+    {
+      "text": "Miedl",
+      "label": "PER",
+      "start": 1564,
+      "end": 1569
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1605,
+      "end": 1621
+    },
+    {
+      "text": "Eingelangte",
+      "label": "PER",
+      "start": 1852,
+      "end": 1863
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1974,
+      "end": 1987
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2121,
+      "end": 2133
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2139,
+      "end": 2156
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2275,
+      "end": 2287
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Dr. Helene PartikPablé",
+      "label": "PER",
+      "start": 2320,
+      "end": 2342
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2464,
+      "end": 2476
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2482,
+      "end": 2494
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2680,
+      "end": 2692
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2698,
+      "end": 2714
+    },
+    {
+      "text": "Magda Bleckmann",
+      "label": "PER",
+      "start": 2725,
+      "end": 2740
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2822,
+      "end": 2833
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2891,
+      "end": 2907
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3103
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 43,
+      "end": 51
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 186,
+      "end": 194
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 735,
+      "end": 739
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 998,
+      "end": 1001
+    },
+    {
+      "text": "Cordula Frieser",
+      "label": "PER",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1315,
+      "end": 1327
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1993,
+      "end": 1997
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2005,
+      "end": 2009
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2139,
+      "end": 2156
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2324,
+      "end": 2342
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2482,
+      "end": 2494
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2698,
+      "end": 2714
+    },
+    {
+      "text": "Magda Bleckmann",
+      "label": "PER",
+      "start": 2725,
+      "end": 2740
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2822,
+      "end": 2833
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2895,
+      "end": 2907
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3098
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 735,
+      "end": 738
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 740,
+      "end": 752
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 862,
+      "end": 880
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 998,
+      "end": 1002
+    },
+    {
+      "text": "Cordula Frieser",
+      "label": "PER",
+      "start": 1003,
+      "end": 1018
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1049,
+      "end": 1053
+    },
+    {
+      "text": "JP",
+      "label": "ORG",
+      "start": 1060,
+      "end": 1062
+    },
+    {
+      "text": "Theresia Haidlmayr",
+      "label": "PER",
+      "start": 1132,
+      "end": 1150
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1181,
+      "end": 1185
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1234,
+      "end": 1245
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1315,
+      "end": 1327
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 1993,
+      "end": 1997
+    },
+    {
+      "text": "ABPR",
+      "label": "ORG",
+      "start": 2005,
+      "end": 2009
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2062,
+      "end": 2065
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 2072,
+      "end": 2075
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2139,
+      "end": 2156
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 2297,
+      "end": 2318
+    },
+    {
+      "text": "Helene PartikPablé",
+      "label": "PER",
+      "start": 2324,
+      "end": 2342
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2482,
+      "end": 2494
+    },
+    {
+      "text": "##uss",
+      "label": "ORG",
+      "start": 2653,
+      "end": 2656
+    },
+    {
+      "text": "Wilhelm Molterer",
+      "label": "PER",
+      "start": 2698,
+      "end": 2714
+    },
+    {
+      "text": "Magda Bleckmann",
+      "label": "PER",
+      "start": 2725,
+      "end": 2740
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2895,
+      "end": 2907
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3090,
+      "end": 3098
+    }
+  ]
+}

@@ -1,0 +1,1733 @@
+{
+  "filename": "08.03.2016_116._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Heinz-Christian Strache,",
+      "label": "PER",
+      "start": 948,
+      "end": 972
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 973,
+      "end": 991
+    },
+    {
+      "text": "MMag. DDr. Hubert Fuchs)",
+      "label": "PER",
+      "start": 996,
+      "end": 1020
+    },
+    {
+      "text": "Mag. Gerald Hauser,",
+      "label": "PER",
+      "start": 1046,
+      "end": 1065
+    },
+    {
+      "text": "Bundesminister für Land- und\\n\\nForstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1098,
+      "end": 1171
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 1256,
+      "end": 1282
+    },
+    {
+      "text": "Dr. Harald Walser,",
+      "label": "PER",
+      "start": 1316,
+      "end": 1334
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1425
+    },
+    {
+      "text": "Ing. Norbert Hofer.",
+      "label": "PER",
+      "start": 1489,
+      "end": 1508
+    },
+    {
+      "text": "Ing. Norbert Hofer:",
+      "label": "PER",
+      "start": 1525,
+      "end": 1544
+    },
+    {
+      "text": "Kucher,",
+      "label": "PER",
+      "start": 1617,
+      "end": 1624
+    },
+    {
+      "text": "Matznetter,",
+      "label": "PER",
+      "start": 1625,
+      "end": 1636
+    },
+    {
+      "text": "Amon,",
+      "label": "PER",
+      "start": 1637,
+      "end": 1642
+    },
+    {
+      "text": "Haubner,",
+      "label": "PER",
+      "start": 1643,
+      "end": 1651
+    },
+    {
+      "text": "Rasinger,",
+      "label": "PER",
+      "start": 1652,
+      "end": 1661
+    },
+    {
+      "text": "Zakostelsky,",
+      "label": "PER",
+      "start": 1662,
+      "end": 1674
+    },
+    {
+      "text": "Hauser,",
+      "label": "PER",
+      "start": 1675,
+      "end": 1682
+    },
+    {
+      "text": "Jannach,",
+      "label": "PER",
+      "start": 1683,
+      "end": 1691
+    },
+    {
+      "text": "Zanger,",
+      "label": "PER",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "text": "Jarmer,",
+      "label": "PER",
+      "start": 1700,
+      "end": 1707
+    },
+    {
+      "text": "Maurer,",
+      "label": "PER",
+      "start": 1708,
+      "end": 1715
+    },
+    {
+      "text": "Mückstein,",
+      "label": "PER",
+      "start": 1716,
+      "end": 1726
+    },
+    {
+      "text": "Walser,",
+      "label": "PER",
+      "start": 1727,
+      "end": 1734
+    },
+    {
+      "text": "Zinggl.",
+      "label": "PER",
+      "start": 1735,
+      "end": 1742
+    },
+    {
+      "text": "Ing. Norbert Hofer:",
+      "label": "PER",
+      "start": 1777,
+      "end": 1796
+    },
+    {
+      "text": "Heinz-Christian Strache,",
+      "label": "PER",
+      "start": 2536,
+      "end": 2560
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2561,
+      "end": 2579
+    },
+    {
+      "text": "MMag.\\n\\nDDr. Hubert Fuchs",
+      "label": "PER",
+      "start": 2584,
+      "end": 2607
+    },
+    {
+      "text": "Werner Neubauer,",
+      "label": "PER",
+      "start": 2817,
+      "end": 2833
+    },
+    {
+      "text": "Gesundheit Österreich GmbH",
+      "label": "ORG",
+      "start": 2985,
+      "end": 3011
+    },
+    {
+      "text": "Carmen Schimanek,",
+      "label": "PER",
+      "start": 3100,
+      "end": 3117
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3191
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3243,
+      "end": 3261
+    },
+    {
+      "text": "Dr. Nikolaus Scherak,",
+      "label": "PER",
+      "start": 3314,
+      "end": 3335
+    },
+    {
+      "text": "Dr. Nikolaus Scherak,",
+      "label": "PER",
+      "start": 3485,
+      "end": 3506
+    },
+    {
+      "text": "Mag. Harald Stefan,",
+      "label": "PER",
+      "start": 3653,
+      "end": 3672
+    },
+    {
+      "text": "Mag. Harald Stefan,",
+      "label": "PER",
+      "start": 3917,
+      "end": 3936
+    },
+    {
+      "text": "Mag. Harald Stefan,",
+      "label": "PER",
+      "start": 4181,
+      "end": 4200
+    },
+    {
+      "text": "Dr. Nikolaus Scherak,",
+      "label": "PER",
+      "start": 4614,
+      "end": 4635
+    },
+    {
+      "text": "Ing. Norbert Hofer:",
+      "label": "PER",
+      "start": 4768,
+      "end": 4787
+    },
+    {
+      "text": "Nationalrates,",
+      "label": "ORG",
+      "start": 4812,
+      "end": 4826
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5019,
+      "end": 5038
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 973,
+      "end": 991
+    },
+    {
+      "text": "MMag. DDr. Hubert Fuchs",
+      "label": "PER",
+      "start": 996,
+      "end": 1019
+    },
+    {
+      "text": "Mag. Gerald Hauser",
+      "label": "PER",
+      "start": 1046,
+      "end": 1064
+    },
+    {
+      "text": "Dr. Harald Walser",
+      "label": "PER",
+      "start": 1316,
+      "end": 1333
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1424
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1489,
+      "end": 1507
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1525,
+      "end": 1543
+    },
+    {
+      "text": "Kucher",
+      "label": "PER",
+      "start": 1617,
+      "end": 1623
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1625,
+      "end": 1635
+    },
+    {
+      "text": "Amon",
+      "label": "PER",
+      "start": 1637,
+      "end": 1641
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1643,
+      "end": 1650
+    },
+    {
+      "text": "Rasinger",
+      "label": "PER",
+      "start": 1652,
+      "end": 1660
+    },
+    {
+      "text": "Zakostelsky",
+      "label": "PER",
+      "start": 1662,
+      "end": 1673
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1675,
+      "end": 1681
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1683,
+      "end": 1690
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1692,
+      "end": 1698
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1700,
+      "end": 1706
+    },
+    {
+      "text": "Maurer",
+      "label": "PER",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "Mückstein",
+      "label": "PER",
+      "start": 1716,
+      "end": 1725
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1727,
+      "end": 1733
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 1735,
+      "end": 1741
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1777,
+      "end": 1795
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2561,
+      "end": 2579
+    },
+    {
+      "text": "MMag.",
+      "label": "PER",
+      "start": 2584,
+      "end": 2589
+    },
+    {
+      "text": "DDr.",
+      "label": "PER",
+      "start": 2590,
+      "end": 2594
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3190
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3243,
+      "end": 3261
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3314,
+      "end": 3317
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3318,
+      "end": 3334
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3485,
+      "end": 3488
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3489,
+      "end": 3505
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3653,
+      "end": 3671
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3917,
+      "end": 3935
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 4181,
+      "end": 4199
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 4614,
+      "end": 4617
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 4618,
+      "end": 4634
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4768,
+      "end": 4786
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4812,
+      "end": 4825
+    }
+  ],
+  "flair": [
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 978,
+      "end": 991
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "text": "Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1098,
+      "end": 1171
+    },
+    {
+      "text": "HBLA Kematen",
+      "label": "ORG",
+      "start": 1198,
+      "end": 1210
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1282
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1320,
+      "end": 1333
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1494,
+      "end": 1507
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1530,
+      "end": 1543
+    },
+    {
+      "text": "Kucher",
+      "label": "PER",
+      "start": 1617,
+      "end": 1623
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1625,
+      "end": 1635
+    },
+    {
+      "text": "Amon",
+      "label": "PER",
+      "start": 1637,
+      "end": 1641
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1643,
+      "end": 1650
+    },
+    {
+      "text": "Rasinger",
+      "label": "PER",
+      "start": 1652,
+      "end": 1660
+    },
+    {
+      "text": "Zakostelsky",
+      "label": "PER",
+      "start": 1662,
+      "end": 1673
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1675,
+      "end": 1681
+    },
+    {
+      "text": "Jannach",
+      "label": "PER",
+      "start": 1683,
+      "end": 1690
+    },
+    {
+      "text": "Zanger",
+      "label": "PER",
+      "start": 1692,
+      "end": 1698
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1700,
+      "end": 1706
+    },
+    {
+      "text": "Maurer",
+      "label": "PER",
+      "start": 1708,
+      "end": 1714
+    },
+    {
+      "text": "Mückstein",
+      "label": "PER",
+      "start": 1716,
+      "end": 1725
+    },
+    {
+      "text": "Walser",
+      "label": "PER",
+      "start": 1727,
+      "end": 1733
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 1735,
+      "end": 1741
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 1782,
+      "end": 1795
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2566,
+      "end": 2579
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Bundesgesetz über die Gesundheit Österreich GmbH",
+      "label": "ORG",
+      "start": 2963,
+      "end": 3011
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3248,
+      "end": 3261
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3318,
+      "end": 3334
+    },
+    {
+      "text": "BRZ",
+      "label": "ORG",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3489,
+      "end": 3505
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3658,
+      "end": 3671
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 3853,
+      "end": 3857
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3922,
+      "end": 3935
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 4117,
+      "end": 4121
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 4186,
+      "end": 4199
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 4618,
+      "end": 4634
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 4773,
+      "end": 4786
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "................................................................................................................",
+      "label": "PER",
+      "start": 635,
+      "end": 747
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 973,
+      "end": 991
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 996,
+      "end": 1000
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "text": "Bundesminister für Land- und\nForstwirtschaft",
+      "label": "ORG",
+      "start": 1098,
+      "end": 1142
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1282
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1320,
+      "end": 1333
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1424
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1426,
+      "end": 1429
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1489,
+      "end": 1507
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1525,
+      "end": 1543
+    },
+    {
+      "text": "Kucher",
+      "label": "PER",
+      "start": 1617,
+      "end": 1623
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1625,
+      "end": 1635
+    },
+    {
+      "text": "Amon",
+      "label": "PER",
+      "start": 1637,
+      "end": 1641
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1643,
+      "end": 1650
+    },
+    {
+      "text": "Zakostelsky",
+      "label": "PER",
+      "start": 1662,
+      "end": 1673
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1675,
+      "end": 1681
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1700,
+      "end": 1706
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 1735,
+      "end": 1741
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1777,
+      "end": 1795
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2023,
+      "end": 2037
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2561,
+      "end": 2579
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 2584,
+      "end": 2588
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Genderwahn“!\n\nNationalrat",
+      "label": "ORG",
+      "start": 3165,
+      "end": 3190
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3192,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3243,
+      "end": 3261
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3314,
+      "end": 3334
+    },
+    {
+      "text": "BRZ",
+      "label": "ORG",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3485,
+      "end": 3505
+    },
+    {
+      "text": "Basis-Informationen",
+      "label": "ORG",
+      "start": 3583,
+      "end": 3602
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3640,
+      "end": 3652
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3658,
+      "end": 3671
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3916
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3922,
+      "end": 3935
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4168,
+      "end": 4180
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 4186,
+      "end": 4199
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 4614,
+      "end": 4634
+    },
+    {
+      "text": "Basis-Informationen",
+      "label": "ORG",
+      "start": 4712,
+      "end": 4731
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4768,
+      "end": 4786
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4812,
+      "end": 4825
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "................................................................................................................",
+      "label": "PER",
+      "start": 635,
+      "end": 747
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 973,
+      "end": 991
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 996,
+      "end": 1000
+    },
+    {
+      "text": "DDr",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "text": "Bundesminister für Land- und\nForstwirtschaft",
+      "label": "ORG",
+      "start": 1098,
+      "end": 1142
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1282
+    },
+    {
+      "text": "Harald Walser",
+      "label": "PER",
+      "start": 1320,
+      "end": 1333
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1424
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 1426,
+      "end": 1429
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1489,
+      "end": 1507
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1525,
+      "end": 1543
+    },
+    {
+      "text": "Kucher",
+      "label": "PER",
+      "start": 1617,
+      "end": 1623
+    },
+    {
+      "text": "Matznetter",
+      "label": "PER",
+      "start": 1625,
+      "end": 1635
+    },
+    {
+      "text": "Amon",
+      "label": "PER",
+      "start": 1637,
+      "end": 1641
+    },
+    {
+      "text": "Haubner",
+      "label": "PER",
+      "start": 1643,
+      "end": 1650
+    },
+    {
+      "text": "Zakostelsky",
+      "label": "PER",
+      "start": 1662,
+      "end": 1673
+    },
+    {
+      "text": "Hauser",
+      "label": "PER",
+      "start": 1675,
+      "end": 1681
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1700,
+      "end": 1706
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 1735,
+      "end": 1741
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 1777,
+      "end": 1795
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2023,
+      "end": 2037
+    },
+    {
+      "text": "Heinz-Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 2561,
+      "end": 2579
+    },
+    {
+      "text": "MMag",
+      "label": "ORG",
+      "start": 2584,
+      "end": 2588
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Genderwahn“!\n\n",
+      "label": "ORG",
+      "start": 3165,
+      "end": 3179
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3190
+    },
+    {
+      "text": "XXV",
+      "label": "ORG",
+      "start": 3192,
+      "end": 3195
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3243,
+      "end": 3261
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3314,
+      "end": 3334
+    },
+    {
+      "text": "BRZ",
+      "label": "ORG",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 3485,
+      "end": 3505
+    },
+    {
+      "text": "Basis-Informationen",
+      "label": "ORG",
+      "start": 3583,
+      "end": 3602
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3640,
+      "end": 3652
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3658,
+      "end": 3671
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3904,
+      "end": 3916
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3922,
+      "end": 3935
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4168,
+      "end": 4180
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 4186,
+      "end": 4199
+    },
+    {
+      "text": "Dr. Nikolaus Scherak",
+      "label": "PER",
+      "start": 4614,
+      "end": 4634
+    },
+    {
+      "text": "Basis-Informationen",
+      "label": "ORG",
+      "start": 4712,
+      "end": 4731
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 4768,
+      "end": 4786
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4812,
+      "end": 4825
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 181,
+      "end": 189
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 978,
+      "end": 991
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2149,
+      "end": 2151
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2566,
+      "end": 2579
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2659,
+      "end": 2692
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Österreich GmbH",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3011
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3190
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 3248,
+      "end": 3261
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3318,
+      "end": 3334
+    },
+    {
+      "text": "BRZ",
+      "label": "ORG",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3489,
+      "end": 3505
+    },
+    {
+      "text": "Mag. Harald Stefan",
+      "label": "PER",
+      "start": 3653,
+      "end": 3671
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 3846,
+      "end": 3848
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3922,
+      "end": 3935
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 4110,
+      "end": 4112
+    },
+    {
+      "text": "##GB",
+      "label": "ORG",
+      "start": 4112,
+      "end": 4114
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 4186,
+      "end": 4199
+    },
+    {
+      "text": "StGB",
+      "label": "ORG",
+      "start": 4374,
+      "end": 4378
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 4547,
+      "end": 4550
+    },
+    {
+      "text": "für Kons",
+      "label": "ORG",
+      "start": 4557,
+      "end": 4565
+    },
+    {
+      "text": "##nschutz",
+      "label": "ORG",
+      "start": 4571,
+      "end": 4578
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 4618,
+      "end": 4634
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 4773,
+      "end": 4786
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 948,
+      "end": 971
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 978,
+      "end": 991
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 1007,
+      "end": 1019
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1046,
+      "end": 1049
+    },
+    {
+      "text": "Gerald Hauser",
+      "label": "PER",
+      "start": 1051,
+      "end": 1064
+    },
+    {
+      "text": "Heinz - Christian Strache",
+      "label": "PER",
+      "start": 2536,
+      "end": 2559
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 2566,
+      "end": 2579
+    },
+    {
+      "text": "Hubert Fuchs",
+      "label": "PER",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "text": "für",
+      "label": "ORG",
+      "start": 2669,
+      "end": 2672
+    },
+    {
+      "text": "Werner Neubauer",
+      "label": "PER",
+      "start": 2817,
+      "end": 2832
+    },
+    {
+      "text": "Österreich GmbH",
+      "label": "ORG",
+      "start": 2996,
+      "end": 3011
+    },
+    {
+      "text": "Carmen Schimanek",
+      "label": "PER",
+      "start": 3100,
+      "end": 3116
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3179,
+      "end": 3190
+    },
+    {
+      "text": "Ing. Norbert Hofer",
+      "label": "PER",
+      "start": 3243,
+      "end": 3261
+    },
+    {
+      "text": "##izausschus",
+      "label": "ORG",
+      "start": 3267,
+      "end": 3277
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3318,
+      "end": 3334
+    },
+    {
+      "text": "BRZ",
+      "label": "ORG",
+      "start": 3447,
+      "end": 3450
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 3489,
+      "end": 3505
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3653,
+      "end": 3656
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3658,
+      "end": 3671
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 3922,
+      "end": 3935
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4181,
+      "end": 4184
+    },
+    {
+      "text": "Harald Stefan",
+      "label": "PER",
+      "start": 4186,
+      "end": 4199
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 4618,
+      "end": 4634
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 4768,
+      "end": 4772
+    },
+    {
+      "text": "Norbert Hofer",
+      "label": "PER",
+      "start": 4773,
+      "end": 4786
+    }
+  ]
+}

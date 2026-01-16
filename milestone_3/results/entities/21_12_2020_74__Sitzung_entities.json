@@ -1,0 +1,1589 @@
+{
+  "filename": "21.12.2020_74._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 236,
+      "end": 249
+    },
+    {
+      "text": "Nationalrat,",
+      "label": "ORG",
+      "start": 706,
+      "end": 718
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka.",
+      "label": "PER",
+      "start": 784,
+      "end": 806
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka:",
+      "label": "PER",
+      "start": 823,
+      "end": 845
+    },
+    {
+      "text": "Nationalrates.",
+      "label": "ORG",
+      "start": 878,
+      "end": 892
+    },
+    {
+      "text": "ÖVP,",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1039
+    },
+    {
+      "text": "FPÖ,",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1044
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1100,
+      "end": 1119
+    },
+    {
+      "text": "Mag. Klaus Fürlinger,",
+      "label": "PER",
+      "start": 1130,
+      "end": 1151
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl,",
+      "label": "PER",
+      "start": 1152,
+      "end": 1173
+    },
+    {
+      "text": "Mag. Ernst Gödl,",
+      "label": "PER",
+      "start": 1174,
+      "end": 1190
+    },
+    {
+      "text": "Kira Grünberg,",
+      "label": "PER",
+      "start": 1191,
+      "end": 1205
+    },
+    {
+      "text": "Mag. Michael\\n\\nHammer,",
+      "label": "PER",
+      "start": 1206,
+      "end": 1226
+    },
+    {
+      "text": "Peter Haubner,",
+      "label": "PER",
+      "start": 1227,
+      "end": 1241
+    },
+    {
+      "text": "Rebecca Kirchbaumer,",
+      "label": "PER",
+      "start": 1242,
+      "end": 1262
+    },
+    {
+      "text": "August Wöginger,",
+      "label": "PER",
+      "start": 1263,
+      "end": 1279
+    },
+    {
+      "text": "Bettina Zopf",
+      "label": "PER",
+      "start": 1280,
+      "end": 1292
+    },
+    {
+      "text": "ÖVP,",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1305
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch,",
+      "label": "PER",
+      "start": 1306,
+      "end": 1330
+    },
+    {
+      "text": "Dr. Susanne Fürst,",
+      "label": "PER",
+      "start": 1348,
+      "end": 1366
+    },
+    {
+      "text": "Peter\\n\\nSchmiedlechner,",
+      "label": "PER",
+      "start": 1367,
+      "end": 1388
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "FPÖ,",
+      "label": "ORG",
+      "start": 1408,
+      "end": 1412
+    },
+    {
+      "text": "Mag. Georg Bürstmayr,",
+      "label": "PER",
+      "start": 1413,
+      "end": 1434
+    },
+    {
+      "text": "Mag. Markus Koza,",
+      "label": "PER",
+      "start": 1435,
+      "end": 1452
+    },
+    {
+      "text": "Sigrid Maurer, BA,",
+      "label": "PER",
+      "start": 1453,
+      "end": 1471
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "Grünen,",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1506
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1541,
+      "end": 1565
+    },
+    {
+      "text": "NEOS.",
+      "label": "ORG",
+      "start": 1574,
+      "end": 1579
+    },
+    {
+      "text": "Rosa Ecker, MBA,",
+      "label": "PER",
+      "start": 1331,
+      "end": 1347
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Ing. Reinhold Einwallner.",
+      "label": "PER",
+      "start": 1762,
+      "end": 1787
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka:",
+      "label": "PER",
+      "start": 1810,
+      "end": 1832
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2176,
+      "end": 2189
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2383,
+      "end": 2402
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 2438,
+      "end": 2457
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 236,
+      "end": 249
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 784,
+      "end": 805
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 823,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 878,
+      "end": 891
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1043
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Mag. Klaus Fürlinger",
+      "label": "PER",
+      "start": 1130,
+      "end": 1150
+    },
+    {
+      "text": "Mag. Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1152,
+      "end": 1172
+    },
+    {
+      "text": "Mag. Ernst Gödl",
+      "label": "PER",
+      "start": 1174,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1206,
+      "end": 1210
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 1211,
+      "end": 1218
+    },
+    {
+      "text": "Hammer",
+      "label": "PER",
+      "start": 1219,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zopf",
+      "label": "PER",
+      "start": 1280,
+      "end": 1292
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1304
+    },
+    {
+      "text": "Dr. Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1306,
+      "end": 1329
+    },
+    {
+      "text": "Rosa Ecker, MBA",
+      "label": "PER",
+      "start": 1331,
+      "end": 1346
+    },
+    {
+      "text": "Dr. Susanne Fürst",
+      "label": "PER",
+      "start": 1348,
+      "end": 1365
+    },
+    {
+      "text": "Peter",
+      "label": "PER",
+      "start": 1367,
+      "end": 1372
+    },
+    {
+      "text": "Schmiedlechner",
+      "label": "PER",
+      "start": 1373,
+      "end": 1387
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1408,
+      "end": 1411
+    },
+    {
+      "text": "Mag. Georg Bürstmayr",
+      "label": "PER",
+      "start": 1413,
+      "end": 1433
+    },
+    {
+      "text": "Mag. Markus Koza",
+      "label": "PER",
+      "start": 1435,
+      "end": 1451
+    },
+    {
+      "text": "Sigrid Maurer, BA",
+      "label": "PER",
+      "start": 1453,
+      "end": 1470
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Dr. Nikolaus Scherak, MA",
+      "label": "PER",
+      "start": 1541,
+      "end": 1565
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1574,
+      "end": 1578
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1762,
+      "end": 1786
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1810,
+      "end": 1831
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2176,
+      "end": 2189
+    }
+  ],
+  "flair": [
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 805
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1043
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1135,
+      "end": 1150
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "Ernst Gödl",
+      "label": "PER",
+      "start": 1179,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zopf",
+      "label": "PER",
+      "start": 1280,
+      "end": 1292
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1304
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1310,
+      "end": 1329
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1331,
+      "end": 1341
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Peter Schmiedlechner",
+      "label": "PER",
+      "start": 1367,
+      "end": 1387
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1408,
+      "end": 1411
+    },
+    {
+      "text": "Georg Bürstmayr",
+      "label": "PER",
+      "start": 1418,
+      "end": 1433
+    },
+    {
+      "text": "Markus Koza",
+      "label": "PER",
+      "start": 1440,
+      "end": 1451
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1453,
+      "end": 1466
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1470
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1505
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1545,
+      "end": 1561
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1574,
+      "end": 1578
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Reinhold Einwallner",
+      "label": "PER",
+      "start": 1767,
+      "end": 1786
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1815,
+      "end": 1831
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2064
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "PROTOKOLL",
+      "label": "ORG",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 236,
+      "end": 280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 805
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 823,
+      "end": 826
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 878,
+      "end": 891
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1043
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1135,
+      "end": 1150
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "Ernst Gödl",
+      "label": "PER",
+      "start": 1179,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1206,
+      "end": 1209
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zopf",
+      "label": "PER",
+      "start": 1280,
+      "end": 1292
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1304
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1310,
+      "end": 1329
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1331,
+      "end": 1341
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Peter\nSchmiedlechner",
+      "label": "PER",
+      "start": 1367,
+      "end": 1387
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1408,
+      "end": 1411
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1416
+    },
+    {
+      "text": "Georg Bürstmayr",
+      "label": "PER",
+      "start": 1418,
+      "end": 1433
+    },
+    {
+      "text": "Markus Koza",
+      "label": "PER",
+      "start": 1440,
+      "end": 1451
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1453,
+      "end": 1466
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1470
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1505
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1545,
+      "end": 1561
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1574,
+      "end": 1578
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1592,
+      "end": 1604
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1762,
+      "end": 1786
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1810,
+      "end": 1813
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1815,
+      "end": 1831
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1847,
+      "end": 1864
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1917,
+      "end": 1934
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2176,
+      "end": 2189
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "PROTOKOLL",
+      "label": "ORG",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 236,
+      "end": 280
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 805
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 823,
+      "end": 826
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 878,
+      "end": 891
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1043
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1135,
+      "end": 1150
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "Ernst Gödl",
+      "label": "PER",
+      "start": 1179,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1206,
+      "end": 1209
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zopf",
+      "label": "PER",
+      "start": 1280,
+      "end": 1292
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1301,
+      "end": 1304
+    },
+    {
+      "text": "Dagmar Belakowitsch",
+      "label": "PER",
+      "start": 1310,
+      "end": 1329
+    },
+    {
+      "text": "Rosa Ecker",
+      "label": "PER",
+      "start": 1331,
+      "end": 1341
+    },
+    {
+      "text": "Susanne Fürst",
+      "label": "PER",
+      "start": 1352,
+      "end": 1365
+    },
+    {
+      "text": "Peter\nSchmiedlechner",
+      "label": "PER",
+      "start": 1367,
+      "end": 1387
+    },
+    {
+      "text": "Peter Wurm",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1408,
+      "end": 1411
+    },
+    {
+      "text": "Mag",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1416
+    },
+    {
+      "text": "Georg Bürstmayr",
+      "label": "PER",
+      "start": 1418,
+      "end": 1433
+    },
+    {
+      "text": "Markus Koza",
+      "label": "PER",
+      "start": 1440,
+      "end": 1451
+    },
+    {
+      "text": "Sigrid Maurer",
+      "label": "PER",
+      "start": 1453,
+      "end": 1466
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1470
+    },
+    {
+      "text": "Ralph Schallmeiner",
+      "label": "PER",
+      "start": 1472,
+      "end": 1490
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1505
+    },
+    {
+      "text": "Douglas Hoyos-Trauttmansdorff",
+      "label": "PER",
+      "start": 1507,
+      "end": 1536
+    },
+    {
+      "text": "Nikolaus Scherak",
+      "label": "PER",
+      "start": 1545,
+      "end": 1561
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1574,
+      "end": 1578
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1592,
+      "end": 1604
+    },
+    {
+      "text": "SPÖ",
+      "label": "ORG",
+      "start": 1655,
+      "end": 1658
+    },
+    {
+      "text": "Cornelia Ecker",
+      "label": "PER",
+      "start": 1743,
+      "end": 1757
+    },
+    {
+      "text": "Ing. Reinhold Einwallner",
+      "label": "PER",
+      "start": 1762,
+      "end": 1786
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1810,
+      "end": 1813
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1815,
+      "end": 1831
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1847,
+      "end": 1864
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1917,
+      "end": 1934
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2176,
+      "end": 2189
+    }
+  ],
+  "bert": [
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 805
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "F",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1041
+    },
+    {
+      "text": "##PÖ",
+      "label": "ORG",
+      "start": 1041,
+      "end": 1043
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1135,
+      "end": 1150
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "Ernst Gödl",
+      "label": "PER",
+      "start": 1179,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zo",
+      "label": "PER",
+      "start": 1280,
+      "end": 1290
+    },
+    {
+      "text": "Außenpolitischen Ausschuss",
+      "label": "ORG",
+      "start": 1956,
+      "end": 1982
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2064
+    },
+    {
+      "text": "Gesundheitsausschuss",
+      "label": "ORG",
+      "start": 2121,
+      "end": 2141
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2176,
+      "end": 2189
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##TZ",
+      "label": "ORG",
+      "start": 8,
+      "end": 10
+    },
+    {
+      "text": "##G DE",
+      "label": "ORG",
+      "start": 12,
+      "end": 16
+    },
+    {
+      "text": "##TION",
+      "label": "ORG",
+      "start": 20,
+      "end": 24
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 236,
+      "end": 244
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 805
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 823,
+      "end": 826
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 844
+    },
+    {
+      "text": "ÖVP",
+      "label": "ORG",
+      "start": 1035,
+      "end": 1038
+    },
+    {
+      "text": "FPÖ",
+      "label": "ORG",
+      "start": 1040,
+      "end": 1043
+    },
+    {
+      "text": "Grünen",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1051
+    },
+    {
+      "text": "NEOS",
+      "label": "ORG",
+      "start": 1056,
+      "end": 1060
+    },
+    {
+      "text": "Klaus Fürlinger",
+      "label": "PER",
+      "start": 1135,
+      "end": 1150
+    },
+    {
+      "text": "Wolfgang Gerstl",
+      "label": "PER",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "text": "Ernst Gödl",
+      "label": "PER",
+      "start": 1179,
+      "end": 1189
+    },
+    {
+      "text": "Kira Grünberg",
+      "label": "PER",
+      "start": 1191,
+      "end": 1204
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 1211,
+      "end": 1225
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 1227,
+      "end": 1240
+    },
+    {
+      "text": "Rebecca Kirchbaumer",
+      "label": "PER",
+      "start": 1242,
+      "end": 1261
+    },
+    {
+      "text": "August Wöginger",
+      "label": "PER",
+      "start": 1263,
+      "end": 1278
+    },
+    {
+      "text": "Bettina Zo",
+      "label": "PER",
+      "start": 1280,
+      "end": 1290
+    },
+    {
+      "text": "Aus",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2034
+    }
+  ]
+}

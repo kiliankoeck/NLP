@@ -1,0 +1,851 @@
+{
+  "filename": "03.05.2007_23._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 724,
+      "end": 744
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 764,
+      "end": 784
+    },
+    {
+      "text": "Dr. Wittmann",
+      "label": "PER",
+      "start": 858,
+      "end": 870
+    },
+    {
+      "text": "Dr. Huainigg",
+      "label": "PER",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 886,
+      "end": 899
+    },
+    {
+      "text": "Mag. Schatz",
+      "label": "PER",
+      "start": 901,
+      "end": 912
+    },
+    {
+      "text": "Mag. Dr. Zinggl",
+      "label": "PER",
+      "start": 914,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 934,
+      "end": 944
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 1002
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2774,
+      "end": 2785
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2840,
+      "end": 2860
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3760,
+      "end": 3780
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3819
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 181,
+      "end": 194
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 724,
+      "end": 744
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 764,
+      "end": 784
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 858,
+      "end": 861
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 872,
+      "end": 875
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 886,
+      "end": 889
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 901,
+      "end": 905
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 914,
+      "end": 918
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 919,
+      "end": 922
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 934,
+      "end": 938
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 939,
+      "end": 944
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 982,
+      "end": 1002
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2774,
+      "end": 2785
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 2840,
+      "end": 2860
+    },
+    {
+      "text": "Mag. Barbara Prammer",
+      "label": "PER",
+      "start": 3760,
+      "end": 3780
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3819
+    }
+  ],
+  "flair": [
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 729,
+      "end": 744
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 769,
+      "end": 784
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 939,
+      "end": 944
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 987,
+      "end": 1002
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 1292,
+      "end": 1311
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2845,
+      "end": 2860
+    },
+    {
+      "text": "Klima- und Energiefonds",
+      "label": "ORG",
+      "start": 2899,
+      "end": 2922
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3765,
+      "end": 3780
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 374,
+      "end": 476
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 504,
+      "end": 610
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 729,
+      "end": 744
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 764,
+      "end": 767
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 769,
+      "end": 784
+    },
+    {
+      "text": "Dr. Wittmann",
+      "label": "PER",
+      "start": 858,
+      "end": 870
+    },
+    {
+      "text": "Dr. Huainigg",
+      "label": "PER",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 886,
+      "end": 899
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 901,
+      "end": 904
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 934,
+      "end": 944
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 982,
+      "end": 985
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 987,
+      "end": 1002
+    },
+    {
+      "text": "BeamtenKranken-",
+      "label": "ORG",
+      "start": 1791,
+      "end": 1806
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2774,
+      "end": 2785
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2840,
+      "end": 2843
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2845,
+      "end": 2860
+    },
+    {
+      "text": "Klima- und Energiefonds – Klima- und Energiefondsgesetz",
+      "label": "ORG",
+      "start": 2899,
+      "end": 2954
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3760,
+      "end": 3763
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3765,
+      "end": 3780
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3819
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 44,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 181,
+      "end": 218
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 374,
+      "end": 476
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 504,
+      "end": 610
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 729,
+      "end": 744
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 764,
+      "end": 767
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 769,
+      "end": 784
+    },
+    {
+      "text": "Dr. Wittmann",
+      "label": "PER",
+      "start": 858,
+      "end": 870
+    },
+    {
+      "text": "Dr. Huainigg",
+      "label": "PER",
+      "start": 872,
+      "end": 884
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 886,
+      "end": 899
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 901,
+      "end": 904
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 934,
+      "end": 944
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 982,
+      "end": 985
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 987,
+      "end": 1002
+    },
+    {
+      "text": "BeamtenKranken-",
+      "label": "ORG",
+      "start": 1791,
+      "end": 1806
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2774,
+      "end": 2785
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2840,
+      "end": 2843
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 2845,
+      "end": 2860
+    },
+    {
+      "text": "Klima- und Energiefonds – Klima- und Energiefondsgesetz",
+      "label": "ORG",
+      "start": 2899,
+      "end": 2954
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3760,
+      "end": 3763
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 3765,
+      "end": 3780
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3806,
+      "end": 3819
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 729,
+      "end": 744
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 769,
+      "end": 784
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "Grün",
+      "label": "PER",
+      "start": 890,
+      "end": 894
+    },
+    {
+      "text": "##ew",
+      "label": "ORG",
+      "start": 894,
+      "end": 896
+    },
+    {
+      "text": "##ald",
+      "label": "PER",
+      "start": 896,
+      "end": 899
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 939,
+      "end": 944
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 987,
+      "end": 1002
+    },
+    {
+      "text": "Ausschuss für Arbeit und",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1302
+    },
+    {
+      "text": "Umwelt",
+      "label": "ORG",
+      "start": 2657,
+      "end": 2663
+    },
+    {
+      "text": "##schuss",
+      "label": "ORG",
+      "start": 2666,
+      "end": 2672
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2774,
+      "end": 2785
+    },
+    {
+      "text": "Barbara Pr",
+      "label": "PER",
+      "start": 2845,
+      "end": 2855
+    },
+    {
+      "text": "Ausschuss für Wirtschaft und Industrie",
+      "label": "ORG",
+      "start": 3133,
+      "end": 3171
+    },
+    {
+      "text": "Universität Innsbruck",
+      "label": "ORG",
+      "start": 3676,
+      "end": 3697
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 724,
+      "end": 727
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 729,
+      "end": 744
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 764,
+      "end": 767
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 769,
+      "end": 784
+    },
+    {
+      "text": "Wittmann",
+      "label": "PER",
+      "start": 862,
+      "end": 870
+    },
+    {
+      "text": "Huainigg",
+      "label": "PER",
+      "start": 876,
+      "end": 884
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 890,
+      "end": 899
+    },
+    {
+      "text": "Schatz",
+      "label": "PER",
+      "start": 906,
+      "end": 912
+    },
+    {
+      "text": "Zinggl",
+      "label": "PER",
+      "start": 923,
+      "end": 929
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 939,
+      "end": 944
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 982,
+      "end": 985
+    },
+    {
+      "text": "Barbara Prammer",
+      "label": "PER",
+      "start": 987,
+      "end": 1002
+    },
+    {
+      "text": "V",
+      "label": "ORG",
+      "start": 2078,
+      "end": 2079
+    },
+    {
+      "text": "##OEG",
+      "label": "ORG",
+      "start": 2079,
+      "end": 2082
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2840,
+      "end": 2843
+    },
+    {
+      "text": "Barbara Pram",
+      "label": "PER",
+      "start": 2845,
+      "end": 2857
+    },
+    {
+      "text": "##ire",
+      "label": "ORG",
+      "start": 4038,
+      "end": 4041
+    }
+  ]
+}

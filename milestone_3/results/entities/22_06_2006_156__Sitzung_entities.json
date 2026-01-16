@@ -1,0 +1,1403 @@
+{
+  "filename": "22.06.2006_156._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 877,
+      "end": 890
+    },
+    {
+      "text": "BM f. Justiz",
+      "label": "ORG",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "text": "BM f. Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1044
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "PER",
+      "start": 1071,
+      "end": 1145
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1244,
+      "end": 1272
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "PER",
+      "start": 1377,
+      "end": 1405
+    },
+    {
+      "text": "Dr. Elisabeth Hlavac",
+      "label": "PER",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": ". Brigid Weinzinger",
+      "label": "PER",
+      "start": 1442,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1542,
+      "end": 1553
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1619,
+      "end": 1635
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1653,
+      "end": 1669
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1753,
+      "end": 1777
+    },
+    {
+      "text": "Dr. Grünewald",
+      "label": "PER",
+      "start": 1782,
+      "end": 1795
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1831,
+      "end": 1847
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2288,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2427,
+      "end": 2442
+    },
+    {
+      "text": "Dkfm. Dr. Günter Stummvoll",
+      "label": "PER",
+      "start": 2640,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2835,
+      "end": 2863
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2978
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3067,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Dipl.-Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 3248,
+      "end": 3275
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3437,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3644,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "PER",
+      "start": 3949,
+      "end": 3976
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4083
+    },
+    {
+      "text": "Bundesminister für\\nVerkehr, Innovation und Technologie",
+      "label": "PER",
+      "start": 4225,
+      "end": 4279
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4311,
+      "end": 4327
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4479,
+      "end": 4492
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 4687,
+      "end": 4706
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 877,
+      "end": 890
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "text": "Dr. Elisabeth Hlavac",
+      "label": "PER",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 1439,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1542,
+      "end": 1553
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1619,
+      "end": 1635
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1653,
+      "end": 1669
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1753,
+      "end": 1756
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1757,
+      "end": 1777
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1782,
+      "end": 1785
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1786,
+      "end": 1795
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1831,
+      "end": 1847
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 2288,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2427,
+      "end": 2442
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2646,
+      "end": 2649
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Dr. Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2835,
+      "end": 2863
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3067,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Dipl.-Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 3248,
+      "end": 3275
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3437,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3644,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4083
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4311,
+      "end": 4327
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4479,
+      "end": 4492
+    }
+  ],
+  "flair": [
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 927,
+      "end": 929
+    },
+    {
+      "text": "BM f. Justiz",
+      "label": "ORG",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "text": "Biopatent Monitoring Komitees",
+      "label": "ORG",
+      "start": 972,
+      "end": 1001
+    },
+    {
+      "text": "BM f. Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1044
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1145
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1183,
+      "end": 1193
+    },
+    {
+      "text": "Inneres",
+      "label": "ORG",
+      "start": 1265,
+      "end": 1272
+    },
+    {
+      "text": "Elisabeth Hlavac",
+      "label": "PER",
+      "start": 1310,
+      "end": 1326
+    },
+    {
+      "text": "Inneres",
+      "label": "ORG",
+      "start": 1398,
+      "end": 1405
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1444,
+      "end": 1461
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1623,
+      "end": 1635
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1657,
+      "end": 1669
+    },
+    {
+      "text": "Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1757,
+      "end": 1777
+    },
+    {
+      "text": "Grünewald",
+      "label": "PER",
+      "start": 1786,
+      "end": 1795
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 1835,
+      "end": 1847
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2293,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2839,
+      "end": 2863
+    },
+    {
+      "text": "den Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2949,
+      "end": 2978
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3071,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Hannes Missethon",
+      "label": "PER",
+      "start": 3259,
+      "end": 3275
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3441,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3714,
+      "end": 3726
+    },
+    {
+      "text": "Biopatent Monitoring Komitees",
+      "label": "ORG",
+      "start": 4180,
+      "end": 4209
+    },
+    {
+      "text": "Bundesminister für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4279
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4315,
+      "end": 4327
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 380,
+      "end": 482
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 510,
+      "end": 616
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 649,
+      "end": 762
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 877,
+      "end": 890
+    },
+    {
+      "text": "BM f. Verkehr",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1016
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1116
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1244,
+      "end": 1272
+    },
+    {
+      "text": "Dr. Elisabeth Hlavac",
+      "label": "PER",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1377,
+      "end": 1405
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1444,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1542,
+      "end": 1553
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1619,
+      "end": 1635
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1653,
+      "end": 1669
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1753,
+      "end": 1777
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1831,
+      "end": 1847
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2088,
+      "end": 2102
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2293,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2640,
+      "end": 2644
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2839,
+      "end": 2863
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2978
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3067,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Dipl.-Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 3248,
+      "end": 3275
+    },
+    {
+      "text": "Initiative Park & Drive",
+      "label": "ORG",
+      "start": 3359,
+      "end": 3382
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3437,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 3949,
+      "end": 3976
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4083
+    },
+    {
+      "text": "Bundesminister für\nVerkehr",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4251
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4311,
+      "end": 4327
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4479,
+      "end": 4492
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 45,
+      "end": 82
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 380,
+      "end": 482
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 510,
+      "end": 616
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 649,
+      "end": 762
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 877,
+      "end": 890
+    },
+    {
+      "text": "BM f. Verkehr",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1016
+    },
+    {
+      "text": "Bundesministers für Land- und Forstwirtschaft",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1116
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1244,
+      "end": 1272
+    },
+    {
+      "text": "Dr. Elisabeth Hlavac",
+      "label": "PER",
+      "start": 1306,
+      "end": 1326
+    },
+    {
+      "text": "Bundesministerin für Inneres",
+      "label": "ORG",
+      "start": 1377,
+      "end": 1405
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 1444,
+      "end": 1461
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1542,
+      "end": 1553
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1619,
+      "end": 1635
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1653,
+      "end": 1669
+    },
+    {
+      "text": "Dr. Glawischnig-Piesczek",
+      "label": "PER",
+      "start": 1753,
+      "end": 1777
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 1831,
+      "end": 1847
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2088,
+      "end": 2102
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2293,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2427,
+      "end": 2442
+    },
+    {
+      "text": "Dkfm",
+      "label": "ORG",
+      "start": 2640,
+      "end": 2644
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2839,
+      "end": 2863
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2978
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 3067,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Dipl.-Ing. Hannes Missethon",
+      "label": "PER",
+      "start": 3248,
+      "end": 3275
+    },
+    {
+      "text": "Initiative Park & Drive",
+      "label": "ORG",
+      "start": 3359,
+      "end": 3382
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3437,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3644,
+      "end": 3655
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 3710,
+      "end": 3726
+    },
+    {
+      "text": "Bundesministerin für Justiz",
+      "label": "ORG",
+      "start": 3949,
+      "end": 3976
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4083
+    },
+    {
+      "text": "Bundesminister für\nVerkehr",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4251
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4311,
+      "end": 4327
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4479,
+      "end": 4492
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 184,
+      "end": 192
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 931,
+      "end": 933
+    },
+    {
+      "text": "Biopatent Monitoring Komitee",
+      "label": "ORG",
+      "start": 972,
+      "end": 1000
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1005
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2288,
+      "end": 2291
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2293,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2839,
+      "end": 2863
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2978
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3071,
+      "end": 3085
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Hannes Missethon",
+      "label": "PER",
+      "start": 3259,
+      "end": 3275
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3441,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3644,
+      "end": 3655
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3714,
+      "end": 3726
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4070,
+      "end": 4078
+    },
+    {
+      "text": "Biopatent Monitoring Komitees",
+      "label": "ORG",
+      "start": 4180,
+      "end": 4209
+    },
+    {
+      "text": "Bundesminister für Verkehr, Innovation und Technologie",
+      "label": "ORG",
+      "start": 4225,
+      "end": 4279
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4315,
+      "end": 4327
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4479,
+      "end": 4492
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 931,
+      "end": 933
+    },
+    {
+      "text": "Monitoring",
+      "label": "ORG",
+      "start": 982,
+      "end": 992
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1003,
+      "end": 1005
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2168,
+      "end": 2170
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 2172,
+      "end": 2173
+    },
+    {
+      "text": "Peter Haubner",
+      "label": "PER",
+      "start": 2273,
+      "end": 2286
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 2293,
+      "end": 2305
+    },
+    {
+      "text": "Elmar Lichtenegger",
+      "label": "PER",
+      "start": 2307,
+      "end": 2325
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 2640,
+      "end": 2641
+    },
+    {
+      "text": "Günter Stummvoll",
+      "label": "PER",
+      "start": 2650,
+      "end": 2666
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 2668,
+      "end": 2682
+    },
+    {
+      "text": "Alexander Van der Bellen",
+      "label": "PER",
+      "start": 2839,
+      "end": 2863
+    },
+    {
+      "text": "Österreichischen Rundfunk",
+      "label": "ORG",
+      "start": 2953,
+      "end": 2978
+    },
+    {
+      "text": "ORF",
+      "label": "ORG",
+      "start": 2992,
+      "end": 2995
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 3071,
+      "end": 3085
+    },
+    {
+      "text": "L",
+      "label": "ORG",
+      "start": 3186,
+      "end": 3187
+    },
+    {
+      "text": "Klaus Wittauer",
+      "label": "PER",
+      "start": 3232,
+      "end": 3246
+    },
+    {
+      "text": "Hannes Missethon",
+      "label": "PER",
+      "start": 3259,
+      "end": 3275
+    },
+    {
+      "text": "Park & Drive",
+      "label": "ORG",
+      "start": 3370,
+      "end": 3382
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 3441,
+      "end": 3462
+    },
+    {
+      "text": "Detlev Neudeck",
+      "label": "PER",
+      "start": 3464,
+      "end": 3478
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 3714,
+      "end": 3726
+    },
+    {
+      "text": "Bi",
+      "label": "ORG",
+      "start": 3790,
+      "end": 3792
+    },
+    {
+      "text": "Biopatent Monitoring Komitee",
+      "label": "ORG",
+      "start": 4180,
+      "end": 4208
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4315,
+      "end": 4327
+    }
+  ]
+}

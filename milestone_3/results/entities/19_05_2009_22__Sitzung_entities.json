@@ -1,0 +1,1955 @@
+{
+  "filename": "19.05.2009_22._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 180,
+      "end": 193
+    },
+    {
+      "text": "Mag. Kurt Gaßner",
+      "label": "PER",
+      "start": 876,
+      "end": 892
+    },
+    {
+      "text": "Gerhard\\nHuber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 909,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "Mag. Ewald\\nStadler",
+      "label": "PER",
+      "start": 1554,
+      "end": 1572
+    },
+    {
+      "text": "Mag. Ewald Stadler",
+      "label": "PER",
+      "start": 1703,
+      "end": 1721
+    },
+    {
+      "text": "Stefan Markowitz",
+      "label": "PER",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1942
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Dr. Gabriela\\nMoser",
+      "label": "PER",
+      "start": 2278,
+      "end": 2296
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 2411,
+      "end": 2434
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Dr. Haimbuchner",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "Mag. Kurt Gaßner",
+      "label": "PER",
+      "start": 3607,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang\\nPirklhuber",
+      "label": "PER",
+      "start": 3640,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Dr. Martin Strutz",
+      "label": "PER",
+      "start": 3878,
+      "end": 3895
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 4683,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Dr. Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4714,
+      "end": 4736
+    },
+    {
+      "text": "Mag. Werner Kogler",
+      "label": "PER",
+      "start": 4738,
+      "end": 4756
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 5189,
+      "end": 5209
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5330,
+      "end": 5343
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 180,
+      "end": 193
+    },
+    {
+      "text": "Mag. Kurt Gaßner",
+      "label": "PER",
+      "start": 876,
+      "end": 892
+    },
+    {
+      "text": "Gerhard",
+      "label": "PER",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "Huber",
+      "label": "PER",
+      "start": 902,
+      "end": 907
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 909,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1554,
+      "end": 1558
+    },
+    {
+      "text": "Ewald",
+      "label": "PER",
+      "start": 1559,
+      "end": 1564
+    },
+    {
+      "text": "Stadler",
+      "label": "PER",
+      "start": 1565,
+      "end": 1572
+    },
+    {
+      "text": "Mag. Ewald Stadler",
+      "label": "PER",
+      "start": 1703,
+      "end": 1721
+    },
+    {
+      "text": "Stefan Markowitz",
+      "label": "PER",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1942
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2278,
+      "end": 2281
+    },
+    {
+      "text": "Gabriela",
+      "label": "PER",
+      "start": 2282,
+      "end": 2290
+    },
+    {
+      "text": "Moser",
+      "label": "PER",
+      "start": 2291,
+      "end": 2296
+    },
+    {
+      "text": "Mag. Christiane Brunner",
+      "label": "PER",
+      "start": 2411,
+      "end": 2434
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2860,
+      "end": 2863
+    },
+    {
+      "text": "Haimbuchner",
+      "label": "PER",
+      "start": 2864,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "Mag. Kurt Gaßner",
+      "label": "PER",
+      "start": 3607,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Dipl.-Ing.",
+      "label": "PER",
+      "start": 3640,
+      "end": 3650
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 3651,
+      "end": 3654
+    },
+    {
+      "text": "Wolfgang",
+      "label": "PER",
+      "start": 3655,
+      "end": 3663
+    },
+    {
+      "text": "Pirklhuber",
+      "label": "PER",
+      "start": 3664,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Dr. Martin Strutz",
+      "label": "PER",
+      "start": 3878,
+      "end": 3895
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 4683,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Dr. Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4714,
+      "end": 4736
+    },
+    {
+      "text": "Mag. Werner Kogler",
+      "label": "PER",
+      "start": 4738,
+      "end": 4756
+    },
+    {
+      "text": "Mag. Dr. Martin Graf",
+      "label": "PER",
+      "start": 5189,
+      "end": 5209
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5330,
+      "end": 5343
+    }
+  ],
+  "flair": [
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 817,
+      "end": 820
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 924,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Bundesministers für Arbeit, Soziales und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1392
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "Ewald Stadler",
+      "label": "PER",
+      "start": 1559,
+      "end": 1572
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1623,
+      "end": 1669
+    },
+    {
+      "text": "Ewald Stadler",
+      "label": "PER",
+      "start": 1708,
+      "end": 1721
+    },
+    {
+      "text": "Stefan Markowitz",
+      "label": "PER",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2282,
+      "end": 2296
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 2416,
+      "end": 2434
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Haimbuchner",
+      "label": "PER",
+      "start": 2864,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "SRÄG",
+      "label": "ORG",
+      "start": 3304,
+      "end": 3308
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 3547,
+      "end": 3566
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3571
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 3612,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3655,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Martin Strutz",
+      "label": "PER",
+      "start": 3882,
+      "end": 3895
+    },
+    {
+      "text": "Internationalen Fonds für landwirtschaftliche Entwicklung",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4413
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "Europäische Verbünde für territoriale Zusammenarbeit",
+      "label": "ORG",
+      "start": 4558,
+      "end": 4610
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4718,
+      "end": 4736
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 4743,
+      "end": 4756
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "CERN",
+      "label": "ORG",
+      "start": 5266,
+      "end": 5270
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 180,
+      "end": 223
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 370,
+      "end": 472
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 500,
+      "end": 606
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 639,
+      "end": 754
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 817,
+      "end": 820
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Gerhard\nHuber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 909,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1360
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1490,
+      "end": 1520
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1541,
+      "end": 1553
+    },
+    {
+      "text": "Ewald\nStadler",
+      "label": "PER",
+      "start": 1559,
+      "end": 1572
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1623,
+      "end": 1669
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1690,
+      "end": 1702
+    },
+    {
+      "text": "Ewald Stadler",
+      "label": "PER",
+      "start": 1708,
+      "end": 1721
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1772,
+      "end": 1802
+    },
+    {
+      "text": "Stefan Markowitz",
+      "label": "PER",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1942
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1958,
+      "end": 1988
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2086,
+      "end": 2116
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2214,
+      "end": 2244
+    },
+    {
+      "text": "Dr. Gabriela\nMoser",
+      "label": "PER",
+      "start": 2278,
+      "end": 2296
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2347,
+      "end": 2377
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 2416,
+      "end": 2434
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2485,
+      "end": 2515
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Dr. Haimbuchner",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 3153,
+      "end": 3167
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 3547,
+      "end": 3566
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3571
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 3612,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang\nPirklhuber",
+      "label": "PER",
+      "start": 3640,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Dr. Martin Strutz",
+      "label": "PER",
+      "start": 3878,
+      "end": 3895
+    },
+    {
+      "text": "Internationalen\nFonds für landwirtschaftliche Entwicklung",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4413
+    },
+    {
+      "text": "IFAD",
+      "label": "ORG",
+      "start": 4415,
+      "end": 4419
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "EVTZ-BG",
+      "label": "ORG",
+      "start": 4632,
+      "end": 4639
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 4683,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Dr. Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4714,
+      "end": 4736
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 4743,
+      "end": 4756
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5176,
+      "end": 5188
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5330,
+      "end": 5343
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 44,
+      "end": 87
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 180,
+      "end": 223
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 370,
+      "end": 472
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 500,
+      "end": 606
+    },
+    {
+      "text": "...................................................................................................................",
+      "label": "PER",
+      "start": 639,
+      "end": 754
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 817,
+      "end": 820
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Gerhard\nHuber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 909,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Bundesministers für Arbeit",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1360
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1426,
+      "end": 1439
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1490,
+      "end": 1520
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1541,
+      "end": 1553
+    },
+    {
+      "text": "Ewald\nStadler",
+      "label": "PER",
+      "start": 1559,
+      "end": 1572
+    },
+    {
+      "text": "Bundesministers für Wissenschaft und Forschung",
+      "label": "ORG",
+      "start": 1623,
+      "end": 1669
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1690,
+      "end": 1702
+    },
+    {
+      "text": "Ewald Stadler",
+      "label": "PER",
+      "start": 1708,
+      "end": 1721
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1772,
+      "end": 1802
+    },
+    {
+      "text": "Stefan Markowitz",
+      "label": "PER",
+      "start": 1836,
+      "end": 1852
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1942
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 1958,
+      "end": 1988
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2086,
+      "end": 2116
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2214,
+      "end": 2244
+    },
+    {
+      "text": "Dr. Gabriela\nMoser",
+      "label": "PER",
+      "start": 2278,
+      "end": 2296
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2347,
+      "end": 2377
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 2416,
+      "end": 2434
+    },
+    {
+      "text": "Bundesministers für Gesundheit",
+      "label": "ORG",
+      "start": 2485,
+      "end": 2515
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Dr. Haimbuchner",
+      "label": "PER",
+      "start": 2860,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 3153,
+      "end": 3167
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 3547,
+      "end": 3566
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3571
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 3612,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Dipl.-Ing. Dr. Wolfgang\nPirklhuber",
+      "label": "PER",
+      "start": 3640,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Dr. Martin Strutz",
+      "label": "PER",
+      "start": 3878,
+      "end": 3895
+    },
+    {
+      "text": "Internationalen\nFonds für landwirtschaftliche Entwicklung",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4413
+    },
+    {
+      "text": "IFAD",
+      "label": "ORG",
+      "start": 4415,
+      "end": 4419
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "EVTZ-BG",
+      "label": "ORG",
+      "start": 4632,
+      "end": 4639
+    },
+    {
+      "text": "Dr. Josef Cap",
+      "label": "PER",
+      "start": 4683,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Dr. Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4714,
+      "end": 4736
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 4743,
+      "end": 4756
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 5176,
+      "end": 5188
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 5330,
+      "end": 5343
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 44,
+      "end": 57
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 71,
+      "end": 81
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 180,
+      "end": 193
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 207,
+      "end": 217
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 817,
+      "end": 820
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 924,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1942
+    },
+    {
+      "text": "XXIV",
+      "label": "ORG",
+      "start": 1944,
+      "end": 1948
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2282,
+      "end": 2296
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 2416,
+      "end": 2434
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2621
+    },
+    {
+      "text": "XXIV",
+      "label": "ORG",
+      "start": 2623,
+      "end": 2627
+    },
+    {
+      "text": "GP",
+      "label": "ORG",
+      "start": 2629,
+      "end": 2631
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Haimbuchner",
+      "label": "PER",
+      "start": 2864,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 3547,
+      "end": 3566
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3571
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 3612,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3655,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Martin Strutz",
+      "label": "PER",
+      "start": 3882,
+      "end": 3895
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 4125,
+      "end": 4126
+    },
+    {
+      "text": "Internationalen Fonds für landwirtschaftliche Entwicklung",
+      "label": "ORG",
+      "start": 4356,
+      "end": 4413
+    },
+    {
+      "text": "IFAD",
+      "label": "ORG",
+      "start": 4415,
+      "end": 4419
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4718,
+      "end": 4736
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 4743,
+      "end": 4756
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "CERN",
+      "label": "ORG",
+      "start": 5266,
+      "end": 5270
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 796,
+      "end": 815
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 817,
+      "end": 820
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 881,
+      "end": 892
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "text": "Wolfgang Pirkl",
+      "label": "PER",
+      "start": 924,
+      "end": 938
+    },
+    {
+      "text": "##ber",
+      "label": "PER",
+      "start": 940,
+      "end": 943
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1931,
+      "end": 1939
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2022,
+      "end": 2035
+    },
+    {
+      "text": "Mario Kunasek",
+      "label": "PER",
+      "start": 2150,
+      "end": 2163
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 2282,
+      "end": 2296
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 2411,
+      "end": 2414
+    },
+    {
+      "text": "Christiane Brunner",
+      "label": "PER",
+      "start": 2416,
+      "end": 2434
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 2549,
+      "end": 2562
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2610,
+      "end": 2618
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2726,
+      "end": 2742
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2760,
+      "end": 2776
+    },
+    {
+      "text": "Praßl",
+      "label": "PER",
+      "start": 2850,
+      "end": 2855
+    },
+    {
+      "text": "Haimbuchner",
+      "label": "PER",
+      "start": 2864,
+      "end": 2875
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 2911,
+      "end": 2927
+    },
+    {
+      "text": "##Ä",
+      "label": "ORG",
+      "start": 3306,
+      "end": 3307
+    },
+    {
+      "text": "European Milk Board",
+      "label": "ORG",
+      "start": 3547,
+      "end": 3566
+    },
+    {
+      "text": "EMB",
+      "label": "ORG",
+      "start": 3568,
+      "end": 3571
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3607,
+      "end": 3610
+    },
+    {
+      "text": "Kurt Gaßner",
+      "label": "PER",
+      "start": 3612,
+      "end": 3623
+    },
+    {
+      "text": "Gerhard Huber",
+      "label": "PER",
+      "start": 3625,
+      "end": 3638
+    },
+    {
+      "text": "Wolfgang Pirklhuber",
+      "label": "PER",
+      "start": 3655,
+      "end": 3674
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3679,
+      "end": 3693
+    },
+    {
+      "text": "Martin Strutz",
+      "label": "PER",
+      "start": 3882,
+      "end": 3895
+    },
+    {
+      "text": "##AD",
+      "label": "ORG",
+      "start": 4417,
+      "end": 4419
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4467,
+      "end": 4478
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 4500,
+      "end": 4516
+    },
+    {
+      "text": "EV",
+      "label": "ORG",
+      "start": 4632,
+      "end": 4634
+    },
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 4635,
+      "end": 4636
+    },
+    {
+      "text": "B",
+      "label": "ORG",
+      "start": 4637,
+      "end": 4638
+    },
+    {
+      "text": "Josef Cap",
+      "label": "PER",
+      "start": 4687,
+      "end": 4696
+    },
+    {
+      "text": "Karlheinz Kopf",
+      "label": "PER",
+      "start": 4698,
+      "end": 4712
+    },
+    {
+      "text": "Peter Fichtenbauer",
+      "label": "PER",
+      "start": 4718,
+      "end": 4736
+    },
+    {
+      "text": "Werner Kogler",
+      "label": "PER",
+      "start": 4743,
+      "end": 4756
+    },
+    {
+      "text": "Martin Graf",
+      "label": "PER",
+      "start": 5198,
+      "end": 5209
+    },
+    {
+      "text": "CERN",
+      "label": "ORG",
+      "start": 5266,
+      "end": 5270
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 5288,
+      "end": 5304
+    }
+  ]
+}

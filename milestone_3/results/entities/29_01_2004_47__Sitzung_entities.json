@@ -1,0 +1,1607 @@
+{
+  "filename": "29.01.2004_47._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 859,
+      "end": 873
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1085
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "PER",
+      "start": 1112,
+      "end": 1154
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1188,
+      "end": 1206
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "PER",
+      "start": 1257,
+      "end": 1331
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1365,
+      "end": 1378
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 1429,
+      "end": 1455
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1489,
+      "end": 1500
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1593
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 1609,
+      "end": 1635
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "PER",
+      "start": 1750,
+      "end": 1776
+    },
+    {
+      "text": "Bundesministers für Landesverteidigung",
+      "label": "PER",
+      "start": 1877,
+      "end": 1915
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1963
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1669,
+      "end": 1699
+    },
+    {
+      "text": "Mag. Gisela Wurm",
+      "label": "PER",
+      "start": 1810,
+      "end": 1826
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2122,
+      "end": 2138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2156,
+      "end": 2172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2206,
+      "end": 2219
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 2267,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "PER",
+      "start": 2853,
+      "end": 2881
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "PER",
+      "start": 2975,
+      "end": 3003
+    },
+    {
+      "text": "Ing. Josef Winkler",
+      "label": "PER",
+      "start": 3310,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 3685,
+      "end": 3704
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4076
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4098,
+      "end": 4114
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 4167,
+      "end": 4183
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 4424,
+      "end": 4441
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4631,
+      "end": 4656
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4658,
+      "end": 4687
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4825,
+      "end": 4841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4867,
+      "end": 4880
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 5066,
+      "end": 5085
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Dr. Gabriela Moser",
+      "label": "PER",
+      "start": 1188,
+      "end": 1206
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1365,
+      "end": 1378
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1489,
+      "end": 1500
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1593
+    },
+    {
+      "text": "Mag. Dr. Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1669,
+      "end": 1699
+    },
+    {
+      "text": "Mag. Gisela Wurm",
+      "label": "PER",
+      "start": 1810,
+      "end": 1826
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1949,
+      "end": 1963
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2122,
+      "end": 2138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2156,
+      "end": 2172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2206,
+      "end": 2219
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2267,
+      "end": 2270
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 2271,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "Ing. Josef Winkler",
+      "label": "PER",
+      "start": 3310,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "Mag. Ulrike Lunacek",
+      "label": "PER",
+      "start": 3685,
+      "end": 3704
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4076
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4098,
+      "end": 4114
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 4167,
+      "end": 4183
+    },
+    {
+      "text": "einem",
+      "label": "PER",
+      "start": 4349,
+      "end": 4354
+    },
+    {
+      "text": "Mag. Walter Posch",
+      "label": "PER",
+      "start": 4424,
+      "end": 4441
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4631,
+      "end": 4656
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4658,
+      "end": 4687
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4825,
+      "end": 4841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4867,
+      "end": 4880
+    }
+  ],
+  "flair": [
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 782,
+      "end": 784
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 859,
+      "end": 861
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 885,
+      "end": 887
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1073
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1112,
+      "end": 1154
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1192,
+      "end": 1206
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit, Generationen und Konsumentenschutz",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1331
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1365,
+      "end": 1378
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1429,
+      "end": 1455
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1489,
+      "end": 1500
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 1629,
+      "end": 1635
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1678,
+      "end": 1699
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2126,
+      "end": 2138
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 2271,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2371,
+      "end": 2383
+    },
+    {
+      "text": "Arbeit und Soziales",
+      "label": "ORG",
+      "start": 3259,
+      "end": 3278
+    },
+    {
+      "text": "Josef Winkler",
+      "label": "PER",
+      "start": 3315,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 3558,
+      "end": 3562
+    },
+    {
+      "text": "BGBl",
+      "label": "ORG",
+      "start": 3585,
+      "end": 3589
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3690,
+      "end": 3704
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4102,
+      "end": 4114
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 4172,
+      "end": 4183
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4635,
+      "end": 4656
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4669,
+      "end": 4687
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4829,
+      "end": 4841
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 384,
+      "end": 486
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 514,
+      "end": 620
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 653,
+      "end": 766
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 782,
+      "end": 784
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 859,
+      "end": 873
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 885,
+      "end": 887
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1073
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1112,
+      "end": 1154
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1192,
+      "end": 1206
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1295
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1365,
+      "end": 1378
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1429,
+      "end": 1455
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1489,
+      "end": 1500
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1593
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1609,
+      "end": 1635
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1656,
+      "end": 1668
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1678,
+      "end": 1699
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1776
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2122,
+      "end": 2138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2156,
+      "end": 2172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2206,
+      "end": 2219
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 2267,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2611,
+      "end": 2625
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2853,
+      "end": 2881
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2958,
+      "end": 2960
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2975,
+      "end": 3003
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 3189,
+      "end": 3191
+    },
+    {
+      "text": "Ing. Josef Winkler",
+      "label": "PER",
+      "start": 3310,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "LAG",
+      "label": "ORG",
+      "start": 3552,
+      "end": 3555
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3684
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3690,
+      "end": 3704
+    },
+    {
+      "text": "UNO-Aufsicht",
+      "label": "ORG",
+      "start": 3787,
+      "end": 3799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4076
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4098,
+      "end": 4114
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4154,
+      "end": 4166
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 4172,
+      "end": 4183
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4411,
+      "end": 4423
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4631,
+      "end": 4656
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4658,
+      "end": 4687
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4825,
+      "end": 4841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4867,
+      "end": 4880
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 184,
+      "end": 221
+    },
+    {
+      "text": "......................................................................................................",
+      "label": "PER",
+      "start": 384,
+      "end": 486
+    },
+    {
+      "text": "..........................................................................................................",
+      "label": "PER",
+      "start": 514,
+      "end": 620
+    },
+    {
+      "text": ".................................................................................................................",
+      "label": "PER",
+      "start": 653,
+      "end": 766
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 782,
+      "end": 784
+    },
+    {
+      "text": "BM f. Finanzen",
+      "label": "ORG",
+      "start": 859,
+      "end": 873
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 885,
+      "end": 887
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 1071,
+      "end": 1073
+    },
+    {
+      "text": "Bundesministerin für Gesundheit und Frauen",
+      "label": "ORG",
+      "start": 1112,
+      "end": 1154
+    },
+    {
+      "text": "Gabriela Moser",
+      "label": "PER",
+      "start": 1192,
+      "end": 1206
+    },
+    {
+      "text": "Bundesministers für soziale Sicherheit",
+      "label": "ORG",
+      "start": 1257,
+      "end": 1295
+    },
+    {
+      "text": "Karl Öllinger",
+      "label": "PER",
+      "start": 1365,
+      "end": 1378
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1429,
+      "end": 1455
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1489,
+      "end": 1500
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1582,
+      "end": 1593
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1609,
+      "end": 1635
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 1656,
+      "end": 1668
+    },
+    {
+      "text": "Maria Theresia Fekter",
+      "label": "PER",
+      "start": 1678,
+      "end": 1699
+    },
+    {
+      "text": "Bundesministers für Justiz",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1776
+    },
+    {
+      "text": "Gisela Wurm",
+      "label": "PER",
+      "start": 1815,
+      "end": 1826
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2122,
+      "end": 2138
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2156,
+      "end": 2172
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 2206,
+      "end": 2219
+    },
+    {
+      "text": "Dr. Spindelegger",
+      "label": "PER",
+      "start": 2267,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 2367,
+      "end": 2383
+    },
+    {
+      "text": "A. Eingelangte",
+      "label": "PER",
+      "start": 2611,
+      "end": 2625
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2853,
+      "end": 2881
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2958,
+      "end": 2960
+    },
+    {
+      "text": "Bundesministers für Finanzen",
+      "label": "ORG",
+      "start": 2975,
+      "end": 3003
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 3189,
+      "end": 3191
+    },
+    {
+      "text": "Ing. Josef Winkler",
+      "label": "PER",
+      "start": 3310,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "LAG",
+      "label": "ORG",
+      "start": 3552,
+      "end": 3555
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3672,
+      "end": 3684
+    },
+    {
+      "text": "Ulrike Lunacek",
+      "label": "PER",
+      "start": 3690,
+      "end": 3704
+    },
+    {
+      "text": "UNO-Aufsicht",
+      "label": "ORG",
+      "start": 3787,
+      "end": 3799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4076
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4098,
+      "end": 4114
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4154,
+      "end": 4166
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 4172,
+      "end": 4183
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 4411,
+      "end": 4423
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "Dr. Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4631,
+      "end": 4656
+    },
+    {
+      "text": "Dipl.-Ing. Maximilian Hofmann",
+      "label": "PER",
+      "start": 4658,
+      "end": 4687
+    },
+    {
+      "text": "Dr. Andreas Khol",
+      "label": "PER",
+      "start": 4825,
+      "end": 4841
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 4867,
+      "end": 4880
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 70,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 184,
+      "end": 197
+    },
+    {
+      "text": "Österreich",
+      "label": "ORG",
+      "start": 211,
+      "end": 221
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 782,
+      "end": 784
+    },
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 859,
+      "end": 861
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2022
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2126,
+      "end": 2138
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 2206,
+      "end": 2214
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 2271,
+      "end": 2283
+    },
+    {
+      "text": "Fuhrmann",
+      "label": "PER",
+      "start": 2285,
+      "end": 2293
+    },
+    {
+      "text": "Schieder",
+      "label": "PER",
+      "start": 2295,
+      "end": 2303
+    },
+    {
+      "text": "Oberhaidinger",
+      "label": "PER",
+      "start": 2305,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2371,
+      "end": 2383
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2679,
+      "end": 2681
+    },
+    {
+      "text": "AB",
+      "label": "ORG",
+      "start": 2691,
+      "end": 2693
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 2958,
+      "end": 2960
+    },
+    {
+      "text": "BA",
+      "label": "ORG",
+      "start": 3189,
+      "end": 3191
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 3245,
+      "end": 3278
+    },
+    {
+      "text": "Josef Winkler",
+      "label": "PER",
+      "start": 3315,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4076
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4102,
+      "end": 4114
+    },
+    {
+      "text": "Umweltausschuss",
+      "label": "ORG",
+      "start": 4116,
+      "end": 4131
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 4172,
+      "end": 4183
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4635,
+      "end": 4656
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4669,
+      "end": 4687
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4829,
+      "end": 4841
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4867,
+      "end": 4875
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BM",
+      "label": "ORG",
+      "start": 859,
+      "end": 861
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2126,
+      "end": 2138
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "text": "Spindelegger",
+      "label": "PER",
+      "start": 2271,
+      "end": 2283
+    },
+    {
+      "text": "Ober",
+      "label": "PER",
+      "start": 2305,
+      "end": 2309
+    },
+    {
+      "text": "##haidinger",
+      "label": "PER",
+      "start": 2309,
+      "end": 2318
+    },
+    {
+      "text": "Öllinger",
+      "label": "PER",
+      "start": 2323,
+      "end": 2331
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 2371,
+      "end": 2383
+    },
+    {
+      "text": "Josef Winkler",
+      "label": "PER",
+      "start": 3315,
+      "end": 3328
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 3330,
+      "end": 3350
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 4065,
+      "end": 4073
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4102,
+      "end": 4114
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 4167,
+      "end": 4170
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 4172,
+      "end": 4183
+    },
+    {
+      "text": "Walter Posch",
+      "label": "PER",
+      "start": 4429,
+      "end": 4441
+    },
+    {
+      "text": "Reinhold Mitterlehner",
+      "label": "PER",
+      "start": 4635,
+      "end": 4656
+    },
+    {
+      "text": "Maximilian Hofmann",
+      "label": "PER",
+      "start": 4669,
+      "end": 4687
+    },
+    {
+      "text": "Andreas Khol",
+      "label": "PER",
+      "start": 4829,
+      "end": 4841
+    }
+  ]
+}

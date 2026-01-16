@@ -1,0 +1,1367 @@
+{
+  "filename": "Plenarprotokoll_987._Sitzung,_25.03.2020.txt",
+  "ground_truth": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH,",
+      "label": "ORG",
+      "start": 647,
+      "end": 674
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 803,
+      "end": 812
+    },
+    {
+      "text": "D r . D i e t m a r W o i d k e",
+      "label": "PER",
+      "start": 891,
+      "end": 922
+    },
+    {
+      "text": "Dr. Till Backhaus,",
+      "label": "PER",
+      "start": 991,
+      "end": 1009
+    },
+    {
+      "text": "Birgit Honé,",
+      "label": "PER",
+      "start": 1086,
+      "end": 1098
+    },
+    {
+      "text": "Georg Eisenreich,",
+      "label": "PER",
+      "start": 1235,
+      "end": 1252
+    },
+    {
+      "text": "Dr. Stephan Holthoff-Pförtner,",
+      "label": "PER",
+      "start": 1310,
+      "end": 1340
+    },
+    {
+      "text": "Michael Müller,",
+      "label": "PER",
+      "start": 1453,
+      "end": 1468
+    },
+    {
+      "text": "Dr. Matthias Kollatz,",
+      "label": "PER",
+      "start": 1495,
+      "end": 1516
+    },
+    {
+      "text": "Katrin Lange,",
+      "label": "PER",
+      "start": 1606,
+      "end": 1619
+    },
+    {
+      "text": "Henrik Eitel,",
+      "label": "PER",
+      "start": 1670,
+      "end": 1683
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 1709,
+      "end": 1722
+    },
+    {
+      "text": "Dr. Olaf Joachim,",
+      "label": "PER",
+      "start": 1778,
+      "end": 1795
+    },
+    {
+      "text": "Oliver Schenk,",
+      "label": "PER",
+      "start": 1873,
+      "end": 1887
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 1897,
+      "end": 1910
+    },
+    {
+      "text": "Dr. Andreas Dressel,",
+      "label": "PER",
+      "start": 1977,
+      "end": 1997
+    },
+    {
+      "text": "Finanzbehörde",
+      "label": "ORG",
+      "start": 2018,
+      "end": 2031
+    },
+    {
+      "text": "Lucia Puttrich,",
+      "label": "PER",
+      "start": 2041,
+      "end": 2056
+    },
+    {
+      "text": "Michael Richter,",
+      "label": "PER",
+      "start": 2171,
+      "end": 2187
+    },
+    {
+      "text": "Jan Philipp Albrecht,",
+      "label": "PER",
+      "start": 2231,
+      "end": 2252
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2331,
+      "end": 2340
+    },
+    {
+      "text": "Prof. Dr. Benjamin-Immanuel Hoff,",
+      "label": "PER",
+      "start": 2384,
+      "end": 2417
+    },
+    {
+      "text": "Staatskanzlei,",
+      "label": "ORG",
+      "start": 2486,
+      "end": 2500
+    },
+    {
+      "text": "Dr. Hendrik Hoppenstedt,",
+      "label": "PER",
+      "start": 2578,
+      "end": 2602
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2643,
+      "end": 2652
+    },
+    {
+      "text": "Dr. Dietmar Woidke:",
+      "label": "PER",
+      "start": 2757,
+      "end": 2776
+    },
+    {
+      "text": "Bundesrates.",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2893
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 2898,
+      "end": 2913
+    },
+    {
+      "text": "Herbert Mertin,",
+      "label": "PER",
+      "start": 1556,
+      "end": 1571
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "PER",
+      "start": 2626,
+      "end": 2641
+    },
+    {
+      "text": "Deutsche\\n\\nBundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3743,
+      "end": 3752
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3774,
+      "end": 3789
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3875,
+      "end": 3886
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3965,
+      "end": 3976
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 803,
+      "end": 812
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 991,
+      "end": 994
+    },
+    {
+      "text": "Birgit",
+      "label": "PER",
+      "start": 1086,
+      "end": 1092
+    },
+    {
+      "text": "Georg",
+      "label": "PER",
+      "start": 1235,
+      "end": 1240
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1310,
+      "end": 1313
+    },
+    {
+      "text": "Stephan",
+      "label": "PER",
+      "start": 1314,
+      "end": 1321
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 1453,
+      "end": 1460
+    },
+    {
+      "text": "Müller",
+      "label": "PER",
+      "start": 1461,
+      "end": 1467
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1495,
+      "end": 1498
+    },
+    {
+      "text": "Matthias",
+      "label": "PER",
+      "start": 1499,
+      "end": 1507
+    },
+    {
+      "text": "Herbert",
+      "label": "PER",
+      "start": 1556,
+      "end": 1563
+    },
+    {
+      "text": "Katrin",
+      "label": "PER",
+      "start": 1606,
+      "end": 1612
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1778,
+      "end": 1781
+    },
+    {
+      "text": "Joachim",
+      "label": "PER",
+      "start": 1787,
+      "end": 1794
+    },
+    {
+      "text": "Schenk",
+      "label": "PER",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1977,
+      "end": 1980
+    },
+    {
+      "text": "Andreas",
+      "label": "PER",
+      "start": 1981,
+      "end": 1988
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 2171,
+      "end": 2178
+    },
+    {
+      "text": "Richter",
+      "label": "PER",
+      "start": 2179,
+      "end": 2186
+    },
+    {
+      "text": "Jan",
+      "label": "PER",
+      "start": 2231,
+      "end": 2234
+    },
+    {
+      "text": "Philipp",
+      "label": "PER",
+      "start": 2235,
+      "end": 2242
+    },
+    {
+      "text": "Albrecht",
+      "label": "PER",
+      "start": 2243,
+      "end": 2251
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2331,
+      "end": 2340
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2390,
+      "end": 2393
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2561,
+      "end": 2576
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2578,
+      "end": 2581
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2643,
+      "end": 2652
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 2757,
+      "end": 2760
+    },
+    {
+      "text": "Dietmar",
+      "label": "PER",
+      "start": 2761,
+      "end": 2768
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 2881,
+      "end": 2892
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3743,
+      "end": 3752
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3774,
+      "end": 3789
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3875,
+      "end": 3886
+    },
+    {
+      "text": "Bundesrates",
+      "label": "ORG",
+      "start": 3965,
+      "end": 3976
+    },
+    {
+      "text": "Wunsch",
+      "label": "PER",
+      "start": 4043,
+      "end": 4049
+    }
+  ],
+  "flair": [
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "D",
+      "label": "PER",
+      "start": 897,
+      "end": 898
+    },
+    {
+      "text": "i",
+      "label": "PER",
+      "start": 899,
+      "end": 900
+    },
+    {
+      "text": "e",
+      "label": "PER",
+      "start": 901,
+      "end": 902
+    },
+    {
+      "text": "t m a r W o i d k e",
+      "label": "PER",
+      "start": 903,
+      "end": 922
+    },
+    {
+      "text": "Till Backhaus",
+      "label": "PER",
+      "start": 995,
+      "end": 1008
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Bund  Bayern",
+      "label": "ORG",
+      "start": 1221,
+      "end": 1233
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "Matthias Kollatz",
+      "label": "PER",
+      "start": 1499,
+      "end": 1515
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 1670,
+      "end": 1682
+    },
+    {
+      "text": "Bund  Bremen",
+      "label": "ORG",
+      "start": 1764,
+      "end": 1776
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 1782,
+      "end": 1794
+    },
+    {
+      "text": "Freien Hansestadt Bremen",
+      "label": "ORG",
+      "start": 1828,
+      "end": 1852
+    },
+    {
+      "text": "Bund  Sachsen",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1871
+    },
+    {
+      "text": "Oliver Schenk",
+      "label": "PER",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 1981,
+      "end": 1996
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2041,
+      "end": 2055
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 2171,
+      "end": 2186
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "Benjamin-Immanuel Hoff",
+      "label": "PER",
+      "start": 2394,
+      "end": 2416
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 2582,
+      "end": 2601
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 2761,
+      "end": 2775
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 675,
+      "end": 683
+    },
+    {
+      "text": "Till Backhaus",
+      "label": "PER",
+      "start": 995,
+      "end": 1008
+    },
+    {
+      "text": "Minister für Landwirtschaft und\nUmwelt",
+      "label": "ORG",
+      "start": 1010,
+      "end": 1048
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Bund\n\nBayern",
+      "label": "ORG",
+      "start": 1221,
+      "end": 1233
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1385
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "Matthias Kollatz",
+      "label": "PER",
+      "start": 1499,
+      "end": 1515
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 1670,
+      "end": 1682
+    },
+    {
+      "text": "Bund\n\nBremen",
+      "label": "ORG",
+      "start": 1764,
+      "end": 1776
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 1782,
+      "end": 1794
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1871
+    },
+    {
+      "text": "Oliver Schenk",
+      "label": "PER",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 1981,
+      "end": 1996
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2041,
+      "end": 2055
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 2171,
+      "end": 2186
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "Minister für Energiewende",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2278
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2527
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 2582,
+      "end": 2601
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 2626,
+      "end": 2641
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 2757,
+      "end": 2775
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 2898,
+      "end": 2913
+    },
+    {
+      "text": "Deutsche\nBundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Bundeshaushalt für das Haushaltsjahr 2020",
+      "label": "ORG",
+      "start": 3156,
+      "end": 3197
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "Postfach",
+      "label": "ORG",
+      "start": 675,
+      "end": 683
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 803,
+      "end": 812
+    },
+    {
+      "text": "Till Backhaus",
+      "label": "PER",
+      "start": 995,
+      "end": 1008
+    },
+    {
+      "text": "Minister für Landwirtschaft und\nUmwelt",
+      "label": "ORG",
+      "start": 1010,
+      "end": 1048
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Bund\n\nBayern",
+      "label": "ORG",
+      "start": 1221,
+      "end": 1233
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "text": "Stephan Holthoff-Pförtner",
+      "label": "PER",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "Bundesund Europaangelegenheiten",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1385
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "Matthias Kollatz",
+      "label": "PER",
+      "start": 1499,
+      "end": 1515
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 1670,
+      "end": 1682
+    },
+    {
+      "text": "Bund\n\nBremen",
+      "label": "ORG",
+      "start": 1764,
+      "end": 1776
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 1782,
+      "end": 1794
+    },
+    {
+      "text": "Bund\n\nSachsen",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1871
+    },
+    {
+      "text": "Oliver Schenk",
+      "label": "PER",
+      "start": 1873,
+      "end": 1886
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 1981,
+      "end": 1996
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2041,
+      "end": 2055
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 2171,
+      "end": 2186
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "Minister für Energiewende",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2278
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2331,
+      "end": 2340
+    },
+    {
+      "text": "Minister für Infrastruktur",
+      "label": "ORG",
+      "start": 2501,
+      "end": 2527
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 2561,
+      "end": 2576
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 2582,
+      "end": 2601
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 2626,
+      "end": 2641
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 2643,
+      "end": 2652
+    },
+    {
+      "text": "Dr. Dietmar Woidke",
+      "label": "PER",
+      "start": 2757,
+      "end": 2775
+    },
+    {
+      "text": "Bundeskanzlerin",
+      "label": "ORG",
+      "start": 2898,
+      "end": 2913
+    },
+    {
+      "text": "Deutsche\nBundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Bundeshaushalt für das Haushaltsjahr 2020",
+      "label": "ORG",
+      "start": 3156,
+      "end": 3197
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 3743,
+      "end": 3752
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3774,
+      "end": 3789
+    }
+  ],
+  "bert": [
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "Till Backhaus",
+      "label": "PER",
+      "start": 995,
+      "end": 1008
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "Matthias Kollatz",
+      "label": "PER",
+      "start": 1499,
+      "end": 1515
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "Justiz Brandenburg",
+      "label": "ORG",
+      "start": 1585,
+      "end": 1604
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 1670,
+      "end": 1682
+    },
+    {
+      "text": "Staatskanzlei",
+      "label": "ORG",
+      "start": 1709,
+      "end": 1722
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 1782,
+      "end": 1794
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 1981,
+      "end": 1996
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2041,
+      "end": 2055
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 2171,
+      "end": 2186
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "Digitalisierung",
+      "label": "ORG",
+      "start": 2314,
+      "end": 2329
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 2394,
+      "end": 2416
+    },
+    {
+      "text": "Staatskanzle",
+      "label": "ORG",
+      "start": 2486,
+      "end": 2498
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 2582,
+      "end": 2601
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 2761,
+      "end": 2775
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "BUNDESRAT",
+      "label": "ORG",
+      "start": 21,
+      "end": 30
+    },
+    {
+      "text": "Bundesanzeiger Verlag GmbH",
+      "label": "ORG",
+      "start": 647,
+      "end": 673
+    },
+    {
+      "text": "Bundesrat",
+      "label": "ORG",
+      "start": 803,
+      "end": 812
+    },
+    {
+      "text": "D r",
+      "label": "ORG",
+      "start": 891,
+      "end": 894
+    },
+    {
+      "text": "D",
+      "label": "ORG",
+      "start": 897,
+      "end": 898
+    },
+    {
+      "text": "Till Backhaus",
+      "label": "PER",
+      "start": 995,
+      "end": 1008
+    },
+    {
+      "text": "Birgit Honé",
+      "label": "PER",
+      "start": 1086,
+      "end": 1097
+    },
+    {
+      "text": "Georg Eisenreich",
+      "label": "PER",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 1272,
+      "end": 1278
+    },
+    {
+      "text": "Stephan Holthoff - Pförtner",
+      "label": "PER",
+      "start": 1314,
+      "end": 1339
+    },
+    {
+      "text": "Michael Müller",
+      "label": "PER",
+      "start": 1453,
+      "end": 1467
+    },
+    {
+      "text": "Matthias Kollatz",
+      "label": "PER",
+      "start": 1499,
+      "end": 1515
+    },
+    {
+      "text": "Herbert Mertin",
+      "label": "PER",
+      "start": 1556,
+      "end": 1570
+    },
+    {
+      "text": "Justiz",
+      "label": "ORG",
+      "start": 1585,
+      "end": 1591
+    },
+    {
+      "text": "Katrin Lange",
+      "label": "PER",
+      "start": 1606,
+      "end": 1618
+    },
+    {
+      "text": "Henrik Eitel",
+      "label": "PER",
+      "start": 1670,
+      "end": 1682
+    },
+    {
+      "text": "Bund",
+      "label": "ORG",
+      "start": 1764,
+      "end": 1768
+    },
+    {
+      "text": "Olaf Joachim",
+      "label": "PER",
+      "start": 1782,
+      "end": 1794
+    },
+    {
+      "text": "Freien Hansestadt",
+      "label": "ORG",
+      "start": 1828,
+      "end": 1845
+    },
+    {
+      "text": "Bund Sachsen",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1871
+    },
+    {
+      "text": "Andreas Dressel",
+      "label": "PER",
+      "start": 1981,
+      "end": 1996
+    },
+    {
+      "text": "Lucia Puttrich",
+      "label": "PER",
+      "start": 2041,
+      "end": 2055
+    },
+    {
+      "text": "Michael Richter",
+      "label": "PER",
+      "start": 2171,
+      "end": 2186
+    },
+    {
+      "text": "Jan Philipp Albrecht",
+      "label": "PER",
+      "start": 2231,
+      "end": 2251
+    },
+    {
+      "text": "Benjamin - Immanuel Hoff",
+      "label": "PER",
+      "start": 2394,
+      "end": 2416
+    },
+    {
+      "text": "##zle",
+      "label": "ORG",
+      "start": 2495,
+      "end": 2498
+    },
+    {
+      "text": "Hendrik Hoppenstedt",
+      "label": "PER",
+      "start": 2582,
+      "end": 2601
+    },
+    {
+      "text": "Dietmar Woidke",
+      "label": "PER",
+      "start": 2761,
+      "end": 2775
+    },
+    {
+      "text": "Deutsche Bundestag",
+      "label": "ORG",
+      "start": 2984,
+      "end": 3002
+    },
+    {
+      "text": "Deutschen Bundestages",
+      "label": "ORG",
+      "start": 3652,
+      "end": 3673
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3774,
+      "end": 3789
+    }
+  ]
+}

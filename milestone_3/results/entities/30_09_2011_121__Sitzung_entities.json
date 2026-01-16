@@ -1,0 +1,1343 @@
+{
+  "filename": "30.09.2011_121._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1144
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1244,
+      "end": 1260
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "Dr. Ferdinand Maier",
+      "label": "PER",
+      "start": 1345,
+      "end": 1364
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1366,
+      "end": 1379
+    },
+    {
+      "text": "Steibl",
+      "label": "PER",
+      "start": 1381,
+      "end": 1387
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "Mag. Brunner",
+      "label": "PER",
+      "start": 1401,
+      "end": 1413
+    },
+    {
+      "text": "Mag. Jarmer",
+      "label": "PER",
+      "start": 1415,
+      "end": 1426
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 1428,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1446,
+      "end": 1454
+    },
+    {
+      "text": "DDr. Königshofer",
+      "label": "PER",
+      "start": 1459,
+      "end": 1475
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2289,
+      "end": 2300
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 2498,
+      "end": 2525
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3006,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3413,
+      "end": 3432
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3564,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3951,
+      "end": 3964
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 45,
+      "end": 58
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 187,
+      "end": 200
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 1076,
+      "end": 1080
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1144
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1244,
+      "end": 1260
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "Dr. Ferdinand Maier",
+      "label": "PER",
+      "start": 1345,
+      "end": 1364
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1366,
+      "end": 1370
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 1371,
+      "end": 1379
+    },
+    {
+      "text": "Steibl",
+      "label": "PER",
+      "start": 1381,
+      "end": 1387
+    },
+    {
+      "text": "Ing.",
+      "label": "PER",
+      "start": 1389,
+      "end": 1393
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1394,
+      "end": 1399
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1406,
+      "end": 1413
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1420,
+      "end": 1426
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1428,
+      "end": 1431
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1432,
+      "end": 1444
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1446,
+      "end": 1449
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1450,
+      "end": 1454
+    },
+    {
+      "text": "DDr.",
+      "label": "PER",
+      "start": 1459,
+      "end": 1463
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1464,
+      "end": 1475
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2014
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2015,
+      "end": 2038
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2289,
+      "end": 2300
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 2498,
+      "end": 2525
+    },
+    {
+      "text": "samt",
+      "label": "PER",
+      "start": 2911,
+      "end": 2915
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3006,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3413,
+      "end": 3432
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3564,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3951,
+      "end": 3964
+    }
+  ],
+  "flair": [
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 674,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1244,
+      "end": 1260
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1349,
+      "end": 1364
+    },
+    {
+      "text": "Schultes",
+      "label": "PER",
+      "start": 1371,
+      "end": 1379
+    },
+    {
+      "text": "Steibl",
+      "label": "PER",
+      "start": 1381,
+      "end": 1387
+    },
+    {
+      "text": "Hofer",
+      "label": "PER",
+      "start": 1394,
+      "end": 1399
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1406,
+      "end": 1413
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1420,
+      "end": 1426
+    },
+    {
+      "text": "Lichtenecker",
+      "label": "PER",
+      "start": 1432,
+      "end": 1444
+    },
+    {
+      "text": "Pilz",
+      "label": "PER",
+      "start": 1450,
+      "end": 1454
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1464,
+      "end": 1475
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start": 1634,
+      "end": 1637
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2020,
+      "end": 2038
+    },
+    {
+      "text": "Landesgerichts für Strafsachen",
+      "label": "ORG",
+      "start": 2175,
+      "end": 2205
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 2498,
+      "end": 2525
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3011,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3418,
+      "end": 3432
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3569,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 749,
+      "end": 766
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1144
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1244,
+      "end": 1260
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1349,
+      "end": 1364
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1366,
+      "end": 1379
+    },
+    {
+      "text": "Steibl",
+      "label": "PER",
+      "start": 1381,
+      "end": 1387
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1406,
+      "end": 1413
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1420,
+      "end": 1426
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 1428,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1446,
+      "end": 1454
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1464,
+      "end": 1475
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2014
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2015,
+      "end": 2038
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2289,
+      "end": 2300
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 2498,
+      "end": 2525
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2993,
+      "end": 3005
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3011,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Aktionsplan Erneuerbare Energie",
+      "label": "ORG",
+      "start": 3256,
+      "end": 3287
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3400,
+      "end": 3412
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3418,
+      "end": 3432
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3551,
+      "end": 3563
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3569,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3951,
+      "end": 3964
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich\n\nXXIV",
+      "label": "ORG",
+      "start": 45,
+      "end": 88
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXIV.",
+      "label": "ORG",
+      "start": 187,
+      "end": 230
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 749,
+      "end": 766
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1144
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1210,
+      "end": 1226
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1244,
+      "end": 1260
+    },
+    {
+      "text": "Prähauser",
+      "label": "PER",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "text": "Ferdinand Maier",
+      "label": "PER",
+      "start": 1349,
+      "end": 1364
+    },
+    {
+      "text": "Ing. Schultes",
+      "label": "PER",
+      "start": 1366,
+      "end": 1379
+    },
+    {
+      "text": "Steibl",
+      "label": "PER",
+      "start": 1381,
+      "end": 1387
+    },
+    {
+      "text": "Ing. Hofer",
+      "label": "PER",
+      "start": 1389,
+      "end": 1399
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "Brunner",
+      "label": "PER",
+      "start": 1406,
+      "end": 1413
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 1415,
+      "end": 1419
+    },
+    {
+      "text": "Jarmer",
+      "label": "PER",
+      "start": 1420,
+      "end": 1426
+    },
+    {
+      "text": "Dr. Lichtenecker",
+      "label": "PER",
+      "start": 1428,
+      "end": 1444
+    },
+    {
+      "text": "Dr. Pilz",
+      "label": "PER",
+      "start": 1446,
+      "end": 1454
+    },
+    {
+      "text": "Königshofer",
+      "label": "PER",
+      "start": 1464,
+      "end": 1475
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 1511,
+      "end": 1527
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2003,
+      "end": 2014
+    },
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 2015,
+      "end": 2038
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 2289,
+      "end": 2300
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler-Souschill",
+      "label": "PER",
+      "start": 2498,
+      "end": 2525
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2993,
+      "end": 3005
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3011,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Aktionsplan Erneuerbare Energie",
+      "label": "ORG",
+      "start": 3256,
+      "end": 3287
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3400,
+      "end": 3412
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3418,
+      "end": 3432
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 3551,
+      "end": 3563
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3569,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3951,
+      "end": 3964
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 45,
+      "end": 53
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 187,
+      "end": 195
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 674,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1141
+    },
+    {
+      "text": "tsanwaltschaft Salzburg",
+      "label": "ORG",
+      "start": 1900,
+      "end": 1923
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2020,
+      "end": 2038
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler",
+      "label": "PER",
+      "start": 2498,
+      "end": 2515
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 2516,
+      "end": 2525
+    },
+    {
+      "text": "Johann Maier",
+      "label": "PER",
+      "start": 3011,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3418,
+      "end": 3432
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3569,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3951,
+      "end": 3964
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Ing. Peter Westenthaler",
+      "label": "PER",
+      "start": 669,
+      "end": 692
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 697,
+      "end": 712
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 1133,
+      "end": 1141
+    },
+    {
+      "text": "tsanwaltschaft Salzburg",
+      "label": "ORG",
+      "start": 1900,
+      "end": 1923
+    },
+    {
+      "text": "Ing",
+      "label": "PER",
+      "start": 2015,
+      "end": 2018
+    },
+    {
+      "text": "Peter Westenthaler",
+      "label": "PER",
+      "start": 2020,
+      "end": 2038
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 2141,
+      "end": 2143
+    },
+    {
+      "text": "St",
+      "label": "ORG",
+      "start": 2156,
+      "end": 2158
+    },
+    {
+      "text": "Wolfgang Zanger",
+      "label": "PER",
+      "start": 2301,
+      "end": 2316
+    },
+    {
+      "text": "Tanja Windbüchler",
+      "label": "PER",
+      "start": 2498,
+      "end": 2515
+    },
+    {
+      "text": "Souschill",
+      "label": "PER",
+      "start": 2516,
+      "end": 2525
+    },
+    {
+      "text": "Mag. Johann Maier",
+      "label": "PER",
+      "start": 3006,
+      "end": 3023
+    },
+    {
+      "text": "Gabriele Tamandl",
+      "label": "PER",
+      "start": 3025,
+      "end": 3041
+    },
+    {
+      "text": "Martina Schenk",
+      "label": "PER",
+      "start": 3163,
+      "end": 3177
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3361,
+      "end": 3377
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 3413,
+      "end": 3416
+    },
+    {
+      "text": "Rainer Widmann",
+      "label": "PER",
+      "start": 3418,
+      "end": 3432
+    },
+    {
+      "text": "Mag. Rainer Widmann",
+      "label": "PER",
+      "start": 3564,
+      "end": 3583
+    },
+    {
+      "text": "Harald Jannach",
+      "label": "PER",
+      "start": 3734,
+      "end": 3748
+    },
+    {
+      "text": "Fritz Neugebauer",
+      "label": "PER",
+      "start": 3909,
+      "end": 3925
+    }
+  ]
+}

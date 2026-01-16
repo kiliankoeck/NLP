@@ -1,0 +1,875 @@
+{
+  "filename": "08.05.2003_16._Sitzung.txt",
+  "ground_truth": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 227,
+      "end": 240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1162,
+      "end": 1177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1224
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1417
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1465,
+      "end": 1479
+    },
+    {
+      "text": "Helga Machne",
+      "label": "PER",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Gerhard\\nSteier",
+      "label": "PER",
+      "start": 1498,
+      "end": 1512
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1548,
+      "end": 1575
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Mag. Walter Tancsits",
+      "label": "PER",
+      "start": 2284,
+      "end": 2304
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2477,
+      "end": 2499
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 2759,
+      "end": 2775
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 2777,
+      "end": 2799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3176,
+      "end": 3187
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3239,
+      "end": 3266
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3406,
+      "end": 3421
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3461,
+      "end": 3488
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3736
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 43,
+      "end": 56
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 227,
+      "end": 240
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1162,
+      "end": 1177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1224
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1417
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1465,
+      "end": 1479
+    },
+    {
+      "text": "Helga Machne",
+      "label": "PER",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Gerhard",
+      "label": "PER",
+      "start": 1498,
+      "end": 1505
+    },
+    {
+      "text": "Steier",
+      "label": "PER",
+      "start": 1506,
+      "end": 1512
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1548,
+      "end": 1575
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Mag. Walter Tancsits",
+      "label": "PER",
+      "start": 2284,
+      "end": 2304
+    },
+    {
+      "text": "Mag. Terezija Stoisits",
+      "label": "PER",
+      "start": 2477,
+      "end": 2499
+    },
+    {
+      "text": "Mag. Ulrike Sima",
+      "label": "PER",
+      "start": 2759,
+      "end": 2775
+    },
+    {
+      "text": "Mag. Brigid Weinzinger",
+      "label": "PER",
+      "start": 2777,
+      "end": 2799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3176,
+      "end": 3187
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3239,
+      "end": 3266
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3406,
+      "end": 3421
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3461,
+      "end": 3488
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3736
+    }
+  ],
+  "flair": [
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1309,
+      "end": 1325
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1354,
+      "end": 1370
+    },
+    {
+      "text": "Peter Pilz",
+      "label": "PER",
+      "start": 1469,
+      "end": 1479
+    },
+    {
+      "text": "Helga Machne",
+      "label": "PER",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Gerhard Steier",
+      "label": "PER",
+      "start": 1498,
+      "end": 1512
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1559,
+      "end": 1575
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 2289,
+      "end": 2304
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2482,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 2764,
+      "end": 2775
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 2782,
+      "end": 2799
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3250,
+      "end": 3266
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3472,
+      "end": 3488
+    },
+    {
+      "text": "Wiener Zeitung",
+      "label": "ORG",
+      "start": 3909,
+      "end": 3923
+    },
+    {
+      "text": "Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 3924,
+      "end": 3951
+    }
+  ],
+  "spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 227,
+      "end": 264
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 926,
+      "end": 943
+    },
+    {
+      "text": "...........................................................................................................",
+      "label": "PER",
+      "start": 973,
+      "end": 1080
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1224
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1417
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1465,
+      "end": 1479
+    },
+    {
+      "text": "Helga Machne",
+      "label": "PER",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Gerhard\nSteier",
+      "label": "PER",
+      "start": 1498,
+      "end": 1512
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1548,
+      "end": 1575
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 2123,
+      "end": 2140
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 2289,
+      "end": 2304
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2464,
+      "end": 2476
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2482,
+      "end": 2499
+    },
+    {
+      "text": "Zusatzprotokolls zur Antifolterkonvention",
+      "label": "ORG",
+      "start": 2554,
+      "end": 2595
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2746,
+      "end": 2758
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 2764,
+      "end": 2775
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 2782,
+      "end": 2799
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn\nAußenpolitischer",
+      "label": "PER",
+      "start": 3239,
+      "end": 3283
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3461,
+      "end": 3488
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3736
+    },
+    {
+      "text": "Digitale Publikationen GmbH 1 076",
+      "label": "ORG",
+      "start": 3924,
+      "end": 3957
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 227,
+      "end": 264
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 926,
+      "end": 943
+    },
+    {
+      "text": "...........................................................................................................",
+      "label": "PER",
+      "start": 973,
+      "end": 1080
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1120,
+      "end": 1135
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 1162,
+      "end": 1177
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1224
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1298,
+      "end": 1325
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1343,
+      "end": 1370
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1417
+    },
+    {
+      "text": "Dr. Peter Pilz",
+      "label": "PER",
+      "start": 1465,
+      "end": 1479
+    },
+    {
+      "text": "Helga Machne",
+      "label": "PER",
+      "start": 1481,
+      "end": 1493
+    },
+    {
+      "text": "Gerhard\nSteier",
+      "label": "PER",
+      "start": 1498,
+      "end": 1512
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 1548,
+      "end": 1575
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 2123,
+      "end": 2140
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 2289,
+      "end": 2304
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2464,
+      "end": 2476
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2482,
+      "end": 2499
+    },
+    {
+      "text": "Zusatzprotokolls zur Antifolterkonvention",
+      "label": "ORG",
+      "start": 2554,
+      "end": 2595
+    },
+    {
+      "text": "Abgeordneten",
+      "label": "ORG",
+      "start": 2746,
+      "end": 2758
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 2764,
+      "end": 2775
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 2782,
+      "end": 2799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3176,
+      "end": 3187
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn\nAußenpolitischer",
+      "label": "PER",
+      "start": 3239,
+      "end": 3283
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3406,
+      "end": 3421
+    },
+    {
+      "text": "Dipl.-Ing. Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3461,
+      "end": 3488
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3736
+    },
+    {
+      "text": "Digitale Publikationen GmbH 1 076",
+      "label": "ORG",
+      "start": 3924,
+      "end": 3957
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 43,
+      "end": 80
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 227,
+      "end": 264
+    },
+    {
+      "text": "Ausschuss für Arbeit und Soziales",
+      "label": "ORG",
+      "start": 2197,
+      "end": 2230
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 2289,
+      "end": 2304
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2482,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 2764,
+      "end": 2775
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 2782,
+      "end": 2799
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 3176,
+      "end": 3187
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3250,
+      "end": 3266
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3472,
+      "end": 3488
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3731
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 3909,
+      "end": 3951
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "Bürgerinitiative Nr",
+      "label": "ORG",
+      "start": 1975,
+      "end": 1994
+    },
+    {
+      "text": "Sigisbert Dolinschek",
+      "label": "PER",
+      "start": 2262,
+      "end": 2282
+    },
+    {
+      "text": "Walter Tancsits",
+      "label": "PER",
+      "start": 2289,
+      "end": 2304
+    },
+    {
+      "text": "Terezija Stoisits",
+      "label": "PER",
+      "start": 2482,
+      "end": 2499
+    },
+    {
+      "text": "Ulrike Sima",
+      "label": "PER",
+      "start": 2764,
+      "end": 2775
+    },
+    {
+      "text": "Brigid Weinzinger",
+      "label": "PER",
+      "start": 2782,
+      "end": 2799
+    },
+    {
+      "text": "Di",
+      "label": "PER",
+      "start": 3239,
+      "end": 3241
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3250,
+      "end": 3266
+    },
+    {
+      "text": "Bundesregierung",
+      "label": "ORG",
+      "start": 3329,
+      "end": 3344
+    },
+    {
+      "text": "Bundes",
+      "label": "ORG",
+      "start": 3406,
+      "end": 3412
+    },
+    {
+      "text": "Thomas Prinzhorn",
+      "label": "PER",
+      "start": 3472,
+      "end": 3488
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 3723,
+      "end": 3731
+    },
+    {
+      "text": "Wiener Zeitung Digitale Publikationen GmbH",
+      "label": "ORG",
+      "start": 3909,
+      "end": 3951
+    }
+  ]
+}
