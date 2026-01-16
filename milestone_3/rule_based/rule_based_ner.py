@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Dict, Set, Tuple, Optional, Any
 
@@ -207,7 +206,7 @@ class RuleBasedNER:
             print("RULEBASED_NER: building gazetteers...")
 
         persons: Set[str] = set()
-        locs: Set[str] = set()
+        #locs: Set[str] = set()
         orgs: Set[str] = set()
 
         parliament_persons = self._fetch_parliament_persons()
@@ -258,8 +257,8 @@ class RuleBasedNER:
         # )
         # locs |= cities_world
 
-        if self._verbose:
-            print(f"RULEBASED_NER: loaded {len(locs)} location names from GeoNames")
+        #if self._verbose:
+        #    print(f"RULEBASED_NER: loaded {len(locs)} location names from GeoNames")
 
         orgs |= {
             "Nationalrat",
@@ -298,7 +297,7 @@ class RuleBasedNER:
         if self._verbose:
             print(f"RULEBASED_NER: loaded {len(orgs)} organization names")
 
-        return {"persons": persons, "locs": locs, "orgs": orgs}
+        return {"persons": persons, "orgs": orgs}
 
     def _build_nlp(self) -> Language:
         if self._verbose:
