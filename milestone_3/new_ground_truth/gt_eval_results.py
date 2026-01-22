@@ -1,19 +1,25 @@
 import csv
 import json
+import sys
 from pathlib import Path
+
+project_root = Path(__file__).resolve().parents[2]
+if str(project_root) not in sys.path:
+    sys.path.append(str(project_root))
+
 from milestone_3.entities import Entity
 
-RESULTS_DIR = Path("milestone_3/testing/test_results")
+RESULTS_DIR = Path("milestone_3/new_ground_truth/test_results")
 ENTITIES_DIR = RESULTS_DIR / "entities"
 SCORES_CSV = RESULTS_DIR / "scores.csv"
 SCORES_SUMMARY_CSV = RESULTS_DIR / "scores_summary.csv"
 
 METRIC_NAMES = ["TP", "FP", "FN", "precision", "recall", "f1"]
 TARGETS = ["PER", "ORG"]
-
 MODELS = ["rule_based", "flair", "spacy", "improved_spacy", "bert", "distilbert"]
 
 def make_score_row(filename: str, model_name: str, eval_result: dict) -> dict:
+    """Flatten the evaluation result into a CSV-friendly row."""
     row = {
         "filename": filename,
         "model": model_name,
@@ -31,13 +37,14 @@ def make_score_row(filename: str, model_name: str, eval_result: dict) -> dict:
 
 
 def load_doc_entities(json_path: Path):
+    """Load the ground truth and predictions from the saved entity JSON file."""
     with json_path.open("r", encoding="utf-8") as f:
         data = json.load(f)
 
     filename = data.get("filename", json_path.name)
     ground_truth = [Entity(**e) for e in data.get("ground_truth", [])]
 
-    predictions_by_model: dict[str, list[Entity]] = {}
+    predictions_by_model = {}
     for model_name in MODELS:
         ents_data = data.get(model_name)
         if ents_data is None:
@@ -47,39 +54,40 @@ def load_doc_entities(json_path: Path):
     return filename, ground_truth, predictions_by_model
 
 
-def evaluate(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
+def evaluate(ground_truth: list, predictions: list) -> dict:
+    """Calculate Precision, Recall, and F1 based on exact match (label, start, end)."""
     gt = {(e.label, e.start, e.end) for e in ground_truth}
     pred = {(e.label, e.start, e.end) for e in predictions}
 
     metrics = {}
-    precision = {}
-    recall = {}
-    f1_score = {}
-    mean_f1 = 0.0
+    f1_sum = 0.0
 
     for lab in TARGETS:
-        tp = len({(x, y, z) for (x, y, z) in (pred & gt) if x == lab})
-        fp = len({(x, y, z) for (x, y, z) in (pred - gt) if x == lab})
-        fn = len({(x, y, z) for (x, y, z) in (gt - pred) if x == lab})
+        gt_lab = {(l, s, e) for (l, s, e) in gt if l == lab}
+        pred_lab = {(l, s, e) for (l, s, e) in pred if l == lab}
 
-        precision[lab] = tp / (tp + fp) if (tp + fp) != 0 else 0.0
-        recall[lab] = tp / (tp + fn) if (tp + fn) != 0 else 0.0
+        tp = len(pred_lab & gt_lab)
+        fp = len(pred_lab - gt_lab)
+        fn = len(gt_lab - pred_lab)
 
-        num = 2 * precision[lab] * recall[lab]
-        denom = precision[lab] + recall[lab]
-        f1_score[lab] = num / denom if denom != 0 else 0.0
-        mean_f1 += f1_score[lab]
+        precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+        recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+        
+        denom = precision + recall
+        f1 = 2 * precision * recall / denom if denom > 0 else 0.0
+        
+        f1_sum += f1
 
         metrics[lab] = {
             "TP": tp,
             "FP": fp,
             "FN": fn,
-            "precision": precision[lab],
-            "recall": recall[lab],
-            "f1": f1_score[lab],
+            "precision": precision,
+            "recall": recall,
+            "f1": f1,
         }
 
-    macro_f1 = mean_f1 / len(TARGETS)
+    macro_f1 = f1_sum / len(TARGETS) if TARGETS else 0.0
 
     return {
         "macro_f1": macro_f1,
@@ -87,29 +95,28 @@ def evaluate(ground_truth: list[Entity], predictions: list[Entity]) -> dict:
     }
 
 
-def aggregate_results(score_rows: list[dict]) -> dict:
-    summary: dict[str, dict] = {}
+def aggregate_results(score_rows: list) -> dict:
+    """Aggregate results across all documents to get global metrics per model."""
+    summary = {}
 
     for row in score_rows:
         model = row["model"]
-        model_info = summary.setdefault(
-            model,
-            {
+        
+        if model not in summary:
+            summary[model] = {
                 "num_docs": 0,
                 "macro_f1_sum": 0.0,
-                "per_label_counts": {
-                    lab: {"TP": 0.0, "FP": 0.0, "FN": 0.0} for lab in TARGETS
-                },
-            },
-        )
-
-        model_info["num_docs"] += 1
-        model_info["macro_f1_sum"] += float(row.get("macro_f1", 0.0))
+                "per_label_counts": {lab: {"TP": 0.0, "FP": 0.0, "FN": 0.0} for lab in TARGETS},
+            }
+        
+        info = summary[model]
+        info["num_docs"] += 1
+        info["macro_f1_sum"] += float(row.get("macro_f1", 0.0))
 
         for lab in TARGETS:
             for m in ["TP", "FP", "FN"]:
                 key = f"{m}_{lab}"
-                model_info["per_label_counts"][lab][m] += float(row.get(key, 0.0))
+                info["per_label_counts"][lab][m] += float(row.get(key, 0.0))
 
     for model, info in summary.items():
         num_docs = info["num_docs"]
@@ -128,18 +135,13 @@ def aggregate_results(score_rows: list[dict]) -> dict:
             f1 = 2 * precision * recall / denom if denom > 0 else 0.0
 
             per_label_metrics[lab] = {
-                "TP": TP,
-                "FP": FP,
-                "FN": FN,
-                "precision": precision,
-                "recall": recall,
-                "f1": f1,
+                "TP": TP, "FP": FP, "FN": FN,
+                "precision": precision, "recall": recall, "f1": f1,
             }
 
         macro_f1_labels = (
             sum(v["f1"] for v in per_label_metrics.values()) / len(TARGETS)
-            if TARGETS
-            else 0.0
+            if TARGETS else 0.0
         )
 
         info["per_label"] = per_label_metrics
@@ -179,25 +181,34 @@ def write_summary_csv(summary: dict):
 
 
 def print_summary(summary: dict):
+    print("\n" + "="*60)
+    print(f"EVALUATION SUMMARY ({len(summary)} models)")
+    print("="*60)
     for model, info in summary.items():
         print(f"Model: {model}")
         print(f"  Documents: {info['num_docs']}")
-        print(f"  Mean macro-F1 over documents: {info['macro_f1_mean']:.4f}")
-        print(
-            f"  Macro-F1 over labels (from aggregated counts): "
-            f"{info['macro_f1_macro_over_labels']:.4f}"
-        )
+        print(f"  Mean Macro-F1 (avg of doc scores):   {info['macro_f1_mean']:.4f}")
+        print(f"  Global Macro-F1 (aggregated counts): {info['macro_f1_macro_over_labels']:.4f}")
+        
         for lab, stats in info["per_label"].items():
             print(
-                f"    {lab}: F1={stats['f1']:.4f}, "
-                f"P={stats['precision']:.4f}, R={stats['recall']:.4f} "
+                f"    {lab}: F1={stats['f1']:.4f}, P={stats['precision']:.4f}, R={stats['recall']:.4f} "
                 f"(TP={stats['TP']:.0f}, FP={stats['FP']:.0f}, FN={stats['FN']:.0f})"
             )
-        print()
-
+        print("-" * 30)
 
 def main():
+    if not ENTITIES_DIR.exists():
+        print(f"Error: Entities directory not found at {ENTITIES_DIR}")
+        print("Please run gt_pipeline.py first.")
+        return
+
     entity_files = sorted(ENTITIES_DIR.glob("*_entities.json"))
+    if not entity_files:
+        print(f"No entity JSON files found in {ENTITIES_DIR}")
+        return
+
+    print(f"Found {len(entity_files)} files to evaluate...")
     score_rows = []
 
     for json_file in entity_files:
@@ -216,8 +227,12 @@ def main():
         writer.writeheader()
         writer.writerows(score_rows)
     
+    print(f"Detailed scores saved to {SCORES_CSV}")
+
     summary = aggregate_results(score_rows)
     write_summary_csv(summary)
+    print(f"Summary saved to {SCORES_SUMMARY_CSV}")
+    
     print_summary(summary)
 
 if __name__ == "__main__":

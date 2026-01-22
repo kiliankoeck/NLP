@@ -1,0 +1,611 @@
+{
+  "filename": "23.05.2014_29._Sitzung.xmi.xmi",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 711,
+      "end": 722
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 810
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Mag. Michael\\nHammer",
+      "label": "PER",
+      "start": 964,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo, MA",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1055,
+      "end": 1076
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1233,
+      "end": 1246
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 237,
+      "end": 250
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 711,
+      "end": 722
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 789,
+      "end": 810
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 964,
+      "end": 968
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 969,
+      "end": 976
+    },
+    {
+      "text": "Hammer",
+      "label": "PER",
+      "start": 977,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo, MA",
+      "label": "PER",
+      "start": 998,
+      "end": 1014
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1055,
+      "end": 1076
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1233,
+      "end": 1246
+    }
+  ],
+  "flair": [
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 794,
+      "end": 810
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 969,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 998,
+      "end": 1010
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1060,
+      "end": 1076
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 237,
+      "end": 281
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 711,
+      "end": 722
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 794,
+      "end": 810
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 969,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 998,
+      "end": 1010
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1060,
+      "end": 1076
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1092,
+      "end": 1109
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1233,
+      "end": 1246
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1451,
+      "end": 1470
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1517
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVII.",
+      "label": "ORG",
+      "start": 237,
+      "end": 281
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 711,
+      "end": 722
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 794,
+      "end": 810
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 969,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 998,
+      "end": 1010
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1060,
+      "end": 1076
+    },
+    {
+      "text": "Regierungsvorlage",
+      "label": "ORG",
+      "start": 1092,
+      "end": 1109
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1233,
+      "end": 1246
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1451,
+      "end": 1470
+    },
+    {
+      "text": "Nationalratspräsidium",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1517
+    }
+  ],
+  "bert": [
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 711,
+      "end": 719
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 794,
+      "end": 810
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 833,
+      "end": 849
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 969,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 998,
+      "end": 1010
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 1012,
+      "end": 1014
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1060,
+      "end": 1076
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 789,
+      "end": 792
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 794,
+      "end": 810
+    },
+    {
+      "text": "Mag. Wolfgang Sobotka",
+      "label": "PER",
+      "start": 828,
+      "end": 849
+    },
+    {
+      "text": "Franz Leonhard Eßl",
+      "label": "PER",
+      "start": 944,
+      "end": 962
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 969,
+      "end": 983
+    },
+    {
+      "text": "Klaus Köchl",
+      "label": "PER",
+      "start": 985,
+      "end": 996
+    },
+    {
+      "text": "Bedrana Ribo",
+      "label": "PER",
+      "start": 998,
+      "end": 1010
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 1012,
+      "end": 1014
+    },
+    {
+      "text": "Süleyman Zorba",
+      "label": "PER",
+      "start": 1019,
+      "end": 1033
+    },
+    {
+      "text": "Mag",
+      "label": "PER",
+      "start": 1055,
+      "end": 1058
+    },
+    {
+      "text": "Wolfgang Sobotka",
+      "label": "PER",
+      "start": 1060,
+      "end": 1076
+    }
+  ]
+}

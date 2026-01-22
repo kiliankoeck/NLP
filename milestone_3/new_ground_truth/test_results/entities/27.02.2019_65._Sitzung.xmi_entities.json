@@ -1,0 +1,737 @@
+{
+  "filename": "27.02.2019_65._Sitzung.xmi.xmi",
+  "ground_truth": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 232,
+      "end": 245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 860,
+      "end": 873
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Mag. Michael\\nHammer",
+      "label": "PER",
+      "start": 939,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans-Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 999,
+      "end": 1020
+    },
+    {
+      "text": "Dr. Alma\\nZadić",
+      "label": "PER",
+      "start": 1022,
+      "end": 1036
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1643
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1899,
+      "end": 1918
+    },
+    {
+      "text": "Parlamentsdirektion",
+      "label": "ORG",
+      "start": 1954,
+      "end": 1973
+    }
+  ],
+  "rule_based": [
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 76,
+      "end": 89
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 232,
+      "end": 245
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 860,
+      "end": 873
+    },
+    {
+      "text": "Werner Amon, MBA",
+      "label": "PER",
+      "start": 921,
+      "end": 937
+    },
+    {
+      "text": "Mag.",
+      "label": "PER",
+      "start": 939,
+      "end": 943
+    },
+    {
+      "text": "Michael",
+      "label": "PER",
+      "start": 944,
+      "end": 951
+    },
+    {
+      "text": "Hammer",
+      "label": "PER",
+      "start": 952,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans-Jörg Jenewein, MA",
+      "label": "PER",
+      "start": 975,
+      "end": 997
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 999,
+      "end": 1020
+    },
+    {
+      "text": "Dr.",
+      "label": "PER",
+      "start": 1022,
+      "end": 1025
+    },
+    {
+      "text": "Alma",
+      "label": "PER",
+      "start": 1026,
+      "end": 1030
+    },
+    {
+      "text": "Zadić",
+      "label": "PER",
+      "start": 1031,
+      "end": 1036
+    },
+    {
+      "text": "LL.M.",
+      "label": "PER",
+      "start": 1038,
+      "end": 1043
+    },
+    {
+      "text": "Efgani Dönmez, PMM",
+      "label": "PER",
+      "start": 1048,
+      "end": 1066
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1643
+    }
+  ],
+  "flair": [
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans-Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 1003,
+      "end": 1020
+    },
+    {
+      "text": "Alma Zadić",
+      "label": "PER",
+      "start": 1026,
+      "end": 1036
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "PMM",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1066
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1593,
+      "end": 1604
+    }
+  ],
+  "spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 232,
+      "end": 275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 712,
+      "end": 716
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 860,
+      "end": 873
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans-Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 999,
+      "end": 1020
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "PMM",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1066
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1643
+    }
+  ],
+  "improved_spacy": [
+    {
+      "text": "NATIONALRATES",
+      "label": "ORG",
+      "start": 18,
+      "end": 31
+    },
+    {
+      "text": "STENOGRAPHISCHES",
+      "label": "ORG",
+      "start": 32,
+      "end": 48
+    },
+    {
+      "text": "Nationalrates der Republik Österreich",
+      "label": "ORG",
+      "start": 76,
+      "end": 113
+    },
+    {
+      "text": "Nationalrates der Republik Österreich\nXXVI.",
+      "label": "ORG",
+      "start": 232,
+      "end": 275
+    },
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "XXVI",
+      "label": "ORG",
+      "start": 712,
+      "end": 716
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 860,
+      "end": 873
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "Michael\nHammer",
+      "label": "PER",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans-Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "Dr. Stephanie Krisper",
+      "label": "PER",
+      "start": 999,
+      "end": 1020
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "PMM",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1066
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1593,
+      "end": 1604
+    },
+    {
+      "text": "Nationalrates",
+      "label": "ORG",
+      "start": 1630,
+      "end": 1643
+    }
+  ],
+  "bert": [
+    {
+      "text": "Nationalrat",
+      "label": "ORG",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "MBA",
+      "label": "ORG",
+      "start": 934,
+      "end": 937
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans - Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 995,
+      "end": 997
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 1003,
+      "end": 1020
+    },
+    {
+      "text": "Alma Zadić",
+      "label": "PER",
+      "start": 1026,
+      "end": 1036
+    },
+    {
+      "text": "LL. M",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1042
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    }
+  ],
+  "distilbert": [
+    {
+      "text": "##Z",
+      "label": "ORG",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "text": "National",
+      "label": "ORG",
+      "start": 699,
+      "end": 707
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 784,
+      "end": 795
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 815,
+      "end": 826
+    },
+    {
+      "text": "Werner Amon",
+      "label": "PER",
+      "start": 921,
+      "end": 932
+    },
+    {
+      "text": "MBA",
+      "label": "ORG",
+      "start": 934,
+      "end": 937
+    },
+    {
+      "text": "Michael Hammer",
+      "label": "PER",
+      "start": 944,
+      "end": 958
+    },
+    {
+      "text": "Angela Lueger",
+      "label": "PER",
+      "start": 960,
+      "end": 973
+    },
+    {
+      "text": "Hans - Jörg Jenewein",
+      "label": "PER",
+      "start": 975,
+      "end": 993
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 995,
+      "end": 997
+    },
+    {
+      "text": "Stephanie Krisper",
+      "label": "PER",
+      "start": 1003,
+      "end": 1020
+    },
+    {
+      "text": "Alma Zadić",
+      "label": "PER",
+      "start": 1026,
+      "end": 1036
+    },
+    {
+      "text": "Efgani Dönmez",
+      "label": "PER",
+      "start": 1048,
+      "end": 1061
+    },
+    {
+      "text": "PM",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1065
+    },
+    {
+      "text": "Doris Bures",
+      "label": "PER",
+      "start": 1092,
+      "end": 1103
+    },
+    {
+      "text": "1017 Wien",
+      "label": "ORG",
+      "start": 1919,
+      "end": 1928
+    }
+  ]
+}

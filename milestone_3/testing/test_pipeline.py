@@ -15,12 +15,9 @@ from milestone_3.ml_spacy.improved_spacy_ner import ImprovedSpacyNer
 from milestone_3.ml_bert.bert_ner import BertNer
 from milestone_3.ml_bert.distilbert_ner import DistilBertNer
 
-# --- SAFETY CONFIGURATION ---
-# 1. Read from the test set
-RAW_XMI_DIR = Path("data/test_set") 
-# 2. Save to a separate folder so we don't overwrite main results
-RESULTS_DIR = Path("milestone_3/testing/test_results") 
 
+RAW_XMI_DIR = Path("data/test_set") 
+RESULTS_DIR = Path("milestone_3/testing/test_results") 
 ENTITIES_DIR = RESULTS_DIR / "entities"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 ENTITIES_DIR.mkdir(parents=True, exist_ok=True)
