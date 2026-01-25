@@ -6,44 +6,6 @@ Team Sentimental Analysis
 
 In this project, we attempt to implement NER of several types of named entities in the stenographic records of the Austrian Parliament. 
 
-## Repository structure
-
-```
-/preprocessing/
-  xmi_parser.py
-  xmi_to_plain_text.py
-  clean_plain_text.py
-  conllu_formatter.py
-
-/split_data/
-  split_data.py
-
-/data/
-  /raw_xmi/                 # raw xmi files from gerparcor
-  /raw_json/                # xmi parsed to JSON
-  /plain_text/              # cleaned plain-text speeches
-  /conllu/                  # final CoNLL-U output
-
-  /test_set/                # test set xmi data
-  /test_set_conllu/         # test set conllu data
-  /test_set_json/           # test set JSON data
-  /test_set_txt/            # test set plain text
-
-  /splits/                  # train, test, and validation sets of the CoNLL-U files
-    /test/
-    /train/
-    /val/
-
-/downloads/                 #contains the raw .tar file from gerparcor
-
-README.md
-download_corpus.sh
-sample_corpus.sh
-requirements.txt
-run_preprocessing.sh
-setup_env.sh
-```
-
 ## How to run the project:
 
 To start up the virtual environment, run ```setup_env.sh```. Since activating the venv is different for linux and windows, please first comment and uncomment the appropriate lines
@@ -57,7 +19,7 @@ source .venv/Scripts/activate
 ```
 
 ### Preprocessing: 
-(not working yet, need to run individually) run the run_preprocessing.sh script. It performs four steps:
+run the run_preprocessing.sh script. It performs four steps:
 1. Parsing the XMI files from the downloads folder (from gerparcor) (```/preprocessing/xmi_parser.py```)
 2. Extracting the raw text files  (```/preprocessing/xmi_to_plain_text.py```)
 3. Cleaning the raw text files  (```/preprocessing/clean_plain_text.py```)
@@ -100,17 +62,10 @@ To get the plain text, ```xmi_to_plain_text.py``` is run and stores the plain te
 
 We created a script that can possibly be used for future model creation/evaluation. It splits the data into training (70%), testing (15%), and validation (15%) sets. The ```split_data.py``` script used the ```train_test_split``` function from the scikit-learn library to preform the randomized splits into the data subsets. The script stores the resulting sets under the ```/data/splits/``` directory ready to be used in the training and evaluation of our models. 
 
+## MILESTONE 3:
+Milestone 3 basically performs the same steps as milestone 2, however with more models and on our annotated ground truth data. To run milestone 3, simply us the ```run_milestone_3.sh``` script. It performs all necessary steps and saves the found entities, as well as the evaluation in the ```milestone_3/results``` folder.
 
 ### Models 
 
-For the baseline models, we chose one rule-based model and two machine learning methods. For the rule based model, we collect name lists from GeoNames and the Austrian parliament API, turn them into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG/LOC, and writes the extracted entities to an output file. The other machine learning method we used was flair - which is a hugging face token classifier for the german language. 
-
-All of those methods are being called in our ner pipeline which first loads our XMI files and then runs the NER models. For all the models, we calculate the f1 score, the precision and the recall so that we can then effectiviely compare their performance. 
-
-### Results
-
-Spacy performs best overall: it has the highest macro-F1 (≈0.29) as well as the highest F1 for all three labels (LOC ≈0.26, PER ≈0.29, ORG ≈0.33).
-Flair performed weaker, with moderate recall but much lower precision, leading to an overall macro-F1 of ≈0.18.
-The rule-based system performed very poorly, with a macro-F1 near 0.06. 
-In general, none of our models had great performance, but we suspect that this is due to the data from our corpus not being of very high quality as well as suspecting that the ground truth values were also created with spacy. 
+For the baseline models, we chose one rule-based model and two machine learning methods. For the rule based model, we use person names from the Austrian parliament API, turn it into spaCy EntityRuler patterns, and then match them in text. It returns non-overlapping entity spans as `Entity` objects for persons, locations, and organizations. One of the machine learning models is spacy, specifically the german spaCy model which reads each plain-text file from the test folder, runs spaCy NER on the entire text, filters entities to PER/ORG, and writes the extracted entities to an output file. Aother machine learning method we used was flair - which is a hugging face token classifier for the german language. In milestone 3, we added BERT and DistilBERT.
 
